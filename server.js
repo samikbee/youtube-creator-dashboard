@@ -10,6 +10,7 @@ const publicDir = join(root, "public");
 const outputsDir = join(root, "outputs");
 const dataDir = join(root, "data");
 const port = Number(process.env.PORT || 4173);
+const host = process.env.RENDER ? "0.0.0.0" : "127.0.0.1";
 const channelSources = [
   {
     id: "zero-known",
@@ -219,12 +220,12 @@ server.on("error", (error) => {
     process.exit(1);
   }
   if (error.code === "EPERM") {
-    console.error(`Permission blocked listening on 127.0.0.1:${port}. Check local network permissions or try another port.`);
+    console.error(`Permission blocked listening on ${host}:${port}. Check local network permissions or try another port.`);
     process.exit(1);
   }
   throw error;
 });
 
-server.listen(port, "127.0.0.1", () => {
+server.listen(port, host, () => {
   console.log(`Creator Command Center running at http://localhost:${port}`);
 });
