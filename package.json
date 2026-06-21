@@ -1,0 +1,13 @@
+{
+  "name": "creator-command-center",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "refresh:analytics": "node scripts/refresh-analytics.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

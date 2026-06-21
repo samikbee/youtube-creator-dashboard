@@ -1,0 +1,131 @@
+{
+  "updatedAt": "2026-06-21T08:00:00+09:00",
+  "channels": [
+    {
+      "id": "zero-known",
+      "name": "Zero Known",
+      "handle": "@Zero_Known",
+      "url": "https://www.youtube.com/@Zero_Known",
+      "subscribers": 48200,
+      "views28d": 1824000,
+      "likes28d": 109300,
+      "watchHours28d": 11820,
+      "videos": [
+        {
+          "id": "zk-001",
+          "title": "The Viking Treasure Nobody Came Back For",
+          "publishedAt": "2026-06-18",
+          "views": 286400,
+          "viewsDelta1d": 31800,
+          "likes": 18420,
+          "likesDelta1d": 2140,
+          "shownInFeed": 412000,
+          "clickedAndWatched": 286400,
+          "swipedAway": 125600,
+          "avgViewDuration": "0:24",
+          "avgPercentViewed": 81,
+          "retention": 81,
+          "status": "Rising",
+          "topic": "World Mystery"
+        },
+        {
+          "id": "zk-002",
+          "title": "The 8,000-Year-Old Skeleton in a Cave",
+          "publishedAt": "2026-06-15",
+          "views": 153900,
+          "viewsDelta1d": 9200,
+          "likes": 9310,
+          "likesDelta1d": 540,
+          "shownInFeed": 238000,
+          "clickedAndWatched": 153900,
+          "swipedAway": 84100,
+          "avgViewDuration": "0:21",
+          "avgPercentViewed": 74,
+          "retention": 74,
+          "status": "Stable",
+          "topic": "World Mystery"
+        },
+        {
+          "id": "zk-003",
+          "title": "The Map That Should Not Know Antarctica",
+          "publishedAt": "2026-06-12",
+          "views": 512800,
+          "viewsDelta1d": 68400,
+          "likes": 32650,
+          "likesDelta1d": 4050,
+          "shownInFeed": 689000,
+          "clickedAndWatched": 512800,
+          "swipedAway": 176200,
+          "avgViewDuration": "0:26",
+          "avgPercentViewed": 88,
+          "retention": 88,
+          "status": "Breakout",
+          "topic": "World Mystery"
+        }
+      ]
+    },
+    {
+      "id": "mittimic",
+      "name": "MittiMic",
+      "handle": "@MittiMic",
+      "url": "https://www.youtube.com/@MittiMic",
+      "subscribers": 19700,
+      "views28d": 642000,
+      "likes28d": 32700,
+      "watchHours28d": 3920,
+      "videos": [
+        {
+          "id": "mm-001",
+          "title": "Why AI Browsers Matter",
+          "publishedAt": "2026-06-17",
+          "views": 84800,
+          "viewsDelta1d": 7400,
+          "likes": 4210,
+          "likesDelta1d": 360,
+          "shownInFeed": 139000,
+          "clickedAndWatched": 84800,
+          "swipedAway": 54200,
+          "avgViewDuration": "0:19",
+          "avgPercentViewed": 69,
+          "retention": 69,
+          "status": "Stable",
+          "topic": "AI News"
+        },
+        {
+          "id": "mm-002",
+          "title": "The New Siri AI Explained Fast",
+          "publishedAt": "2026-06-10",
+          "views": 129600,
+          "viewsDelta1d": 18600,
+          "likes": 6150,
+          "likesDelta1d": 870,
+          "shownInFeed": 201000,
+          "clickedAndWatched": 129600,
+          "swipedAway": 71400,
+          "avgViewDuration": "0:20",
+          "avgPercentViewed": 71,
+          "retention": 71,
+          "status": "Rising",
+          "topic": "AI News"
+        }
+      ]
+    }
+  ],
+  "history": [
+    { "date": "Jun 15", "views": 91000, "likes": 5100 },
+    { "date": "Jun 16", "views": 112000, "likes": 6900 },
+    { "date": "Jun 17", "views": 128000, "likes": 7400 },
+    { "date": "Jun 18", "views": 193000, "likes": 12100 },
+    { "date": "Jun 19", "views": 221000, "likes": 13900 },
+    { "date": "Jun 20", "views": 204000, "likes": 12700 },
+    { "date": "Jun 21", "views": 238000, "likes": 15100 }
+  ],
+  "weeklyHistory": [
+    { "date": "Week 20", "views": 612000, "likes": 34200 },
+    { "date": "Week 21", "views": 738000, "likes": 41900 },
+    { "date": "Week 22", "views": 864000, "likes": 52600 },
+    { "date": "Week 23", "views": 1114000, "likes": 67300 },
+    { "date": "Week 24", "views": 1297000, "likes": 79200 },
+    { "date": "Week 25", "views": 1491000, "likes": 91300 }
+  ]
+}

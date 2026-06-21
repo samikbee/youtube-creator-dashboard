@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Creator Command Center</title>
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <div class="brand-mark">CC</div>
+          <div>
+            <h1>Creator Command</h1>
+            <p>Analytics and daily ideas</p>
+          </div>
+        </div>
+        <nav aria-label="Primary">
+          <button class="nav-item active" data-view="overview" data-target="overviewSection">Overview</button>
+          <button class="nav-item" data-view="coach" data-target="coachingSection">Creator coach</button>
+          <button class="nav-item" data-view="videos" data-target="videosSection">Videos</button>
+          <button class="nav-item" data-view="recommendations" data-target="recommendationsSection">Recommendations</button>
+          <button class="nav-item" data-view="integrations" data-target="integrationsSection">Integrations</button>
+        </nav>
+        <section class="channel-list" aria-label="Channels">
+          <h2>Channels</h2>
+          <p class="sidebar-note">Your channels use daily local snapshots from public YouTube data.</p>
+          <div id="channelButtons"></div>
+        </section>
+      </aside>
+
+      <main>
+        <header class="topbar" id="overviewSection">
+          <div>
+            <p id="todayLabel">Today</p>
+            <h2 id="pageTitle">Overview</h2>
+            <p id="dataNotice" class="data-notice"></p>
+          </div>
+          <div class="top-actions">
+            <button id="refreshButton" class="primary-button">Refresh</button>
+          </div>
+        </header>
+
+        <section class="kpi-grid" id="kpiGrid"></section>
+
+        <section class="content-grid">
+          <div class="panel analytics-panel">
+            <div class="panel-header">
+              <div>
+                <p>7-day movement</p>
+                <h3>Views and likes</h3>
+              </div>
+              <div class="panel-controls">
+                <span id="analyticsUpdatedAt"></span>
+                <div class="segmented" role="tablist" aria-label="Growth range">
+                  <button class="range-segment active" data-range="daily">Daily</button>
+                  <button class="range-segment" data-range="weekly">Weekly</button>
+                </div>
+              </div>
+            </div>
+            <canvas id="trendChart" width="900" height="320" aria-label="Views and likes chart"></canvas>
+          </div>
+
+          <div class="panel next-panel">
+            <div class="panel-header">
+              <div>
+                <p>Recommendation pick</p>
+                <h3>Best candidate today</h3>
+              </div>
+            </div>
+            <div id="bestIdea"></div>
+          </div>
+        </section>
+
+        <section class="panel growth-panel">
+          <div class="panel-header">
+            <div>
+              <p id="growthRangeLabel">Daily growth</p>
+              <h3>Views and likes increase</h3>
+            </div>
+          </div>
+          <div id="growthSummary" class="growth-summary"></div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Period</th>
+                  <th>Views</th>
+                  <th>Views change</th>
+                  <th>Likes</th>
+                  <th>Likes change</th>
+                </tr>
+              </thead>
+              <tbody id="growthRows"></tbody>
+            </table>
+          </div>
+        </section>
+
+        <section class="panel coach-panel" id="coachingSection">
+          <div class="panel-header">
+            <div>
+              <p>Creator coach</p>
+              <h3>Daily actions for both channels</h3>
+            </div>
+          </div>
+          <div id="channelCoachCards" class="coach-grid"></div>
+        </section>
+
+        <section class="panel" id="videosSection">
+          <div class="panel-header video-panel-header">
+            <div>
+              <p>Uploaded content</p>
+              <h3>Video performance</h3>
+            </div>
+            <div class="video-controls">
+              <div>
+                <span class="control-label">Show</span>
+                <div class="segmented" role="tablist" aria-label="Video filters">
+                  <button class="segment active" data-filter="all">All</button>
+                  <button class="segment" data-filter="World Mystery">Mystery</button>
+                  <button class="segment" data-filter="AI News">AI</button>
+                </div>
+              </div>
+              <div>
+                <span class="control-label">Sort</span>
+                <div class="segmented" role="tablist" aria-label="Video sort">
+                  <button class="sort-segment active" data-sort="views">Most views</button>
+                  <button class="sort-segment" data-sort="recent">Newest</button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Video</th>
+                  <th>Duration</th>
+                  <th>Views</th>
+                  <th>1-day change</th>
+                  <th>Likes</th>
+                  <th>Creator critique</th>
+                  <th>Status</th>
+                </tr>
+              </thead>
+              <tbody id="videoRows"></tbody>
+            </table>
+          </div>
+        </section>
+
+        <section class="recommendation-layout" id="recommendationsSection">
+          <div class="panel">
+            <div class="panel-header">
+              <div>
+                <p id="reportDate">Daily report</p>
+                <h3>Other recommendations</h3>
+                <span id="recommendationsUpdatedAt" class="panel-timestamp"></span>
+              </div>
+            </div>
+            <div id="mysteryIdeas" class="idea-list"></div>
+          </div>
+
+          <div class="panel">
+            <div class="panel-header">
+              <div>
+                <p>AI news and trends</p>
+                <h3>AI news</h3>
+                <span id="aiUpdatedAt" class="panel-timestamp"></span>
+              </div>
+            </div>
+            <div id="aiNews" class="idea-list compact"></div>
+          </div>
+        </section>
+
+        <section class="panel integration-panel" id="integrationsSection">
+          <div class="panel-header">
+            <div>
+              <p>API readiness</p>
+              <h3>Integration status</h3>
+            </div>
+          </div>
+          <div id="integrationStatus" class="integration-grid"></div>
+        </section>
+      </main>
+    </div>
+    <script src="/app.js" type="module"></script>
+  </body>
+</html>
