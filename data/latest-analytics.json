@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-21T12:44:48.257Z",
-  "dataSource": "youtube-data-api-cache",
+  "updatedAt": "2026-06-21T21:01:55.306Z",
+  "dataSource": "youtube-data-api-cache-stale",
   "privateMetricsAvailable": false,
   "channels": [
     {
@@ -619,5 +619,6 @@
       "views": 10551,
       "likes": 193
     }
-  ]
+  ],
+  "publicFetchError": "fetch failed"
 }

@@ -1,0 +1,40 @@
+name: Daily dashboard refresh
+
+on:
+  schedule:
+    # 6:00 AM Asia/Tokyo is 21:00 UTC on the previous calendar day.
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env:
+      YOUTUBE_CHHAV_100_API_KEY: ${{ secrets.YOUTUBE_CHHAV_100_API_KEY }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate daily recommendations
+        run: npm run refresh:recommendations
+
+      - name: Refresh public YouTube analytics
+        run: npm run refresh:analytics
+
+      - name: Commit refreshed dashboard files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Daily dashboard refresh"
+          file_pattern: "outputs/*.md data/*.json data/snapshots/*.json"

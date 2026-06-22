@@ -101,6 +101,37 @@ data/snapshots/analytics-YYYY-MM-DD.json
 
 The website reads those files when opened or refreshed. Daily automation should run this command before you check the dashboard.
 
+## Live Daily Refresh
+
+GitHub Actions runs a daily refresh at 6:00 AM Asia/Tokyo.
+
+Plain meaning: GitHub Actions is a small scheduled robot inside GitHub. It can update the Markdown recommendations and analytics JSON, commit the changed files, and trigger Render to redeploy the live site.
+
+Workflow file:
+
+```text
+.github/workflows/daily-refresh.yml
+```
+
+It runs:
+
+```bash
+npm run refresh:recommendations
+npm run refresh:analytics
+```
+
+For best analytics quality, add this GitHub repository secret:
+
+```text
+YOUTUBE_CHHAV_100_API_KEY
+```
+
+GitHub path:
+
+```text
+Repository Settings -> Secrets and variables -> Actions -> New repository secret
+```
+
 ## API Plan
 
 The app is structured so the mock layer can be replaced with real providers:
