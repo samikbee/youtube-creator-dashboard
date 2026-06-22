@@ -192,6 +192,12 @@ async function main() {
   const mysteryItems = uniqueByTitle(mysterySources.flat()).slice(0, 9);
   const aiItems = uniqueByTitle(aiSources.flat()).slice(0, 12);
 
+  if (mysteryItems.length < 5 || aiItems.length < 5) {
+    throw new Error(
+      `Not enough source items to build a safe report: ${mysteryItems.length} mystery, ${aiItems.length} AI.`
+    );
+  }
+
   const markdown = `# Daily Trend Ideas and AI News
 
 Date: ${date}
