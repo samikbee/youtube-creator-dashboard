@@ -357,7 +357,7 @@ function buildHistory(snapshots, current) {
   byDate.set(todayInTokyo(), totalsFor(current));
   const daily = [...byDate.entries()]
     .sort(([a], [b]) => a.localeCompare(b))
-    .slice(-14)
+    .slice(-45)
     .map(([date, totals]) => ({
       date: shortDate(date),
       views: totals.views,

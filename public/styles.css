@@ -138,16 +138,11 @@ main {
 }
 
 .topbar,
-.panel-header,
-.panel-controls {
+.panel-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 16px;
-}
-
-.panel-controls {
-  justify-content: flex-end;
 }
 
 .topbar {
@@ -256,21 +251,8 @@ main {
   letter-spacing: 0;
 }
 
-.content-grid {
-  display: grid;
-  grid-template-columns: minmax(0, 1.7fr) minmax(280px, .8fr);
-  gap: 14px;
-  margin-bottom: 14px;
-}
-
 .panel {
   padding: 18px;
-}
-
-canvas {
-  width: 100%;
-  max-height: 320px;
-  margin-top: 14px;
 }
 
 .table-wrap {
@@ -485,6 +467,15 @@ tbody tr:hover {
   border-color: #d7ead1;
 }
 
+.coach-action.insight {
+  background: #fff8e1;
+  border-color: #fde293;
+}
+
+.coach-action.benchmark {
+  background: #f8fafd;
+}
+
 .coach-action strong {
   display: block;
   color: var(--ink);
@@ -537,6 +528,13 @@ tbody tr:hover {
   font-size: 22px;
 }
 
+.growth-card p {
+  margin: 7px 0 0;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.35;
+}
+
 .delta-up {
   color: var(--green);
   font-weight: 800;
@@ -551,7 +549,7 @@ tbody tr:hover {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   gap: 14px;
-  margin-top: 14px;
+  margin: 14px 0;
 }
 
 .idea-list {
@@ -659,7 +657,6 @@ tbody tr:hover {
   }
 
   .kpi-grid,
-  .content-grid,
   .recommendation-layout,
   .integration-grid,
   .coach-grid,
@@ -673,7 +670,6 @@ tbody tr:hover {
 
   .topbar,
   .panel-header,
-  .panel-controls,
   .video-controls {
     align-items: stretch;
     flex-direction: column;

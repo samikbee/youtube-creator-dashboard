@@ -4,8 +4,7 @@ const state = {
   integrations: null,
   channelId: null,
   videoFilter: "all",
-  videoSort: "views",
-  growthRange: "daily"
+  videoSort: "views"
 };
 
 const fallbackAnalytics = {
@@ -202,12 +201,6 @@ function percentChange(current, previous) {
   return `${sign}${value.toFixed(1)}%`;
 }
 
-function growthPoints() {
-  return state.growthRange === "weekly"
-    ? state.analytics.weeklyHistory || state.analytics.history
-    : state.analytics.history;
-}
-
 function sumVideos(videos, key) {
   return videos.reduce((sum, video) => sum + (Number(video[key]) || 0), 0);
 }
@@ -232,6 +225,47 @@ function linkFor(item) {
 
 function summarize(item) {
   return item["30_second_hook_angle"] || item.short_summary || item.why_it_matters || item.why_it_is_trending_or_likely_to_perform || "";
+}
+
+function engagementSignal(item) {
+  return item.engagement_signal || item.engagement_signal_if_available || item.why_it_matters || "";
+}
+
+function benchmarkForChannel(channel) {
+  const isMystery = channel.id === "zero-known" || channel.handle === "@Zero_Known";
+  const items = isMystery ? state.recommendations?.mystery || [] : state.recommendations?.ai || [];
+  return items.find((item) => engagementSignal(item)) || items[0] || null;
+}
+
+function cleanBenchmarkTitle(value = "") {
+  return String(value).replace(/^["“]+|["”]+$/g, "");
+}
+
+function median(values) {
+  const sorted = values.filter((value) => Number.isFinite(value)).sort((a, b) => a - b);
+  if (!sorted.length) return 0;
+  const middle = Math.floor(sorted.length / 2);
+  return sorted.length % 2 ? sorted[middle] : Math.round((sorted[middle - 1] + sorted[middle]) / 2);
+}
+
+function targetForChannel(channel, topVideo, averageViews) {
+  const likes = channel.videos
+    .map((video) => Number(video.likes))
+    .filter((value) => Number.isFinite(value));
+  const views = channel.videos.map((video) => Number(video.views) || 0);
+  const totalViews = views.reduce((sum, value) => sum + value, 0);
+  const totalLikes = likes.reduce((sum, value) => sum + value, 0);
+  const likeRate = totalViews && totalLikes ? totalLikes / totalViews : 0.03;
+  const targetViews = Math.max(
+    100,
+    Math.ceil((topVideo?.views || averageViews || 25) * 2.5),
+    Math.ceil((averageViews || 25) * 4)
+  );
+  return {
+    views: targetViews,
+    likes: Math.max(5, Math.ceil(targetViews * Math.max(0.03, likeRate))),
+    days: targetViews < 500 ? 7 : 14
+  };
 }
 
 function titleCoaching(video) {
@@ -276,33 +310,48 @@ function channelCoach(channel) {
   const latestVideo = [...channel.videos].sort((a, b) => dateValue(b.publishedAt) - dateValue(a.publishedAt))[0];
   const views = videos.map((video) => Number(video.views) || 0);
   const averageViews = views.length ? Math.round(views.reduce((sum, value) => sum + value, 0) / views.length) : 0;
+  const medianViews = median(views);
+  const bottomVideo = [...videos].reverse().find((video) => (video.views || 0) > 0) || videos.at(-1);
+  const benchmark = benchmarkForChannel(channel);
+  const target = targetForChannel(channel, topVideo, averageViews);
   const isMystery = channel.id === "zero-known" || channel.handle === "@Zero_Known";
   const isAi = channel.id === "mittimic" || channel.handle === "@MittiMic";
+  const topMultiple = medianViews ? Math.max(1, Math.round((topVideo?.views || 0) / medianViews)) : 1;
+  const benchmarkTitle = cleanBenchmarkTitle(benchmark?.title || (isMystery ? "today's strongest mystery trend" : "today's strongest AI trend"));
+  const benchmarkProof = engagementSignal(benchmark) || "The daily report marks this as a high-potential public trend.";
 
   if (isMystery) {
     return {
-      must: topVideo
-        ? `Make one follow-up to "${topVideo.title}" with a stronger opening question and a clearer visual proof.`
-        : "Publish one focused mystery Short with the reveal shown in the first two seconds.",
+      insight: topVideo
+        ? `"${topVideo.title}" is your current proof point at ${numberCell(topVideo.views)} views, about ${topMultiple}x your median loaded video (${numberCell(medianViews)}). The weaker side is "${bottomVideo?.title || "your lowest loaded video"}" at ${numberCell(bottomVideo?.views || 0)} views.`
+        : "Not enough video history yet, so use the daily report as the benchmark.",
+      benchmark: `"${benchmarkTitle}" is the outside benchmark. Signal: ${benchmarkProof}`,
+      must: `Create a follow-up that copies what worked in your top video: one specific mystery, one number/date in the title, and visual proof in the first 2 seconds. Target ${numberCell(target.views)} views and ${numberCell(target.likes)} likes in ${target.days} days.`,
       good: latestVideo && (latestVideo.views || 0) < Math.max(10, averageViews)
-        ? `Repackage the latest upload "${latestVideo.title}" with a sharper title and thumbnail.`
-        : "Create a mini-series format: Part 1 asks the mystery, Part 2 reveals the strongest evidence.",
+        ? `Repackage "${latestVideo.title}" because it is below your ${numberCell(averageViews)} average loaded views. Test a title closer to "${benchmarkTitle}".`
+        : `Turn "${benchmarkTitle}" into a 3-part Shorts series: mystery, evidence, unresolved question.`,
       focus: "World mystery growth"
     };
   }
 
   if (isAi) {
     return {
-      must: "Pick one AI news item today and explain it in plain language with one practical use case.",
+      insight: topVideo
+        ? `"${topVideo.title}" is your strongest loaded topic at ${numberCell(topVideo.views)} views vs a ${numberCell(medianViews)} median. The gap says topic clarity and first-line hook matter more than volume right now.`
+        : "Not enough video history yet, so use the daily AI report as the benchmark.",
+      benchmark: `"${benchmarkTitle}" is the outside benchmark. Signal: ${benchmarkProof}`,
+      must: `Make one plain-English AI explainer from "${benchmarkTitle}". Use this structure: problem, what changed, one use case. Target ${numberCell(target.views)} views and ${numberCell(target.likes)} likes in ${target.days} days.`,
       good: topVideo
-        ? `Turn the strongest topic "${topVideo.title}" into a shorter, clearer version with a better first line.`
+        ? `Remake "${topVideo.title}" as a shorter version with the outcome first, then the context. Keep hashtags out of the title.`
         : "Make one 30-second AI explainer using a direct before/after example.",
       focus: "AI channel growth"
     };
   }
 
   return {
-    must: "Publish one video that repeats the clearest winning topic from this channel.",
+    insight: `Top loaded video: ${topVideo?.title || "not enough data"} at ${numberCell(topVideo?.views || 0)} views.`,
+    benchmark: `"${benchmarkTitle}" is the outside benchmark. Signal: ${benchmarkProof}`,
+    must: `Publish one video that repeats the clearest winning topic. Target ${numberCell(target.views)} views and ${numberCell(target.likes)} likes in ${target.days} days.`,
     good: "Update one older video title/thumbnail and compare results tomorrow.",
     focus: "Channel growth"
   };
@@ -353,115 +402,34 @@ function renderKpis() {
   `).join("");
 }
 
-function drawChart() {
-  const canvas = document.querySelector("#trendChart");
-  const ctx = canvas.getContext("2d");
-  const points = growthPoints().filter((point) => point && (point.views !== null || point.likes !== null));
-  const width = canvas.width;
-  const height = canvas.height;
-  const pad = 42;
-  if (!points.length) {
-    ctx.clearRect(0, 0, width, height);
-    ctx.fillStyle = "#5f6368";
-    ctx.font = "22px system-ui";
-    ctx.fillText("No movement data yet. Run the daily refresh to create the first snapshot.", pad, height / 2);
-    return;
-  }
-  const maxViews = Math.max(1, ...points.map((point) => point.views || 0));
-  const maxLikes = Math.max(1, ...points.map((point) => point.likes || 0));
-
-  ctx.clearRect(0, 0, width, height);
-  ctx.strokeStyle = "#dadce0";
-  ctx.lineWidth = 1;
-  ctx.beginPath();
-  ctx.moveTo(pad, pad);
-  ctx.lineTo(pad, height - pad);
-  ctx.lineTo(width - pad, height - pad);
-  ctx.stroke();
-
-  function plot(key, max, color) {
-    ctx.strokeStyle = color;
-    ctx.lineWidth = 4;
-    ctx.beginPath();
-    points.forEach((point, index) => {
-      const x = points.length === 1 ? width / 2 : pad + (index / (points.length - 1)) * (width - pad * 2);
-      const y = height - pad - ((point[key] || 0) / max) * (height - pad * 2);
-      if (index === 0) ctx.moveTo(x, y);
-      else ctx.lineTo(x, y);
-    });
-    if (points.length === 1) {
-      const point = points[0];
-      const y = height - pad - ((point[key] || 0) / max) * (height - pad * 2);
-      ctx.moveTo(pad, y);
-      ctx.lineTo(width - pad, y);
-    }
-    ctx.stroke();
-    points.forEach((point, index) => {
-      const x = points.length === 1 ? width / 2 : pad + (index / (points.length - 1)) * (width - pad * 2);
-      const y = height - pad - ((point[key] || 0) / max) * (height - pad * 2);
-      ctx.fillStyle = "#ffffff";
-      ctx.beginPath();
-      ctx.arc(x, y, 8, 0, Math.PI * 2);
-      ctx.fill();
-      ctx.strokeStyle = color;
-      ctx.lineWidth = 4;
-      ctx.stroke();
-    });
-  }
-
-  plot("views", maxViews, "#1a73e8");
-  plot("likes", maxLikes, "#188038");
-
-  ctx.fillStyle = "#5f6368";
-  ctx.font = "22px system-ui";
-  points.forEach((point, index) => {
-    const x = points.length === 1 ? width / 2 : pad + (index / (points.length - 1)) * (width - pad * 2);
-    ctx.fillText(point.date, x - 26, height - 12);
-  });
-  if (points.length === 1) {
-    ctx.font = "18px system-ui";
-    ctx.fillText("Only one snapshot so far. Tomorrow's refresh will show the real 7-day line.", pad, pad - 14);
-  }
-}
-
 function renderGrowth() {
-  const points = growthPoints();
+  const points = state.analytics.history || [];
   const latest = points.at(-1);
-  const previous = points.at(-2) || latest;
-  const first = points[0] || latest;
-  const viewsDelta = latest.views - previous.views;
-  const likesDelta = latest.likes - previous.likes;
-  const viewsWindowDelta = latest.views - first.views;
-  const likesWindowDelta = latest.likes - first.likes;
-  const rangeLabel = state.growthRange === "weekly" ? "Weekly growth" : "Daily growth";
+  const comparePoint = (offset) => points.length > offset ? points.at(-1 - offset) : null;
+  const cards = [
+    ["Views vs yesterday", latest, comparePoint(1), "views"],
+    ["Likes vs yesterday", latest, comparePoint(1), "likes"],
+    ["Views vs 1 week ago", latest, comparePoint(7), "views"],
+    ["Likes vs 1 week ago", latest, comparePoint(7), "likes"],
+    ["Views vs 1 month ago", latest, comparePoint(30), "views"],
+    ["Likes vs 1 month ago", latest, comparePoint(30), "likes"]
+  ];
 
-  document.querySelector("#growthRangeLabel").textContent = rangeLabel;
-  document.querySelector("#growthSummary").innerHTML = [
-    ["Latest views increase", `${signedNumber(viewsDelta)} (${percentChange(latest.views, previous.views)})`, viewsDelta],
-    ["Latest likes increase", `${signedNumber(likesDelta)} (${percentChange(latest.likes, previous.likes)})`, likesDelta],
-    ["Range views increase", signedNumber(viewsWindowDelta), viewsWindowDelta],
-    ["Range likes increase", signedNumber(likesWindowDelta), likesWindowDelta]
-  ].map(([label, value, delta]) => `
+  document.querySelector("#growthSummary").innerHTML = cards.map(([label, current, previous, key]) => {
+    const available = current && previous;
+    const delta = available ? (current[key] || 0) - (previous[key] || 0) : null;
+    const value = available
+      ? `${signedNumber(delta)} (${percentChange(current[key] || 0, previous[key] || 0)})`
+      : "Need more daily snapshots";
+    const note = available ? `From ${previous.date} to ${current.date}` : "This will fill in as daily refresh history grows.";
+    return `
     <article class="growth-card">
       <span>${label}</span>
-      <strong class="${delta >= 0 ? "delta-up" : "delta-down"}">${value}</strong>
-    </article>
-  `).join("");
-
-  document.querySelector("#growthRows").innerHTML = points.map((point, index) => {
-    const previousPoint = points[index - 1];
-    const viewChange = previousPoint ? point.views - previousPoint.views : 0;
-    const likeChange = previousPoint ? point.likes - previousPoint.likes : 0;
-    return `
-      <tr>
-        <td><strong>${point.date}</strong></td>
-        <td>${numberCell(point.views)}</td>
-        <td class="${viewChange >= 0 ? "delta-up" : "delta-down"}">${index ? signedNumber(viewChange) : "-"}</td>
-        <td>${numberCell(point.likes)}</td>
-        <td class="${likeChange >= 0 ? "delta-up" : "delta-down"}">${index ? signedNumber(likeChange) : "-"}</td>
-      </tr>
+	      <strong class="${delta === null || delta >= 0 ? "delta-up" : "delta-down"}">${value}</strong>
+	      <p>${note}</p>
+	    </article>
     `;
-  }).join("");
+	  }).join("");
 }
 
 function renderVideos() {
@@ -511,6 +479,14 @@ function renderChannelCoach() {
           </div>
           <span class="pill">Today</span>
         </div>
+        <div class="coach-action insight">
+          <strong>Data-backed insight</strong>
+          <p>${advice.insight}</p>
+        </div>
+        <div class="coach-action benchmark">
+          <strong>Outside benchmark</strong>
+          <p>${advice.benchmark}</p>
+        </div>
         <div class="coach-action must">
           <strong>Must do</strong>
           <p>${advice.must}</p>
@@ -554,21 +530,6 @@ function renderRecommendations() {
   document.querySelector("#aiUpdatedAt").textContent = recommendationStamp;
   renderIdeaList("#mysteryIdeas", state.recommendations.mystery, 9);
   renderIdeaList("#aiNews", state.recommendations.ai, 10);
-
-  const best = state.recommendations.mystery[0];
-  const bestLink = best && linkFor(best);
-  document.querySelector("#bestIdea").innerHTML = best ? `
-    <div class="idea-card">
-      <div class="idea-card-body featured">
-        ${ideaImageFor(best) ? `<img class="idea-thumb ${ideaImageFor(best).type}" src="${ideaImageFor(best).src}" alt="${ideaImageFor(best).label}">` : `<div class="idea-thumb placeholder">Idea</div>`}
-        <div>
-          <h4>${best.title}</h4>
-          <p>${summarize(best)}</p>
-          ${bestLink ? `<a href="${bestLink.url}" target="_blank" rel="noreferrer">Review source · ${sourceName(bestLink.url)}</a>` : ""}
-        </div>
-      </div>
-    </div>
-  ` : "<p>No report found yet.</p>";
 }
 
 function renderIntegrations() {
@@ -607,7 +568,6 @@ function render() {
           : "Showing the local analytics cache. Run the daily refresh to update public YouTube metrics.";
   renderChannels();
   renderKpis();
-  drawChart();
   renderGrowth();
   renderChannelCoach();
   renderVideos();
@@ -649,16 +609,6 @@ document.querySelectorAll(".sort-segment").forEach((button) => {
     button.classList.add("active");
     state.videoSort = button.dataset.sort;
     renderVideos();
-  });
-});
-
-document.querySelectorAll(".range-segment").forEach((button) => {
-  button.addEventListener("click", () => {
-    document.querySelectorAll(".range-segment").forEach((item) => item.classList.remove("active"));
-    button.classList.add("active");
-    state.growthRange = button.dataset.range;
-    drawChart();
-    renderGrowth();
   });
 });
 
