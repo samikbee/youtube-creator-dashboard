@@ -452,16 +452,16 @@ function renderVideos() {
           </div>
         </div>
       </td>
-      <td>${video.duration || "-"}</td>
-      <td>${numberCell(video.views)}</td>
-      <td><span class="${video.viewsDelta1d >= 0 ? "delta-up" : "delta-down"}">${signedNumber(video.viewsDelta1d)}</span></td>
-      <td>${numberCell(video.likes)}<br><span class="${video.likesDelta1d >= 0 ? "delta-up" : "delta-down"}">${signedNumber(video.likesDelta1d)}</span></td>
-      <td>
+      <td data-label="Duration">${video.duration || "-"}</td>
+      <td data-label="Views">${numberCell(video.views)}</td>
+      <td data-label="1-day change"><span class="${video.viewsDelta1d >= 0 ? "delta-up" : "delta-down"}">${signedNumber(video.viewsDelta1d)}</span></td>
+      <td data-label="Likes">${numberCell(video.likes)}<br><span class="${video.likesDelta1d >= 0 ? "delta-up" : "delta-down"}">${signedNumber(video.likesDelta1d)}</span></td>
+      <td data-label="Data-backed recommendation">
         <ul class="critique-list">
           ${videoCritique(video).map((item) => `<li>${item}</li>`).join("")}
         </ul>
       </td>
-      <td><span class="pill ${video.status.toLowerCase()}">${video.status}</span></td>
+      <td data-label="Status"><span class="pill ${video.status.toLowerCase()}">${video.status}</span></td>
     </tr>
   `).join("");
 }

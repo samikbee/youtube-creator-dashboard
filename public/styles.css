@@ -692,3 +692,196 @@ tbody tr:hover {
     width: 76px;
   }
 }
+
+@media (max-width: 720px) {
+  body {
+    background: #ffffff;
+  }
+
+  .sidebar {
+    padding: 16px;
+  }
+
+  nav,
+  .channel-buttons {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  main {
+    padding: 14px;
+  }
+
+  .topbar,
+  .panel {
+    box-shadow: none;
+  }
+
+  .topbar {
+    padding: 14px;
+  }
+
+  .topbar h2 {
+    font-size: 24px;
+  }
+
+  .kpi-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px;
+  }
+
+  .kpi,
+  .panel {
+    padding: 13px;
+  }
+
+  .kpi strong {
+    font-size: 22px;
+  }
+
+  .growth-summary {
+    gap: 10px;
+  }
+
+  .growth-card strong {
+    font-size: 18px;
+  }
+
+  .coach-card,
+  .idea-card {
+    padding: 12px;
+  }
+
+  .coach-card-header {
+    display: grid;
+  }
+
+  .video-controls,
+  .video-controls > div,
+  .segmented {
+    width: 100%;
+  }
+
+  .segmented {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+  }
+
+  .segment,
+  .sort-segment {
+    padding: 10px 8px;
+    text-align: center;
+  }
+
+  #videosSection .table-wrap {
+    overflow-x: visible;
+  }
+
+  #videosSection table,
+  #videosSection thead,
+  #videosSection tbody,
+  #videosSection tr,
+  #videosSection td {
+    display: block;
+    width: 100%;
+    min-width: 0;
+  }
+
+  #videosSection table {
+    border-collapse: separate;
+    border-spacing: 0;
+  }
+
+  #videosSection thead {
+    display: none;
+  }
+
+  #videosSection tr {
+    margin-bottom: 12px;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    background: #ffffff;
+    overflow: hidden;
+  }
+
+  #videosSection tr:hover {
+    background: #ffffff;
+  }
+
+  #videosSection td {
+    display: grid;
+    grid-template-columns: minmax(110px, .42fr) minmax(0, .58fr);
+    gap: 10px;
+    align-items: start;
+    border-bottom: 1px solid var(--line);
+    padding: 10px 12px;
+  }
+
+  #videosSection td:first-child {
+    display: block;
+    background: #f8fafd;
+  }
+
+  #videosSection td:last-child {
+    border-bottom: 0;
+  }
+
+  #videosSection td[data-label]::before {
+    content: attr(data-label);
+    color: var(--muted);
+    font-size: 11px;
+    font-weight: 800;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+  }
+
+  .video-title-cell {
+    display: block;
+  }
+
+  .video-thumb {
+    display: none;
+  }
+
+  .video-info {
+    gap: 6px;
+  }
+
+  .video-info strong {
+    font-size: 15px;
+    line-height: 1.35;
+  }
+
+  .critique-list {
+    min-width: 0;
+    padding-left: 16px;
+    font-size: 13px;
+  }
+
+  .idea-card-body,
+  .idea-card-body.featured {
+    grid-template-columns: 64px minmax(0, 1fr);
+    gap: 10px;
+  }
+
+  .idea-thumb {
+    width: 64px;
+  }
+
+  .idea-thumb.article {
+    padding: 14px;
+  }
+}
+
+@media (max-width: 420px) {
+  nav,
+  .channel-buttons,
+  .kpi-grid {
+    grid-template-columns: 1fr;
+  }
+
+  #videosSection td {
+    grid-template-columns: 1fr;
+    gap: 4px;
+  }
+}
