@@ -157,6 +157,7 @@ main {
 #overviewSection,
 #videosSection,
 #recommendationsSection,
+#historySection,
 #coachingSection,
 #integrationsSection {
   scroll-margin-top: 18px;
@@ -552,6 +553,109 @@ tbody tr:hover {
   margin: 14px 0;
 }
 
+.history-panel {
+  margin-bottom: 14px;
+}
+
+.history-header {
+  align-items: flex-start;
+}
+
+.history-date-buttons {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  flex-wrap: wrap;
+  max-width: 520px;
+}
+
+.history-date {
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 7px 10px;
+  background: #ffffff;
+  color: var(--muted);
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 700;
+}
+
+.history-date.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #ffffff;
+}
+
+.history-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 14px;
+  margin-top: 14px;
+}
+
+.history-layout h4 {
+  margin: 0 0 10px;
+  font-size: 15px;
+}
+
+.history-list {
+  display: grid;
+  gap: 10px;
+}
+
+.history-item {
+  display: grid;
+  grid-template-columns: 32px minmax(0, 1fr);
+  gap: 10px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 11px;
+  background: #ffffff;
+}
+
+.history-item > span {
+  display: grid;
+  place-items: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 999px;
+  background: var(--soft);
+  color: var(--accent-dark);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.history-item h5,
+.history-item p {
+  margin: 0;
+}
+
+.history-item h5 {
+  font-size: 14px;
+  line-height: 1.35;
+}
+
+.history-item p {
+  margin-top: 6px;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.4;
+}
+
+.history-item .history-signal {
+  color: var(--ink);
+  font-size: 12px;
+}
+
+.history-item a {
+  display: inline-flex;
+  margin-top: 8px;
+  color: var(--accent);
+  font-size: 13px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
 .idea-list {
   display: grid;
   gap: 12px;
@@ -658,6 +762,7 @@ tbody tr:hover {
 
   .kpi-grid,
   .recommendation-layout,
+  .history-layout,
   .integration-grid,
   .coach-grid,
   .growth-summary {
@@ -747,8 +852,14 @@ tbody tr:hover {
   }
 
   .coach-card,
-  .idea-card {
+  .idea-card,
+  .history-item {
     padding: 12px;
+  }
+
+  .history-date-buttons {
+    justify-content: flex-start;
+    max-width: none;
   }
 
   .coach-card-header {

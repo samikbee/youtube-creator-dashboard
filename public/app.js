@@ -1,10 +1,12 @@
 const state = {
   analytics: null,
   recommendations: null,
+  recommendationHistory: null,
   integrations: null,
   channelId: null,
   videoFilter: "all",
-  videoSort: "views"
+  videoSort: "views",
+  historyDate: null
 };
 
 const fallbackAnalytics = {
@@ -66,6 +68,12 @@ const fallbackRecommendations = {
   ai: [
     { number: 1, title: "AI news feed placeholder", short_summary: "Connect the recommendation job to refresh daily AI news and high-performing AI videos.", links: [] }
   ]
+};
+
+const fallbackRecommendationHistory = {
+  updatedAt: null,
+  maxItems: 1000,
+  items: []
 };
 
 const fallbackIntegrations = {
@@ -224,7 +232,7 @@ function linkFor(item) {
 }
 
 function summarize(item) {
-  return item["30_second_hook_angle"] || item.short_summary || item.why_it_matters || item.why_it_is_trending_or_likely_to_perform || "";
+  return item.summary || item["30_second_hook_angle"] || item.short_summary || item.why_it_matters || item.why_it_is_trending_or_likely_to_perform || "";
 }
 
 function engagementSignal(item) {
@@ -532,6 +540,50 @@ function renderRecommendations() {
   renderIdeaList("#aiNews", state.recommendations.ai, 10);
 }
 
+function historyDates() {
+  return [...new Set((state.recommendationHistory?.items || []).map((item) => item.date).filter(Boolean))]
+    .sort((a, b) => b.localeCompare(a));
+}
+
+function renderHistoryList(selector, items) {
+  document.querySelector(selector).innerHTML = items.length ? items.map((item, index) => {
+    const link = linkFor(item);
+    return `
+      <article class="history-item">
+        <span>${index + 1}</span>
+        <div>
+          <h5>${item.title}</h5>
+          <p>${summarize(item) || item.signal || "Saved daily recommendation."}</p>
+          ${item.signal ? `<p class="history-signal">${item.signal}</p>` : ""}
+          ${link ? `<a href="${link.url}" target="_blank" rel="noreferrer">Open source · ${sourceName(link.url)}</a>` : ""}
+        </div>
+      </article>
+    `;
+  }).join("") : "<p class=\"muted\">No saved recommendations for this date yet.</p>";
+}
+
+function renderRecommendationHistory() {
+  const dates = historyDates();
+  state.historyDate ||= dates[0] || null;
+  document.querySelector("#historyUpdatedAt").textContent = state.recommendationHistory?.updatedAt
+    ? `History updated ${new Date(state.recommendationHistory.updatedAt).toLocaleString()} · newest 1000 kept`
+    : "History is built from saved daily reports.";
+  document.querySelector("#historyDateButtons").innerHTML = dates.slice(0, 12).map((date) => `
+    <button class="history-date ${date === state.historyDate ? "active" : ""}" data-date="${date}">${date}</button>
+  `).join("");
+
+  document.querySelectorAll(".history-date").forEach((button) => {
+    button.addEventListener("click", () => {
+      state.historyDate = button.dataset.date;
+      renderRecommendationHistory();
+    });
+  });
+
+  const items = (state.recommendationHistory?.items || []).filter((item) => item.date === state.historyDate);
+  renderHistoryList("#historyVideoIdeas", items.filter((item) => item.type === "video"));
+  renderHistoryList("#historyAiIdeas", items.filter((item) => item.type === "ai"));
+}
+
 function renderIntegrations() {
   const items = [
     ["YouTube Data API", state.integrations.youtubeDataApi ? "Configured" : "Needs API key"],
@@ -572,6 +624,7 @@ function render() {
   renderChannelCoach();
   renderVideos();
   renderRecommendations();
+  renderRecommendationHistory();
   renderIntegrations();
 }
 
@@ -579,14 +632,16 @@ async function refresh() {
   const button = document.querySelector("#refreshButton");
   button.textContent = "Refreshing";
   try {
-    [state.analytics, state.recommendations, state.integrations] = await Promise.all([
+    [state.analytics, state.recommendations, state.recommendationHistory, state.integrations] = await Promise.all([
       getJson("/api/analytics"),
       getJson("/api/refresh"),
+      getJson("/api/recommendation-history"),
       getJson("/api/integrations")
     ]);
   } catch {
     state.analytics = fallbackAnalytics;
     state.recommendations = fallbackRecommendations;
+    state.recommendationHistory = fallbackRecommendationHistory;
     state.integrations = fallbackIntegrations;
   }
   state.channelId ||= "all";

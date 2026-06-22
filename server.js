@@ -159,6 +159,49 @@ async function latestRecommendation() {
   };
 }
 
+function historyItemsFromReport(report) {
+  return [
+    ...(report.mystery || []).map((item) => ({
+      ...item,
+      date: report.date,
+      type: "video",
+      sourceFile: report.sourceFile,
+      summary: item["30_second_hook_angle"] || item.why_it_is_trending_or_likely_to_perform || ""
+    })),
+    ...(report.ai || []).map((item) => ({
+      ...item,
+      date: report.date,
+      type: "ai",
+      sourceFile: report.sourceFile,
+      summary: item.short_summary || item.why_it_matters || ""
+    }))
+  ];
+}
+
+async function recommendationHistoryFromReports() {
+  const files = (await readdir(outputsDir))
+    .filter((name) => /^daily-report-\d{4}-\d{2}-\d{2}\.md$/.test(name))
+    .sort();
+  const items = [];
+  for (const file of files) {
+    const report = parseRecommendationReport(await readFile(join(outputsDir, file), "utf8"), file);
+    items.push(...historyItemsFromReport(report));
+  }
+  return {
+    updatedAt: new Date().toISOString(),
+    maxItems: 1000,
+    items: items
+      .sort((a, b) => String(b.date).localeCompare(String(a.date)) || (a.type || "").localeCompare(b.type || ""))
+      .slice(0, 1000)
+  };
+}
+
+async function recommendationHistory() {
+  const cached = await readJsonOrNull("recommendation-history.json");
+  if (cached?.items?.length) return cached;
+  return recommendationHistoryFromReports();
+}
+
 async function routeApi(req, res) {
   if (req.url === "/api/analytics") {
     return send(res, 200, JSON.stringify(await analytics()));
@@ -185,6 +228,9 @@ async function routeApi(req, res) {
   }
   if (req.url === "/api/recommendations" || req.url === "/api/refresh") {
     return send(res, 200, JSON.stringify(await latestRecommendation()));
+  }
+  if (req.url === "/api/recommendation-history") {
+    return send(res, 200, JSON.stringify(await recommendationHistory()));
   }
   if (req.url === "/api/integrations") {
     return send(res, 200, JSON.stringify({

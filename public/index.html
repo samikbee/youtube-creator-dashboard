@@ -20,6 +20,7 @@
           <button class="nav-item active" data-view="overview" data-target="overviewSection">Overview</button>
           <button class="nav-item" data-view="coach" data-target="coachingSection">Creator coach</button>
           <button class="nav-item" data-view="recommendations" data-target="recommendationsSection">Recommendations</button>
+          <button class="nav-item" data-view="history" data-target="historySection">History</button>
           <button class="nav-item" data-view="videos" data-target="videosSection">Videos</button>
           <button class="nav-item" data-view="integrations" data-target="integrationsSection">Integrations</button>
         </nav>
@@ -86,6 +87,27 @@
               </div>
             </div>
             <div id="aiNews" class="idea-list compact"></div>
+          </div>
+        </section>
+
+        <section class="panel history-panel" id="historySection">
+          <div class="panel-header history-header">
+            <div>
+              <p>Saved recommendation history</p>
+              <h3>Daily recommendation archive</h3>
+              <span id="historyUpdatedAt" class="panel-timestamp"></span>
+            </div>
+            <div id="historyDateButtons" class="history-date-buttons" aria-label="Recommendation history dates"></div>
+          </div>
+          <div class="history-layout">
+            <div>
+              <h4>Video recommendations</h4>
+              <div id="historyVideoIdeas" class="history-list"></div>
+            </div>
+            <div>
+              <h4>AI news</h4>
+              <div id="historyAiIdeas" class="history-list"></div>
+            </div>
           </div>
         </section>
 

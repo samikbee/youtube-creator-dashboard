@@ -1,9 +1,11 @@
-import { mkdir, writeFile } from "node:fs/promises";
+import { mkdir, readFile, readdir, writeFile } from "node:fs/promises";
 import { join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const root = resolve(fileURLToPath(new URL("..", import.meta.url)));
 const outputsDir = join(root, "outputs");
+const dataDir = join(root, "data");
+const historyPath = join(dataDir, "recommendation-history.json");
 const userAgent = "Mozilla/5.0 (compatible; CreatorDashboardBot/1.0)";
 
 function todayInTokyo() {
@@ -39,6 +41,29 @@ function sourceName(url = "") {
     return new URL(url).hostname.replace(/^www\./, "");
   } catch {
     return "source";
+  }
+}
+
+function normalizeKey(value = "") {
+  return String(value).toLowerCase().replace(/https?:\/\/news\.google\.com\/rss\/articles\//g, "")
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+}
+
+function itemKey(item) {
+  return normalizeKey(`${item.title} ${item.link || item.links?.[0]?.url || ""}`);
+}
+
+function historyKey(item) {
+  return normalizeKey(`${item.title} ${item.links?.[0]?.url || item.link || ""}`);
+}
+
+async function readJsonIfExists(path) {
+  try {
+    return JSON.parse(await readFile(path, "utf8"));
+  } catch (error) {
+    if (error.code === "ENOENT") return null;
+    throw error;
   }
 }
 
@@ -113,6 +138,12 @@ function uniqueByTitle(items) {
   });
 }
 
+function removePreviousRecommendations(items, history) {
+  const oldKeys = new Set((history.items || []).map(historyKey));
+  const oldTitles = new Set((history.items || []).map((item) => normalizeKey(item.title)));
+  return items.filter((item) => !oldKeys.has(itemKey(item)) && !oldTitles.has(normalizeKey(item.title)));
+}
+
 function titleCaseIdea(title) {
   const trimmed = title.replace(/^the\s+/i, "").trim();
   return trimmed.length > 78 ? `${trimmed.slice(0, 75)}...` : trimmed;
@@ -137,6 +168,125 @@ function aiSummary(item) {
     return `Fresh AI story with ${item.points} Hacker News points and ${item.comments} comments at collection time.`;
   }
   return "Fresh AI story from public news/RSS sources collected for today's dashboard.";
+}
+
+function parseLinks(line) {
+  return [...line.matchAll(/(?<!!)\[([^\]]+)\]\((https?:\/\/[^)]+)\)/g)]
+    .map(([, label, url]) => ({ label, url }));
+}
+
+function parseExistingReport(markdown, filename) {
+  const date = markdown.match(/^Date:\s*(.+)$/m)?.[1]?.trim() || filename.replace(/^daily-report-|\.(md)$/g, "");
+  const items = [];
+  let type = "";
+  let current = null;
+
+  const push = () => {
+    if (!current) return;
+    current.id = `${current.date}-${current.type}-${normalizeKey(current.title).slice(0, 40)}`;
+    items.push(current);
+    current = null;
+  };
+
+  for (const line of markdown.split(/\r?\n/)) {
+    if (line.startsWith("## Section 1")) {
+      push();
+      type = "video";
+      continue;
+    }
+    if (line.startsWith("## Section 2")) {
+      push();
+      type = "ai";
+      continue;
+    }
+    const itemMatch = line.match(/^####?\s+(\d+)\.\s+(.+)$/);
+    if (itemMatch && type) {
+      push();
+      current = {
+        date,
+        type,
+        number: Number(itemMatch[1]),
+        title: cleanTitle(itemMatch[2]).replace(/^"|"$/g, ""),
+        summary: "",
+        signal: "",
+        sourceFile: filename,
+        links: []
+      };
+      continue;
+    }
+    if (!current) continue;
+    if (line.startsWith("- 30-second hook angle:")) current.summary = line.replace("- 30-second hook angle:", "").trim().replace(/^"|"$/g, "");
+    if (line.startsWith("- Short summary:")) current.summary = line.replace("- Short summary:", "").trim();
+    if (line.startsWith("- Engagement signal")) current.signal = line.replace(/^- Engagement signal[^:]*:\s*/, "").trim();
+    current.links.push(...parseLinks(line));
+  }
+  push();
+  return items;
+}
+
+async function seedHistoryFromReports() {
+  const files = (await readdir(outputsDir))
+    .filter((name) => /^daily-report-\d{4}-\d{2}-\d{2}\.md$/.test(name))
+    .sort();
+  const items = [];
+  for (const file of files) {
+    const markdown = await readFile(join(outputsDir, file), "utf8");
+    items.push(...parseExistingReport(markdown, file));
+  }
+  return {
+    updatedAt: new Date().toISOString(),
+    items: trimHistory(items)
+  };
+}
+
+async function loadHistory() {
+  const history = await readJsonIfExists(historyPath);
+  if (history?.items?.length) return history;
+  return seedHistoryFromReports();
+}
+
+function historyEntry(item, date, type, index) {
+  const title = titleCaseIdea(item.title);
+  return {
+    id: `${date}-${type}-${index + 1}-${normalizeKey(title).slice(0, 36)}`,
+    date,
+    type,
+    number: index + 1,
+    title,
+    summary: type === "video" ? mysteryHook(item) : aiSummary(item),
+    signal: type === "video"
+      ? "Fresh public news pickup; use YouTube search link to verify current video traction before filming."
+      : (item.points || item.comments ? `${item.points} points / ${item.comments} comments on Hacker News` : "Public news/RSS pickup"),
+    source: item.source || sourceName(item.link),
+    links: [{ label: item.source || sourceName(item.link), url: item.link }]
+  };
+}
+
+function trimHistory(items) {
+  const seen = new Set();
+  return items
+    .filter((item) => {
+      const key = historyKey(item);
+      if (!key || seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    })
+    .sort((a, b) => String(b.date).localeCompare(String(a.date)) || (a.type || "").localeCompare(b.type || ""))
+    .slice(0, 1000);
+}
+
+async function saveHistory(date, mysteryItems, aiItems, previousHistory) {
+  await mkdir(dataDir, { recursive: true });
+  const newItems = [
+    ...mysteryItems.map((item, index) => historyEntry(item, date, "video", index)),
+    ...aiItems.map((item, index) => historyEntry(item, date, "ai", index))
+  ];
+  const history = {
+    updatedAt: new Date().toISOString(),
+    maxItems: 1000,
+    items: trimHistory([...newItems, ...(previousHistory.items || [])])
+  };
+  await writeFile(historyPath, `${JSON.stringify(history, null, 2)}\n`);
 }
 
 function mysteryMarkdown(items) {
@@ -176,6 +326,7 @@ function aiMarkdown(items) {
 async function main() {
   const date = todayInTokyo();
   await mkdir(outputsDir, { recursive: true });
+  const history = await loadHistory();
 
   const mysterySources = await Promise.all([
     googleNews("archaeology mystery ancient discovery tomb", "Archaeology mystery"),
@@ -189,8 +340,8 @@ async function main() {
     googleNews("AI startup funding model release", "AI news")
   ]);
 
-  const mysteryItems = uniqueByTitle(mysterySources.flat()).slice(0, 9);
-  const aiItems = uniqueByTitle(aiSources.flat()).slice(0, 12);
+  const mysteryItems = removePreviousRecommendations(uniqueByTitle(mysterySources.flat()), history).slice(0, 9);
+  const aiItems = removePreviousRecommendations(uniqueByTitle(aiSources.flat()), history).slice(0, 12);
 
   if (mysteryItems.length < 5 || aiItems.length < 5) {
     throw new Error(
@@ -215,7 +366,9 @@ ${aiMarkdown(aiItems)}
 
   const outputPath = join(outputsDir, `daily-report-${date}.md`);
   await writeFile(outputPath, markdown);
+  await saveHistory(date, mysteryItems, aiItems, history);
   console.log(`Updated ${outputPath}`);
+  console.log(`Updated ${historyPath}`);
 }
 
 main().catch((error) => {
