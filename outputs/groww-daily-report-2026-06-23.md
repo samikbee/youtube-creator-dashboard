@@ -7,35 +7,35 @@ Source: Groww holdings page in Chrome + cached API trend data
 
 ## Portfolio Snapshot
 
-- Current value: Rs. 11,23,388
-- Invested value: Rs. 8,71,589
-- Total return: Rs. 2,51,798.96 (+28.89%)
+- Current value: Rs. 11,48,650
+- Invested value: Rs. 9,05,095
+- Total return: Rs. 2,43,554.91 (+26.91%)
 - Holdings tracked: 41
 
 ## Strongest Holdings
 
 | Stock | Total return | Gain/Loss | Current value | Invested |
 |---|---:|---:|---:|---:|
-| Aeroflex Industries | ≈+51.38% | Rs. 8,475.53 | Rs. 24,972.85 | Rs. 16,497.32 |
-| Thangamayil Jeweller | +45.05% | Rs. 5,177.49 | Rs. 16,671 | Rs. 11,493.51 |
-| Bliss GVS Pharma | ≈+36.07% | Rs. 12,545 | Rs. 47,325 | Rs. 34,780 |
-| TD Power Systems | +35.18% | Rs. 20,713.2 | Rs. 79,590 | Rs. 58,876.8 |
-| Meghna Infracon Infrastructure | ≈+33.94% | Rs. 9,617 | Rs. 37,952.5 | Rs. 28,335.5 |
-| MTAR Technologies | ≈+30.65% | Rs. 19,460.2 | Rs. 82,945 | Rs. 63,484.8 |
-| KSH International | ≈+29.95% | Rs. 7,553.26 | Rs. 32,775 | Rs. 25,221.74 |
-| Antelopus Selan Ener | +29.82% | Rs. 1,869.5 | Rs. 8,139.5 | Rs. 6,270 |
+| TD Power Systems | +37.99% | Rs. 22,369.2 | Rs. 81,246 | Rs. 58,876.8 |
+| Meghna Infracon Infrastructure | ≈+33.58% | Rs. 9,514.5 | Rs. 37,850 | Rs. 28,335.5 |
+| MTAR Technologies | +27.94% | Rs. 17,735.2 | Rs. 81,220 | Rs. 63,484.8 |
+| Antelopus Selan Ener | +27.58% | Rs. 1,729 | Rs. 7,999 | Rs. 6,270 |
+| Sakar Healthcare | +25.13% | Rs. 4,893.6 | Rs. 24,367.5 | Rs. 19,473.9 |
+| Bliss GVS Pharma | +25.01% | Rs. 11,756.25 | Rs. 58,756.25 | Rs. 47,000 |
+| Knowledge Marine | +24.82% | Rs. 11,589.5 | Rs. 58,277.5 | Rs. 46,688 |
+| Aeroflex Industries | +22.22% | Rs. 7,861.26 | Rs. 43,236.5 | Rs. 35,375.24 |
 
 ## Needs Attention
 
 | Stock | Total return | Gain/Loss | Current value | Invested |
 |---|---:|---:|---:|---:|
-| Infosys | -15.76% | Rs. -1,992.5 | Rs. 10,654 | Rs. 12,646.5 |
-| Swiggy | ≈-11.76% | Rs. -848.25 | Rs. 6,366.25 | Rs. 7,214.5 |
-| HDFC Bank | -11.26% | Rs. -4,990 | Rs. 39,320 | Rs. 44,310 |
-| Tata Motors Passenger Vehicles | ≈-10.97% | Rs. -1,113.75 | Rs. 9,037.5 | Rs. 10,151.25 |
-| Titan Biotech | ≈-10.96% | Rs. -1,057 | Rs. 8,583 | Rs. 9,640 |
-| Maruti Suzuki India | ≈-7.04% | Rs. -2,033 | Rs. 26,842 | Rs. 28,875 |
-| UltraTech Cement | ≈-6.16% | Rs. -748 | Rs. 11,402 | Rs. 12,150 |
-| Reliance Industries | -5.03% | Rs. -702 | Rs. 13,265 | Rs. 13,967 |
+| Infosys | -18.61% | Rs. -470.7 | Rs. 2,058.6 | Rs. 2,529.3 |
+| Swiggy | -13.42% | Rs. -193.65 | Rs. 1,249.25 | Rs. 1,442.9 |
+| Titan Biotech | -13.35% | Rs. -1,287 | Rs. 8,353 | Rs. 9,640 |
+| Tata Motors Passenger Vehicles | ≈-12.68% | Rs. -1,287.5 | Rs. 8,863.75 | Rs. 10,151.25 |
+| HDFC Bank | -12.59% | Rs. -5,577.5 | Rs. 38,732.5 | Rs. 44,310 |
+| UltraTech Cement | ≈-6.94% | Rs. -843 | Rs. 11,307 | Rs. 12,150 |
+| Maruti Suzuki India | ≈-6.83% | Rs. -1,973 | Rs. 26,902 | Rs. 28,875 |
+| Reliance Industries | -6.24% | Rs. -872 | Rs. 13,095 | Rs. 13,967 |
 
 This is a portfolio status report, not financial advice.
