@@ -7,7 +7,7 @@ Source: Groww holdings page in Chrome + cached API trend data
 
 ## Portfolio Snapshot
 
-- Current value: Rs. 11,48,650
+- Current value: Rs. 11,48,650.32
 - Invested value: Rs. 9,05,095
 - Total return: Rs. 2,43,554.91 (+26.91%)
 - Holdings tracked: 41

@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-23T12:21:12.036Z",
+  "updatedAt": "2026-06-23T12:40:46.879Z",
   "asOf": "2026-06-22",
   "dataSource": "groww-browser-snapshot-api-trends",
   "stale": false,
   "reportFile": "/Users/samikbis/Documents/Codex/Youtube Automation/outputs/groww-daily-report-2026-06-23.md",
   "totals": {
-    "currentValue": 1148650,
+    "currentValue": 1148650.3199999998,
     "investedValue": 905095,
     "dayReturnValue": null,
     "dayReturnPct": null,
@@ -940,7 +940,7 @@
   "staleReason": "Groww holdings refreshed, but the API token cannot access live prices. Existing cache was not replaced. Enable the Groww browser snapshot flow with npm run refresh:browser.",
   "lastRefreshErrorAt": "2026-06-22T11:20:23.664Z",
   "browserSnapshot": {
-    "importedAt": "2026-06-23T12:21:12.036Z",
+    "importedAt": "2026-06-23T12:40:46.879Z",
     "sourceTitle": "Invest in Stocks: Explore LIVE NSE/BSE on Groww",
     "sourceUrl": "https://groww.in/stocks/user/holdings",
     "parsedRows": 41,
