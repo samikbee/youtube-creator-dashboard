@@ -174,6 +174,7 @@ async function readGrowwTab() {
       .filter((value, index, array) => value && value.includes('shares') && array.indexOf(value) === index)
   })`;
   const rowMap = new Map();
+  const textBlocks = [];
   let latest = null;
   for (let y = 0; y <= 7000; y += 420) {
     await evalChrome(`window.scrollTo(0, ${y}); ""`);
@@ -181,6 +182,7 @@ async function readGrowwTab() {
     const stdout = await evalChrome(readJs);
     if (!stdout.trim()) continue;
     latest = JSON.parse(stdout);
+    if (latest.text) textBlocks.push(latest.text);
     for (const row of latest.rows || []) {
       const key = row.replace(/\s+/g, " ").trim();
       if (key) rowMap.set(key, row);
@@ -189,6 +191,7 @@ async function readGrowwTab() {
   await evalChrome("window.scrollTo(0, 0); \"\"");
   if (latest) {
     latest.rows = [...rowMap.values()];
+    latest.text = textBlocks.join("\n\n");
     return latest;
   }
   throw new Error("No open Groww holdings tab found in Chrome.");
@@ -286,6 +289,15 @@ function parseRows(text, rowBlocks = []) {
   const lines = text.split(/\r?\n/).map((line) => line.trim()).filter(Boolean);
   const rows = rowBlocks.map(parseRowBlock).filter(Boolean);
 
+  const isRowName = (value) => (
+    value
+    && parseMoney(value) === null
+    && parsePercent(value) === null
+    && !/^\d+(?:\.\d+)?\s+shares$/i.test(value)
+    && !/^Avg\./i.test(value)
+    && !/^[-+]?₹/.test(value)
+  );
+
   const addRow = (row) => {
     if (!row) return;
     const key = normalizeName(row.name);
@@ -297,8 +309,16 @@ function parseRows(text, rowBlocks = []) {
     const qtyMatch = lines[i].match(/^(\d+(?:\.\d+)?)\s+shares$/i);
     if (!qtyMatch) continue;
     const symbol = lines[i - 1] || "";
-    const hasSymbolLine = /^[A-Z0-9&.-]{2,}$/.test(symbol);
-    const name = hasSymbolLine ? lines[i - 2] || symbol : symbol;
+    const hasSymbolLine = /^[A-Z0-9&.-]{2,}$/.test(symbol) && isRowName(lines[i - 2]);
+    let name = hasSymbolLine ? lines[i - 2] || symbol : symbol;
+    if (!hasSymbolLine && !isRowName(name)) {
+      for (let back = i - 2; back >= Math.max(0, i - 8); back -= 1) {
+        if (isRowName(lines[back])) {
+          name = lines[back];
+          break;
+        }
+      }
+    }
     if (!name || /^Avg\./i.test(name)) continue;
 
     const nextQty = lines.findIndex((line, offset) => offset > i && /^\d+(?:\.\d+)?\s+shares$/i.test(line));
@@ -425,9 +445,17 @@ function buildNameToSymbol(displayNames) {
 function mergeHoldings(apiHoldings, browserRows, displayNames) {
   const nameToSymbol = buildNameToSymbol(displayNames);
   const bySymbol = new Map();
+  const investedCounts = new Map();
+  const byInvested = new Map();
+  const investedKey = (value) => typeof value === "number" ? Math.round(value * 100) : null;
   for (const row of browserRows) {
     const symbol = row.symbol || nameToSymbol.get(normalizeName(row.name));
     if (symbol) bySymbol.set(symbol, { ...row, symbol });
+    const key = investedKey(row.investedValue);
+    if (key !== null) {
+      investedCounts.set(key, (investedCounts.get(key) || 0) + 1);
+      byInvested.set(key, row);
+    }
   }
   return apiHoldings.map((holding) => {
     const cleanHolding = {
@@ -441,14 +469,24 @@ function mergeHoldings(apiHoldings, browserRows, displayNames) {
       browserSnapshotMatched: false,
       priceSource: null
     };
-    const browser = bySymbol.get(holding.symbol);
+    const fallbackKey = investedKey(holding.investedValue);
+    const fallbackBrowser = fallbackKey !== null && investedCounts.get(fallbackKey) === 1
+      ? byInvested.get(fallbackKey)
+      : null;
+    const browser = bySymbol.get(holding.symbol) || fallbackBrowser;
     if (!browser) return cleanHolding;
+    const quantity = fallbackBrowser && !bySymbol.get(holding.symbol)
+      ? holding.quantity
+      : browser.quantity ?? holding.quantity;
+    const currentPrice = fallbackBrowser && !bySymbol.get(holding.symbol) && browser.currentValue !== null && holding.quantity
+      ? browser.currentValue / holding.quantity
+      : browser.currentPrice ?? holding.currentPrice;
     return {
       ...cleanHolding,
-      displayName: browser.name || displayNames[holding.symbol] || holding.name,
-      quantity: browser.quantity ?? holding.quantity,
+      displayName: bySymbol.get(holding.symbol) ? browser.name || displayNames[holding.symbol] || holding.name : displayNames[holding.symbol] || holding.name,
+      quantity,
       averagePrice: browser.averagePrice ?? holding.averagePrice,
-      currentPrice: browser.currentPrice ?? holding.currentPrice,
+      currentPrice,
       currentValue: browser.currentValue ?? holding.currentValue,
       investedValue: browser.investedValue ?? holding.investedValue,
       pnlValue: browser.pnlValue ?? holding.pnlValue,
