@@ -232,6 +232,21 @@ function hasGrowwCredentials() {
   );
 }
 
+async function latestScreener() {
+  const cached = await readJsonOrNull("latest-screener.json");
+  if (cached?.rows?.length) return cached;
+  return {
+    updatedAt: null,
+    dataSource: "screener-cache-missing",
+    stale: true,
+    sourceUrl: "https://www.screener.in/screen/raw/?sort=market+capitalization&order=desc&source_id=&query=Market+Capitalization+%3E+500%0D%0AAND+Current+price+%3E+50%0D%0AAND+Return+over+1day+%3E+0%0D%0AAND+Return+over+1week+%3E+0%0D%0AAND+Return+over+1month+%3E+10%0D%0AAND+Return+over+3months+%3E+25%0D%0AAND+Return+over+1year+%3E+50%0D%0AAND+Return+over+3years+%3E+50%0D%0AAND+Sales+growth+3Years+%3E+5%0D%0AAND+Profit+growth+3Years+%3E+5%0D%0AAND+Return+on+capital+employed+%3E+12%0D%0AAND+Return+on+equity+%3E+10%0D%0AAND+Promoter+holding+%3E+35%0D%0AAND+Pledged+percentage+%3C+5",
+    resultCount: 0,
+    headers: [],
+    rows: [],
+    warnings: ["No Screener cache is available yet. Run npm run refresh:screener after opening the Screener query in Chrome."]
+  };
+}
+
 async function latestGrowwReport() {
   const files = (await readdir(outputsDir))
     .filter((name) => /^groww-daily-report-\d{4}-\d{2}-\d{2}\.md$/.test(name))
@@ -255,6 +270,9 @@ async function routeApi(req, res) {
   }
   if (req.url === "/api/groww/report") {
     return send(res, 200, JSON.stringify(await latestGrowwReport(), null, 2));
+  }
+  if (req.url === "/api/groww/screener") {
+    return send(res, 200, JSON.stringify(await latestScreener(), null, 2));
   }
   if (req.url === "/api/groww/debug") {
     const current = await growwPortfolio();

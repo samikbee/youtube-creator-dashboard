@@ -1,0 +1,249 @@
+{
+  "updatedAt": "2026-06-23T02:05:30.196Z",
+  "dataSource": "screener-chrome-snapshot",
+  "sourceUrl": "https://www.screener.in/screen/raw/?sort=market+capitalization&order=desc&source_id=&query=Market+Capitalization+%3E+500%0D%0AAND+Current+price+%3E+50%0D%0AAND+Return+over+1day+%3E+0%0D%0AAND+Return+over+1week+%3E+0%0D%0AAND+Return+over+1month+%3E+10%0D%0AAND+Return+over+3months+%3E+25%0D%0AAND+Return+over+1year+%3E+50%0D%0AAND+Return+over+3years+%3E+50%0D%0AAND+Sales+growth+3Years+%3E+5%0D%0AAND+Profit+growth+3Years+%3E+5%0D%0AAND+Return+on+capital+employed+%3E+12%0D%0AAND+Return+on+equity+%3E+10%0D%0AAND+Debt+to+equity+%3C+1%0D%0AAND+Promoter+holding+%3E+35%0D%0AAND+Pledged+percentage+%3C+5",
+  "sourceTitle": "Query Results - Screener",
+  "resultCount": 10,
+  "pageLabel": "10 results found: Showing page 1 of 1",
+  "query": "Market Capitalization > 500\nAND Current price > 50\nAND Return over 1day > 0\nAND Return over 1week > 0\nAND Return over 1month > 10\nAND Return over 3months > 25\nAND Return over 1year > 50\nAND Return over 3years > 50\nAND Sales growth 3Years > 5\nAND Profit growth 3Years > 5\nAND Return on capital employed > 12\nAND Return on equity > 10\nAND Debt to equity < 1\nAND Promoter holding > 35\nAND Pledged percentage < 5",
+  "headers": [
+    "S.No.",
+    "Name",
+    "CMP Rs.",
+    "P/E",
+    "Mar Cap Rs.Cr.",
+    "Div Yld %",
+    "NP Qtr Rs.Cr.",
+    "Qtr Profit Var %",
+    "Sales Qtr Rs.Cr.",
+    "Qtr Sales Var %",
+    "ROCE %",
+    "3mth return %",
+    "6mth return %",
+    "1Yr return %",
+    "3Yrs return %",
+    "1day return %"
+  ],
+  "rows": [
+    {
+      "cells": [
+        "1.",
+        "Cemindia Project",
+        "1273.20",
+        "37.17",
+        "21872.00",
+        "0.24",
+        "242.17",
+        "113.63",
+        "2973.49",
+        "17.42",
+        "32.76",
+        "126.05",
+        "56.63",
+        "58.33",
+        "99.52",
+        "1.69"
+      ],
+      "href": "https://www.screener.in/company/CEMPRO/consolidated/"
+    },
+    {
+      "cells": [
+        "2.",
+        "Gabriel India",
+        "1241.90",
+        "70.43",
+        "17839.14",
+        "0.38",
+        "61.25",
+        "13.78",
+        "1110.79",
+        "19.33",
+        "27.00",
+        "40.92",
+        "18.51",
+        "109.71",
+        "87.29",
+        "3.72"
+      ],
+      "href": "https://www.screener.in/company/GABRIEL/"
+    },
+    {
+      "cells": [
+        "3.",
+        "Thangamayil Jew.",
+        "5557.00",
+        "48.87",
+        "17272.28",
+        "0.32",
+        "142.66",
+        "354.33",
+        "2839.17",
+        "105.63",
+        "25.49",
+        "54.42",
+        "69.29",
+        "196.99",
+        "96.81",
+        "1.88"
+      ],
+      "href": "https://www.screener.in/company/THANGAMAYL/"
+    },
+    {
+      "cells": [
+        "4.",
+        "Garware Hi Tech",
+        "6968.50",
+        "47.87",
+        "16189.49",
+        "0.17",
+        "108.21",
+        "39.09",
+        "596.69",
+        "8.90",
+        "18.02",
+        "90.22",
+        "118.85",
+        "74.13",
+        "100.28",
+        "2.70"
+      ],
+      "href": "https://www.screener.in/company/GRWRHITECH/consolidated/"
+    },
+    {
+      "cells": [
+        "5.",
+        "Sigma Advanced System",
+        "551.30",
+        "35.03",
+        "9716.09",
+        "0.00",
+        "128.45",
+        "1400.69",
+        "322.82",
+        "469.05",
+        "60.82",
+        "237.29",
+        "172.53",
+        "514.60",
+        "162.15",
+        "5.00"
+      ],
+      "href": "https://www.screener.in/company/SIGMAADV/consolidated/"
+    },
+    {
+      "cells": [
+        "6.",
+        "Aditya Vision",
+        "636.25",
+        "69.60",
+        "8216.41",
+        "0.17",
+        "21.73",
+        "35.98",
+        "625.03",
+        "28.42",
+        "16.97",
+        "32.46",
+        "25.09",
+        "69.62",
+        "60.07",
+        "1.01"
+      ],
+      "href": "https://www.screener.in/company/AVL/"
+    },
+    {
+      "cells": [
+        "7.",
+        "Knowledge Marine",
+        "2337.00",
+        "72.49",
+        "5712.59",
+        "0.00",
+        "23.53",
+        "140.68",
+        "67.62",
+        "42.42",
+        "16.31",
+        "46.56",
+        "28.55",
+        "179.60",
+        "58.20",
+        "12.74"
+      ],
+      "href": "https://www.screener.in/company/KMEW/consolidated/"
+    },
+    {
+      "cells": [
+        "8.",
+        "Modern Insulator",
+        "537.10",
+        "31.74",
+        "2532.10",
+        "0.00",
+        "23.84",
+        "186.54",
+        "202.51",
+        "26.60",
+        "19.40",
+        "129.68",
+        "187.60",
+        "472.11",
+        "121.28",
+        "3.49"
+      ],
+      "href": "https://www.screener.in/company/515008/consolidated/"
+    },
+    {
+      "cells": [
+        "9.",
+        "Modison",
+        "338.25",
+        "13.94",
+        "1097.62",
+        "1.03",
+        "36.00",
+        "442.75",
+        "287.32",
+        "120.90",
+        "30.86",
+        "178.58",
+        "147.58",
+        "116.97",
+        "70.00",
+        "5.00"
+      ],
+      "href": "https://www.screener.in/company/MODISONLTD/consolidated/"
+    },
+    {
+      "cells": [
+        "10.",
+        "Panache Digilife",
+        "443.00",
+        "39.50",
+        "709.42",
+        "0.00",
+        "8.51",
+        "402.27",
+        "94.55",
+        "57.53",
+        "23.67",
+        "45.25",
+        "34.90",
+        "123.78",
+        "94.45",
+        "4.04"
+      ],
+      "href": "https://www.screener.in/company/PANACHE/"
+    }
+  ],
+  "warnings": [
+    "Screener required a logged-in Chrome page; public fetch was not usable."
+  ],
+  "publicFetchError": {
+    "status": 200,
+    "title": "Register - Screener",
+    "error": "Public Screener fetch did not return a results table."
+  },
+  "stale": false,
+  "refreshedAtTokyoDate": "2026-06-23"
+}

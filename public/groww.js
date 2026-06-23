@@ -195,6 +195,39 @@ function renderQuality(portfolio) {
   `).join("");
 }
 
+function escapeHtml(value = "") {
+  return String(value)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
+function renderScreener(screener) {
+  const meta = document.querySelector("#screenerMeta");
+  const sourceLink = document.querySelector("#screenerSourceLink");
+  const head = document.querySelector("#screenerHead");
+  const body = document.querySelector("#screenerRows");
+  if (!meta || !head || !body) return;
+  const rows = screener.rows || [];
+  const headers = screener.headers || [];
+  const updated = screener.updatedAt ? dateTime(screener.updatedAt) : "No data";
+  meta.textContent = rows.length
+    ? `${screener.pageLabel || `${rows.length} results found`} · Updated ${updated} · ${screener.stale ? "stale cache" : screener.dataSource || "saved cache"}`
+    : "No Screener results saved yet. Run npm run refresh:screener.";
+  if (sourceLink && screener.sourceUrl) sourceLink.href = screener.sourceUrl;
+  head.innerHTML = headers.length ? `<tr>${headers.map((header) => `<th>${escapeHtml(header)}</th>`).join("")}</tr>` : "";
+  body.innerHTML = rows.length ? rows.map((row) => `
+    <tr>
+      ${(row.cells || []).map((cell, index) => {
+        const value = escapeHtml(cell);
+        const isName = index === 1 && row.href;
+        return `<td>${isName ? `<a href="${row.href}" target="_blank" rel="noreferrer">${value}</a>` : value}</td>`;
+      }).join("")}
+    </tr>
+  `).join("") : `<tr><td class="empty-state" colspan="${Math.max(1, headers.length)}">No Screener cache available.</td></tr>`;
+}
+
 function renderStatus(portfolio) {
   const pill = document.querySelector("#statusPill");
   const source = portfolio.dataSource || "unknown";
@@ -204,9 +237,10 @@ function renderStatus(portfolio) {
 }
 
 async function main() {
-  const [portfolio, report] = await Promise.all([
+  const [portfolio, report, screener] = await Promise.all([
     getJson("/api/groww/portfolio"),
-    getJson("/api/groww/report")
+    getJson("/api/groww/report"),
+    getJson("/api/groww/screener")
   ]);
   activePortfolio = portfolio;
   renderStatus(portfolio);
@@ -214,6 +248,7 @@ async function main() {
   renderHighlights(portfolio);
   renderTable(portfolio);
   renderQuality(portfolio);
+  renderScreener(screener);
   document.querySelector("#reportSource").textContent = report.sourceFile || "";
   document.querySelector("#reportPreview").textContent = report.markdown || "";
   bindTableSorting();

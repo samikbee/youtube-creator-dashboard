@@ -8,7 +8,8 @@
     "refresh:analytics": "node scripts/refresh-analytics.js",
     "refresh:recommendations": "node scripts/generate-daily-report.js",
     "refresh:daily": "npm run refresh:recommendations && npm run refresh:analytics",
-    "refresh:groww": "node scripts/import-groww-browser-snapshot.js"
+    "refresh:groww": "node scripts/import-groww-browser-snapshot.js",
+    "refresh:screener": "node scripts/refresh-screener.js"
   },
   "engines": {
     "node": ">=18"

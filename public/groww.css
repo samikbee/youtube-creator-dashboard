@@ -283,3 +283,78 @@ pre {
     flex-direction: column;
   }
 }
+
+
+.screener-panel {
+  margin-top: 14px;
+  overflow: hidden;
+}
+
+.screener-title-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 14px;
+}
+
+.screener-title-row h2 {
+  font-size: clamp(30px, 5vw, 56px);
+  letter-spacing: 0;
+}
+
+.screener-meta {
+  margin: 12px 0 0;
+  color: var(--muted);
+  font-size: 18px;
+}
+
+.screener-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  padding: 12px 16px;
+  background: #6557ff;
+  color: #ffffff;
+  font-weight: 800;
+  letter-spacing: .06em;
+  text-decoration: none;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.screener-table-wrap {
+  margin-top: 14px;
+}
+
+.screener-table {
+  min-width: 1640px;
+}
+
+.screener-table th {
+  color: #6557ff;
+  font-size: 15px;
+  line-height: 1.15;
+  text-transform: none;
+  white-space: normal;
+}
+
+.screener-table td {
+  font-size: 16px;
+}
+
+.screener-table tbody tr:nth-child(odd) {
+  background: #f7f7fb;
+}
+
+.screener-table a {
+  color: #4f46e5;
+  font-weight: 720;
+  text-decoration: none;
+}
+
+.screener-table a:hover {
+  text-decoration: underline;
+}
