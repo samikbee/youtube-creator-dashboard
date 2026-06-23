@@ -996,3 +996,9 @@ tbody tr:hover {
     gap: 4px;
   }
 }
+
+
+.external-nav {
+  display: block;
+  text-decoration: none;
+}

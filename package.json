@@ -7,7 +7,8 @@
     "start": "node server.js",
     "refresh:analytics": "node scripts/refresh-analytics.js",
     "refresh:recommendations": "node scripts/generate-daily-report.js",
-    "refresh:daily": "npm run refresh:recommendations && npm run refresh:analytics"
+    "refresh:daily": "npm run refresh:recommendations && npm run refresh:analytics",
+    "refresh:groww": "node scripts/import-groww-browser-snapshot.js"
   },
   "engines": {
     "node": ">=18"

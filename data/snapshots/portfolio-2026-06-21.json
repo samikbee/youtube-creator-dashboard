@@ -1,0 +1,36 @@
+{
+  "updatedAt": "2026-06-21T14:00:11.469Z",
+  "asOf": "2026-06-21",
+  "dataSource": "groww-api-yahoo-cache",
+  "stale": false,
+  "reportFile": "/Users/samikbis/Documents/Codex/Groww Automation/outputs/daily-report-2026-06-21.md",
+  "totals": {
+    "currentValue": 0,
+    "investedValue": 0,
+    "dayReturnValue": null,
+    "dayReturnPct": null,
+    "totalReturnValue": 0,
+    "totalReturnPct": null,
+    "holdingsCount": 0
+  },
+  "trendHorizons": [
+    "day",
+    "week",
+    "month",
+    "quarter",
+    "halfYear",
+    "year1",
+    "year3"
+  ],
+  "holdings": [],
+  "dataQualityNotes": [
+    "Holdings come from Groww API.",
+    "Long-horizon trend data may use Yahoo Finance fallback.",
+    "Missing values are preserved as null in JSON and N/A in reports.",
+    "Email delivery is disabled in the local command center."
+  ],
+  "warnings": [
+    "Groww returned no usable holdings or positions rows."
+  ],
+  "errors": []
+}

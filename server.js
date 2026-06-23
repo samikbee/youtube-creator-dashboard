@@ -202,7 +202,87 @@ async function recommendationHistory() {
   return recommendationHistoryFromReports();
 }
 
+
+async function growwPortfolio() {
+  const cached = await readJsonOrNull("latest-portfolio.json");
+  if (cached && (cached.holdings || []).length) return cached;
+  return {
+    updatedAt: null,
+    dataSource: "groww-cache-missing",
+    stale: true,
+    totals: {
+      currentValue: null,
+      investedValue: null,
+      dayReturnValue: null,
+      dayReturnPct: null,
+      totalReturnValue: null,
+      totalReturnPct: null,
+      holdingsCount: 0
+    },
+    holdings: [],
+    warnings: ["No Groww portfolio cache is available yet. Run npm run refresh:groww locally after opening the Groww holdings page."]
+  };
+}
+
+function hasGrowwCredentials() {
+  return Boolean(
+    process.env.GROWW_API_AUTH_TOKEN
+    || (process.env.GROWW_TOTP_TOKEN && process.env.GROWW_TOTP_SECRET)
+    || (process.env.GROWW_API_KEY && (process.env.GROWW_API_SECRET || process.env.GROWW_API_TOTP))
+  );
+}
+
+async function latestGrowwReport() {
+  const files = (await readdir(outputsDir))
+    .filter((name) => /^groww-daily-report-\d{4}-\d{2}-\d{2}\.md$/.test(name))
+    .sort();
+  const latest = files.at(-1);
+  if (!latest) {
+    return {
+      sourceFile: null,
+      markdown: "No Groww report file found yet. Run npm run refresh:groww locally to update the saved portfolio snapshot."
+    };
+  }
+  return {
+    sourceFile: latest,
+    markdown: await readFile(join(outputsDir, latest), "utf8")
+  };
+}
+
 async function routeApi(req, res) {
+  if (req.url === "/api/groww/portfolio") {
+    return send(res, 200, JSON.stringify(await growwPortfolio(), null, 2));
+  }
+  if (req.url === "/api/groww/report") {
+    return send(res, 200, JSON.stringify(await latestGrowwReport(), null, 2));
+  }
+  if (req.url === "/api/groww/debug") {
+    const current = await growwPortfolio();
+    const report = await latestGrowwReport();
+    return send(res, 200, JSON.stringify({
+      portfolioCacheFile: join(dataDir, "latest-portfolio.json"),
+      reportSourceFile: report.sourceFile,
+      dataSource: current.dataSource,
+      updatedAt: current.updatedAt || null,
+      stale: Boolean(current.stale),
+      holdings: current.holdings?.length || 0,
+      browserSnapshot: current.browserSnapshot || null,
+      growwCredentialsConfigured: hasGrowwCredentials(),
+      pageRequestsUseCachedFiles: true,
+      note: "Groww is served as a saved public snapshot inside the creator dashboard."
+    }, null, 2));
+  }
+  if (req.url === "/api/groww/integrations") {
+    return send(res, 200, JSON.stringify({
+      growwApi: hasGrowwCredentials(),
+      yahooFallback: true,
+      portfolioProvider: "data/latest-portfolio.json",
+      reportProvider: "outputs/groww-daily-report-YYYY-MM-DD.md",
+      gmailDelivery: false,
+      note: "The deployed page reads saved Groww files only. Refresh locally with npm run refresh:groww."
+    }, null, 2));
+  }
+
   if (req.url === "/api/analytics") {
     return send(res, 200, JSON.stringify(await analytics()));
   }
@@ -249,7 +329,7 @@ const server = createServer(async (req, res) => {
     const url = new URL(req.url || "/", `http://${req.headers.host}`);
     if (url.pathname.startsWith("/api/")) return routeApi({ ...req, url: url.pathname }, res);
 
-    const pathname = url.pathname === "/" ? "/index.html" : decodeURIComponent(url.pathname);
+    const pathname = url.pathname === "/" ? "/index.html" : url.pathname === "/groww" ? "/groww.html" : decodeURIComponent(url.pathname);
     const filePath = resolve(join(publicDir, pathname));
     if (!filePath.startsWith(publicDir)) return send(res, 403, "Forbidden", "text/plain");
     const body = await readFile(filePath);

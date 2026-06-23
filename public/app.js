@@ -228,20 +228,24 @@ function averageVideos(videos, key) {
 }
 
 function linkFor(item) {
-  return item.links?.find((link) => link.url.includes("youtube.com")) || item.links?.[0];
+  if (!item) return null;
+  return item.links?.find((link) => link.url.includes("youtube.com")) || item.links?.[0] || null;
 }
 
 function summarize(item) {
+  if (!item) return "";
   return item.summary || item["30_second_hook_angle"] || item.short_summary || item.why_it_matters || item.why_it_is_trending_or_likely_to_perform || "";
 }
 
 function engagementSignal(item) {
+  if (!item) return "";
   return item.engagement_signal || item.engagement_signal_if_available || item.why_it_matters || "";
 }
 
 function benchmarkForChannel(channel) {
   const isMystery = channel.id === "zero-known" || channel.handle === "@Zero_Known";
-  const items = isMystery ? state.recommendations?.mystery || [] : state.recommendations?.ai || [];
+  const items = (isMystery ? state.recommendations?.mystery || [] : state.recommendations?.ai || [])
+    .filter(Boolean);
   return items.find((item) => engagementSignal(item)) || items[0] || null;
 }
 
