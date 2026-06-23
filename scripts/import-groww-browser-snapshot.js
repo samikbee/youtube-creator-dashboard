@@ -283,20 +283,26 @@ function parseRowBlock(block, index) {
 }
 
 function parseRows(text, rowBlocks = []) {
-  if (rowBlocks.length) {
-    return rowBlocks.map(parseRowBlock).filter(Boolean);
-  }
   const lines = text.split(/\r?\n/).map((line) => line.trim()).filter(Boolean);
-  const rows = [];
+  const rows = rowBlocks.map(parseRowBlock).filter(Boolean);
+
+  const addRow = (row) => {
+    if (!row) return;
+    const key = normalizeName(row.name);
+    if (!key || rows.some((existing) => normalizeName(existing.name) === key)) return;
+    rows.push({ ...row, index: rows.length });
+  };
+
   for (let i = 0; i < lines.length; i += 1) {
     const qtyMatch = lines[i].match(/^(\d+(?:\.\d+)?)\s+shares$/i);
     if (!qtyMatch) continue;
     const symbol = lines[i - 1] || "";
-    const name = lines[i - 2] || symbol;
-    if (!/^[A-Z0-9&.-]{2,}$/.test(symbol)) continue;
+    const hasSymbolLine = /^[A-Z0-9&.-]{2,}$/.test(symbol);
+    const name = hasSymbolLine ? lines[i - 2] || symbol : symbol;
+    if (!name || /^Avg\./i.test(name)) continue;
 
     const nextQty = lines.findIndex((line, offset) => offset > i && /^\d+(?:\.\d+)?\s+shares$/i.test(line));
-    const segment = lines.slice(i, nextQty === -1 ? Math.min(lines.length, i + 28) : nextQty);
+    const segment = lines.slice(i, nextQty === -1 ? Math.min(lines.length, i + 28) : Math.max(i + 1, nextQty - 1));
     const avgLine = segment.find((line) => /^Avg\./i.test(line));
     const moneyLines = segment.map(parseMoney).filter((value) => value !== null);
     const currentLabel = segment.findIndex((line) => /^Current$/i.test(line));
@@ -306,10 +312,10 @@ function parseRows(text, rowBlocks = []) {
     const currentPrice = moneyLines.find((value) => value !== n(avgLine)) ?? null;
     const pnlPct = currentValue !== null && investedValue ? ((currentValue - investedValue) / investedValue) * 100 : null;
 
-    rows.push({
+    addRow({
       index: rows.length,
       name,
-      symbol,
+      symbol: hasSymbolLine ? symbol : null,
       quantity: n(qtyMatch[1]),
       averagePrice: n(avgLine),
       currentPrice,
@@ -406,7 +412,13 @@ function buildNameToSymbol(displayNames) {
     ["sbi", "SBIN"],
     ["landt", "LT"],
     ["groww", "GROWW"],
-    ["imfa", "IMFA"]
+    ["imfa", "IMFA"],
+    ["tatamotorspassenger", "TMPV"],
+    ["lumaxautotech", "LUMAXTECH"],
+    ["syngeneintl", "SYNGENE"],
+    ["iocl", "IOC"],
+    ["meghnainfraconinf", "MIIL"],
+    ["marutisuzuki", "MARUTI"]
   ]);
 }
 
