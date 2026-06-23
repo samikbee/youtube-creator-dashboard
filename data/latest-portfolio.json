@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T12:40:46.879Z",
+  "updatedAt": "2026-06-23T12:46:09.137Z",
   "asOf": "2026-06-22",
   "dataSource": "groww-browser-snapshot-api-trends",
   "stale": false,
@@ -34,7 +34,7 @@
       "investedValue": 13967,
       "pnlValue": -872,
       "pnlPct": -6.243287749695711,
-      "day": 1.28,
+      "day": -1.28,
       "week": 1.4919663351185921,
       "month": -2.0671834625323,
       "quarter": -6.041935534633883,
@@ -56,7 +56,7 @@
       "investedValue": 2529.3,
       "pnlValue": -470.7000000000003,
       "pnlPct": -18.609892064998228,
-      "day": 3.39,
+      "day": -3.39,
       "week": -6.123887435448965,
       "month": -9.28905709543955,
       "quarter": -16.654933605708415,
@@ -78,7 +78,7 @@
       "investedValue": 1442.9,
       "pnlValue": -193.6500000000001,
       "pnlPct": -13.420888488460744,
-      "day": 1.88,
+      "day": -1.88,
       "week": -0.9914534173871876,
       "month": 1.8803748772261148,
       "quarter": -7.6518607809666825,
@@ -100,7 +100,7 @@
       "investedValue": 18604.3,
       "pnlValue": 2292.7000000000007,
       "pnlPct": 12.32349510597013,
-      "day": 0.52,
+      "day": -0.52,
       "week": 0.7554319505840336,
       "month": 6.995866658160978,
       "quarter": 19.46370980310539,
@@ -109,7 +109,7 @@
       "year3": 75.81970324278778,
       "browserSnapshotMatched": true,
       "priceSource": null,
-      "displayName": "L&T"
+      "displayName": "Larsen & Toubro"
     },
     {
       "name": "AEROFLEX",
@@ -122,7 +122,7 @@
       "investedValue": 35375.24,
       "pnlValue": 7861.260000000002,
       "pnlPct": 22.222492342101432,
-      "day": 1.35,
+      "day": -1.35,
       "week": 6.6213376352477775,
       "month": 26.448333787885375,
       "quarter": 102.16986048640003,
@@ -144,7 +144,7 @@
       "investedValue": 44310,
       "pnlValue": -5577.5,
       "pnlPct": -12.587452042428346,
-      "day": 1.49,
+      "day": -1.49,
       "week": 1.164218062952071,
       "month": 2.55608202048976,
       "quarter": 2.8108248547213313,
@@ -166,7 +166,7 @@
       "investedValue": 46317.5,
       "pnlValue": 4892.5,
       "pnlPct": 10.562962163329196,
-      "day": 1.59,
+      "day": -1.59,
       "week": 1.9493583670451162,
       "month": 9.644962770291311,
       "quarter": 0.965264910802701,
@@ -175,7 +175,7 @@
       "year3": 87.65777962763931,
       "browserSnapshotMatched": true,
       "priceSource": null,
-      "displayName": "SBI"
+      "displayName": "State Bank of India"
     },
     {
       "name": "THANGAMAYL",
@@ -188,7 +188,7 @@
       "investedValue": 22691.5,
       "pnlValue": 4198.5,
       "pnlPct": 18.5025229711566,
-      "day": 3.22,
+      "day": -3.22,
       "week": 1.0088157775152231,
       "month": 45.574095012676466,
       "quarter": 67.91563920892357,
@@ -197,7 +197,7 @@
       "year3": 638.6190177878525,
       "browserSnapshotMatched": true,
       "priceSource": null,
-      "displayName": "Thangamayil Jeweller"
+      "displayName": "Thangamayil Jewellery"
     },
     {
       "name": "KMEW",
@@ -210,7 +210,7 @@
       "investedValue": 46688,
       "pnlValue": 11589.5,
       "pnlPct": 24.82329506511309,
-      "day": 0.25,
+      "day": -0.25,
       "week": 18.46106762761972,
       "month": 13.035066505441353,
       "quarter": 51.36010362694301,
@@ -219,7 +219,7 @@
       "year3": null,
       "browserSnapshotMatched": true,
       "priceSource": null,
-      "displayName": "Knowledge Marine"
+      "displayName": "Knowledge Marine & Engineering Works"
     },
     {
       "name": "GROWW",
@@ -232,7 +232,7 @@
       "investedValue": 44965,
       "pnlValue": 3662.5,
       "pnlPct": 8.145224063160237,
-      "day": 1.58,
+      "day": -1.58,
       "week": -4.683125121336592,
       "month": 5.239901990776798,
       "quarter": 22.50805598193311,
@@ -254,7 +254,7 @@
       "investedValue": 20799.5,
       "pnlValue": 430.5,
       "pnlPct": 2.0697612923387583,
-      "day": 2.57,
+      "day": -2.57,
       "week": 5.920668870309158,
       "month": 3.9301726604979494,
       "quarter": 16.68630181000321,
@@ -263,7 +263,7 @@
       "year3": 59.463142886750454,
       "browserSnapshotMatched": true,
       "priceSource": null,
-      "displayName": "Bajaj Hold & Invest"
+      "displayName": "Bajaj Holdings & Investment"
     },
     {
       "name": "TITANBIO",
@@ -276,7 +276,7 @@
       "investedValue": 9640,
       "pnlValue": -1287,
       "pnlPct": -13.350622406639005,
-      "day": 2.68,
+      "day": -2.68,
       "week": null,
       "month": null,
       "quarter": null,
@@ -298,7 +298,7 @@
       "investedValue": 15328,
       "pnlValue": -828,
       "pnlPct": -5.40187891440501,
-      "day": 0.43,
+      "day": -0.43,
       "week": 1.1636006163724106,
       "month": -3.463709573820066,
       "quarter": 0,
@@ -320,7 +320,7 @@
       "investedValue": 10151.25,
       "pnlValue": -1287.5,
       "pnlPct": -12.683167097648074,
-      "day": 1.92,
+      "day": -1.92,
       "week": -8.80423673911512,
       "month": -0.509152627615086,
       "quarter": 16.1632345179684,
@@ -329,7 +329,7 @@
       "year3": -35.40606017511031,
       "browserSnapshotMatched": true,
       "priceSource": null,
-      "displayName": "Tata Motors Passenger"
+      "displayName": "Tata Motors Passenger Vehicles"
     },
     {
       "name": "GVT&D",
@@ -342,7 +342,7 @@
       "investedValue": 19705.6,
       "pnlValue": 1910.4000000000015,
       "pnlPct": 9.694706073400463,
-      "day": 1.65,
+      "day": -1.65,
       "week": 14.337738008531892,
       "month": 13.300340241261985,
       "quarter": 56.05385419626635,
@@ -364,7 +364,7 @@
       "investedValue": 14690,
       "pnlValue": -373,
       "pnlPct": -2.539142273655548,
-      "day": 0.84,
+      "day": -0.84,
       "week": -0.07613025549837543,
       "month": 3.5204729469669833,
       "quarter": 4.095175241200535,
@@ -373,7 +373,7 @@
       "year3": 61.67973118559762,
       "browserSnapshotMatched": true,
       "priceSource": null,
-      "displayName": "IOCL"
+      "displayName": "Indian Oil Corporation"
     },
     {
       "name": "GODFRYPHLP",
@@ -386,7 +386,7 @@
       "investedValue": 10924.9,
       "pnlValue": 264.60000000000036,
       "pnlPct": 2.4219901326327964,
-      "day": 2.17,
+      "day": -2.17,
       "week": 2.1614928340385595,
       "month": -1.1963871026519937,
       "quarter": 20.55863492259552,
@@ -395,7 +395,7 @@
       "year3": 309.1331789297511,
       "browserSnapshotMatched": true,
       "priceSource": null,
-      "displayName": "Godfrey Phillips"
+      "displayName": "Godfrey Phillips India"
     },
     {
       "name": "PRECWIRE",
@@ -408,7 +408,7 @@
       "investedValue": 12042.9,
       "pnlValue": 608.1000000000004,
       "pnlPct": 5.049448222604193,
-      "day": 0.25,
+      "day": -0.25,
       "week": 4.692920450692798,
       "month": 1.8306651126702531,
       "quarter": 37.99575373834099,
@@ -417,7 +417,7 @@
       "year3": 404.4749219625861,
       "browserSnapshotMatched": true,
       "priceSource": null,
-      "displayName": "Precision Wires"
+      "displayName": "Precision Wires India"
     },
     {
       "name": "BHARTIARTL",
@@ -430,7 +430,7 @@
       "investedValue": 9982.7,
       "pnlValue": -474.7000000000007,
       "pnlPct": -4.755226541917524,
-      "day": 0.78,
+      "day": -0.78,
       "week": 4.0951567680670635,
       "month": 2.415301409757497,
       "quarter": 6.353698548981518,
@@ -452,7 +452,7 @@
       "investedValue": 4360,
       "pnlValue": 0,
       "pnlPct": 0,
-      "day": 1.67,
+      "day": -1.67,
       "week": -2.227123727346334,
       "month": -3.9948060979122304,
       "quarter": 11.169609404846408,
@@ -461,7 +461,7 @@
       "year3": -39.047359068530284,
       "browserSnapshotMatched": true,
       "priceSource": null,
-      "displayName": "Syngene Intl"
+      "displayName": "Syngene International"
     },
     {
       "name": "BLISSGVS",
@@ -474,7 +474,7 @@
       "investedValue": 47000,
       "pnlValue": 11756.25,
       "pnlPct": 25.013297872340424,
-      "day": 0.68,
+      "day": -0.68,
       "week": 7.666935079726176,
       "month": 57.56616959644555,
       "quarter": 129.1212747556396,
@@ -518,7 +518,7 @@
       "investedValue": 35867,
       "pnlValue": 173,
       "pnlPct": 0.4823375247441938,
-      "day": 2.72,
+      "day": -2.72,
       "week": -0.09169363538295577,
       "month": -6.816581144984404,
       "quarter": -13.786362578543171,
@@ -563,7 +563,7 @@
       "investedValue": 10626.5,
       "pnlValue": 2288.5,
       "pnlPct": 21.535783183550556,
-      "day": 2.55,
+      "day": -2.55,
       "week": -1.7787727263217357,
       "month": -0.15069670207832228,
       "quarter": 105.24236413633943,
@@ -607,7 +607,7 @@
       "investedValue": 5722.5,
       "pnlValue": 415,
       "pnlPct": 7.2520751419834,
-      "day": 1.64,
+      "day": -1.64,
       "week": 4.962146189044552,
       "month": 14.128935192796135,
       "quarter": 38.1294936691224,
@@ -629,7 +629,7 @@
       "investedValue": 11234.8,
       "pnlValue": 1396.2000000000007,
       "pnlPct": 12.427457542635391,
-      "day": 1.32,
+      "day": -1.32,
       "week": 0.9543319940804709,
       "month": 22.009344179528885,
       "quarter": 30.532330396516898,
@@ -660,7 +660,7 @@
       "year3": 43.88944583142039,
       "browserSnapshotMatched": true,
       "priceSource": null,
-      "displayName": "Maruti Suzuki"
+      "displayName": "Maruti Suzuki India"
     },
     {
       "name": "INDIGO",
@@ -673,7 +673,7 @@
       "investedValue": 9294.2,
       "pnlValue": 628.5999999999985,
       "pnlPct": 6.763357793032197,
-      "day": 1.19,
+      "day": -1.19,
       "week": 2.8829644727459836,
       "month": 13.123507123509103,
       "quarter": 20.967050542546513,
@@ -682,7 +682,7 @@
       "year3": 102.86862885999484,
       "browserSnapshotMatched": true,
       "priceSource": null,
-      "displayName": "Interglobe Aviation"
+      "displayName": "InterGlobe Aviation"
     },
     {
       "name": "LODHA",
@@ -695,7 +695,7 @@
       "investedValue": 8887.4,
       "pnlValue": 220.10000000000036,
       "pnlPct": 2.4765398204199247,
-      "day": 1.72,
+      "day": -1.72,
       "week": 0.6298581725469912,
       "month": 4.499579860621652,
       "quarter": 27.567455020603564,
@@ -717,7 +717,7 @@
       "investedValue": 19473.9,
       "pnlValue": 4893.5999999999985,
       "pnlPct": 25.12901884060203,
-      "day": 0.79,
+      "day": -0.79,
       "week": -3.0089467131974614,
       "month": 7.503942521806685,
       "quarter": 60.36627550209801,
@@ -739,7 +739,7 @@
       "investedValue": 13470,
       "pnlValue": -522.5,
       "pnlPct": -3.878990348923534,
-      "day": 1.78,
+      "day": -1.78,
       "week": 4.623013450985863,
       "month": 8.96879405742842,
       "quarter": 10.805241317676005,
@@ -748,7 +748,7 @@
       "year3": 255.56303232774522,
       "browserSnapshotMatched": true,
       "priceSource": null,
-      "displayName": "Eternal (Zomato)"
+      "displayName": "Eternal"
     },
     {
       "name": "PRESTIGE",
@@ -770,7 +770,7 @@
       "year3": 162.26807143833096,
       "browserSnapshotMatched": true,
       "priceSource": null,
-      "displayName": "Prestige Estates"
+      "displayName": "Prestige Estates Projects"
     },
     {
       "name": "ANTELOPUS",
@@ -783,7 +783,7 @@
       "investedValue": 6270,
       "pnlValue": 1729,
       "pnlPct": 27.575757575757574,
-      "day": 1.73,
+      "day": -1.73,
       "week": 2.415855578110255,
       "month": 17.014094418476912,
       "quarter": 53.923984681652826,
@@ -792,7 +792,7 @@
       "year3": 164.7422279687314,
       "browserSnapshotMatched": true,
       "priceSource": null,
-      "displayName": "Antelopus Selan Ener"
+      "displayName": "Antelopus Energy"
     },
     {
       "name": "MTARTECH",
@@ -805,7 +805,7 @@
       "investedValue": 63484.8,
       "pnlValue": 17735.199999999997,
       "pnlPct": 27.93613589394626,
-      "day": 2.08,
+      "day": -2.08,
       "week": 12.942538126361654,
       "month": 2.711906383505665,
       "quarter": 133.85868630346195,
@@ -827,7 +827,7 @@
       "investedValue": 23149.95,
       "pnlValue": 811.0499999999993,
       "pnlPct": 3.5034632904174705,
-      "day": 3.35,
+      "day": -3.35,
       "week": -1.6131897846355343,
       "month": 1.7170302169281597,
       "quarter": 5.15332723525429,
@@ -836,7 +836,7 @@
       "year3": 391.61213230722143,
       "browserSnapshotMatched": true,
       "priceSource": null,
-      "displayName": "Lumax Auto Tech"
+      "displayName": "Lumax Auto Technologies"
     },
     {
       "name": "MIIL",
@@ -849,7 +849,7 @@
       "investedValue": 28335.5,
       "pnlValue": 9612,
       "pnlPct": 33.92211183850647,
-      "day": 0.01,
+      "day": -0.01,
       "week": null,
       "month": null,
       "quarter": null,
@@ -858,7 +858,7 @@
       "year3": null,
       "browserSnapshotMatched": true,
       "priceSource": null,
-      "displayName": "Meghna Infracon Inf."
+      "displayName": "Meghna Infracon Infrastructure"
     },
     {
       "name": "IMFA",
@@ -866,12 +866,12 @@
       "yahooSymbol": "IMFA.NS",
       "quantity": 25,
       "averagePrice": 1411.64,
-      "currentPrice": 1411.64,
+      "currentPrice": 1380.5,
       "currentValue": 34512.5,
       "investedValue": 35291,
       "pnlValue": -778.5,
       "pnlPct": -2.2059448584624977,
-      "day": 3.45,
+      "day": -3.45,
       "week": -0.8940964775084527,
       "month": -0.23024887456312504,
       "quarter": 19.257716798503964,
@@ -880,7 +880,7 @@
       "year3": 372.1479265631303,
       "browserSnapshotMatched": true,
       "priceSource": null,
-      "displayName": "Company\t\tMarket price (1D%)\tReturns (%)\tCurrent (Invested)"
+      "displayName": "Indian Metals & Ferro Alloys"
     },
     {
       "name": "KSHINTL",
@@ -915,7 +915,7 @@
       "investedValue": 32567.67,
       "pnlValue": 2511,
       "pnlPct": 7.710100231303008,
-      "day": 1.76,
+      "day": -1.76,
       "week": -2.5864091891686893,
       "month": -7.171935754298148,
       "quarter": 4.8925303078129225,
@@ -924,7 +924,7 @@
       "year3": null,
       "browserSnapshotMatched": true,
       "priceSource": null,
-      "displayName": "TATAGOLD"
+      "displayName": "Tata Gold ETF"
     }
   ],
   "dataQualityNotes": [
@@ -940,10 +940,10 @@
   "staleReason": "Groww holdings refreshed, but the API token cannot access live prices. Existing cache was not replaced. Enable the Groww browser snapshot flow with npm run refresh:browser.",
   "lastRefreshErrorAt": "2026-06-22T11:20:23.664Z",
   "browserSnapshot": {
-    "importedAt": "2026-06-23T12:40:46.879Z",
+    "importedAt": "2026-06-23T12:46:09.137Z",
     "sourceTitle": "Invest in Stocks: Explore LIVE NSE/BSE on Groww",
     "sourceUrl": "https://groww.in/stocks/user/holdings",
-    "parsedRows": 41,
+    "parsedRows": 40,
     "matchedRows": 40
   }
 }

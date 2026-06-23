@@ -224,6 +224,18 @@ function parsePercent(text) {
   return n((text.match(/[-+]?\d[\d,]*(?:\.\d+)?\s*%/) || [null])[0]);
 }
 
+function parseSignedPercent(text) {
+  const value = parsePercent(text);
+  if (value === null) return null;
+  const percentIndex = String(text).search(/[-+]?\d[\d,]*(?:\.\d+)?\s*%/);
+  const percentText = percentIndex >= 0 ? String(text).slice(percentIndex) : "";
+  if (/^[+-]/.test(percentText.trim())) return value;
+  const prefix = percentIndex >= 0 ? String(text).slice(0, percentIndex) : String(text);
+  if (/-\s*(?:₹|Rs\.?)?\s*\d/i.test(prefix)) return -Math.abs(value);
+  if (/\+\s*(?:₹|Rs\.?)?\s*\d/i.test(prefix)) return Math.abs(value);
+  return value;
+}
+
 function parseSummary(text) {
   const lines = text.split(/\r?\n/).map((line) => line.trim()).filter(Boolean);
   const nearby = (label) => {
@@ -239,7 +251,7 @@ function parseSummary(text) {
   };
   const getPercentAfter = (label) => {
     for (const line of nearby(label)) {
-      const value = parsePercent(line);
+      const value = parseSignedPercent(line);
       if (value !== null) return value;
     }
     return null;
@@ -269,7 +281,7 @@ function parseRowBlock(block, index) {
   const investedValue = moneyLines.at(-1) ?? null;
   const pnlValue = currentValue !== null && investedValue !== null ? currentValue - investedValue : null;
   const pnlPct = pnlValue !== null && investedValue ? (pnlValue / investedValue) * 100 : null;
-  const dayPct = parsePercent(lines.find((line) => /\([-+]?\d/.test(line)) || "");
+  const dayPct = parseSignedPercent(lines.find((line) => /\([-+]?\d/.test(line)) || "");
   return {
     index,
     name,
@@ -291,8 +303,9 @@ function parseRows(text, rowBlocks = []) {
 
   const isRowName = (value) => (
     value
+    && !/company.*market price/i.test(value)
     && parseMoney(value) === null
-    && parsePercent(value) === null
+    && parseSignedPercent(value) === null
     && !/^\d+(?:\.\d+)?\s+shares$/i.test(value)
     && !/^Avg\./i.test(value)
     && !/^[-+]?₹/.test(value)
@@ -343,7 +356,7 @@ function parseRows(text, rowBlocks = []) {
       investedValue,
       pnlValue: currentValue !== null && investedValue !== null ? currentValue - investedValue : null,
       pnlPct,
-      day: parsePercent(segment.find((line) => /\([-+]?\d/.test(line)) || "")
+      day: parseSignedPercent(segment.find((line) => /\([-+]?\d/.test(line)) || "")
     });
   }
   return rows;
@@ -352,9 +365,7 @@ function parseRows(text, rowBlocks = []) {
 function applyDisplayNames(holdings, displayNames) {
   return holdings.map((holding) => ({
     ...holding,
-    displayName: holding.browserSnapshotMatched && holding.displayName
-      ? holding.displayName
-      : displayNames[holding.symbol] || holding.displayName || holding.name
+    displayName: displayNames[holding.symbol] || holding.displayName || holding.name
   }));
 }
 
@@ -496,9 +507,7 @@ function mergeHoldings(apiHoldings, browserRows, displayNames) {
     };
   }).map((holding) => ({
     ...holding,
-    displayName: holding.browserSnapshotMatched
-      ? holding.displayName
-      : displayNames[holding.symbol] || holding.displayName || holding.name
+    displayName: displayNames[holding.symbol] || holding.displayName || holding.name
   }));
 }
 
