@@ -1,12 +1,44 @@
 {
-  "updatedAt": "2026-06-26T22:08:53.609Z",
+  "updatedAt": "2026-06-27T21:59:54.741Z",
   "maxItems": 1000,
   "items": [
     {
-      "id": "2026-06-27-ai-1-openai launches full scale effort to",
-      "date": "2026-06-27",
+      "id": "2026-06-28-ai-1-openai and anthropic limit new ai mo",
+      "date": "2026-06-28",
       "type": "ai",
       "number": 1,
+      "title": "OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Broadband Breakfast",
+      "links": [
+        {
+          "label": "Broadband Breakfast",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNkI3VnZEdkRvcUFGNjVlSjdYUWpUV2gxOHFiZVRTOXN2UVRDcmRQXzE1dkUtSEx2aXB0THV2Q3ZValJsd0JnaDhaaWdoSXNITHR3QWlWbHVZdlQ1TElUazNaMlpOZW1EYzA4R0M1NDRmYUFxU2x3dEFESVZIY2x0a3dNLTZCakxkOG9jdG1mRmxDUWdtRFA5a18zbDNILTdZU2JnQVdMcUpCS0pMbm8zUkxiR0hIR3c0UWo0MnVBaHlTRU1KZm9Z?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-06-28-ai-2-trump administration partially lifts",
+      "date": "2026-06-28",
+      "type": "ai",
+      "number": 2,
+      "title": "Trump administration partially lifts Anthropic’s AI export ban",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Politico",
+      "links": [
+        {
+          "label": "Politico",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNjFnWVhNeF80dHJBV3VVbXlQbFdGNk8xUm11amJ5dlloS0VEb2hxeHRhdlBmS2VtcklrUmh3NXAzUktiblF1NjBKZzR5SEVOMmYtZXotaE41RGxWREJnZElzdUxkSVIyVTJtWG83SkEwb3hxZ2p1WW5fNjFKTTlDNmlEQTlCNGVyTS1XRUMwejlTVlpVRndMYVYzdFU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-06-28-ai-3-openai launches full scale effort to",
+      "date": "2026-06-28",
+      "type": "ai",
+      "number": 3,
       "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on ...",
       "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
       "signal": "Public news/RSS pickup",
@@ -19,10 +51,42 @@
       ]
     },
     {
-      "id": "2026-06-27-ai-2-nokia and google cloud partner to em",
-      "date": "2026-06-27",
+      "id": "2026-06-28-ai-4-supporting students with connected a",
+      "date": "2026-06-28",
       "type": "ai",
-      "number": 2,
+      "number": 4,
+      "title": "Supporting students with connected AI tools for more personalized learning",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "blog.google",
+      "links": [
+        {
+          "label": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRzBxSklkdS0xR0hxNGxuLUNQc0IwekxDMVBCazQtNTVGdEVpdlZIQmF1blhpd2hqN2pDNW5vQngwYnp4RHNyelZUanBlek5pX1luZDFVTmdqbFB5b2dfT2Rnb21NX29PQUZsSHFRa0JJUFFNUnQzSDc5T3pDUnhYLVBfbDNpQWJt?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-06-28-ai-5-openai limits its latest chatgpt pro",
+      "date": "2026-06-28",
+      "type": "ai",
+      "number": 5,
+      "title": "OpenAI limits its latest ChatGPT product to Trump-approved customers during...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "links": [
+        {
+          "label": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcDFWbmRXOWFqV09XOERpbGpCd3ExZXBkZVNRT3lrY2xsajRQenJHbVd2V2J1aTJMTFI5Zk9IdHg1UGlPbnlTV2ZVaFNaWk5xLWw3VGxTWHlvZGdCY1RqUVNjZ0drQ2JQQ3B2TWRKLUhFdmVFSnphbE5Ec0IzcExUVHU0NGJodl80MFBaaG5BNkpJWnJyZjVtOVJsZFdFMndnS05RNUk2VVU4WnBnVm1sODhn0gG3AUFVX3lxTE4tOHNycEQwR2sxeUtYUWViclF6R05KT093YVhHMXFCbk9fT0VldDdGWUdVbTJ0Y0g5eElmY1RQSWR4OFBvampXaDlCYlNMQWdZN2dMNUhkb09IcGdFYmRGa2VBcU5wZ0dtcmlPSGQ3S0htSDQxQTRwUWxOVFMwN0dIcjA1R1l6US1QSzVyc281eEMtckJvQjFvSGdQYWdYeW5KNDlobjdoS2FKNWZCVXFEN3dtNDYtSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-06-28-ai-6-nokia and google cloud partner to em",
+      "date": "2026-06-28",
+      "type": "ai",
+      "number": 6,
       "title": "Nokia and Google Cloud Partner to Embed AI Agents, Built with Google's Gemi...",
       "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
       "signal": "Public news/RSS pickup",
@@ -31,6 +95,246 @@
         {
           "label": "PR Newswire",
           "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPb2VFemhTNEc1YXQycGY5LWV6RGpkSXZpWmt3NjBHTnlTbDdMdUsxWlZCN0xRNmhYN255M1lKd0J1ZExlRlhiQklOZExBNTEzWC1Ea2Y2djNoRTZtZDFxcGRjT3hwV2NMUVpva3JLemtWSGpWdkFtQ2VXd1QwU2xXNklnRVJkaFE4YmhKQVVIc2FpYmFlajdxOWpRM0xJLU9PU2VCbjQ5RjFDbXZiRzhVNXFDRjdyRl9ieDFWVXBlSnNXRnd6dmtaXzBLeGt0bkhLYktvR0hKZW1Kd1JfZjdNeXNIaTVVRmMtRW9YZ2lGNE5hU3gtMkFTbURGaHF1MEgtdVFkbkJvOHAwTzB4d3BlUw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-06-28-ai-7-who s suing ai and who s signing col",
+      "date": "2026-06-28",
+      "type": "ai",
+      "number": 7,
+      "title": "Who's suing AI and who's signing: Collective of US local newspapers sue Ope...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Press Gazette",
+      "links": [
+        {
+          "label": "Press Gazette",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-06-28-ai-8-artificial intelligence ai update ju",
+      "date": "2026-06-28",
+      "type": "ai",
+      "number": 8,
+      "title": "Artificial Intelligence - AI Update, June 26, 2026: AI News and Views From ...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "MarketingProfs",
+      "links": [
+        {
+          "label": "MarketingProfs",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeTdIMGwxcmdmZmY4SmhUT0FpOERIUGhubFJxQVBDSnEzdWZLbENBbE1vdVhCaW1yRlpqblNKN0tMMFdpTmZxTDJhTmZ0MjJKa1owQUhzZ29GOTdkemxNeEQ2QnFmN3F3OUpPZXhyMUZ5MnVKcEpaOGFfTEJZX1I5blUxS0xXVmRNQ0ZOUXl1NEE5UVJwckJrOWNxbk94VjJpYVltTFhFaVZvZDluNmJN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-06-28-ai-9-best ai chatbots we ve tested for 20",
+      "date": "2026-06-28",
+      "type": "ai",
+      "number": 9,
+      "title": "Best AI Chatbots We've Tested for 2026",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "PCMag",
+      "links": [
+        {
+          "label": "PCMag",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDTXVpMzZxQVdvX09FQmZpRmhlakFMbXd4amc4RDNOZkNMdkpnUldvQnZZOFNMSzZYQ3NZaHlQZXhTZmdBVEowTkVpbGlobEUzQWNWWlJwbGdWeHBZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-06-28-ai-10-gm hits 1 billion hands free miles w",
+      "date": "2026-06-28",
+      "type": "ai",
+      "number": 10,
+      "title": "GM Hits 1 Billion Hands-Free Miles, Will Drop Google Gemini Into 4 Million ...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "InsideEVs",
+      "links": [
+        {
+          "label": "InsideEVs",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU3V6MEVJXzRIeTVJVGtReHktUU82T1ljVFV0dFFPWlVqZno0MTRjd2RlYi0xRFlTZ0ItWDhuSUFIaEdlV2xqeVlXUjBxNUh2WTNMX2tSd25IZ1ZTa29JUi04cEFtUTlaU0pfRVBoWFgtVGZpYThrVUF5VV9SSmN0UlhtR1BNdzE2UDFGTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-06-28-ai-11-anthropic salary data reveals techni",
+      "date": "2026-06-28",
+      "type": "ai",
+      "number": 11,
+      "title": "Anthropic salary data reveals technical staff can make over $1 million",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Business Insider",
+      "links": [
+        {
+          "label": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaXpBTkczdUJaY1dWcnVYWUl4Mkw2T25lUUVOelU5X1I5R0VuN0FleXlEeWducVZMQ1Q0MmFXRDVBc0daeVFsanlTbEhVZFg4SkgxSURkem9lMndLNmhPYjNub0xucTFNSDhVV2tMZjZfQjVvUXFFaXRidnRBUGhQODF5VE5wQ19iazk3LTVyVjhpTlQ5ZGk4SEY3Q0pMOW5lS24wcExBcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-06-28-ai-12-nokia and google cloud are embedding",
+      "date": "2026-06-28",
+      "type": "ai",
+      "number": 12,
+      "title": "Nokia and Google Cloud are embedding Gemini AI agents into network operatio...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "RCR Wireless News",
+      "links": [
+        {
+          "label": "RCR Wireless News",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aY2EzU3RydVVfNG9DNDJLZVNhMnhXeXpkNTJjZFhyeGpNay1WVGtaX1lidE1GUzN1UFJKODdZMjNkRWlTZmRxb0ROeU5pUnRpMll2dzVjNW14ODRVTEZjdFhQaUZIUHl6RWxNaFdTQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-06-28-video-1-breakthrough giza discovery uncovers",
+      "date": "2026-06-28",
+      "type": "video",
+      "number": 1,
+      "title": "Breakthrough Giza discovery uncovers new secrets of ancient Egypt",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "MSN",
+      "links": [
+        {
+          "label": "MSN",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHhkakgxd3NsZ2Z3ZU1oeVhfTUlSSlB4bUJVTFZITUtZci1ub2tzcmxaQUxpRjRwNWo5UW9qWmJ2aEdDeThyOFp3Tkg5a3VfbUstQzhqNms0b3pFbV9wSnF5Z1NfekswTG9FbTJBNVlJVE9QS3czZG1Ja3dHS0k1TGhnVzZtQm5mcTN6N0dBWW9QYzRfNTlYUVB5ekFEVDB0cHhteEpjQzNBZGNZeDIxOVhMXzI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-06-28-video-2-280 mysterious stone circles discove",
+      "date": "2026-06-28",
+      "type": "video",
+      "number": 2,
+      "title": "280 mysterious stone circles discovered in the Sahara—archaeologists stunne...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Futura, le média qui explore le monde",
+      "links": [
+        {
+          "label": "Futura, le média qui explore le monde",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb0ZUejdwM1NLN1pwOXZ3WFNXVzFwR1FPdVlJZnVXTWFvYml2ZDlWSFRaenlsX3FFOGtkeWx5ODBKclRFekY3QXh1M21oM1E5U1IwYm5yNmktNHZEUU5adDFtbGpzYTVvMnFqMkdTTmYwTmlKZG9vZFpFUlpIUWVUZ1BXUllKTVM4bVRQV0sxcnQ4WHdicTY4ZV9xUnZuY0ZxRUFhUDVvSUVHNEFzRjlWY1pudEFyRE5tbURuajJySDBhUEZ0SVdoTTFR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-06-28-video-3-these tombs stayed hidden from grave",
+      "date": "2026-06-28",
+      "type": "video",
+      "number": 3,
+      "title": "These Tombs Stayed Hidden from Grave Robbers for 2,600 Years. Now, They’re ...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Popular Mechanics",
+      "links": [
+        {
+          "label": "Popular Mechanics",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSy1raWp4QUYtMDJuUFVPUFZsdVJkaGxnLWtTdlMzNDhqTGdUZ2Z0aEpvWkZjSjRmMlBrX1ZsNlprNjJJSHdqcERsblFWNTlrTEdCYU5CaGZxWUc1V0VVLUFLaFlpOGxLVXBxNkx3T3J5WWVhajBvc25qOTNtQTZpRHYzbVJiSVBYdHI0TFNHWDBfUDNfZXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-06-28-video-4-story behind the lovers of valdaro t",
+      "date": "2026-06-28",
+      "type": "video",
+      "number": 4,
+      "title": "Story Behind The Lovers Of Valdaro, The 6,000-Year-Old Skeletons Found Buri...",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "All That's Interesting",
+      "links": [
+        {
+          "label": "All That's Interesting",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyaEUtYk82MWxLWXRYZzVFT1RJSkEybUEtQWc4ZFJtRUdUX3NCTnNMRFlUNzlIWE9Pem9wZ2NGS2Q3d2Q4NzNqdndOQ1d5ZEF2VF9hQ2hNYmZEeUp0VGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-06-28-video-5-underground l shaped structure found",
+      "date": "2026-06-28",
+      "type": "video",
+      "number": 5,
+      "title": "Underground L-shaped structure found near Great Pyramid",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "MSN",
+      "links": [
+        {
+          "label": "MSN",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeXpYU0lKSHZuUWFzZk9NNDgzUGZtOWw2Vk1VLUp6NFA2a1pNOGNzOUhNdkMtZ0QtMGwwRWJ0SVJxSndSN2JNYWRSSFVCNUpJeHhtUnZQQzBKNmVZczdobGJrX2JEVUd3N2dGWjY4czlfSjU3MjNtVUFORGh4Y0JsbV9vRWRjOEVZczZudUpSYVltOG5rdTNzNlJjUVV1NG1wRWc3OTBkUHhMRzNKSEg3QUVFZGRnXzg4RGlFTmVxQ21JbExSaFFOVDM3TUs1anhpMWRrMlZMZDBlSS04X2ZrQl9wN1JSU2ZoVjFsbDlB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-06-28-video-6-archaeologists stunned by ancient ro",
+      "date": "2026-06-28",
+      "type": "video",
+      "number": 6,
+      "title": "Archaeologists stunned by ancient Roman soldier found in a 5,000-year-old f...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Futura, le média qui explore le monde",
+      "links": [
+        {
+          "label": "Futura, le média qui explore le monde",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR1ZRcExGdDJWSVBLTkQya21NaGhDVlVQX3BBbmtsajktSGVyUWI5MDZKRjhYSXR1ZU1DeG1GNlFhSEtjSHlxMUJDbnVZa2xLclVVc25sc1NRM2RtZG1lMlZZSnRtc1NDTGY0MU44X21ITkkzSVpOd1JWajdpS3R5UXJUZWJIRmQ5QTBwYkNOaHlySVhILS1xX3VoaW9QZnZHQmJJRHlJLWIyY19jYVIyMDlFb2lMMkVkR3YtbmJPOWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-06-28-video-7-they found a 2 000 year old roman to",
+      "date": "2026-06-28",
+      "type": "video",
+      "number": 7,
+      "title": "They Found a 2,000-Year-Old Roman Tombstone in Their Backyard. Then the FBI...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Popular Mechanics",
+      "links": [
+        {
+          "label": "Popular Mechanics",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUk51UHN4d1lQV0RLSlNscW4tN2U3NE50T0tqMmRya3c5ZExyTnY5OWhLY09xYXI0NV9GY21tZnNyVk1KdWZacHF0QTRPTFY1SjlVZ0xNRmlXZExQTW1jaFdXalNqWFRCNmU5a2wtRzdqTGNlV1E4S09IVk1qTHFzOERhRHE3bkVWMnpxVnJwSVp3N2g4VENDZ1B4VXR3VW9namF3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-06-28-video-8-ancient human dna recovered from ibe",
+      "date": "2026-06-28",
+      "type": "video",
+      "number": 8,
+      "title": "Ancient human DNA recovered from Iberian cave walls",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "MSN",
+      "links": [
+        {
+          "label": "MSN",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONXRRb1loeEpWYjhwUTBIWGdJbFJhWDdaZkp0cVpqeXJ2ZXJ2WE1zNklVdlJ3Skxqc1ZzTU1zWTMzUm80a0R0WUhueUxjUFF2d0xKZGFNS3pTT0x1OU1WelZVZXNXQUh3Vk15ZWpTQlBGZ29La0ozZjltUy1WMlJPdC1abTNaVXd1Sk9SUmhfVkY1N2xfenFFOGkwUkc1Y2pZa3loclZjRnJ0Tk5OMVlaREt2aFBQSUVpaURxUlFGaTREQTRFTWlYazBmYXRPemlESHNwWlVQcVlFX1ctY3M0Yk9tWlBsdmdoQWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-06-28-video-9-archaeologists found an anomaly near",
+      "date": "2026-06-28",
+      "type": "video",
+      "number": 9,
+      "title": "Archaeologists Found an ‘Anomaly’ Near the Pyramids That May Reveal an Anci...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Popular Mechanics",
+      "links": [
+        {
+          "label": "Popular Mechanics",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdjNnYU9QMW9QNWFtYXV4LTZ5RkxUOGxiajFLRE8xYkFkenNzV2ZIUmhzWXVFd05WeWZ6SEhEMS0xNG96dXJYLUpTSmJLQ0xKM2x3eUotOEZjYkpCOWtiSWczdlN3TFpJUzhDRkFKS2U0aDVoamwxdG1YaHdxc0JpZUg3UV85UVBWTHNQQXl2TmRrcWI5RmhkTzRjelpxZw?oc=5"
         }
       ]
     },
@@ -63,22 +367,6 @@
         {
           "label": "blog.google",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR1JmSFJPZHEwYk9DX1NNYWkxbXRCV0J5YmhPN2xaMm04NWRBeE1sTHRmZzl2R01hRjBZOGdWeFNRQWc3eVctdlQ5Y0NCVUdsaEZHVEtwcW8yZUVvMl9WZTlBclBmSDR1WUU1WGEwX0tydFEwY2l5RUZXdUEyZlNhV25aenoyRUdM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-27-ai-5-nokia and google cloud are embedding",
-      "date": "2026-06-27",
-      "type": "ai",
-      "number": 5,
-      "title": "Nokia and Google Cloud are embedding Gemini AI agents into network operatio...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "RCR Wireless News",
-      "links": [
-        {
-          "label": "RCR Wireless News",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aY2EzU3RydVVfNG9DNDJLZVNhMnhXeXpkNTJjZFhyeGpNay1WVGtaX1lidE1GUzN1UFJKODdZMjNkRWlTZmRxb0ROeU5pUnRpMll2dzVjNW14ODRVTEZjdFhQaUZIUHl6RWxNaFdTQQ?oc=5"
         }
       ]
     },
@@ -227,22 +515,6 @@
       ]
     },
     {
-      "id": "2026-06-27-video-3-archaeologists stunned by ancient ro",
-      "date": "2026-06-27",
-      "type": "video",
-      "number": 3,
-      "title": "Archaeologists stunned by ancient Roman soldier found in a 5,000-year-old f...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Futura, le média qui explore le monde",
-      "links": [
-        {
-          "label": "Futura, le média qui explore le monde",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR1ZRcExGdDJWSVBLTkQya21NaGhDVlVQX3BBbmtsajktSGVyUWI5MDZKRjhYSXR1ZU1DeG1GNlFhSEtjSHlxMUJDbnVZa2xLclVVc25sc1NRM2RtZG1lMlZZSnRtc1NDTGY0MU44X21ITkkzSVpOd1JWajdpS3R5UXJUZWJIRmQ5QTBwYkNOaHlySVhILS1xX3VoaW9QZnZHQmJJRHlJLWIyY19jYVIyMDlFb2lMMkVkR3YtbmJPOWc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-06-27-video-4-50 greatest archaeological discoveri",
       "date": "2026-06-27",
       "type": "video",
@@ -307,38 +579,6 @@
       ]
     },
     {
-      "id": "2026-06-27-video-8-280 mysterious stone circles discove",
-      "date": "2026-06-27",
-      "type": "video",
-      "number": 8,
-      "title": "280 mysterious stone circles discovered in the Sahara—archaeologists stunne...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Futura, le média qui explore le monde",
-      "links": [
-        {
-          "label": "Futura, le média qui explore le monde",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb0ZUejdwM1NLN1pwOXZ3WFNXVzFwR1FPdVlJZnVXTWFvYml2ZDlWSFRaenlsX3FFOGtkeWx5ODBKclRFekY3QXh1M21oM1E5U1IwYm5yNmktNHZEUU5adDFtbGpzYTVvMnFqMkdTTmYwTmlKZG9vZFpFUlpIUWVUZ1BXUllKTVM4bVRQV0sxcnQ4WHdicTY4ZV9xUnZuY0ZxRUFhUDVvSUVHNEFzRjlWY1pudEFyRE5tbURuajJySDBhUEZ0SVdoTTFR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-27-video-9-these tombs stayed hidden from grave",
-      "date": "2026-06-27",
-      "type": "video",
-      "number": 9,
-      "title": "These Tombs Stayed Hidden from Grave Robbers for 2,600 Years. Now, They’re ...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Popular Mechanics",
-      "links": [
-        {
-          "label": "Popular Mechanics",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSy1raWp4QUYtMDJuUFVPUFZsdVJkaGxnLWtTdlMzNDhqTGdUZ2Z0aEpvWkZjSjRmMlBrX1ZsNlprNjJJSHdqcERsblFWNTlrTEdCYU5CaGZxWUc1V0VVLUFLaFlpOGxLVXBxNkx3T3J5WWVhajBvc25qOTNtQTZpRHYzbVJiSVBYdHI0TFNHWDBfUDNfZXc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-06-26-ai-1-anthropic accuses alibaba of illicit",
       "date": "2026-06-26",
       "type": "ai",
@@ -383,22 +623,6 @@
         {
           "label": "The Hacker News",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aQjB3RklHR1VCcl96MlE5bzNBd2tobUNGOFhkMVBiNjM3bGJ0eFE5M20wTDE4U2RNcEF4VjZjRzNVeDdtaDlESVVlNmhjWDRVUTB0ZFUyNlBadmFRV2hlUlVZaXRLRTc1S1NhdjE5em5NdVhOelNYWFRfcmtuWHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-26-ai-6-best ai chatbots we ve tested for 20",
-      "date": "2026-06-26",
-      "type": "ai",
-      "number": 6,
-      "title": "Best AI Chatbots We've Tested for 2026",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "PCMag",
-      "links": [
-        {
-          "label": "PCMag",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDTXVpMzZxQVdvX09FQmZpRmhlakFMbXd4amc4RDNOZkNMdkpnUldvQnZZOFNMSzZYQ3NZaHlQZXhTZmdBVEowTkVpbGlobEUzQWNWWlJwbGdWeHBZ?oc=5"
         }
       ]
     },
@@ -595,22 +819,6 @@
       ]
     },
     {
-      "id": "2026-06-25-ai-6-gm hits 1 billion hands free miles w",
-      "date": "2026-06-25",
-      "type": "ai",
-      "number": 6,
-      "title": "GM Hits 1 Billion Hands-Free Miles, Will Drop Google Gemini Into 4 Million ...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "InsideEVs",
-      "links": [
-        {
-          "label": "InsideEVs",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU3V6MEVJXzRIeTVJVGtReHktUU82T1ljVFV0dFFPWlVqZno0MTRjd2RlYi0xRFlTZ0ItWDhuSUFIaEdlV2xqeVlXUjBxNUh2WTNMX2tSd25IZ1ZTa29JUi04cEFtUTlaU0pfRVBoWFgtVGZpYThrVUF5VV9SSmN0UlhtR1BNdzE2UDFGTQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-06-25-ai-9-how home depot is rebuilding retaili",
       "date": "2026-06-25",
       "type": "ai",
@@ -703,22 +911,6 @@
         {
           "label": "Live Science",
           "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQLUJJRU5RaC1SYUJMdzFKazJzbmhKcWxvdTBWUF91QWU4bjlreE01Sk9XWldWWlZyQmNVb1N3M215enRTdHdvV3U5WlVtY180TjVtU2gzb0lKVnZ3S205SWZpZVVUb2xlNVZLdklrWGVfM2pPQ1oydGxkdGp4Z1ZHLUlES21LaVJVZDR1clEwaHpKVXNyOVBfMDFONXJLcG9tOXR1dHlmd0pJd2FtUzBvdVdCVXJsbm9GdlQwNE8xT0ptNTZBSjk2U2tPYjVOU0toSDJhWk9heDZ3cnRYUmpzbnIxLWYtVVRFaEV6VkVPYXRsSDJ6SHhpRWhHeFd1NmI5NUd4Zm9ueTYzS2t0bUIyNGs3M2dqRHQ2ZkQtMG00WQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-25-video-8-story behind the lovers of valdaro t",
-      "date": "2026-06-25",
-      "type": "video",
-      "number": 8,
-      "title": "Story Behind The Lovers Of Valdaro, The 6,000-Year-Old Skeletons Found Buri...",
-      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "All That's Interesting",
-      "links": [
-        {
-          "label": "All That's Interesting",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyaEUtYk82MWxLWXRYZzVFT1RJSkEybUEtQWc4ZFJtRUdUX3NCTnNMRFlUNzlIWE9Pem9wZ2NGS2Q3d2Q4NzNqdndOQ1d5ZEF2VF9hQ2hNYmZEeUp0VGc?oc=5"
         }
       ]
     },
