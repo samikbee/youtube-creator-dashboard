@@ -1,0 +1,289 @@
+{
+  "RELIANCE": {
+    "symbol": "RELIANCE",
+    "name": "Reliance Industries",
+    "maxHighPrice": 1396.7,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "INFY": {
+    "symbol": "INFY",
+    "name": "Infosys",
+    "maxHighPrice": 1264.65,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "SWIGGY": {
+    "symbol": "SWIGGY",
+    "name": "Swiggy",
+    "maxHighPrice": 288.58,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "LT": {
+    "symbol": "LT",
+    "name": "Larsen & Toubro",
+    "maxHighPrice": 4179.4,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "AEROFLEX": {
+    "symbol": "AEROFLEX",
+    "name": "Aeroflex Industries",
+    "maxHighPrice": 502.75,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "HDFCBANK": {
+    "symbol": "HDFCBANK",
+    "name": "HDFC Bank",
+    "maxHighPrice": 886.2,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "SBIN": {
+    "symbol": "SBIN",
+    "name": "State Bank of India",
+    "maxHighPrice": 1024.2,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "THANGAMAYL": {
+    "symbol": "THANGAMAYL",
+    "name": "Thangamayil Jewellery",
+    "maxHighPrice": 5378,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "KMEW": {
+    "symbol": "KMEW",
+    "name": "Knowledge Marine & Engineering Works",
+    "maxHighPrice": 2331.1,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "GROWW": {
+    "symbol": "GROWW",
+    "name": "Groww",
+    "maxHighPrice": 194.51,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "BAJAJHLDNG": {
+    "symbol": "BAJAJHLDNG",
+    "name": "Bajaj Holdings & Investment",
+    "maxHighPrice": 10615,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "TITANBIO": {
+    "symbol": "TITANBIO",
+    "name": "Titan Biotech",
+    "maxHighPrice": 482,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "ITC": {
+    "symbol": "ITC",
+    "name": "ITC",
+    "maxHighPrice": 306.56,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "TMPV": {
+    "symbol": "TMPV",
+    "name": "Tata Motors Passenger Vehicles",
+    "maxHighPrice": 406.05,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "GVT&D": {
+    "symbol": "GVT&D",
+    "name": "GE Vernova T&D India",
+    "maxHighPrice": 5404,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "IOC": {
+    "symbol": "IOC",
+    "name": "Indian Oil Corporation",
+    "maxHighPrice": 146.9,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "GODFRYPHLP": {
+    "symbol": "GODFRYPHLP",
+    "name": "Godfrey Phillips India",
+    "maxHighPrice": 2237.9,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "PRECWIRE": {
+    "symbol": "PRECWIRE",
+    "name": "Precision Wires India",
+    "maxHighPrice": 421.7,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "BHARTIARTL": {
+    "symbol": "BHARTIARTL",
+    "name": "Bharti Airtel",
+    "maxHighPrice": 1996.54,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "SYNGENE": {
+    "symbol": "SYNGENE",
+    "name": "Syngene International",
+    "maxHighPrice": 436,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "BLISSGVS": {
+    "symbol": "BLISSGVS",
+    "name": "Bliss GVS Pharma",
+    "maxHighPrice": 470.05,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "TDPOWERSYS": {
+    "symbol": "TDPOWERSYS",
+    "name": "TD Power Systems",
+    "maxHighPrice": 1354.1,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "FORCEMOT": {
+    "symbol": "FORCEMOT",
+    "name": "Force Motors",
+    "maxHighPrice": 18020,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "ULTRACEMCO": {
+    "symbol": "ULTRACEMCO",
+    "name": "UltraTech Cement",
+    "maxHighPrice": 12150,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "SUVEN": {
+    "symbol": "SUVEN",
+    "name": "Suven Life Sciences",
+    "maxHighPrice": 258.3,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "CUPID": {
+    "symbol": "CUPID",
+    "name": "Cupid",
+    "maxHighPrice": 181.99,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "YESBANK": {
+    "symbol": "YESBANK",
+    "name": "Yes Bank",
+    "maxHighPrice": 24.55,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "IFBIND": {
+    "symbol": "IFBIND",
+    "name": "IFB Industries",
+    "maxHighPrice": 1263.1,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "MARUTI": {
+    "symbol": "MARUTI",
+    "name": "Maruti Suzuki India",
+    "maxHighPrice": 14437.5,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "INDIGO": {
+    "symbol": "INDIGO",
+    "name": "InterGlobe Aviation",
+    "maxHighPrice": 4961.4,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "LODHA": {
+    "symbol": "LODHA",
+    "name": "Lodha Developers",
+    "maxHighPrice": 910.75,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "SAKAR": {
+    "symbol": "SAKAR",
+    "name": "Sakar Healthcare",
+    "maxHighPrice": 812.25,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "ETERNAL": {
+    "symbol": "ETERNAL",
+    "name": "Eternal",
+    "maxHighPrice": 269.4,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "PRESTIGE": {
+    "symbol": "PRESTIGE",
+    "name": "Prestige Estates Projects",
+    "maxHighPrice": 1512.7,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "ANTELOPUS": {
+    "symbol": "ANTELOPUS",
+    "name": "Antelopus Energy",
+    "maxHighPrice": 799.9,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "MTARTECH": {
+    "symbol": "MTARTECH",
+    "name": "MTAR Technologies",
+    "maxHighPrice": 8122,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "LUMAXTECH": {
+    "symbol": "LUMAXTECH",
+    "name": "Lumax Auto Technologies",
+    "maxHighPrice": 1597.4,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "MIIL": {
+    "symbol": "MIIL",
+    "name": "Meghna Infracon Infrastructure",
+    "maxHighPrice": 758.95,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "IMFA": {
+    "symbol": "IMFA",
+    "name": "Indian Metals & Ferro Alloys",
+    "maxHighPrice": 1411.64,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "KSHINTL": {
+    "symbol": "KSHINTL",
+    "name": "KSH International",
+    "maxHighPrice": 863.4,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  },
+  "TATAGOLD": {
+    "symbol": "TATAGOLD",
+    "name": "Tata Gold ETF",
+    "maxHighPrice": 13.97,
+    "firstSeenAt": "2026-06-23T13:11:43.349Z",
+    "updatedAt": "2026-06-23T13:11:43.349Z"
+  }
+}

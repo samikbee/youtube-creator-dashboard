@@ -2,6 +2,7 @@ import { createServer } from "node:http";
 import { readFile, readdir } from "node:fs/promises";
 import { extname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
+import { applyGrowwSignals } from "./scripts/groww-signals.js";
 
 const root = resolve(fileURLToPath(new URL(".", import.meta.url)));
 await loadEnv(join(root, ".env.local"));
@@ -205,7 +206,7 @@ async function recommendationHistory() {
 
 async function growwPortfolio() {
   const cached = await readJsonOrNull("latest-portfolio.json");
-  if (cached && (cached.holdings || []).length) return cached;
+  if (cached && (cached.holdings || []).length) return applyGrowwSignals(cached, { dataDir });
   return {
     updatedAt: null,
     dataSource: "groww-cache-missing",

@@ -3,6 +3,7 @@ import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import { join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
+import { applyGrowwSignals } from "./groww-signals.js";
 
 const root = resolve(fileURLToPath(new URL("..", import.meta.url)));
 const dataDir = join(root, "data");
@@ -575,7 +576,7 @@ async function main() {
   const totalReturnPct = summary.totalReturnPct ?? (investedValue ? (totalReturnValue / investedValue) * 100 : null);
   const date = todayInTokyo();
   const reportPath = join(outputsDir, `groww-daily-report-${date}.md`);
-  const portfolio = {
+  const portfolio = await applyGrowwSignals({
     ...previous,
     updatedAt: new Date().toISOString(),
     dataSource: "groww-browser-snapshot-api-trends",
@@ -608,7 +609,7 @@ async function main() {
       "Cached API holdings and Yahoo trend history are used only for supplemental trend fields.",
       "Email delivery is disabled in the local command center."
     ]
-  };
+  }, { dataDir });
 
   await mkdir(snapshotsDir, { recursive: true });
   await mkdir(outputsDir, { recursive: true });

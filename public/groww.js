@@ -110,8 +110,31 @@ function cellPct(row, key) {
   return `<td class="${tone(row[key])}">${prefix}${pct(row[key], fallback)}</td>`;
 }
 
+function signalRank(row) {
+  const label = row.actionSignal?.label || "Keep";
+  if (label.includes("broke")) return 2;
+  if (label.includes("sentiment")) return 1;
+  return 0;
+}
+
+function renderSignal(row) {
+  const signal = row.actionSignal || { label: "Keep" };
+  const isSell = signal.label.startsWith("Sell");
+  const drawdown = typeof signal.drawdownPct === "number" ? `Drawdown ${pct(signal.drawdownPct)}` : "";
+  const label = signal.url
+    ? `<a href="${signal.url}" target="_blank" rel="noopener noreferrer">${signal.label}</a>`
+    : signal.label;
+  return `
+    <td class="signal-cell ${isSell ? "sell" : "keep"}">
+      <strong>${label}</strong>
+      ${drawdown ? `<span>${drawdown}</span>` : ""}
+    </td>
+  `;
+}
+
 function sortValue(row, key) {
   if (key === "displayName") return row.displayName || row.name || row.symbol || "";
+  if (key === "signal") return signalRank(row);
   return row[key];
 }
 
@@ -158,6 +181,7 @@ function renderTable(portfolio) {
       ${cellPct(row, "year1")}
       ${cellPct(row, "year3")}
       <td>${money(row.currentValue)}</td>
+      ${renderSignal(row)}
     </tr>
   `).join("");
 }

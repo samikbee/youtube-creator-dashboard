@@ -214,7 +214,7 @@ main {
 
 table {
   border-collapse: collapse;
-  min-width: 1080px;
+  min-width: 1180px;
   width: 100%;
 }
 
@@ -230,6 +230,35 @@ th:first-child,
 td:first-child {
   text-align: left;
   white-space: normal;
+}
+
+.signal-cell {
+  min-width: 170px;
+  text-align: left;
+  white-space: normal;
+}
+
+.signal-cell strong,
+.signal-cell span {
+  display: block;
+}
+
+.signal-cell span {
+  color: var(--muted);
+  font-size: 12px;
+  margin-top: 3px;
+}
+
+.signal-cell a {
+  color: inherit;
+}
+
+.signal-cell.sell strong {
+  color: var(--red);
+}
+
+.signal-cell.keep strong {
+  color: var(--green);
 }
 
 tr.trend-only {
