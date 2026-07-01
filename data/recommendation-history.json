@@ -1,7 +1,343 @@
 {
-  "updatedAt": "2026-06-30T22:13:32.069Z",
+  "updatedAt": "2026-07-01T22:15:26.493Z",
   "maxItems": 1000,
   "items": [
+    {
+      "id": "2026-07-02-ai-1-openai and anthropic limit new ai mo",
+      "date": "2026-07-02",
+      "type": "ai",
+      "number": 1,
+      "title": "OpenAI and Anthropic limit new AI models to Trump-approved customers during...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "AP News",
+      "links": [
+        {
+          "label": "AP News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmF5MEZucTFsVmZudmVjU0RpalFGZHdteVFrN2dZM1F0elpFYy1xQ0x5elRSVXE3VTdueTZpdFZNdWZybFFqV1pVTkhfVlpBcC03MFZGS2RZQ0ZLNDV3a3Z2eVZVS3Bnc1NBaTJQLTVXZ213YkkzdTd0djVNNkRLclJ2YTFVeU9sUXJ1Y3FLcUVXODhVbTUxOEhtTVNfS1l5cktra0xxWXlqZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-02-ai-2-gemini spark updates macos launch co",
+      "date": "2026-07-02",
+      "type": "ai",
+      "number": 2,
+      "title": "Gemini Spark updates: macOS launch, connected apps and more",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "blog.google",
+      "links": [
+        {
+          "label": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbWxWcGdmdnNYR2cxaExuaEFuX3Z0ZE1Idl9FX2phaHJGeVhUbTJiVmRPX1g5aHBvb2hnb0JXellQREN3aGItbG4ySDVWLU1WNElWclVzT2pERnB1RjlTY19mUWNpcmFVbmlyM0NNZXg0dUh6eXN2aXRPSEpkNE5fNGJZd1h4ZFJ1dC1McnA0bnI4OEU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-02-ai-3-claude science an ai workbench for s",
+      "date": "2026-07-02",
+      "type": "ai",
+      "number": 3,
+      "title": "Claude Science, an AI workbench for scientists, is now available",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Anthropic",
+      "links": [
+        {
+          "label": "Anthropic",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81R0J0dXluYzJGcmxVb3dDY0Z2UjVYT2I5ZkYwSVRrWTBSUm5HZXpWRkFsQ2k5bm1jbVU5cENOY0xkX0tybV9FbnhRcFVac1dncWtqTF85OTZyd3o1dlRXenJkd1h3T1pTSGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-02-ai-4-updated anthropic launches claude sc",
+      "date": "2026-07-02",
+      "type": "ai",
+      "number": 4,
+      "title": "Updated: Anthropic launches Claude Science as a product for biopharma, star...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Endpoints News",
+      "links": [
+        {
+          "label": "Endpoints News",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPekJkRU1nWTZJQzMzdW9DYjdvUFltam5mSEdDNUgzbTlZNW9ub2lCaHBjOEk4TGtnM2tlT2tlZHEtWHlnUm81SWk5VGl4NVU2Qk5NakNVN1VSOTFCaklSQ2I0YjJTbC11dVFLQUNza3VZbDVYQ0Z3V2d4bHlqMndfbU9CRlV1d08ycW1JUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-02-ai-5-openai limits its latest chatgpt pro",
+      "date": "2026-07-02",
+      "type": "ai",
+      "number": 5,
+      "title": "OpenAI limits its latest ChatGPT product to Trump-approved customers during...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "links": [
+        {
+          "label": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcDFWbmRXOWFqV09XOERpbGpCd3ExZXBkZVNRT3lrY2xsajRQenJHbVd2V2J1aTJMTFI5Zk9IdHg1UGlPbnlTV2ZVaFNaWk5xLWw3VGxTWHlvZGdCY1RqUVNjZ0drQ2JQQ3B2TWRKLUhFdmVFSnphbE5Ec0IzcExUVHU0NGJodl80MFBaaG5BNkpJWnJyZjVtOVJsZFdFMndnS05RNUk2VVU4WnBnVm1sODhn0gG3AUFVX3lxTE4tOHNycEQwR2sxeUtYUWViclF6R05KT093YVhHMXFCbk9fT0VldDdGWUdVbTJ0Y0g5eElmY1RQSWR4OFBvampXaDlCYlNMQWdZN2dMNUhkb09IcGdFYmRGa2VBcU5wZ0dtcmlPSGQ3S0htSDQxQTRwUWxOVFMwN0dIcjA1R1l6US1QSzVyc281eEMtckJvQjFvSGdQYWdYeW5KNDlobjdoS2FKNWZCVXFEN3dtNDYtSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-02-ai-6-anthropic launches ai drug discovery",
+      "date": "2026-07-02",
+      "type": "ai",
+      "number": 6,
+      "title": "Anthropic launches AI drug discovery program, joining tech giants in bettin...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "CNBC",
+      "links": [
+        {
+          "label": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNck84aEo5SERWUzlnMzBaY3ZYdnhRZ3gtMkgtSmlUS3gtamhsRUR5ZkNwbEtCUk5BOEkwY1NvMmpSVDlfLTc5WWg0c0xqX1lLR3ZRMV9qSmQ3bnFlWlBUQU16N1pTWGVwZXpjekVUV2JKc3lUbGxPdXNGZXJTLVRMV1UtZ0xEQ0pSM2c5XzB0N2s1RWdJcmlHc3NaaGvSAaIBQVVfeXFMT0lDWjZWV1hWcWs4YXNsWERycW1sM2p4dkFaMERBcm1Jd1BmbjhaeXdyMnlBYzF2Z00yVVNLeHJvLWxSTzlBSGFVYWlNRmxndkczM2FqdjM3YVJ4azlUd2xyU2ItR1ExTDc2WVVmT0pRWWd2eUdvcHRHdnJ2SFdXaDFZVDZ5MEdpLXpycVpXYzRvMW1lZUQzdGQ0cWxha0dmcWln?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-02-ai-7-claude science is anthropic s newest",
+      "date": "2026-07-02",
+      "type": "ai",
+      "number": 7,
+      "title": "Claude Science is Anthropic’s newest flagship product",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "MIT Technology Review",
+      "links": [
+        {
+          "label": "MIT Technology Review",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPelNhdFZ2aEV4V2V0VndMeXNwT2ROZVg4U1ZWLVBrUnRxeEttR001MWNqZVQ4RHNabkx5MnM1Ylk3bl9XS1Y1QkR4MUNrb3RDVnItMVRhVDNlR3dUcEFPSmFLNXJwWDBBM3J6SHlyaEhSa000dEwxTmhKNkpDMnlWd3hPSFFsU2ZuVHVDdm90bzY1dHhFY2k3SmVSQkZYNXFjY0IwLUNCNFHSAa4BQVVfeXFMUHBTWFJfa3NXSXBmUkhZdWpZYlZBa2w2U1U4enVxOEtaSHoxd0NSZExMSEhUcmhLWGtiVXdYODNmTWwtaVFvVlhiVFdFM3hJbjd0azdWOFNNNFhuMTU0ZURld2R2bXk4MEtBTFJrWlJjR3EzWVJTVDFSaEZiWU8yZTk2cXMtYTVhWS1IRmtYQ0NLQmZqMF9zUFJDcWJuaWQtb3lLT1ZMRW9rSldJTjFB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-02-ai-8-introducing claude sonnet 5",
+      "date": "2026-07-02",
+      "type": "ai",
+      "number": 8,
+      "title": "Introducing Claude Sonnet 5",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Anthropic",
+      "links": [
+        {
+          "label": "Anthropic",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE94UjQ1SEhHSWRtZUVlMlZDdHJBbDU1aEFlbzJpV3A1V19NVF9sLVNnbjlkSEcwMV9vZTBUZ0dGdUFybWhHRmRkUVlyVzFTdWo3aFlIaU5wbzlOZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-02-ai-9-trump lifts limits on anthropic s fa",
+      "date": "2026-07-02",
+      "type": "ai",
+      "number": 9,
+      "title": "Trump lifts limits on Anthropic’s Fable and Mythos models",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Politico",
+      "links": [
+        {
+          "label": "Politico",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNejFaY3FSWFA3bnlZcHVtaEVQVm1qdXJHM2pYVmVONXhqQklPaWliSE5CSEpuRDVKeFNqRktiUURpcmc5d1NQMDJYUTZYcnNvWDg0VHdyaWVKbVRhSnprY3lFNFZYVF9ZVllRLWg0Z1htU2E0eUxZNnBsY3dwRnVVZ3RLdmJHcnVud3FsWA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-02-ai-10-gemini app is bringing personalized ",
+      "date": "2026-07-02",
+      "type": "ai",
+      "number": 10,
+      "title": "Gemini app is bringing personalized image creation to more users.",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "blog.google",
+      "links": [
+        {
+          "label": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQjQzcHNwekdZZ0NhXzJyeHBPdFl0eDBlYWI3ZXZXS2ZGbmtOVUhsS0RIUHJreFhIc2lFdVBzNC1xZ3gyTXB1bHp2RjZWeXJCMlRDd19MWk9BU0pIUEF4QzVsVG5lM25MUUg1UDgzWVo3V3F6RFRPSV9NaE4zbmlteXExVTZwdG9nSGFxVkpxYlRuYjh5UVhRTHJCWHhtT0cyek13V1NOOE0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-02-ai-11-briefing ai for science",
+      "date": "2026-07-02",
+      "type": "ai",
+      "number": 11,
+      "title": "Briefing: AI for Science",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Anthropic",
+      "links": [
+        {
+          "label": "Anthropic",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fbm5oWi02TE93S3FObHowMk9MUkRxS0NvWnpOcHZWd3UyQWhPN3g3OFE0WERWckpQa2U3T3dyQ2tCWm9Qcy15bWd1OTNQTTJvMHM4ZDNuNDkzNWpXRWt2STRqSzBhZTNocGpxYg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-02-ai-12-start building with nano banana 2 li",
+      "date": "2026-07-02",
+      "type": "ai",
+      "number": 12,
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "blog.google",
+      "links": [
+        {
+          "label": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQekN6bWs1SGhfZTg5MEhSMzZRdmROT0tCRUdvVm9QYU9wR3NpeURFRmRiY2JCYUdoR1cybHVic0h2MnFIb2ZGSE5DM3JONEtwekFzcUJ2QnhsMjV3YjZYWmlxQ0dnYXN5NWZMdDExZm9RVnl6MDNEV25qLVQyaVN3S245WXN6WlFHR1NYYm14bS1JYUhmZFJaN244QWEyN1JIVHo1bUdNNG1OWEI3d2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-02-video-1-archaeologists discovered 48 ancient",
+      "date": "2026-07-02",
+      "type": "video",
+      "number": 1,
+      "title": "Archaeologists Discovered 48 Ancient Pits. They Once Held the Prototype of ...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Popular Mechanics",
+      "links": [
+        {
+          "label": "Popular Mechanics",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcTF2OWY0SFZpMEt2X2FGUWhUQkNjREd2dkY4bGtIY3VQaXhOWVU3Q2RmTjFIbUNEMm1XYlpwb2RZOFQyYlp2SlVMZzZ2TVV5SXFwaEg5MHRjRkpsc3N0eFo5Z0xkOThJWTBJZm5YcGI0dHVYbFF0MmFYbldaR0RXTG5ZVWpYNWR6MkJodnpVVVhLQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-02-video-2-a complete self sufficient settlemen",
+      "date": "2026-07-02",
+      "type": "video",
+      "number": 2,
+      "title": "A Complete Self-Sufficient Settlement from the Second Intermediate Period D...",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "La Brújula Verde",
+      "links": [
+        {
+          "label": "La Brújula Verde",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbTVoT2M5d1gyM2h4NE5xZm1oRG5jYjlKdWI5R282SDI0RGx1OEdoZmU5aWJlNlVUR2FlRGpyZ2M2MHVZVG5qQWZpM3piY0M4UTRaRTZaRkRyVTdVMThnNXM1bVNfZU01YUN0QWpXTVlZWmZiamdJVThTa01Ub0w4OEVEcnRGS05aekQ4bUJkdFFkSlpDRkdvX2F5eHVMLUVNY2oydS1mS3N2cnZwb0NlbWhIVWRFRkJRbUdTOXlwM1pHQnJJY2JsWHotTEVJZnRQY1FhSHNUZjBlUlZhZjdyZDY1bmhMYlFN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-02-video-3-they found a 2 000 year old roman to",
+      "date": "2026-07-02",
+      "type": "video",
+      "number": 3,
+      "title": "They Found a 2,000-Year-Old Roman Tombstone in Their Backyard. Then the FBI...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Popular Mechanics",
+      "links": [
+        {
+          "label": "Popular Mechanics",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUk51UHN4d1lQV0RLSlNscW4tN2U3NE50T0tqMmRya3c5ZExyTnY5OWhLY09xYXI0NV9GY21tZnNyVk1KdWZacHF0QTRPTFY1SjlVZ0xNRmlXZExQTW1jaFdXalNqWFRCNmU5a2wtRzdqTGNlV1E4S09IVk1qTHFzOERhRHE3bkVWMnpxVnJwSVp3N2g4VENDZ1B4VXR3VW9namF3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-02-video-4-280 mysterious stone circles discove",
+      "date": "2026-07-02",
+      "type": "video",
+      "number": 4,
+      "title": "280 mysterious stone circles discovered in the Sahara—archaeologists stunne...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Futura, le média qui explore le monde",
+      "links": [
+        {
+          "label": "Futura, le média qui explore le monde",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb0ZUejdwM1NLN1pwOXZ3WFNXVzFwR1FPdVlJZnVXTWFvYml2ZDlWSFRaenlsX3FFOGtkeWx5ODBKclRFekY3QXh1M21oM1E5U1IwYm5yNmktNHZEUU5adDFtbGpzYTVvMnFqMkdTTmYwTmlKZG9vZFpFUlpIUWVUZ1BXUllKTVM4bVRQV0sxcnQ4WHdicTY4ZV9xUnZuY0ZxRUFhUDVvSUVHNEFzRjlWY1pudEFyRE5tbURuajJySDBhUEZ0SVdoTTFR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-02-video-5-japan part 2 arrival the j mon perio",
+      "date": "2026-07-02",
+      "type": "video",
+      "number": 5,
+      "title": "Japan Part 2 : Arrival | The Jōmon Period",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "YouTube",
+      "links": [
+        {
+          "label": "YouTube",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lTkIwVktBaGVHWFRjWE1USTh2d3E2VTBmSXF1a19uSG9QYzRMWEFRMEFNcEtMNDZwMENqaEVmY0JnR0w3Q19JcEdxYS1KXzJWYktYMzQ4aFZ5ZGpp?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-02-video-6-archaeologists found the lost book o",
+      "date": "2026-07-02",
+      "type": "video",
+      "number": 6,
+      "title": "Archaeologists Found the Lost ‘Book of the Dead’ Buried in an Egyptian Ceme...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Popular Mechanics",
+      "links": [
+        {
+          "label": "Popular Mechanics",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTlYxekFZbWhtTUtia0ttSEpJd2I1N0lEZEJuYlZwUkg3bVJiOVVzeEdjV1RuUFg1QUJwN1dfNzVpdXd2VExZNWM3c0dqa3lvbjJjZVNvUTdLbFNZQlhNMUpYODRXaTQtYzd2ejNmWlBPQk8yTXd0S1ZucWFEM1ExRmZYS0JONFNSZGZNSktYOHMyY0xrejFMbWxEQjM0dHZCZ1gwN3ozeXpKb2dzblpaczY5X2plV3hZdkRZTld5MUdBcWZDb1pwSU9wZE95c05QMDEw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-02-video-7-archaeologists uncover two hidden ma",
+      "date": "2026-07-02",
+      "type": "video",
+      "number": 7,
+      "title": "Archaeologists uncover two hidden Maya cities in Campeche jungle",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "MSN",
+      "links": [
+        {
+          "label": "MSN",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSkNyc0hYWElyaWptaG5MLTBXM2RYclNlc1BTN0ktZHRkUzN1N2U1QjZkUTFmb0pBTkVTSjRrOWx6TUctZGF6d3NiV3NmY1ljQmR2anNJb0VtaENSem81bFdfdTgwVVdOYjVzZmZWUWdrZVZzLVRSQ3VaWlVVNnZjREp2NDlFUVFZdmhtY1FvSFcyaF95RUJ1dWtBNDE2TXlKUng3Nno5emZUS0Z3NTdDRXNhVzY0UkxBSzhldFRiUEl3dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-02-video-8-homo naledi female only cemetery cha",
+      "date": "2026-07-02",
+      "type": "video",
+      "number": 8,
+      "title": "Homo naledi female-only cemetery challenges brain size theory",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "MSN",
+      "links": [
+        {
+          "label": "MSN",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNY29qVHAtRWVPMHZqb2N6bDhBRGtUYTFScjUwSEZIN01kYnpKbjNObXU0TGdkT1l4MFlRbi0xRXJ6OUtvSGJjNXVOSEhiaTdpMEppMW9GTHdOaThsRkVYTGRXRHBXWF94LXNCVDJCaERZUEVuQ0JVRmZJTk9veTAwX1h4Z1JRRTNURlM1d1dJZ0syUDlXMkk0Smw1YWhuRXdRYnZhM2EwUEMyNFUyQ2RLQTlkdEdVS0VMNmRSZkxnaUItc3VPSXdMSWNYLU1LbFRaZm1FOUhJV2d1Y0Iyc3JaM0dMbDQxVnp3UHVJWTJsdzFLWGx0OVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-02-video-9-9 mysterious archaeological finds fr",
+      "date": "2026-07-02",
+      "type": "video",
+      "number": 9,
+      "title": "9 mysterious archaeological finds from around the world",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "MSN",
+      "links": [
+        {
+          "label": "MSN",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcGNYbU93amJmTHB0bWZid1V5RlVjUkZBQ1F2ZHlwRGtUdGg5THRJNnlLREFkLXBzTU1Xb2VsMVFFay1RSVJJM0IzUjVYZUJKRVdkNllmV3ZlWWRKbUtJQTN3ejlremFZQlNvLU5GcURtOEVtNUxabWpUNDg4TDJaMU5jXzdBVVZubTVieGhfNWM3QnRWNlpVMFpqZ003TmEtNEx3?oc=5"
+        }
+      ]
+    },
     {
       "id": "2026-07-01-ai-1-previewing gpt 5 6 sol a next genera",
       "date": "2026-07-01",
@@ -31,22 +367,6 @@
         {
           "label": "Broadband Breakfast",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNkI3VnZEdkRvcUFGNjVlSjdYUWpUV2gxOHFiZVRTOXN2UVRDcmRQXzE1dkUtSEx2aXB0THV2Q3ZValJsd0JnaDhaaWdoSXNITHR3QWlWbHVZdlQ1TElUazNaMlpOZW1EYzA4R0M1NDRmYUFxU2x3dEFESVZIY2x0a3dNLTZCakxkOG9jdG1mRmxDUWdtRFA5a18zbDNILTdZU2JnQVdMcUpCS0pMbm8zUkxiR0hIR3c0UWo0MnVBaHlTRU1KZm9Z?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-01-ai-3-updated anthropic launches claude sc",
-      "date": "2026-07-01",
-      "type": "ai",
-      "number": 3,
-      "title": "Updated: Anthropic launches Claude Science as a product for biopharma, star...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "Endpoints News",
-      "links": [
-        {
-          "label": "Endpoints News",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPekJkRU1nWTZJQzMzdW9DYjdvUFltam5mSEdDNUgzbTlZNW9ub2lCaHBjOEk4TGtnM2tlT2tlZHEtWHlnUm81SWk5VGl4NVU2Qk5NakNVN1VSOTFCaklSQ2I0YjJTbC11dVFLQUNza3VZbDVYQ0Z3V2d4bHlqMndfbU9CRlV1d08ycW1JUQ?oc=5"
         }
       ]
     },
@@ -115,22 +435,6 @@
       ]
     },
     {
-      "id": "2026-07-01-ai-8-gemini app is bringing personalized ",
-      "date": "2026-07-01",
-      "type": "ai",
-      "number": 8,
-      "title": "Gemini app is bringing personalized image creation to more users.",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "blog.google",
-      "links": [
-        {
-          "label": "blog.google",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQjQzcHNwekdZZ0NhXzJyeHBPdFl0eDBlYWI3ZXZXS2ZGbmtOVUhsS0RIUHJreFhIc2lFdVBzNC1xZ3gyTXB1bHp2RjZWeXJCMlRDd19MWk9BU0pIUEF4QzVsVG5lM25MUUg1UDgzWVo3V3F6RFRPSV9NaE4zbmlteXExVTZwdG9nSGFxVkpxYlRuYjh5UVhRTHJCWHhtT0cyek13V1NOOE0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-07-01-ai-9-mapping europe s ai workforce opport",
       "date": "2026-07-01",
       "type": "ai",
@@ -195,22 +499,6 @@
       ]
     },
     {
-      "id": "2026-07-01-video-1-archaeologists discovered 48 ancient",
-      "date": "2026-07-01",
-      "type": "video",
-      "number": 1,
-      "title": "Archaeologists Discovered 48 Ancient Pits. They Once Held the Prototype of ...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Popular Mechanics",
-      "links": [
-        {
-          "label": "Popular Mechanics",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcTF2OWY0SFZpMEt2X2FGUWhUQkNjREd2dkY4bGtIY3VQaXhOWVU3Q2RmTjFIbUNEMm1XYlpwb2RZOFQyYlp2SlVMZzZ2TVV5SXFwaEg5MHRjRkpsc3N0eFo5Z0xkOThJWTBJZm5YcGI0dHVYbFF0MmFYbldaR0RXTG5ZVWpYNWR6MkJodnpVVVhLQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-07-01-video-2-these 6 archaeology discoveries resh",
       "date": "2026-07-01",
       "type": "video",
@@ -223,38 +511,6 @@
         {
           "label": "National Geographic",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXNnVTNiRUVvZERZSVNFckZwejdqREZuNkJNblN6RWMydkJKU2ZJcDQtY0dkaWtrai03XzdaU3NJaTlhN3dPMXRSczdmcktBWm40TmFJVGtEbldUQWFBYlFSLUdSQlVaWHFWZUJaSC1oU1FTeWJVeUVCa1pjMmRvUTgyOVBiYkFTLUNUMTRJVnlVbTBRREVQVA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-01-video-3-a complete self sufficient settlemen",
-      "date": "2026-07-01",
-      "type": "video",
-      "number": 3,
-      "title": "A Complete Self-Sufficient Settlement from the Second Intermediate Period D...",
-      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "La Brújula Verde",
-      "links": [
-        {
-          "label": "La Brújula Verde",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbTVoT2M5d1gyM2h4NE5xZm1oRG5jYjlKdWI5R282SDI0RGx1OEdoZmU5aWJlNlVUR2FlRGpyZ2M2MHVZVG5qQWZpM3piY0M4UTRaRTZaRkRyVTdVMThnNXM1bVNfZU01YUN0QWpXTVlZWmZiamdJVThTa01Ub0w4OEVEcnRGS05aekQ4bUJkdFFkSlpDRkdvX2F5eHVMLUVNY2oydS1mS3N2cnZwb0NlbWhIVWRFRkJRbUdTOXlwM1pHQnJJY2JsWHotTEVJZnRQY1FhSHNUZjBlUlZhZjdyZDY1bmhMYlFN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-01-video-4-they found a 2 000 year old roman to",
-      "date": "2026-07-01",
-      "type": "video",
-      "number": 4,
-      "title": "They Found a 2,000-Year-Old Roman Tombstone in Their Backyard. Then the FBI...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Popular Mechanics",
-      "links": [
-        {
-          "label": "Popular Mechanics",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUk51UHN4d1lQV0RLSlNscW4tN2U3NE50T0tqMmRya3c5ZExyTnY5OWhLY09xYXI0NV9GY21tZnNyVk1KdWZacHF0QTRPTFY1SjlVZ0xNRmlXZExQTW1jaFdXalNqWFRCNmU5a2wtRzdqTGNlV1E4S09IVk1qTHFzOERhRHE3bkVWMnpxVnJwSVp3N2g4VENDZ1B4VXR3VW9namF3?oc=5"
         }
       ]
     },
@@ -319,38 +575,6 @@
         {
           "label": "Popular Mechanics",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSy1raWp4QUYtMDJuUFVPUFZsdVJkaGxnLWtTdlMzNDhqTGdUZ2Z0aEpvWkZjSjRmMlBrX1ZsNlprNjJJSHdqcERsblFWNTlrTEdCYU5CaGZxWUc1V0VVLUFLaFlpOGxLVXBxNkx3T3J5WWVhajBvc25qOTNtQTZpRHYzbVJiSVBYdHI0TFNHWDBfUDNfZXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-01-video-9-280 mysterious stone circles discove",
-      "date": "2026-07-01",
-      "type": "video",
-      "number": 9,
-      "title": "280 mysterious stone circles discovered in the Sahara—archaeologists stunne...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Futura, le média qui explore le monde",
-      "links": [
-        {
-          "label": "Futura, le média qui explore le monde",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb0ZUejdwM1NLN1pwOXZ3WFNXVzFwR1FPdVlJZnVXTWFvYml2ZDlWSFRaenlsX3FFOGtkeWx5ODBKclRFekY3QXh1M21oM1E5U1IwYm5yNmktNHZEUU5adDFtbGpzYTVvMnFqMkdTTmYwTmlKZG9vZFpFUlpIUWVUZ1BXUllKTVM4bVRQV0sxcnQ4WHdicTY4ZV9xUnZuY0ZxRUFhUDVvSUVHNEFzRjlWY1pudEFyRE5tbURuajJySDBhUEZ0SVdoTTFR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-30-ai-2-openai limits its latest chatgpt pro",
-      "date": "2026-06-30",
-      "type": "ai",
-      "number": 2,
-      "title": "OpenAI limits its latest ChatGPT product to Trump-approved customers during...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "links": [
-        {
-          "label": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcDFWbmRXOWFqV09XOERpbGpCd3ExZXBkZVNRT3lrY2xsajRQenJHbVd2V2J1aTJMTFI5Zk9IdHg1UGlPbnlTV2ZVaFNaWk5xLWw3VGxTWHlvZGdCY1RqUVNjZ0drQ2JQQ3B2TWRKLUhFdmVFSnphbE5Ec0IzcExUVHU0NGJodl80MFBaaG5BNkpJWnJyZjVtOVJsZFdFMndnS05RNUk2VVU4WnBnVm1sODhn0gG3AUFVX3lxTE4tOHNycEQwR2sxeUtYUWViclF6R05KT093YVhHMXFCbk9fT0VldDdGWUdVbTJ0Y0g5eElmY1RQSWR4OFBvampXaDlCYlNMQWdZN2dMNUhkb09IcGdFYmRGa2VBcU5wZ0dtcmlPSGQ3S0htSDQxQTRwUWxOVFMwN0dIcjA1R1l6US1QSzVyc281eEMtckJvQjFvSGdQYWdYeW5KNDlobjdoS2FKNWZCVXFEN3dtNDYtSQ?oc=5"
         }
       ]
     },
@@ -1071,22 +1295,6 @@
         {
           "label": "Britannica",
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBUXVPQXZ5UWtmTEhoN25oUlgwVzdxQ1ctUXpZaTZUajBvNVozcVJiY2JBSEhULTl3eEd3VEF3ZHhVUTdqSng0Tzc3M0lVbVhjQ09iRFI0d3R5TS10VFpF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-27-video-7-archaeologists found the lost book o",
-      "date": "2026-06-27",
-      "type": "video",
-      "number": 7,
-      "title": "Archaeologists Found the Lost ‘Book of the Dead’ Buried in an Egyptian Ceme...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Popular Mechanics",
-      "links": [
-        {
-          "label": "Popular Mechanics",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTlYxekFZbWhtTUtia0ttSEpJd2I1N0lEZEJuYlZwUkg3bVJiOVVzeEdjV1RuUFg1QUJwN1dfNzVpdXd2VExZNWM3c0dqa3lvbjJjZVNvUTdLbFNZQlhNMUpYODRXaTQtYzd2ejNmWlBPQk8yTXd0S1ZucWFEM1ExRmZYS0JONFNSZGZNSktYOHMyY0xrejFMbWxEQjM0dHZCZ1gwN3ozeXpKb2dzblpaczY5X2plV3hZdkRZTld5MUdBcWZDb1pwSU9wZE95c05QMDEw?oc=5"
         }
       ]
     },
