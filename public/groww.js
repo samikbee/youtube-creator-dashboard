@@ -164,15 +164,21 @@ function renderSortButtons() {
   });
 }
 
+function priceRefreshLabel(portfolio) {
+  const value = portfolio.browserSnapshot?.importedAt || portfolio.updatedAt || portfolio.asOf;
+  return value ? dateTime(value) : "No refresh date";
+}
+
 function renderTable(portfolio) {
   const holdings = [...(portfolio.holdings || [])].sort(compareRows);
+  const priceRefresh = priceRefreshLabel(portfolio);
   const priced = holdings.filter((h) => h.currentPrice !== null).length;
   document.querySelector("#holdingCount").textContent = `${priced} priced · ${holdings.length - priced} trend-only`;
   renderSortButtons();
   document.querySelector("#holdingsTable").innerHTML = holdings.map((row) => `
     <tr class="${row.browserSnapshotMatched ? "" : "trend-only"}">
       <td><strong>${row.displayName || row.name}</strong><br><span>${row.symbol || row.yahooSymbol || ""}</span></td>
-      <td>${money(row.currentPrice, true)}</td>
+      <td class="price-cell"><strong>${money(row.currentPrice, true)}</strong><span>${priceRefresh}</span></td>
       ${cellPct(row, "pnlPct")}
       ${cellPct(row, "day")}
       ${cellPct(row, "week")}

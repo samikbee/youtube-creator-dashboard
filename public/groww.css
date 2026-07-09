@@ -232,6 +232,17 @@ td:first-child {
   white-space: normal;
 }
 
+.price-cell strong,
+.price-cell span {
+  display: block;
+}
+
+.price-cell span {
+  color: var(--muted);
+  font-size: 12px;
+  margin-top: 3px;
+}
+
 .signal-cell {
   min-width: 170px;
   text-align: left;
