@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Groww Command Center</title>
+    <link rel="stylesheet" href="groww.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <a class="back-link" href="./">Creator Command Center</a>
+        <p class="eyebrow">Public portfolio snapshot</p>
+        <h1>Groww Command Center</h1>
+        <p class="subtitle">This page reads saved files only. No Groww request happens during page load.</p>
+      </div>
+      <div class="status-pill" id="statusPill">Loading</div>
+    </header>
+
+    <main>
+      <section class="summary-grid" id="summaryGrid"></section>
+
+      <section class="split-grid">
+        <div class="panel">
+          <div class="panel-heading">
+            <h2>Strongest Holdings</h2>
+            <span>Total return</span>
+          </div>
+          <div id="winnersList" class="rank-list"></div>
+        </div>
+        <div class="panel">
+          <div class="panel-heading">
+            <h2>Needs Attention</h2>
+            <span>Total return &lt;= -10%</span>
+          </div>
+          <div id="watchList" class="rank-list"></div>
+        </div>
+        <div class="panel">
+          <div class="panel-heading">
+            <h2>Top 1-Day Movers</h2>
+            <span>Day move</span>
+          </div>
+          <div id="moversList" class="rank-list"></div>
+        </div>
+      </section>
+
+      <section class="panel table-panel">
+        <div class="panel-heading">
+          <h2>Multi-Horizon Holdings</h2>
+          <span id="holdingCount"></span>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th><button class="sort-button" data-sort="displayName">Stock</button></th>
+                <th><button class="sort-button" data-sort="currentPrice">Price</button></th>
+                <th><button class="sort-button" data-sort="pnlPct">Total Return</button></th>
+                <th><button class="sort-button" data-sort="day">Day</button></th>
+                <th><button class="sort-button" data-sort="week">Week</button></th>
+                <th><button class="sort-button" data-sort="month">Month</button></th>
+                <th><button class="sort-button" data-sort="quarter">Quarter</button></th>
+                <th><button class="sort-button" data-sort="year1">1Y</button></th>
+                <th><button class="sort-button" data-sort="year3">3Y</button></th>
+                <th><button class="sort-button" data-sort="currentValue">Holding</button></th>
+                <th><button class="sort-button" data-sort="signal">Signal</button></th>
+              </tr>
+            </thead>
+            <tbody id="holdingsTable"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel screener-panel">
+        <div class="screener-title-row">
+          <div>
+            <p class="eyebrow">Screener.in saved query</p>
+            <h2>Query Results</h2>
+            <p class="screener-meta" id="screenerMeta">Loading Screener results</p>
+          </div>
+          <a class="screener-link" id="screenerSourceLink" href="https://www.screener.in/" target="_blank" rel="noreferrer">Open Screener</a>
+        </div>
+        <div class="table-wrap screener-table-wrap">
+          <table class="screener-table">
+            <thead id="screenerHead"></thead>
+            <tbody id="screenerRows"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="split-grid bottom-grid">
+        <div class="panel">
+          <div class="panel-heading">
+            <h2>Data Quality</h2>
+            <span>Read-only</span>
+          </div>
+          <div id="qualityPanel" class="quality-list"></div>
+        </div>
+        <div class="panel report-panel">
+          <div class="panel-heading">
+            <h2>Latest Groww Report</h2>
+            <span id="reportSource"></span>
+          </div>
+          <pre id="reportPreview"></pre>
+        </div>
+      </section>
+    </main>
+
+    <script src="groww.js" type="module"></script>
+  </body>
+</html>
