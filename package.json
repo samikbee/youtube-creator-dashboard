@@ -9,7 +9,8 @@
     "refresh:recommendations": "node scripts/generate-daily-report.js",
     "refresh:daily": "npm run refresh:recommendations && npm run refresh:analytics",
     "refresh:groww": "node scripts/import-groww-browser-snapshot.js",
-    "refresh:screener": "node scripts/refresh-screener.js"
+    "refresh:screener": "node scripts/refresh-screener.js",
+    "build:pages": "node scripts/export-github-pages.js"
   },
   "engines": {
     "node": ">=18"

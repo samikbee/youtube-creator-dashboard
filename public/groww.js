@@ -39,8 +39,15 @@ function dateTime(value) {
   }).format(new Date(value));
 }
 
+function dataPath(path) {
+  if (!location.hostname.endsWith("github.io")) return path;
+  const repo = location.pathname.split("/").filter(Boolean)[0];
+  const base = repo ? `/${repo}` : "";
+  return `${base}/static-api${path.replace(/^\/api/, "")}.json`;
+}
+
 async function getJson(path) {
-  const response = await fetch(path);
+  const response = await fetch(dataPath(path));
   if (!response.ok) throw new Error(`Could not load ${path}`);
   return response.json();
 }
