@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-07-23T22:01:28.581Z",
+  "updatedAt": "2026-07-24T22:01:25.202Z",
   "maxItems": 1000,
   "items": [
     {
-      "id": "2026-07-24-ai-1-openai and hugging face partner to a",
-      "date": "2026-07-24",
+      "id": "2026-07-25-ai-1-openai and hugging face partner to a",
+      "date": "2026-07-25",
       "type": "ai",
       "number": 1,
       "title": "OpenAI and Hugging Face partner to address security incident during model e...",
@@ -19,10 +19,42 @@
       ]
     },
     {
-      "id": "2026-07-24-ai-2-google launches gemini 3 5 flash cyb",
-      "date": "2026-07-24",
+      "id": "2026-07-25-ai-2-introducing claude opus 5",
+      "date": "2026-07-25",
       "type": "ai",
       "number": 2,
+      "title": "Introducing Claude Opus 5",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Anthropic",
+      "links": [
+        {
+          "label": "Anthropic",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-ai-3-google releases three new a i models",
+      "date": "2026-07-25",
+      "type": "ai",
+      "number": 3,
+      "title": "Google Releases Three New A.I. Models",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "The New York Times",
+      "links": [
+        {
+          "label": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTHg0TVFoTU1IaHdyenZrTVRSc09mZjUzTmZEYVJpMDhveHd5WnBHREJuU1BWRndTNWlQcWhFakRBT2F6dWxxMjFyM0l4cU9iWEpXaGhMbXFDT0hRNGNpMmpWQkdjUEhETUczOGY1NUhpRlNvUE04VVJ2NkhlbFNKSXl4UTBfUWlI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-ai-4-google launches gemini 3 5 flash cyb",
+      "date": "2026-07-25",
+      "type": "ai",
+      "number": 4,
       "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerab...",
       "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
       "signal": "Public news/RSS pickup",
@@ -35,10 +67,10 @@
       ]
     },
     {
-      "id": "2026-07-24-ai-3-openai is launching new corporate so",
-      "date": "2026-07-24",
+      "id": "2026-07-25-ai-5-openai is launching new corporate so",
+      "date": "2026-07-25",
       "type": "ai",
-      "number": 3,
+      "number": 5,
       "title": "OpenAI is launching new corporate software that takes it beyond the AI mode...",
       "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
       "signal": "Public news/RSS pickup",
@@ -51,10 +83,10 @@
       ]
     },
     {
-      "id": "2026-07-24-ai-4-who s suing ai and who s signing new",
-      "date": "2026-07-24",
+      "id": "2026-07-25-ai-6-who s suing ai and who s signing new",
+      "date": "2026-07-25",
       "type": "ai",
-      "number": 4,
+      "number": 6,
       "title": "Who's suing AI and who's signing: News Corp sues Brave, Microsoft signs Aus...",
       "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
       "signal": "Public news/RSS pickup",
@@ -63,6 +95,246 @@
         {
           "label": "Press Gazette",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-ai-7-anthropic rolls out opus 5 ai model ",
+      "date": "2026-07-25",
+      "type": "ai",
+      "number": 7,
+      "title": "Anthropic rolls out Opus 5 AI model in efficiency upgrade",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Reuters",
+      "links": [
+        {
+          "label": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbGtoSHNwQ0pjZ09saEozUGlWRVZ1ZG03ZC1Xc2UzNnZQSXRsQjkyWlBFVlM4QmM5WmtKVGhJbUZydG9UWEllUzgwbW90b0k1elZyQnpaV3VTNGZiNG5YWDdyNXFVTHhhTHN6TWpUU1RuSzYtNnpnN0M4VlpzeWp4azFmbWVyQTNlSXVfSlY5UTU2RGVsQ19ucGd2VlFEMGFEMG5J?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-ai-8-google s gemini nears billion user m",
+      "date": "2026-07-25",
+      "type": "ai",
+      "number": 8,
+      "title": "Google’s Gemini nears billion-user milestone",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "TechCrunch",
+      "links": [
+        {
+          "label": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQclpDaUN3YlJkY3YxNktBUWh0TG9NTEp4OWxpanpIZXFlak9xSlN5ejdVSFBxZnNJRkpMQlZ0TUQ3bXVPU0RfMWFRY2RTckZDLVZNVFBFS2lSLVhHaTdPa3U0Ql9RY0pPam5ZM2FidTFLS01rV3dadHhGcVI0OVRmbTR2ME1RZWZZUXRHdjYwU09HUmd5Q081T0Z6SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-ai-9-inside sam altman and jony ive s ai ",
+      "date": "2026-07-25",
+      "type": "ai",
+      "number": 9,
+      "title": "Inside Sam Altman and Jony Ive's AI hardware dream team and the battle for ...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Fortune",
+      "links": [
+        {
+          "label": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTXA0cnIydXA5dlY0a0ltangyQ1dESEtTNE9QZWhhSFNtdU0tZ1VOWV9VeGJyVV82RkpYQ21LSEJjYVlMdXRjMG9iVk1VMVVuc3RqTVdIZ1pHYjkteFJHNGo5TFA5UWkybzc4dFVXT3RjaGlNMjdYdVBRQkF0MzdLSTRfZW9BZXRLVU44cFFUWmRwLWlpeVBETFd6THo0RjhBdy1BRndRZXRGcnYtSWxsZXVjUk9HQ2FIblp1eDduWXNDZHZiOVFyNzBYNjZnNmJnTmlQdDlJZXpucmVNeUtEMHVYMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-ai-10-launching health in chatgpt",
+      "date": "2026-07-25",
+      "type": "ai",
+      "number": 10,
+      "title": "Launching Health in ChatGPT",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "OpenAI",
+      "links": [
+        {
+          "label": "OpenAI",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SZ20wcWdqZlZXdjZSYXpVcHNtS1R5cVFydGdYRnpLSVV5R1pLUXRDR1hQOWpjaFRBcktWNGhjWVlxcUtRY1BjYmZBVDZtRThCWFVBY0pn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-ai-11-google is launching three new ai mod",
+      "date": "2026-07-25",
+      "type": "ai",
+      "number": 11,
+      "title": "Google is launching three new AI models, including a security tool to rival...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "qz.com",
+      "links": [
+        {
+          "label": "qz.com",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fZEViS0gweDdHcFlwdFByeGg0NGlGejkxZlJjckhvTWRELW5hSnB1T3BScnFxVFlud0hFRURKY1JGbDl4QURsYXBLMmZoVE9PR3VLTFBIT014dFBnekFMQXJfbTRkRjRrUUtGOWw5LTBCQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-ai-12-anthropic ode launch google gemini p",
+      "date": "2026-07-25",
+      "type": "ai",
+      "number": 12,
+      "title": "Anthropic Ode Launch, Google Gemini Pro Delay: AI Roundup",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "DesignRush",
+      "links": [
+        {
+          "label": "DesignRush",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU1E4dFZZMjduZlZhX1lfc29lVjYtbTFCSGVTNHJGUmFWMXRTQ2NmQ1FQa1pNZFMyYzE2eVhEUWEwVVVNcVhBT0o1OUNZamc5UnNHdTFlRy0tUmhZWGpxSEtBbzA1OWtHMzBNdHZlNTFjd2NUTTF6cWZhQ3c1MjJfd0JBNUE0aFU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-video-1-archaeologists discovered 3 300 year",
+      "date": "2026-07-25",
+      "type": "video",
+      "number": 1,
+      "title": "Archaeologists Discovered 3,300-Year-Old Tombs Filled With Gems From the An...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Popular Mechanics",
+      "links": [
+        {
+          "label": "Popular Mechanics",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQmRacU5tU3hKVV9nTFZwX1dFaV80akFLWFl5MjN6WHJUdS1BU01RdzZ2MEVLWnlsbFJmckJRSkhvR1luWmI1Y1BFb0p4VFFYeGVaYjhFemg2WnRTd0ptWkszNTlhMXhISUFKVXpxOXJIZ1FxM2xlRVV2Z29JU0hwQ0NUd1U5bEMyYzBiQw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-video-2-science news this week gold tongues ",
+      "date": "2026-07-25",
+      "type": "video",
+      "number": 2,
+      "title": "Science news this week: Gold tongues discovered in tombs, sugar found in sp...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Live Science",
+      "links": [
+        {
+          "label": "Live Science",
+          "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPY2hSMERha0ZDMnFpMkhmVFNxNG5MdjJqRm1WS2s3UURxR1pwSWZFaWFzOGJlbzQ3UDZEcXp1bkZ1VVNjLV9PMWdTc05TeTZEd2dKT0lWbENiYV9TUEVfdTd4eU5sNVhiS2pRWDkyNlU5WU5xNVBqMDR6dWFJRjdGcEl2OHRLWmpRREtxRGFDcUlORFFyems5M0xJbkQtZ2R5alVrXzlfUGl5YUdleTNiRV8tdFBqaENTZlFpLTBJZXJ6NlJmYTRzSzZibEZJbVJjUThxZC04Nnd1TkttRjFrWXA2MUVXeFo2UW1ISi1wRWJrbGp6R29FU2pzNHd5VzI2bWdQNXVsMDVlbnJWN1h5SHpzZEVUR0FEOXBxTGM2eGFQSHdrWlNENWNBd29JS3V5WlZySk5xOThwcDB2SmtuWWFael8wQ2N2RExLc05LOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-video-3-archaeologists uncover rare 2 000 ye",
+      "date": "2026-07-25",
+      "type": "video",
+      "number": 3,
+      "title": "Archaeologists uncover rare 2,000-year-old Liubo game boards in Han Dynasty...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "The Times of India",
+      "links": [
+        {
+          "label": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOR1hvY21jREg2UXp1NjN1bnR5enp1a19VYWNGR1dXNlM4TjdHLVBlV0o3Q2tzWFJGcGVmVzZaeGQ1a182Um9GX1AxS0QwQWo5RzBzbTNSZEtxYUswSlFMbzhFRU9ZYXg5TEZCdzkwZjFvelBER2g3eGpZbU9rajRKOGxJOERmZGZNelVkem5SUEFCNkhVQWV5aURReEtlc0I2QWFlbW5LR0tJZzZVcGo1RTNwUkxHRktiNUtQVDhyN3JNYXNMMjkwNXd3QkhDdGRCeUdpbGJMcXJIXzFNZGVmaGFXR0xxWm90VDhaNWE4OUd4bTlWbG9CNktZOF9lSmlkZVo2U1ppVTIyWWI2R1Q3Tkh6d3hzTmJPZ2NWTGkzalZxZ1pMQVI4cU1zZ3BKdmZ2WWh0alJYX0NQR1hTaGtN0gHEAkFVX3lxTE4xenJFU2lBV05aVXgybEVJYWw2NVpkUk9JZm5EcmdtZUtnWHZlMF9NaEQyd2ZaMXYtUlAxRXVFY0RvSWhXVlJBMkMtdFBQYUJaWkRDTFZyaTJTOGQ0RzhVVE5hbi1fUVRTWG93SV9vTUNDRFVGLV93Q25aM3Vzc3VTMmtEVndGai0xYUo0RnZnYk5HZXVTTG9zZjZIUy1JeXpqRGNHaXd6XzdwMUpZMEM4aTZCekRCNi1nWFpkNmVaSGZhcmM3NDR2MHdJMTgyT0JwY2JUeTRWc2FIYmExQU9TNVVaRE5QUmZMUVYyZ3Rjdk9LeEowSWdXR1NSZHZ3UXRiTlJZRnplS0hLU1gwNk92ejZYYWcxTjZrWVJnRkdlbHdBMG1LZTl3VUlVYXJQckNITjdFVlRDenRtUVFQbmVvdFdIRA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-video-4-mysterious ancient israeli site attr",
+      "date": "2026-07-25",
+      "type": "video",
+      "number": 4,
+      "title": "Mysterious, Ancient Israeli Site Attracting Modern Pilgrims - Travel in Israel",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Haaretz",
+      "links": [
+        {
+          "label": "Haaretz",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPeDJwa2JNdlQwRktFSzRram5ESTd5NDFWZTZFX1YyM3NrdnVpdS1qV05URGN5akZSMzVvOVFydGs0cnZwcW1QQTJqYjFYTThfZjhVTHZwODY5bXAwMURiZE9ydWtLZ2NjYjFIUFhzaGQzRUJ5R0FIS2VHVTlySGhBMXNGaFkxcEg5RVl3bEEyQ2F6M1MtM3Q5TE1ZMTBodFd2ODJZY2FDcVhTeXROc19CSng2dXNoVzRXLWNGaENKc3d6UXpyVjlMMTd4Qm9yaXlPU1EyMzJTYWhtcHJQUkVRNkk3VkI2Q1JMMVlSQi16SXNTazlDclRYX1E5dWZJWURjdDhidWEwNkk5V3lQX3pEZlNB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-video-5-a mysterious woman s name was etched",
+      "date": "2026-07-25",
+      "type": "video",
+      "number": 5,
+      "title": "A Mysterious Woman’s Name Was Etched Into Stone. Experts May Have Finally F...",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Popular Mechanics",
+      "links": [
+        {
+          "label": "Popular Mechanics",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWFN3Y3ZtaEdfZEE5c1FWUldpRk5ubWRROWRlMFNOQ0VHaUNIcFlBWkNrWDVTZlF2bjBvekhDd0dLTW13NlN4dkFfSHhYQ29FYmpBZWFfbkswcjFoY3dxaERqN2R6REU0NmRDdXI1a3dMREx2d3Ytd3Exb25BY2JTRFBNcVowZzdIRmc4YjZJQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-video-6-ancient egypt s lost secrets tutankh",
+      "date": "2026-07-25",
+      "type": "video",
+      "number": 6,
+      "title": "Ancient Egypt’s Lost Secrets: Tutankhamun, Pyramids & Ramses | MEGA Episode...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Mshale",
+      "links": [
+        {
+          "label": "Mshale",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2RjduMExHc2R2SjZLSXg4amd2ZXVxcHl6Z3BwZFdFTXJLLWdHOGswTC1McVJaY0NYenZwNVgxUHEzdUNjX1ZCajgwTHFRazhUdF95SGxobkxLV0k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-video-7-for 1 000 years a cult worshipped th",
+      "date": "2026-07-25",
+      "type": "video",
+      "number": 7,
+      "title": "For 1,000 years, a cult worshipped the hero of the Odyssey",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "BBC",
+      "links": [
+        {
+          "label": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaGg5cGVFMzVBRTdEUjhRNFJiN1RRcHJWcGlJMzlJbHgxaU5vMW10d2poYTR3VVN4aFdrRUVZdHB6RFpUQzZzclNHMDlNQ3NvSWpqMWpRdTRLT1JtcTJtRXlXdHNub0IzQ1kzc2M2VzNKZnkzeEV6Q25ybTdPNGh6aHVWQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-video-8-five major new discoveries heritage ",
+      "date": "2026-07-25",
+      "type": "video",
+      "number": 8,
+      "title": "Five major new discoveries - Heritage - Al-Ahram Weekly",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Ahram Online",
+      "links": [
+        {
+          "label": "Ahram Online",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02M1BVOTF6b3pmMHFlZFY5YmdUV1lyMmRLbFJESmFBSUE1cWRuT0ZXN0Qxa3pLUEY1eWRadEdJUTRzVnpzMGJ6a2xlTXl4bzk1UjM5S2dtNWI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-25-video-9-egypt s lost royal tomb of king thut",
+      "date": "2026-07-25",
+      "type": "video",
+      "number": 9,
+      "title": "Egypt's lost royal tomb of King Thutmose II found near Luxor: The first pha...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "The Times of India",
+      "links": [
+        {
+          "label": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQdjlsUUplbzhuQnE2UjRiWENOcl94YzdyVXdZVHNOeVltYU1vZmJGTW1xWUxUYWx5ZDdXWGZKOF9ab2ZFbTBIQ0J6SnF0NzU0eF96OXJFa0NXdnRiNTZsN3VlY3VSaXpIbml6d05TejhpdUNCNy1QWWZ2QnM3WWlBYTFJV3lISEQxekNvTzVQekVXcDdHdDFBVU5sbUhrakU1b0tYNG5JR2s3d2gtRkxKOUNwV2dwVjJaemYxSjVFWU9ISDMyY2ZvZ3E5elNOZWwxQlFqeFliQ0owejhXZ0VSRmNhNzI2WlpFM0tzQTlhcVF6TmNyYmgxbndZLU1NNVhBdUtFQTNmbmdGN0pmaURuYXZlS0VlZzFOQXFDNHNZeWFkU1dIV0lJTkZn0gGvAkFVX3lxTE43MEw2YWloamp5UE9aX3lmV2Q3RXAzM0VUQ3RDUGd4LThibE44em5wRGRVeWQ0cktJdV8yTTNlelFjdUM5TUdnUVF0QUdEME5vb19FcWtWVTZvc2ItcmxVVWhlZFZXN0JQcllSU3pDTmNXNXoxZjBleEYwMkJHTXV5dEI0SzNtSEV4ay05OEVoZzNQaDhwMXEzcXJYTGlCVFhIZlNuejR4ck5BbFo3VlZ0LWp6R2tFeUF5QUl3RkdiZGZTYkNiVHl1cTJiUzRTY1g2RzZzdFJPeFotR3lSUkZkOGRPQTk2cjEwUDlfazlhTjlhdGVXXzBiVGtTTnpLb0JjV2JLVE00UGIxNjNUUVp0NWY5aFFNRWdiYTR4VkY5eVVQZTAtVWQyVURLTXhSNA?oc=5"
         }
       ]
     },
@@ -115,22 +387,6 @@
       ]
     },
     {
-      "id": "2026-07-24-ai-8-google is launching three new ai mod",
-      "date": "2026-07-24",
-      "type": "ai",
-      "number": 8,
-      "title": "Google is launching three new AI models, including a security tool to rival...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "qz.com",
-      "links": [
-        {
-          "label": "qz.com",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fZEViS0gweDdHcFlwdFByeGg0NGlGejkxZlJjckhvTWRELW5hSnB1T3BScnFxVFlud0hFRURKY1JGbDl4QURsYXBLMmZoVE9PR3VLTFBIT014dFBnekFMQXJfbTRkRjRrUUtGOWw5LTBCQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-07-24-ai-9-google releases three new gemini mod",
       "date": "2026-07-24",
       "type": "ai",
@@ -163,22 +419,6 @@
       ]
     },
     {
-      "id": "2026-07-24-ai-11-inside sam altman and jony ive s ai ",
-      "date": "2026-07-24",
-      "type": "ai",
-      "number": 11,
-      "title": "Inside Sam Altman and Jony Ive's AI hardware dream team and the battle for ...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "Fortune",
-      "links": [
-        {
-          "label": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTXA0cnIydXA5dlY0a0ltangyQ1dESEtTNE9QZWhhSFNtdU0tZ1VOWV9VeGJyVV82RkpYQ21LSEJjYVlMdXRjMG9iVk1VMVVuc3RqTVdIZ1pHYjkteFJHNGo5TFA5UWkybzc4dFVXT3RjaGlNMjdYdVBRQkF0MzdLSTRfZW9BZXRLVU44cFFUWmRwLWlpeVBETFd6THo0RjhBdy1BRndRZXRGcnYtSWxsZXVjUk9HQ2FIblp1eDduWXNDZHZiOVFyNzBYNjZnNmJnTmlQdDlJZXpucmVNeUtEMHVYMA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-07-24-ai-12-microsoft s nadella criticizes anthr",
       "date": "2026-07-24",
       "type": "ai",
@@ -191,54 +431,6 @@
         {
           "label": "CNBC",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMnpCZzd1bS1nd25TUC1xa2lISUM3LXdYbWFFZFBJd2xFUTFnR3l1b05DbUhYS1V1UjBDLVJmYTZmZ1RJNXJmMXNFWTM4eFBTREpKbE1xQU85WjhNX3BJcFRmSWdlQnFvajRxZFVZSzFzOXlnTEVkOEJkSzhkc0phNXJDdkVSMW5GbUFPb1JtYjRzOHctY2J1VjA2MnN4ODdLcFl4R1o4Y9IBrAFBVV95cUxNYlY4MnVoT19SZEltcVNPVk1adi15T0N0VExyYXpjMmozMmgtVnFaX0QyLVhlQlpNZkJtV1RBeS12WGVWRkV2OEZhNlVVV056bE90T0RLN3I5U3NEMHJFMW5pQmJubWN4SlZ4WkZoVUxrX0VIbjlNLXZROGVwc3o4ZjJqUXBzaUhOY3RtVENPZ3gzSXFNeXhpR2R3aTF1YklpYVFSdzJLalA3aXM5?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-24-video-1-a mysterious woman s name was etched",
-      "date": "2026-07-24",
-      "type": "video",
-      "number": 1,
-      "title": "A Mysterious Woman’s Name Was Etched Into Stone. Experts May Have Finally F...",
-      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Popular Mechanics",
-      "links": [
-        {
-          "label": "Popular Mechanics",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWFN3Y3ZtaEdfZEE5c1FWUldpRk5ubWRROWRlMFNOQ0VHaUNIcFlBWkNrWDVTZlF2bjBvekhDd0dLTW13NlN4dkFfSHhYQ29FYmpBZWFfbkswcjFoY3dxaERqN2R6REU0NmRDdXI1a3dMREx2d3Ytd3Exb25BY2JTRFBNcVowZzdIRmc4YjZJQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-24-video-2-science news this week gold tongues ",
-      "date": "2026-07-24",
-      "type": "video",
-      "number": 2,
-      "title": "Science news this week: Gold tongues discovered in tombs, sugar found in sp...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Live Science",
-      "links": [
-        {
-          "label": "Live Science",
-          "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPY2hSMERha0ZDMnFpMkhmVFNxNG5MdjJqRm1WS2s3UURxR1pwSWZFaWFzOGJlbzQ3UDZEcXp1bkZ1VVNjLV9PMWdTc05TeTZEd2dKT0lWbENiYV9TUEVfdTd4eU5sNVhiS2pRWDkyNlU5WU5xNVBqMDR6dWFJRjdGcEl2OHRLWmpRREtxRGFDcUlORFFyems5M0xJbkQtZ2R5alVrXzlfUGl5YUdleTNiRV8tdFBqaENTZlFpLTBJZXJ6NlJmYTRzSzZibEZJbVJjUThxZC04Nnd1TkttRjFrWXA2MUVXeFo2UW1ISi1wRWJrbGp6R29FU2pzNHd5VzI2bWdQNXVsMDVlbnJWN1h5SHpzZEVUR0FEOXBxTGM2eGFQSHdrWlNENWNBd29JS3V5WlZySk5xOThwcDB2SmtuWWFael8wQ2N2RExLc05LOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-24-video-3-mysterious ancient israeli site attr",
-      "date": "2026-07-24",
-      "type": "video",
-      "number": 3,
-      "title": "Mysterious, Ancient Israeli Site Attracting Modern Pilgrims - Travel in Israel",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Haaretz",
-      "links": [
-        {
-          "label": "Haaretz",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPeDJwa2JNdlQwRktFSzRram5ESTd5NDFWZTZFX1YyM3NrdnVpdS1qV05URGN5akZSMzVvOVFydGs0cnZwcW1QQTJqYjFYTThfZjhVTHZwODY5bXAwMURiZE9ydWtLZ2NjYjFIUFhzaGQzRUJ5R0FIS2VHVTlySGhBMXNGaFkxcEg5RVl3bEEyQ2F6M1MtM3Q5TE1ZMTBodFd2ODJZY2FDcVhTeXROc19CSng2dXNoVzRXLWNGaENKc3d6UXpyVjlMMTd4Qm9yaXlPU1EyMzJTYWhtcHJQUkVRNkk3VkI2Q1JMMVlSQi16SXNTazlDclRYX1E5dWZJWURjdDhidWEwNkk5V3lQX3pEZlNB?oc=5"
         }
       ]
     },
@@ -271,54 +463,6 @@
         {
           "label": "The Conversation",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdFRTQ1ZFSWdzTnUyNER3WkZCWU9zTkFGdWVXWllpQjZ1ajN0SUQ2c1RxcjJnRVdQcFA3QTg1SHNROVNVRWJqeDJCWTdLOFh5RFdtVy1tMEdhdjlkclFJbTNwbXBYTmhaaFZGUTdUY0Z6Y3JBZzk4Wk5wOWx2Snd2VHZkVExjaHJqbllFWUhwSnBvcmM0dkNWNEROamUtM2F5ZHU2bEkyTWdIU2NyVFYyRHI2bmQyWHpVaDFEUDNNSkVFWFU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-24-video-6-ancient egypt s lost secrets tutankh",
-      "date": "2026-07-24",
-      "type": "video",
-      "number": 6,
-      "title": "Ancient Egypt’s Lost Secrets: Tutankhamun, Pyramids & Ramses | MEGA Episode...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Mshale",
-      "links": [
-        {
-          "label": "Mshale",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2RjduMExHc2R2SjZLSXg4amd2ZXVxcHl6Z3BwZFdFTXJLLWdHOGswTC1McVJaY0NYenZwNVgxUHEzdUNjX1ZCajgwTHFRazhUdF95SGxobkxLV0k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-24-video-7-egypt s lost royal tomb of king thut",
-      "date": "2026-07-24",
-      "type": "video",
-      "number": 7,
-      "title": "Egypt's lost royal tomb of King Thutmose II found near Luxor: The first pha...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "The Times of India",
-      "links": [
-        {
-          "label": "The Times of India",
-          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQdjlsUUplbzhuQnE2UjRiWENOcl94YzdyVXdZVHNOeVltYU1vZmJGTW1xWUxUYWx5ZDdXWGZKOF9ab2ZFbTBIQ0J6SnF0NzU0eF96OXJFa0NXdnRiNTZsN3VlY3VSaXpIbml6d05TejhpdUNCNy1QWWZ2QnM3WWlBYTFJV3lISEQxekNvTzVQekVXcDdHdDFBVU5sbUhrakU1b0tYNG5JR2s3d2gtRkxKOUNwV2dwVjJaemYxSjVFWU9ISDMyY2ZvZ3E5elNOZWwxQlFqeFliQ0owejhXZ0VSRmNhNzI2WlpFM0tzQTlhcVF6TmNyYmgxbndZLU1NNVhBdUtFQTNmbmdGN0pmaURuYXZlS0VlZzFOQXFDNHNZeWFkU1dIV0lJTkZn0gGvAkFVX3lxTE43MEw2YWloamp5UE9aX3lmV2Q3RXAzM0VUQ3RDUGd4LThibE44em5wRGRVeWQ0cktJdV8yTTNlelFjdUM5TUdnUVF0QUdEME5vb19FcWtWVTZvc2ItcmxVVWhlZFZXN0JQcllSU3pDTmNXNXoxZjBleEYwMkJHTXV5dEI0SzNtSEV4ay05OEVoZzNQaDhwMXEzcXJYTGlCVFhIZlNuejR4ck5BbFo3VlZ0LWp6R2tFeUF5QUl3RkdiZGZTYkNiVHl1cTJiUzRTY1g2RzZzdFJPeFotR3lSUkZkOGRPQTk2cjEwUDlfazlhTjlhdGVXXzBiVGtTTnpLb0JjV2JLVE00UGIxNjNUUVp0NWY5aFFNRWdiYTR4VkY5eVVQZTAtVWQyVURLTXhSNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-24-video-8-archaeologists discovered 3 300 year",
-      "date": "2026-07-24",
-      "type": "video",
-      "number": 8,
-      "title": "Archaeologists Discovered 3,300-Year-Old Tombs Filled With Gems From the An...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Popular Mechanics",
-      "links": [
-        {
-          "label": "Popular Mechanics",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQmRacU5tU3hKVV9nTFZwX1dFaV80akFLWFl5MjN6WHJUdS1BU01RdzZ2MEVLWnlsbFJmckJRSkhvR1luWmI1Y1BFb0p4VFFYeGVaYjhFemg2WnRTd0ptWkszNTlhMXhISUFKVXpxOXJIZ1FxM2xlRVV2Z29JU0hwQ0NUd1U5bEMyYzBiQw?oc=5"
         }
       ]
     },
