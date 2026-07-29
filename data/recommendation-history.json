@@ -1,7 +1,343 @@
 {
-  "updatedAt": "2026-07-28T21:59:48.939Z",
+  "updatedAt": "2026-07-29T21:56:23.489Z",
   "maxItems": 1000,
   "items": [
+    {
+      "id": "2026-07-30-ai-1-gemini for macos adds new natural la",
+      "date": "2026-07-30",
+      "type": "ai",
+      "number": 1,
+      "title": "Gemini for macOS adds new natural language capabilities",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "blog.google",
+      "links": [
+        {
+          "label": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOW8wU2lGd2pKNFJZY1liRXZGX3RoRG9jcGdKS2FZTElHWDdDYzJ3dXhUdGU2VEVqRjhzOXNBVFFDckxEV2Zhdzh0SHR4QjMzUFBBSEM0Yzk1NDRlOUg3eXk2VndyN1lreU5LemF3LXBKY1ppX0lNOUU3dkR5Ml9kcjIzREplRHp3UkJmd1FtZl9Mc3hqOVN3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-ai-2-anthropic s new ai model can identif",
+      "date": "2026-07-30",
+      "type": "ai",
+      "number": 2,
+      "title": "Anthropic’s New AI Model Can Identify More Software Bugs Than Ever. Microso...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "propublica.org",
+      "links": [
+        {
+          "label": "propublica.org",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNamFsZVFiVFFUN1NZdU1YZm5KaHFwajh5RVhSM3VqeURwLXlSWXpzZkJKYThRSTBaRGI4VjhWRnRPX3dhNlBXejhyY2hobXZoN0NtLU4zN3YzS21PY1h2alJxNkVVeXBKdnVtVVZtbURUSDdOSUhobGRzTlBQWmg4Qno0c3ZHTWgyZi1peFBKZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-ai-3-stop paying for the newest ai models",
+      "date": "2026-07-30",
+      "type": "ai",
+      "number": 3,
+      "title": "Stop Paying for the Newest AI Models. You Really Don't Need Them for Most T...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "PCMag",
+      "links": [
+        {
+          "label": "PCMag",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRG8wdzc5bVZUVUswc0ExcGRsVGR0djhqUWdEelFWaXVkOGpVWkNzRWdLUzI5N0NYZ0tfcWwzaHgxbG9EWlptWGNCUFAxeV9fUzNHWXZaVElUWklHQTVfTllxVzM4aVBaVU5wYm1OR2Y1T0Z6LWlWNF9TRDRpclVuVWdWODFBem1fa1lRUE80SmRVYjczYzhWbXp5SUVPNUh2WlNMNHZ1dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-ai-4-michaels launches ask mike ai shoppi",
+      "date": "2026-07-30",
+      "type": "ai",
+      "number": 4,
+      "title": "Michaels Launches Ask Mike AI Shopping Assistant Built With Google Cloud Ge...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Pulse 2.0",
+      "links": [
+        {
+          "label": "Pulse 2.0",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS0VxemZoVi16OHRzYjRGbTR1Q2Z1RzBKREVCckpJWGR1MkFyS05hNW5FR1VxeTZOMGM5dGxPOGUyeXN6d1RaZFVnR19ZSVJnV21YYlpkVWpYa3JYZHNmVEdWekNxcFFiUl9uajh2WmZELW9xQTF2OWRDdm5oRUg1S0c4dG1DMkprb1R1VUtoRUJCNm81V3R2ZXFKYW9GN29C0gGmAUFVX3lxTE1Md1Z1YnhQQlZIV281ZE9tY3pfREpwb1I5NnRncW1MVFppdnlSVHNXNWJDNnRCUmdoX0JIRllOTThBNmhMNWI2N1ltWVZ2T2ZhYWxMR0dJMW1RaTJKMFo3R1Z0b0huSGk5TnQyNWJOYXJScEhCV2p2bzNDaWhpUEhEbXZKeTNEeWdvVHp0T1c0VlN0MEIzV19JV1pBSXpRcVdReVRRZHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-ai-5-microsoft launches new mai family of",
+      "date": "2026-07-30",
+      "type": "ai",
+      "number": 5,
+      "title": "Microsoft launches new MAI family of AI models for reasoning, voice, coding...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Mashable",
+      "links": [
+        {
+          "label": "Mashable",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzhvOFFMdzREZTdVcXgtRldpaFlLZENNMEF3dF9wQnF3UWtfRmN3MWt0a2VEVXY1cmJwQTc4dlk0d0hmTHU3bExNTTdkSldJR21ES0l4VnlCT2xERUJGMS0tNFZpMzNBeDJVRW9kc1lBekM1YWZzZjc3VXBMRDJObjdDdXY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-ai-6-i tried out openai s new ai keypad w",
+      "date": "2026-07-30",
+      "type": "ai",
+      "number": 6,
+      "title": "I tried out OpenAI's new AI keypad — which will be fun for some coders and ...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "TechCrunch",
+      "links": [
+        {
+          "label": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRVpYeDhuTjJZSWI3VTF6eWxTQzFoQWE1a0pPMzhWbGp0UkppWFBsM2RWS2dkOWpnNGp0Z3daMmFyQU5aVXRTcVVGcUxEY2d5OGp6MHlkYlRkWmFIQWpCenh5dnV0cGsyaHlzLUw2bXdHRW9Xbjl2bnZpSm85RjQ2ZlFiYk0xcUt6ZHRhUjFqYnRlSTZFVjBUTi1kLXlzNElER25CR0hTbnBraERQb1hFa0pSdEVHSVh1UGFsNnVxdDB2REJ4akZicWVyMFZ3aWdKYTVfdA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-ai-7-introducing gemini spark your 24 7 p",
+      "date": "2026-07-30",
+      "type": "ai",
+      "number": 7,
+      "title": "Introducing Gemini Spark: Your 24/7 personal AI agent in India",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "blog.google",
+      "links": [
+        {
+          "label": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORmVHV2JlTjJDaWUwVnF6b3BSNzN1OWJXRXhsdjNxWnJ3QzVYTTM1WU9rWXBrTE9PQ2hKbXVoeUxjNUNNQ3JzdEZzUHBPajJDSmQzaXlEMGhock1rUmwyRENWNXBPQVhhbEQ5TWN3bnJ6YTRFZUVPcGd2bWljMzcwYWJ1bGtVM3VXOEsxeWJ0ODBGbURXYURKYWV0RDkyd2E1QnN0V0YyTVJ5MFVQOHNZZkZnZTlaNFhfUHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-ai-8-disney is ditching microsoft s githu",
+      "date": "2026-07-30",
+      "type": "ai",
+      "number": 8,
+      "title": "Disney is ditching Microsoft's GitHub Copilot and adding OpenAI's Codex",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Business Insider",
+      "links": [
+        {
+          "label": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTVE2Q2R3QTU1WlZybE1acUtvSHlEaFhLZVVvSldERjhxbUlZSzlqbkVrOUVNSWRiS0JxRnJkTjZPVUpKd0NhM1BJNkpYRDFfOENnYjV3RWx2Qm9QcTd2dHRHck9zeTdwZ2hBSWdzV0dmNlRaRHY3dTM4dHpKN1g0a19SWEw0VnJDRkk1SW5kbExwNTFXN0N2NkhUZU9vRDZjeFEtdzlseWlxdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-ai-9-introducing ask google pay and expan",
+      "date": "2026-07-30",
+      "type": "ai",
+      "number": 9,
+      "title": "Introducing Ask Google Pay, and expanding everyday credit",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "blog.google",
+      "links": [
+        {
+          "label": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVWx5aFY0UVlqbWxQcUpxenZSUDJuRmlaY2hiODlXNm56N1BWTm9KNkIybGUtNlRxUy14aWpOdzY1V2NjU0FSMEl6ZzNncHJpa3hzYTJJYVJySk5FRVlrRDNVSGF4VTEzd2dBZ25ZZmRfUHo0WGRvelMwNjhFRWJQUi0zNHN0b3owM3owdHBmVGdRZUlYNHpQUGpwX3ZuUWZxRkRZNkNHTnhEcDZhUmV3U0h0aFZfby1M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-ai-10-amd s anthropic and openai deals pow",
+      "date": "2026-07-30",
+      "type": "ai",
+      "number": 10,
+      "title": "AMD's Anthropic and OpenAI Deals Power $2 Trillion AI Ambitions",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Benzinga",
+      "links": [
+        {
+          "label": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYnRmLVN5Y21CeFpqWlhhOERVZDVYeHkwdGdib20td3Y4NG5paU5XVEJkX3NlSmk4b2ExUlVocVUxMDhHR2ZhRTZTdDFlNW5POGFOeHhSYlBJeVRCdi1OVDE5NmV4aXJwVHpxVDU5S2NXQUxvZ1l0bVNDWFJQWTRnODJwTDhGX2pUUk1VbU1OdDB6eDdnNm9rRXF4MzFWbV9nRGxJbHpQSWoxLTUyS19Cd2prYXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-ai-11-ringcentral rng taps openai and expa",
+      "date": "2026-07-30",
+      "type": "ai",
+      "number": 11,
+      "title": "RingCentral (RNG) Taps OpenAI And Expands NiCE Tie Up For AI Communications",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "simplywall.st",
+      "links": [
+        {
+          "label": "simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcUZQa0dsLXNxeEZDWXdjelN5VG1MOGNzcHg3WXZOSzRXODNZSk9teWVoRjR1al96aWh3S0Zmd09JV1N1UUJ1YzlxUDZ2T29qOGd3MFNETDVjWWVpbWlxWktmeXR5SVY2cGVLOW9sVnJNaHcwRVlWN2R5V2ZkamYySVZ5WGctSGU2TFlvZHlFOS04WGZIQXlGZlRZVnNVWkUzM184R0dja1JsUHAzblNJNVZLTkZJcDhYLVROcEQwWEtEU2Q0VnfSAcsBQVVfeXFMUG5RTjhtRVlZMUFZWXF6MnNsb1N4aVdUM1J2YXlreEhMT0Z0MnQ1VXh2eTNCbGpwRkdZOS1TSHN0TmNuWlYtNkMwVU5sNnp5Q3Mza3lsVUczOTFrS1J5QklJMjh3dzJ1SWFWQjZuZi1tRk9OdGpEVks1X3FhOHZ5OEFlc3p4QW9kb0RseTQ4TzNDUXJYMV9jMnBPVUMzTXBNRXNpeHZrQ0poV2xKWnZzcDBDdHJETE1NOU9XZHRZaFYyb2daNldPbFd0TjQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-ai-12-12 free google ai tools that do the ",
+      "date": "2026-07-30",
+      "type": "ai",
+      "number": 12,
+      "title": "12 Free Google AI Tools That Do The Work Of Paid Software",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Man of Many",
+      "links": [
+        {
+          "label": "Man of Many",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZRXktQS00U0JmUkl3ckNkRTdmdGZxUG03MVh4clh4U3pjMFFzQmZXSzdsOXNDaFh0WElNWC1MVExjUEIwaEhDNFZLcFhjSG9VX0MtZEw3T3JRdHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-video-1-archaeologists discovered 3 300 year",
+      "date": "2026-07-30",
+      "type": "video",
+      "number": 1,
+      "title": "Archaeologists Discovered 3,300-Year-Old Tombs Filled With Gems From the An...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Popular Mechanics",
+      "links": [
+        {
+          "label": "Popular Mechanics",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQmRacU5tU3hKVV9nTFZwX1dFaV80akFLWFl5MjN6WHJUdS1BU01RdzZ2MEVLWnlsbFJmckJRSkhvR1luWmI1Y1BFb0p4VFFYeGVaYjhFemg2WnRTd0ptWkszNTlhMXhISUFKVXpxOXJIZ1FxM2xlRVV2Z29JU0hwQ0NUd1U5bEMyYzBiQw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-video-2-previously undiscovered ancient egyp",
+      "date": "2026-07-30",
+      "type": "video",
+      "number": 2,
+      "title": "Previously undiscovered ancient Egyptian tomb found at Theban necropolis on...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "The Jerusalem Post",
+      "links": [
+        {
+          "label": "The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OV1RmbHFkV1lhckdNQTlINnhqNVFoMEZ0cEVxSk8wS0dsVUZxb25qLUhrdFh0clJfQjVLUkNHQUJqcFk5ODFkUnhMMXRQZGNnZWZRQXE0cVk5dDhD?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-video-3-archaeologists uncover rare 2 000 ye",
+      "date": "2026-07-30",
+      "type": "video",
+      "number": 3,
+      "title": "Archaeologists uncover rare 2,000-year-old Liubo game boards in Han Dynasty...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "The Times of India",
+      "links": [
+        {
+          "label": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOR1hvY21jREg2UXp1NjN1bnR5enp1a19VYWNGR1dXNlM4TjdHLVBlV0o3Q2tzWFJGcGVmVzZaeGQ1a182Um9GX1AxS0QwQWo5RzBzbTNSZEtxYUswSlFMbzhFRU9ZYXg5TEZCdzkwZjFvelBER2g3eGpZbU9rajRKOGxJOERmZGZNelVkem5SUEFCNkhVQWV5aURReEtlc0I2QWFlbW5LR0tJZzZVcGo1RTNwUkxHRktiNUtQVDhyN3JNYXNMMjkwNXd3QkhDdGRCeUdpbGJMcXJIXzFNZGVmaGFXR0xxWm90VDhaNWE4OUd4bTlWbG9CNktZOF9lSmlkZVo2U1ppVTIyWWI2R1Q3Tkh6d3hzTmJPZ2NWTGkzalZxZ1pMQVI4cU1zZ3BKdmZ2WWh0alJYX0NQR1hTaGtN0gHEAkFVX3lxTE4xenJFU2lBV05aVXgybEVJYWw2NVpkUk9JZm5EcmdtZUtnWHZlMF9NaEQyd2ZaMXYtUlAxRXVFY0RvSWhXVlJBMkMtdFBQYUJaWkRDTFZyaTJTOGQ0RzhVVE5hbi1fUVRTWG93SV9vTUNDRFVGLV93Q25aM3Vzc3VTMmtEVndGai0xYUo0RnZnYk5HZXVTTG9zZjZIUy1JeXpqRGNHaXd6XzdwMUpZMEM4aTZCekRCNi1nWFpkNmVaSGZhcmM3NDR2MHdJMTgyT0JwY2JUeTRWc2FIYmExQU9TNVVaRE5QUmZMUVYyZ3Rjdk9LeEowSWdXR1NSZHZ3UXRiTlJZRnplS0hLU1gwNk92ejZYYWcxTjZrWVJnRkdlbHdBMG1LZTl3VUlVYXJQckNITjdFVlRDenRtUVFQbmVvdFdIRA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-video-4-18 ancient egyptian tombs with golde",
+      "date": "2026-07-30",
+      "type": "video",
+      "number": 4,
+      "title": "18 ancient Egyptian tombs with 'golden tongues' unearthed",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "aol.com",
+      "links": [
+        {
+          "label": "aol.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ0FQNUVOdVo4MWFjajNuSWpFdEJUT2tmTWlaRmFla1NMRk10dkZCOE16T2xWaFUtaXhGZzB3VW1DOFlJVlpvU2t0VW42X3E5aUNnR1pyRUlaMGlFZVdsRVR0WE1WOHJpOFJCWjB6UFpkV1hEVDZqTEJSam1McWhoS0VR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-video-5-researchers say two ancient ramps be",
+      "date": "2026-07-30",
+      "type": "video",
+      "number": 5,
+      "title": "Researchers Say Two ‘Ancient Ramps’ Beside Egypt’s Red Pyramid May Actually...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "The Debrief",
+      "links": [
+        {
+          "label": "The Debrief",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaFduYXI1TlZLMVlsc25Xay0xalZJQkQxZ1hhWWJKaXN5ZmU0bl8zdjdhYW9pYWlOU1JUVTA0YXFSM2lYengwb09TelVaQ2JEOE52M1E0bXA1dTA4bE5OZTBGSjZqdHJkNGx5TE5hWmVlVWxiX2pQNkgwcllXb0JPMzd0UDVQOHQ4ak50Sm5ZZm5DbmJmcENBSGNmLVJPbE50UVlxVGFRbE13WTRNd2c2Vm56TThNSWdQQ2hDYlRQWjM5Unh3amVyVmZ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-video-6-archaeologists found a burial ritual",
+      "date": "2026-07-30",
+      "type": "video",
+      "number": 6,
+      "title": "Archaeologists Found a Burial Ritual in a 2,600-Year-Old Egyptian Tomb That...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Popular Mechanics",
+      "links": [
+        {
+          "label": "Popular Mechanics",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcDYtY0c2Mnd6amxKNnFQMGdPdWVleC12U1NOenRjTzhPZWNHMUJtbV9UTlVlQjluZFJJVWFJOFgtcGVadFduUUkyeU05dG1NYm5qdnc5ejBLd1kzcmdHdUEtZ25wS3ZCbDlGdFlQTlNWbFdyR0hrWHNxVUxmUWhjOUh0X0UzLUZIYW9SQ19seFFnOWtoYnpJaW9Lbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-video-7-what this ancient tooth revealed stu",
+      "date": "2026-07-30",
+      "type": "video",
+      "number": 7,
+      "title": "What this ancient tooth revealed stunned scientists after 1,500 years of my...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Futura, le média qui explore le monde",
+      "links": [
+        {
+          "label": "Futura, le média qui explore le monde",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVGJORlpJR1NQSkFkUGpxbzZfUFV6bjV1Ynp3UWhfZndobWlkcHRxTHRHYU9RdExoVENNVXlacHBrQzdSRVZZUUdNdUE5RzVPMnRfZGJjaXBGTGotLU1xenVXWGt3Y3hpZUlOLVpEX292MjU4WXhKdmZhZVZuenR2bTBmbTZPcWN1bTdBcjhDU3liZy1HM0tGLW5Ub0J2WlJiZkUxeno1SWd6SFI5R0RfLVU2UUtmaVdUUWJkY05R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-video-8-antarctica s unusual islands 5 000 y",
+      "date": "2026-07-30",
+      "type": "video",
+      "number": 8,
+      "title": "Antarctica's Unusual Islands, 5,000-Year-Old 'Sophisticated' Egyptian Techn...",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "The Debrief",
+      "links": [
+        {
+          "label": "The Debrief",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZ0F3VG9XeTFOTVdzVkdkLTZBM0Zuc2lsa0Zvc2hSWmR5UnNnek0tTTF1ZDZXN3NoOC1rYk1FWTIwVE4tTFNOdnljVm5wMXRYb0hFa25GVlhZOFd1RDZUUmxSTlR3clZYdmhlU09tT2pjSUVtaVJ6SEx5U042elQyOU83aXhLR2FNZjJyMHVPWExIYXpIM1NPb1I5Z0tvQmxGV0ExMmFNNHVZcmlaOWZvMWozSGVTT0VkSFJhS2lFQm93SjRONWFtSmcxaVhVVUVka2RnaWtnRE0yUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-07-30-video-9-archaeologists may have found one of",
+      "date": "2026-07-30",
+      "type": "video",
+      "number": 9,
+      "title": "Archaeologists May Have Found One of the Most Important Churches in Christi...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Popular Mechanics",
+      "links": [
+        {
+          "label": "Popular Mechanics",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGp6azllR1NLejdEMnlVcmJ1cExIdS1WWDRYaDJIUVBmel81cmozWUMzSENsbjRNM2gzTXl4QnJzS3V1VzhLODRKRFEwMDRmR0swRmpUcnVmWjNua1A2aEE0MFA1LTM5ODd0NmVTYlBfWm1BQTVDREJZUzdna1NXajZhRHRqZGlfeXpVMzRoWi1JZmdSc01Sag?oc=5"
+        }
+      ]
+    },
     {
       "id": "2026-07-29-ai-1-openai is launching new corporate so",
       "date": "2026-07-29",
@@ -79,38 +415,6 @@
         {
           "label": "Built In",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4ZFV2UVNhMHVmYW1CNHdRSWg1ODNKRkdrUkh6dWNhSnhsei1UVnN2cWdKcnRmUEdJY2lncG5TeWY1SDdMN1JPdE9YVkFUbUdDd0pRVDJR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-29-ai-6-michaels launches ask mike ai shoppi",
-      "date": "2026-07-29",
-      "type": "ai",
-      "number": 6,
-      "title": "Michaels Launches Ask Mike AI Shopping Assistant Built With Google Cloud Ge...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "Pulse 2.0",
-      "links": [
-        {
-          "label": "Pulse 2.0",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS0VxemZoVi16OHRzYjRGbTR1Q2Z1RzBKREVCckpJWGR1MkFyS05hNW5FR1VxeTZOMGM5dGxPOGUyeXN6d1RaZFVnR19ZSVJnV21YYlpkVWpYa3JYZHNmVEdWekNxcFFiUl9uajh2WmZELW9xQTF2OWRDdm5oRUg1S0c4dG1DMkprb1R1VUtoRUJCNm81V3R2ZXFKYW9GN29C0gGmAUFVX3lxTE1Md1Z1YnhQQlZIV281ZE9tY3pfREpwb1I5NnRncW1MVFppdnlSVHNXNWJDNnRCUmdoX0JIRllOTThBNmhMNWI2N1ltWVZ2T2ZhYWxMR0dJMW1RaTJKMFo3R1Z0b0huSGk5TnQyNWJOYXJScEhCV2p2bzNDaWhpUEhEbXZKeTNEeWdvVHp0T1c0VlN0MEIzV19JV1pBSXpRcVdReVRRZHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-29-ai-7-i tried out openai s new ai keypad w",
-      "date": "2026-07-29",
-      "type": "ai",
-      "number": 7,
-      "title": "I tried out OpenAI's new AI keypad — which will be fun for some coders and ...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "TechCrunch",
-      "links": [
-        {
-          "label": "TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRVpYeDhuTjJZSWI3VTF6eWxTQzFoQWE1a0pPMzhWbGp0UkppWFBsM2RWS2dkOWpnNGp0Z3daMmFyQU5aVXRTcVVGcUxEY2d5OGp6MHlkYlRkWmFIQWpCenh5dnV0cGsyaHlzLUw2bXdHRW9Xbjl2bnZpSm85RjQ2ZlFiYk0xcUt6ZHRhUjFqYnRlSTZFVjBUTi1kLXlzNElER25CR0hTbnBraERQb1hFa0pSdEVHSVh1UGFsNnVxdDB2REJ4akZicWVyMFZ3aWdKYTVfdA?oc=5"
         }
       ]
     },
@@ -195,54 +499,6 @@
       ]
     },
     {
-      "id": "2026-07-29-video-1-archaeologists discovered 3 300 year",
-      "date": "2026-07-29",
-      "type": "video",
-      "number": 1,
-      "title": "Archaeologists Discovered 3,300-Year-Old Tombs Filled With Gems From the An...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Popular Mechanics",
-      "links": [
-        {
-          "label": "Popular Mechanics",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQmRacU5tU3hKVV9nTFZwX1dFaV80akFLWFl5MjN6WHJUdS1BU01RdzZ2MEVLWnlsbFJmckJRSkhvR1luWmI1Y1BFb0p4VFFYeGVaYjhFemg2WnRTd0ptWkszNTlhMXhISUFKVXpxOXJIZ1FxM2xlRVV2Z29JU0hwQ0NUd1U5bEMyYzBiQw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-29-video-2-previously undiscovered ancient egyp",
-      "date": "2026-07-29",
-      "type": "video",
-      "number": 2,
-      "title": "Previously undiscovered ancient Egyptian tomb found at Theban necropolis on...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "The Jerusalem Post",
-      "links": [
-        {
-          "label": "The Jerusalem Post",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OV1RmbHFkV1lhckdNQTlINnhqNVFoMEZ0cEVxSk8wS0dsVUZxb25qLUhrdFh0clJfQjVLUkNHQUJqcFk5ODFkUnhMMXRQZGNnZWZRQXE0cVk5dDhD?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-29-video-3-archaeologists uncover rare 2 000 ye",
-      "date": "2026-07-29",
-      "type": "video",
-      "number": 3,
-      "title": "Archaeologists uncover rare 2,000-year-old Liubo game boards in Han Dynasty...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "The Times of India",
-      "links": [
-        {
-          "label": "The Times of India",
-          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOR1hvY21jREg2UXp1NjN1bnR5enp1a19VYWNGR1dXNlM4TjdHLVBlV0o3Q2tzWFJGcGVmVzZaeGQ1a182Um9GX1AxS0QwQWo5RzBzbTNSZEtxYUswSlFMbzhFRU9ZYXg5TEZCdzkwZjFvelBER2g3eGpZbU9rajRKOGxJOERmZGZNelVkem5SUEFCNkhVQWV5aURReEtlc0I2QWFlbW5LR0tJZzZVcGo1RTNwUkxHRktiNUtQVDhyN3JNYXNMMjkwNXd3QkhDdGRCeUdpbGJMcXJIXzFNZGVmaGFXR0xxWm90VDhaNWE4OUd4bTlWbG9CNktZOF9lSmlkZVo2U1ppVTIyWWI2R1Q3Tkh6d3hzTmJPZ2NWTGkzalZxZ1pMQVI4cU1zZ3BKdmZ2WWh0alJYX0NQR1hTaGtN0gHEAkFVX3lxTE4xenJFU2lBV05aVXgybEVJYWw2NVpkUk9JZm5EcmdtZUtnWHZlMF9NaEQyd2ZaMXYtUlAxRXVFY0RvSWhXVlJBMkMtdFBQYUJaWkRDTFZyaTJTOGQ0RzhVVE5hbi1fUVRTWG93SV9vTUNDRFVGLV93Q25aM3Vzc3VTMmtEVndGai0xYUo0RnZnYk5HZXVTTG9zZjZIUy1JeXpqRGNHaXd6XzdwMUpZMEM4aTZCekRCNi1nWFpkNmVaSGZhcmM3NDR2MHdJMTgyT0JwY2JUeTRWc2FIYmExQU9TNVVaRE5QUmZMUVYyZ3Rjdk9LeEowSWdXR1NSZHZ3UXRiTlJZRnplS0hLU1gwNk92ejZYYWcxTjZrWVJnRkdlbHdBMG1LZTl3VUlVYXJQckNITjdFVlRDenRtUVFQbmVvdFdIRA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-07-29-video-4-archaeological breakthrough as 18 eg",
       "date": "2026-07-29",
       "type": "video",
@@ -271,54 +527,6 @@
         {
           "label": "HeritageDaily",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON2hXNi1adDNkbURWUWNPX3BGQnY5Tlh6ZlcyVTlfUlM5UC1xTllXNS13aDQyU04zbUd2Mjhqa1MzUk1CQ21HdlhVZ0hBSmVGUWM5Um90ZmNyQ2FBeDNHQlBtRkd2T1hiOE1CTVQwWVNGYVlZMDJfV1BTQnZhLUxKdzVXV1M4VGVRMS0wNmpWcjQyU200Z1I3NmZUWmhQdWxKUkEtd2NOSHB2RXBtYmJHdEFPRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-29-video-6-researchers say two ancient ramps be",
-      "date": "2026-07-29",
-      "type": "video",
-      "number": 6,
-      "title": "Researchers Say Two ‘Ancient Ramps’ Beside Egypt’s Red Pyramid May Actually...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "The Debrief",
-      "links": [
-        {
-          "label": "The Debrief",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaFduYXI1TlZLMVlsc25Xay0xalZJQkQxZ1hhWWJKaXN5ZmU0bl8zdjdhYW9pYWlOU1JUVTA0YXFSM2lYengwb09TelVaQ2JEOE52M1E0bXA1dTA4bE5OZTBGSjZqdHJkNGx5TE5hWmVlVWxiX2pQNkgwcllXb0JPMzd0UDVQOHQ4ak50Sm5ZZm5DbmJmcENBSGNmLVJPbE50UVlxVGFRbE13WTRNd2c2Vm56TThNSWdQQ2hDYlRQWjM5Unh3amVyVmZ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-29-video-7-what this ancient tooth revealed stu",
-      "date": "2026-07-29",
-      "type": "video",
-      "number": 7,
-      "title": "What this ancient tooth revealed stunned scientists after 1,500 years of my...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Futura, le média qui explore le monde",
-      "links": [
-        {
-          "label": "Futura, le média qui explore le monde",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVGJORlpJR1NQSkFkUGpxbzZfUFV6bjV1Ynp3UWhfZndobWlkcHRxTHRHYU9RdExoVENNVXlacHBrQzdSRVZZUUdNdUE5RzVPMnRfZGJjaXBGTGotLU1xenVXWGt3Y3hpZUlOLVpEX292MjU4WXhKdmZhZVZuenR2bTBmbTZPcWN1bTdBcjhDU3liZy1HM0tGLW5Ub0J2WlJiZkUxeno1SWd6SFI5R0RfLVU2UUtmaVdUUWJkY05R?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-29-video-8-archaeologists found a burial ritual",
-      "date": "2026-07-29",
-      "type": "video",
-      "number": 8,
-      "title": "Archaeologists Found a Burial Ritual in a 2,600-Year-Old Egyptian Tomb That...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Popular Mechanics",
-      "links": [
-        {
-          "label": "Popular Mechanics",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcDYtY0c2Mnd6amxKNnFQMGdPdWVleC12U1NOenRjTzhPZWNHMUJtbV9UTlVlQjluZFJJVWFJOFgtcGVadFduUUkyeU05dG1NYm5qdnc5ejBLd1kzcmdHdUEtZ25wS3ZCbDlGdFlQTlNWbFdyR0hrWHNxVUxmUWhjOUh0X0UzLUZIYW9SQ19seFFnOWtoYnpJaW9Lbw?oc=5"
         }
       ]
     },
@@ -479,22 +687,6 @@
         {
           "label": "AOL.com",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBGd2JtTHE5aUlIX3FaTlpla2hhR2Nhamk5VHdhb0VIMUdNYWlrbzNrc1NWV292QW9WWGRSS2ZFRkxVdlIxUHhXZkFFV0E5enNNYUNQRmx1UUNKRVplYkVMRlFjbGMyVWpKTlFad1pKWkNfTEN0UUphOQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-28-video-6-archaeologists may have found one of",
-      "date": "2026-07-28",
-      "type": "video",
-      "number": 6,
-      "title": "Archaeologists May Have Found One of the Most Important Churches in Christi...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Popular Mechanics",
-      "links": [
-        {
-          "label": "Popular Mechanics",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGp6azllR1NLejdEMnlVcmJ1cExIdS1WWDRYaDJIUVBmel81cmozWUMzSENsbjRNM2gzTXl4QnJzS3V1VzhLODRKRFEwMDRmR0swRmpUcnVmWjNua1A2aEE0MFA1LTM5ODd0NmVTYlBfWm1BQTVDREJZUzdna1NXajZhRHRqZGlfeXpVMzRoWi1JZmdSc01Sag?oc=5"
         }
       ]
     },
