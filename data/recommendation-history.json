@@ -1,12 +1,28 @@
 {
-  "updatedAt": "2026-08-02T21:51:34.913Z",
+  "updatedAt": "2026-08-03T22:04:31.076Z",
   "maxItems": 1000,
   "items": [
     {
-      "id": "2026-08-03-ai-1-anthropic says human error let claud",
-      "date": "2026-08-03",
+      "id": "2026-08-04-ai-1-openai will announce a mysterious ai",
+      "date": "2026-08-04",
       "type": "ai",
       "number": 1,
+      "title": "OpenAI will announce a mysterious AI product on Monday",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Mashable",
+      "links": [
+        {
+          "label": "Mashable",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT2dhTkEzMnNsVEZ6cEdYbTlleXpsdEZ5QTI5dUNTa25jVHhXcTJKM2ZnTjRPbl9VemZnVndqRzdXMmhhUzg1TEpIaFRRc3Q2NkZCWkswc01JRG9ubnZQYTFFdWFXUk54UlJoZFhIdzM5dDM0UVc2MjdJSFBHODRKMkwyeU5hX0wwblUxMy1Fdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-ai-2-anthropic says human error let claud",
+      "date": "2026-08-04",
+      "type": "ai",
+      "number": 2,
       "title": "Anthropic says human error let Claude AI models escape test environment and...",
       "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
       "signal": "Public news/RSS pickup",
@@ -19,10 +35,26 @@
       ]
     },
     {
-      "id": "2026-08-03-ai-2-this openai product manager always a",
-      "date": "2026-08-03",
+      "id": "2026-08-04-ai-3-openai s hugging face hack confirmed",
+      "date": "2026-08-04",
       "type": "ai",
-      "number": 2,
+      "number": 3,
+      "title": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora'...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "CNBC",
+      "links": [
+        {
+          "label": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmdXeDhvOWhnMk1CdEVPQ1l3SExjSl9Yd1dNWlpVS3U0WU9ta2EwM1U4REJyanh0QXVOZUdiXzVNYWJfazdzOG91VEFYS0o2eXBXNnQ4WVNjWEZ2T0xCaXpDaUkwX1VXamh2by1seFhGSE1McW1INDl5MnVBakdia3czNNIBiAFBVV95cUxPckY3OG1rcGJyWTBzdC16bGloeExwRmVVcmI3b19YQXZnSE44T0k1bzRuc0x0cXZ6SDRxQUZHQmdGeHZ3a0h0SS1pWl9NSlFZcHZubzY0eU50cldpT1QwOHNHaTlSNm1MV2d6N0tSQ2VjZWY1eWVXck93dUF3Z0VYRXBnbHI5dkdn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-ai-4-this openai product manager always a",
+      "date": "2026-08-04",
+      "type": "ai",
+      "number": 4,
       "title": "This OpenAI product manager always asks ChatGPT to 'impress' him. Here’s hi...",
       "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
       "signal": "Public news/RSS pickup",
@@ -31,6 +63,278 @@
         {
           "label": "Business Insider",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcUtnMjJqVEN5RDNCNXFrSHAxU0RKSXlYSWtCNjF0ZHpaemNkbGxJZTZNcUNmZGliUy1fQ1ZfS01ReVMwOVZkX2RhalZzbVgzV1FMamVmdHVIemV6Qi16WXFjX0ZNV0txWVpsdnZfdGNUSzREb2Z6NUNkQ3ltbmNHdDFyNFk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-ai-5-openai s rogue ai agent hacked more ",
+      "date": "2026-08-04",
+      "type": "ai",
+      "number": 5,
+      "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "WIRED",
+      "links": [
+        {
+          "label": "WIRED",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPU1lOc2k5ZDRXS0c2aUUyUy1LUk1zQ0NrMlp6UnlNU01mWUE1c0hrMnc1R2pMTENhSi1ydWhnblE1dG5PdFQyamdUeTNudjAxNWtZcWxxdE1EMTl2a1d2NGVxdG1GRWNtS3hsaUNMVWJJanRDWDNjTk1rTUl1bFVqQlhaeVFWN1RkSm16dERQaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-ai-6-trump orders us government to cut ti",
+      "date": "2026-08-04",
+      "type": "ai",
+      "number": 6,
+      "title": "Trump orders US government to cut ties with Anthropic; Hegseth declares sup...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "links": [
+        {
+          "label": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPazMyTEtZY2RWSjJJaC05T0Y2NDE4bG9NeF9od29uVmtubVYxQnVNOGFuY0hrNjM1bW0xRFVGUkJHbEJNSjJWVGc0YzA0TFZKcl9fRlM0YnVjcU55aXhDcTk1Nl9PYkhXWWZYUnVpMUx5XzNIVTBwR0VPUkxfMnltUEExbGE0alRYZXQtUzhJWDZrTTFqbm1EMW5LbTd1UGx0Z1JCejgxVU1BOWs30gGyAUFVX3lxTE45MVA4TGJmSW1LU1BrdW5MOFhVb1UwU0FDdTZwcnhiNUN5NlhHaW4wTjc5ZDFya2NRUEE0TjEtU21INHhORE5LRUxoeEhNYmo5YXBVcEtjWm1JOGdUaFVYMHV4RndneXVIZ2EwWEN0QjVzOHBRVFVJODR3MzJGSVlPM0RfZTJQWENuaGZHck1zMmZUd0tsOFc0bUpRRmdjUzFTYUFtZHJGUmoxel9oV2t2MXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-ai-7-chatgpt dominates early ai spending ",
+      "date": "2026-08-04",
+      "type": "ai",
+      "number": 7,
+      "title": "ChatGPT dominates early AI spending in Congress as lawmakers weigh regulation",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "CNBC",
+      "links": [
+        {
+          "label": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ1BLdlA5cWZ3WDdqdXQ2MTQyTGd6c2E4UDNlekpkSWpKbUtsVVdNMEY0dlNFX3dELUJrSmFPQXBmR0RHcHNyc2IyRzFoREFBQW1kdUtyeVFLLU56TEdTc0U4TUR3SEl3Mi10dlZRYnRXZVE5a05keU81aVlyNVdyMDFwTDlTRzIteVFfWE1mV21CZ9IBlwFBVV95cUxQLXNHTThFYzNpRmtCa2dHSjJnSU9MMEpJay1KbE55N21ES1U1ejJNT055X2pHb1lhcjUzT2RHbzRGRVlyOFExRUtyNG1xelhiWXV4SHdUUUhpTlBXUUFKUXRKeGNaR19TSndjRmV4ZDNybW4zcUxJbGgzeEtuaUxUWDc0Z0dXU2NzRGRXbERKdHI4VmdRYWRV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-ai-8-this ai tool lets you own chatgpt ge",
+      "date": "2026-08-04",
+      "type": "ai",
+      "number": 8,
+      "title": "This AI Tool Lets You Own ChatGPT, Gemini, and Claude for Only $79 for Life",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "pcmag.com",
+      "links": [
+        {
+          "label": "pcmag.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWERNNGhRbjctWVppNTZtMnRhXzRLMHM1VTY2MlBOLTRFQ2VPZlM2NFFjZ3JtdjliaUcyMFRhXzNXanFVMERkcXdlXzZxZEZwM3YzUnVXOG5BdXVWc1BYQVNIeE5PeHhjM1pDUGVCYmcweDZ1cXI3a01tRkU1ajh0YWl0ZFl5QU1YdzVQVHVzeEk1X2FwaTgxZ0dlNzlaUllCRFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-ai-9-jfrog confirms openai models exploit",
+      "date": "2026-08-04",
+      "type": "ai",
+      "number": 9,
+      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging ...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "thehackernews.com",
+      "links": [
+        {
+          "label": "thehackernews.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcml1djVWTC1VeU5YVGUxdlJ0d214Zm9KUGxFLWZPTGktcnJwcnZDbTNfdHZ3NFVnVlZyVWlqa2R6MjdPLUFYVUc4ZTFMREdzZmh1di1TcGlQN2lOdUdzZUJnVHBRczc1dURXLU1ndjZFRVM0MnRxQVYyMG5kUzFuNkEyQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-ai-10-google says it fixed more chrome bug",
+      "date": "2026-08-04",
+      "type": "ai",
+      "number": 10,
+      "title": "Google says it fixed more Chrome bugs in June than over the past two years,...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "TechCrunch",
+      "links": [
+        {
+          "label": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOclhVOWpOSk9tRE5MSUlqbWV0UGw4TlcxQUFfNUhLUU94VzZ5QWZlSXVtWXFVOV9RTFRLUzBzNVZ1ODZKcllsT05ramkwdlpPRjR4ZWZJSERuYlN0Tmhtak1kVExzV09NMkM0cmtlYTNneHNTcUZlUFdKNU5fLVVMZ2QycTNfRDI0VWpIbHdCcFVhTFJtekZ2TEZER1ljOGhxSGtMSTBWSzNlMGh5TFhDRnlIUThzWkJhVEk2X2NsZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-ai-11-openai product manager no need to co",
+      "date": "2026-08-04",
+      "type": "ai",
+      "number": 11,
+      "title": "OpenAI Product Manager: No need to complicate dealing with artificial intel...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "جولة",
+      "links": [
+        {
+          "label": "جولة",
+          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE51bWdxQW96Y211TFd5RGJXQjBlSG13eFB5QXBpbHRhM01FUlE2MkV6SjVlSHBhZG9fXzN2aFRXSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-ai-12-gpt 5 6 goes rogue 60 firms back ope",
+      "date": "2026-08-04",
+      "type": "ai",
+      "number": 12,
+      "title": "GPT-5.6 Goes Rogue, 60 Firms Back Open Weights: DesignRush AI Roundup",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "DesignRush",
+      "links": [
+        {
+          "label": "DesignRush",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOU45RlN2Ml83cUpvcEZWem9ZaDNHUld3ZDhRa0ZpT25KZ3E2b1lZdHNaR0c4cUxITnhFMklHZXFxbnlsSjlxRFVxa2lJLWNfT1BzR2JWMk9PWl9vRUFSdVJsNGt5MzJMQVY2VnFYVFowOWxrYU1RWUZKa2lFdTgwRzFMMmQzc1dyLUNyQU9n?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-video-1-archaeologists found a burial ritual",
+      "date": "2026-08-04",
+      "type": "video",
+      "number": 1,
+      "title": "Archaeologists Found a Burial Ritual in a 2,600-Year-Old Egyptian Tomb That...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Popular Mechanics",
+      "links": [
+        {
+          "label": "Popular Mechanics",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcDYtY0c2Mnd6amxKNnFQMGdPdWVleC12U1NOenRjTzhPZWNHMUJtbV9UTlVlQjluZFJJVWFJOFgtcGVadFduUUkyeU05dG1NYm5qdnc5ejBLd1kzcmdHdUEtZ25wS3ZCbDlGdFlQTlNWbFdyR0hrWHNxVUxmUWhjOUh0X0UzLUZIYW9SQ19seFFnOWtoYnpJaW9Lbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-video-2-one of the oldest giants tombs disco",
+      "date": "2026-08-04",
+      "type": "video",
+      "number": 2,
+      "title": "One of the Oldest Giants’ Tombs Discovered in the Archaeological Site of Ca...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "La Brújula Verde",
+      "links": [
+        {
+          "label": "La Brújula Verde",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTWw5ZFFMb1JIYjhER0JHR0thNVB4dFVKcUxCTGdVZFZoUXUzbFhVc2FZa2pFMklLbzQ4V0pFX1BjTV9QLXFfZURENnlOVS1kZmVoQ05KS1BoQ0I4TUdpNm5mRGNCUWdwZ2ZLTEVwa2ppUGxmU21zNG1MVjl3VC0wdzkyMnRpYjdXU1RGc091RmpBMWR5OVhmeURzaFVwU3pfNTlTc1M5QmlIRWZsblJybUdicm94UkdNcHdWb0FaYnNEaGM1dEsyUHVoczF4SFNHYmJCYzZzd3I?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-video-3-egypt s 5 000 year old sabu disk loo",
+      "date": "2026-08-04",
+      "type": "video",
+      "number": 3,
+      "title": "Egypt’s 5,000-Year-Old Sabu Disk Looks Like a Machine Part—But What Was It ...",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Arkeonews",
+      "links": [
+        {
+          "label": "Arkeonews",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSldQcWRHUU93OW9fRUVOaFhmclNiVjVkd2FLUWZrdmhjZjlkUWdUcGdRazVKUzdOZzhEMWdYT0lWejB0V01falRsV0pfZEZ1a2FraFZ1UEtnbEVXVUJ2Y1d3VUc5MUVsX3pFVTE3NFh6aHpXSm5GQTRHMjlnVGthZVdjaEhhVkJCREZKdFBRcTNFTVAzM1RPMHhjb1BBc09SclV6S052N19HUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-video-4-greatest archaeological discoveries ",
+      "date": "2026-08-04",
+      "type": "video",
+      "number": 4,
+      "title": "GREATEST Archaeological Discoveries Of 2026 (So Far) Martin Landaluce (3x3O...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Mshale",
+      "links": [
+        {
+          "label": "Mshale",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yenVrUVZGTmRUWjNVaXJVdW1PeW4yS2FzTnZkbk5rcVpzRW9pLXR3Z1QtY2cwYVR4VFUzcERRS2trQm13Q2NBSFJBSlJqT0tKb0tJUlFNV0N2QmZrNWZWWg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-video-5-archaeologists found ancient tools t",
+      "date": "2026-08-04",
+      "type": "video",
+      "number": 5,
+      "title": "Archaeologists Found Ancient Tools That Contradict the Timeline of Civiliza...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Popular Mechanics",
+      "links": [
+        {
+          "label": "Popular Mechanics",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSFRnWFZwckp1cVgwYUNEWV9za1dXQ2doUlYzajZYeWlteTZsNTRnZlJEQldSSEhIMFEtY0h3bDYxNW1saXQ4YnI0a1l4U25CSW9rNjhhMXpnWnp1THhUeWRqTTRzb2JWd0ZGbVRlcXRTSnFMQ2llT3pWaXN2ZFA5d3g1bGlhWldhdjdMcG9oUGFQaUFvYkctYkppM04?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-video-6-iron age village with a mysterious d",
+      "date": "2026-08-04",
+      "type": "video",
+      "number": 6,
+      "title": "Iron Age Village with a Mysterious Ditch Discovered in Bochum Puzzles Archa...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "La Brújula Verde",
+      "links": [
+        {
+          "label": "La Brújula Verde",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQXotUm96a2FCMHhZb1FMdDg0T3BkVUVpWDFtaURocE91cmh5NmRlclNzYnhFcW5URWo1dkpEcTlITVJlR0dnN1VoalllRUZaVTBBQ25jT2pjeDBnaVhUdHpRSVRQanI4bEtsVFJxYkZlVmctMUVUQmd4SFA3X0dLZWVLbXE3eGpCZ2RvY19FT2J1cTE5ZmlqYTBKQlM1R05PT2tuZ1hMUHBlZGdYU0ZSSGY0TXBuUW1Ub1hzQ0tEa0VESGhhOUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-video-7-first prehistoric settlement discove",
+      "date": "2026-08-04",
+      "type": "video",
+      "number": 7,
+      "title": "First Prehistoric Settlement Discovered in Southwest Bochum: Archaeologists...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Arkeonews",
+      "links": [
+        {
+          "label": "Arkeonews",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ2xnblpUMVNFSE0wdVIyRVlfTlRrSlNJd1cyS1hxcTd4SHlqUDFxR1JLaEZpVTBaNlNELVFXS19jMWtSX05kcEp4cU9hR09mQnJwYklZYzlhR2c3ZDRyaWtTVTBCNzFDU2ZsSWJQNElXNXhNQmFDV1pYMHlaODdTOXBzakxUb3hQcUdON090V09waWNmZ1dYRVQ5QXRvaXU1R1JIVUh2VHVfdTdoWXZzbmRrMjJBMFJiVC0zekpsZGhkenQyRmlHZTgwclR1ZVc0UFl6Q2l4dWtDVWRFNld0cw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-video-8-search for hatshepsut s mummy herita",
+      "date": "2026-08-04",
+      "type": "video",
+      "number": 8,
+      "title": "search for Hatshepsut’s mummy - Heritage - Al-Ahram Weekly",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Ahram Online",
+      "links": [
+        {
+          "label": "Ahram Online",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByMEg0S0FZZTJoN3FWeC1xWWdGaFRzWDUtRGtmRmdLQlY2NVd6aGNWNlZpek5XaDNZTlhSSEg4M2JrMDZzc3kyNE1nb2JSRFM5TjVXN1U0WS0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-04-video-9-archaeologists found a skeleton wear",
+      "date": "2026-08-04",
+      "type": "video",
+      "number": 9,
+      "title": "Archaeologists Found a Skeleton Wearing an Amulet That May Change the Histo...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Popular Mechanics",
+      "links": [
+        {
+          "label": "Popular Mechanics",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVUV4bGhCQlppZXVmblY1aWZvNG5yaVdVQV9hQ3RzQmpOTkhpbUtxSlJHRFVqNFlBQ0N6ZEpIeEZWSGdMQ3lBekw1cEd3ZlkzTWU0ekRSR0FHOXdLcW4waEI2cXJScE1BbVVjUnF3dWl1NTlkLWx1T1Z5M2JvaEptalNhdUhtYWM0R0hCZVhKeG5Mc3VNSFBHSlNZZ2EwdkNVLUZBdXJua21pUHhRY3JNbExLS3lvUW84VVE?oc=5"
         }
       ]
     },
@@ -191,102 +495,6 @@
         {
           "label": "MarketScale",
           "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYUVWS0NsX1RaLTN0Z2lNN2FwbXBpSDJCLS1FcGdZa1Nfckt6Qk11ZlR1NWpYeTl2UmZNajc1S3NPWFlJb1FsaDNsbHlUeVRCTWJSdUV4WFlIR2dlNzRudXRVMHd3QUtnNFE5Z2pUNjN5VjVrU1Q1WWJWVThjQklpelN1OTVpWWp1M2ZoRTFhOXNTY2F1d1gwaWt3YUtZYnFrM3ZJMWxmNlFJdWtwZTI5MUtza05tcDhudENuNHhvWUx1OUxfN3oyeEdFZE5hYVhuRVhMeG1BeGpPQl9yNG5LODJDNnh4NFBTeUJrRk5PN2RqTnF4Q2VTbUZXX1JfZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-03-video-1-archaeologists found a burial ritual",
-      "date": "2026-08-03",
-      "type": "video",
-      "number": 1,
-      "title": "Archaeologists Found a Burial Ritual in a 2,600-Year-Old Egyptian Tomb That...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Popular Mechanics",
-      "links": [
-        {
-          "label": "Popular Mechanics",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcDYtY0c2Mnd6amxKNnFQMGdPdWVleC12U1NOenRjTzhPZWNHMUJtbV9UTlVlQjluZFJJVWFJOFgtcGVadFduUUkyeU05dG1NYm5qdnc5ejBLd1kzcmdHdUEtZ25wS3ZCbDlGdFlQTlNWbFdyR0hrWHNxVUxmUWhjOUh0X0UzLUZIYW9SQ19seFFnOWtoYnpJaW9Lbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-03-video-2-iron age village with a mysterious d",
-      "date": "2026-08-03",
-      "type": "video",
-      "number": 2,
-      "title": "Iron Age Village with a Mysterious Ditch Discovered in Bochum Puzzles Archa...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "La Brújula Verde",
-      "links": [
-        {
-          "label": "La Brújula Verde",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQXotUm96a2FCMHhZb1FMdDg0T3BkVUVpWDFtaURocE91cmh5NmRlclNzYnhFcW5URWo1dkpEcTlITVJlR0dnN1VoalllRUZaVTBBQ25jT2pjeDBnaVhUdHpRSVRQanI4bEtsVFJxYkZlVmctMUVUQmd4SFA3X0dLZWVLbXE3eGpCZ2RvY19FT2J1cTE5ZmlqYTBKQlM1R05PT2tuZ1hMUHBlZGdYU0ZSSGY0TXBuUW1Ub1hzQ0tEa0VESGhhOUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-03-video-3-egypt s 5 000 year old sabu disk loo",
-      "date": "2026-08-03",
-      "type": "video",
-      "number": 3,
-      "title": "Egypt’s 5,000-Year-Old Sabu Disk Looks Like a Machine Part—But What Was It ...",
-      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Arkeonews",
-      "links": [
-        {
-          "label": "Arkeonews",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSldQcWRHUU93OW9fRUVOaFhmclNiVjVkd2FLUWZrdmhjZjlkUWdUcGdRazVKUzdOZzhEMWdYT0lWejB0V01falRsV0pfZEZ1a2FraFZ1UEtnbEVXVUJ2Y1d3VUc5MUVsX3pFVTE3NFh6aHpXSm5GQTRHMjlnVGthZVdjaEhhVkJCREZKdFBRcTNFTVAzM1RPMHhjb1BBc09SclV6S052N19HUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-03-video-4-greatest archaeological discoveries ",
-      "date": "2026-08-03",
-      "type": "video",
-      "number": 4,
-      "title": "GREATEST Archaeological Discoveries Of 2026 (So Far) Martin Landaluce (3x3O...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Mshale",
-      "links": [
-        {
-          "label": "Mshale",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yenVrUVZGTmRUWjNVaXJVdW1PeW4yS2FzTnZkbk5rcVpzRW9pLXR3Z1QtY2cwYVR4VFUzcERRS2trQm13Q2NBSFJBSlJqT0tKb0tJUlFNV0N2QmZrNWZWWg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-03-video-5-archaeologists found ancient tools t",
-      "date": "2026-08-03",
-      "type": "video",
-      "number": 5,
-      "title": "Archaeologists Found Ancient Tools That Contradict the Timeline of Civiliza...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Popular Mechanics",
-      "links": [
-        {
-          "label": "Popular Mechanics",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSFRnWFZwckp1cVgwYUNEWV9za1dXQ2doUlYzajZYeWlteTZsNTRnZlJEQldSSEhIMFEtY0h3bDYxNW1saXQ4YnI0a1l4U25CSW9rNjhhMXpnWnp1THhUeWRqTTRzb2JWd0ZGbVRlcXRTSnFMQ2llT3pWaXN2ZFA5d3g1bGlhWldhdjdMcG9oUGFQaUFvYkctYkppM04?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-03-video-6-one of the oldest giants tombs disco",
-      "date": "2026-08-03",
-      "type": "video",
-      "number": 6,
-      "title": "One of the Oldest Giants’ Tombs Discovered in the Archaeological Site of Ca...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "La Brújula Verde",
-      "links": [
-        {
-          "label": "La Brújula Verde",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTWw5ZFFMb1JIYjhER0JHR0thNVB4dFVKcUxCTGdVZFZoUXUzbFhVc2FZa2pFMklLbzQ4V0pFX1BjTV9QLXFfZURENnlOVS1kZmVoQ05KS1BoQ0I4TUdpNm5mRGNCUWdwZ2ZLTEVwa2ppUGxmU21zNG1MVjl3VC0wdzkyMnRpYjdXU1RGc091RmpBMWR5OVhmeURzaFVwU3pfNTlTc1M5QmlIRWZsblJybUdicm94UkdNcHdWb0FaYnNEaGM1dEsyUHVoczF4SFNHYmJCYzZzd3I?oc=5"
         }
       ]
     },
@@ -1023,22 +1231,6 @@
         {
           "label": "popularmechanics.com",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNkFBeUcyQ0ZvV0VxRnh6WnJGUWVpd1hHUXpnQWpjc0lVUHJKWERNeHNRZ0JKNVZnd0x0RkZJVjYtSmRMYW45ZGpMTVlOYzRuYW5jb3Y3SUZHWHJ6LVRCN2FxMnd0REhpMkpRcHdzenJVbUg0SnQzdTA4MldGTVAtbmVmTUZqdWdtWkhuVkNPRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-31-video-8-search for hatshepsut s mummy herita",
-      "date": "2026-07-31",
-      "type": "video",
-      "number": 8,
-      "title": "search for Hatshepsut’s mummy - Heritage - Al-Ahram Weekly",
-      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Ahram Online",
-      "links": [
-        {
-          "label": "Ahram Online",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByMEg0S0FZZTJoN3FWeC1xWWdGaFRzWDUtRGtmRmdLQlY2NVd6aGNWNlZpek5XaDNZTlhSSEg4M2JrMDZzc3kyNE1nb2JSRFM5TjVXN1U0WS0?oc=5"
         }
       ]
     },
