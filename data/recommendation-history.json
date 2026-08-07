@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-07T01:00:12.568Z",
+  "updatedAt": "2026-08-07T21:34:42.072Z",
   "maxItems": 1000,
   "items": [
     {
-      "id": "2026-08-07-ai-1-latest ai news we announced in july ",
-      "date": "2026-08-07",
+      "id": "2026-08-08-ai-1-latest ai news we announced in july ",
+      "date": "2026-08-08",
       "type": "ai",
       "number": 1,
       "title": "latest AI news we announced in July 2026",
@@ -19,18 +19,322 @@
       ]
     },
     {
-      "id": "2026-08-07-ai-2-openai s hugging face hack confirmed",
-      "date": "2026-08-07",
+      "id": "2026-08-08-ai-2-openai s hugging face hack confirmed",
+      "date": "2026-08-08",
       "type": "ai",
       "number": 2,
       "title": "OpenAI's Hugging Face hack confirmed months of AI cyber warnings: 'Pandora'...",
       "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
       "signal": "Public news/RSS pickup",
-      "source": "CNBC",
+      "source": "cnbc.com",
       "links": [
         {
-          "label": "CNBC",
+          "label": "cnbc.com",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcmdXeDhvOWhnMk1CdEVPQ1l3SExjSl9Yd1dNWlpVS3U0WU9ta2EwM1U4REJyanh0QXVOZUdiXzVNYWJfazdzOG91VEFYS0o2eXBXNnQ4WVNjWEZ2T0xCaXpDaUkwX1VXamh2by1seFhGSE1McW1INDl5MnVBakdia3czNNIBiAFBVV95cUxPckY3OG1rcGJyWTBzdC16bGloeExwRmVVcmI3b19YQXZnSE44T0k1bzRuc0x0cXZ6SDRxQUZHQmdGeHZ3a0h0SS1pWl9NSlFZcHZubzY0eU50cldpT1QwOHNHaTlSNm1MV2d6N0tSQ2VjZWY1eWVXck93dUF3Z0VYRXBnbHI5dkdn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-ai-3-improving fable 5 s biology safeguar",
+      "date": "2026-08-08",
+      "type": "ai",
+      "number": 3,
+      "title": "Improving Fable 5's biology safeguards",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Anthropic",
+      "links": [
+        {
+          "label": "Anthropic",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95RXUtcVFIR1hIbmVDRk5sRDZEVWZSRTlXNXRMU1RXQk1JdE1kRzBMR3RuOGhzOVRZdEs2bGRIX3JIa1ZZbjlCbGx5RzlZRGdQZ3RwLXVidjZyZUpXeU1sM0hYeTQ2QW0zOXlCWnJQenFhZ0dEUFNFUA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-ai-4-this openai product manager always a",
+      "date": "2026-08-08",
+      "type": "ai",
+      "number": 4,
+      "title": "This OpenAI product manager always asks ChatGPT to 'impress' him. Here’s hi...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Business Insider",
+      "links": [
+        {
+          "label": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcUtnMjJqVEN5RDNCNXFrSHAxU0RKSXlYSWtCNjF0ZHpaemNkbGxJZTZNcUNmZGliUy1fQ1ZfS01ReVMwOVZkX2RhalZzbVgzV1FMamVmdHVIemV6Qi16WXFjX0ZNV0txWVpsdnZfdGNUSzREb2Z6NUNkQ3ltbmNHdDFyNFk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-ai-5-who s suing ai and who s signing per",
+      "date": "2026-08-08",
+      "type": "ai",
+      "number": 5,
+      "title": "Who's suing AI and who's signing: Perplexity's motion to dismiss vs Reddit ...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Press Gazette",
+      "links": [
+        {
+          "label": "Press Gazette",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-ai-6-meta launches ai coding agent to cha",
+      "date": "2026-08-08",
+      "type": "ai",
+      "number": 6,
+      "title": "Meta Launches AI Coding Agent to Challenge OpenAI and Anthropic",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "DevOps.com",
+      "links": [
+        {
+          "label": "DevOps.com",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLU9FTF9YTUxUckt2eTJ0YVVZc0Q0R1ZPZF9tRGNsQ1p0UGJ4Nnh0VzBtQ2o3bEgxdVg1ODdMSUZwSmVfNkNwTkxJemk3bEtSUTZ2dEEzU254OVRrcU9XZThsS1ZwX3FDdHZBUjVBbG1xY091aUg3eUV0ZDdGU3J5SGlPb0ozSXV6NnhF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-ai-7-retailers tap ai shopping traffic bu",
+      "date": "2026-08-08",
+      "type": "ai",
+      "number": 7,
+      "title": "Retailers tap AI shopping traffic but fight to keep customer data",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "WKZO",
+      "links": [
+        {
+          "label": "WKZO",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUjFNbnVENG4zTGQ0S0RVdHRsd211ZVBoTURzaGdMWVdjRnlwdUd3TTBnN0dPWlZGbTRDN2tIRTN2WVpDVUNlckpxanowOU5ZMkZGX0FXZTBCZ0VHNEtQeF9ldjJCaWotTVZ6eG1ZQkNUX1JfbjhsQU50bmxGcVU2TC1yb2dXTVlLSnJqMm9qTE5IRVBPWDM0T3BB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-ai-8-openai to transform chatgpt into an ",
+      "date": "2026-08-08",
+      "type": "ai",
+      "number": 8,
+      "title": "OpenAI to Transform ChatGPT into an AI Super App",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "ForkLog",
+      "links": [
+        {
+          "label": "ForkLog",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1rcC1zVTVZVmlnZVp2ZklKZHRUazUybEt3OUZaQUh6ejR3MFZUaXBGMXhTWG9Pb3l4UzVBMlA1Q1JKbTZETnhJYzlmOHNGdXlBVWE5S0VVcWJFQnhJRF9FT2pGcGtVbWdlV3IwbEktekRXX2stOExULU5uaHQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-ai-9-openai will bring chatgpt ads to bra",
+      "date": "2026-08-08",
+      "type": "ai",
+      "number": 9,
+      "title": "OpenAI will bring ChatGPT ads to Brazil and Mexico, and is adding a raft of...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Business Insider",
+      "links": [
+        {
+          "label": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSTA5aFQxRFZBUTR5ZDRaZm81bzRnaGZiN1FjN3BGNVFWZGJRRk1JS3p2ZEF5VUl5X09ZRTBXVXV0ZEMzRE5NRDQ2MEdxZlkxblRBZmUtaDdtX3ptenNVSm0wRnFrZmRaN0ZzMndfSmJaREFuM21IZFlnTlg5cTFFeHlEVUU1VkJzRkpTUWxNbkc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-ai-10-microsoft ai exec tells developers t",
+      "date": "2026-08-08",
+      "type": "ai",
+      "number": 10,
+      "title": "Microsoft AI exec tells developers to default to OpenAI's top model as part...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "cnbc.com",
+      "links": [
+        {
+          "label": "cnbc.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFRaTDJiVUZySHRRRngtZzBySk5NYmgzNGVSdVk5cDl4QmVwOUdzZ0dBVVJDQmdFajNWYUt2OXppb19vaDh3Vnh1d0xoYkZKM002TlV0bXBxZmhONWlHZzZfb2N0NjF5VXhZV0ZZMnBEMTBhT1RLVmVqTGh5X19qUVlwUE9JbTk2eXZISEwwWWpMRGhFcWcxUlRYVFlNTE9MWWphdVNnNXNMVUl1OFFOYtIBtgFBVV95cUxPWEd6YnZNSnE3Z0ZLdk0wN2FGSFdIYXF5QlpJVjRBX0FzRmVqdTA2Qk4wMUE0aWZRdzhIQmVHbFVGc1k5NVYtakh6b3owcjQ2QTdWd1FmaUJ0aFRDNExnTS1mY0dsMkdXekhoZTRTV19KOUUtLUFqRm9yeWRzYzlmeEQwRlJmMVNtU2ZpanJXWG1YWjR5NjctV1dDYktSZzBhVklUcmZtVXotNUN4a0pjMy1HM1VXUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-ai-11-meta seeks to take on openai and ant",
+      "date": "2026-08-08",
+      "type": "ai",
+      "number": 11,
+      "title": "Meta Seeks To Take on OpenAI and Anthropic With a New AI Agent For Software...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "International Business Times",
+      "links": [
+        {
+          "label": "International Business Times",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWc2cFd0M0hRREdzeHZCMDVqQ2tYUkF6QTNpNTNrSVJFeUxnRTFVUk1CMHYtdEhhb3VpU3NQMlRfRTI3SEw1WmI4aXNIVWNuOVhuQlhJQzBjQ29YZTBfRk5FRFc4UnhIU2NPSXJxczJDdHhrV0g4LUNESkpyT194c21sT0h2blluOXRCMU1uTkZDYUViUURPbGhaXzFfQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-ai-12-siri ai is coming to newer apple dev",
+      "date": "2026-08-08",
+      "type": "ai",
+      "number": 12,
+      "title": "Siri AI is coming to newer Apple devices only, here’s the full list",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "9to5Mac",
+      "links": [
+        {
+          "label": "9to5Mac",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTVdMYjR2ZEtWSjFCbG8yR18ycDNLYUpaNFdTdlEtUFFNWEhpOC1TWC0wTGp2VDZ4UXlHRmlSeGhBbXJ6YzV3akRXOWFYRU8tcS1DMmF1ZFB1aHFLeHUtaEVkZlpqREpKbk9UV0txck5Fd0ZTazhKRDNGSDZ2bFpvaFVyNERjUzk1Sm5tcHoxRV8tZURPOW9MZnhtdFc1dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-video-1-archaeologists found a skeleton wear",
+      "date": "2026-08-08",
+      "type": "video",
+      "number": 1,
+      "title": "Archaeologists Found a Skeleton Wearing an Amulet That May Change the Histo...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Popular Mechanics",
+      "links": [
+        {
+          "label": "Popular Mechanics",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVUV4bGhCQlppZXVmblY1aWZvNG5yaVdVQV9hQ3RzQmpOTkhpbUtxSlJHRFVqNFlBQ0N6ZEpIeEZWSGdMQ3lBekw1cEd3ZlkzTWU0ekRSR0FHOXdLcW4waEI2cXJScE1BbVVjUnF3dWl1NTlkLWx1T1Z5M2JvaEptalNhdUhtYWM0R0hCZVhKeG5Mc3VNSFBHSlNZZ2EwdkNVLUZBdXJua21pUHhRY3JNbExLS3lvUW84VVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-video-2-archaeologists uncover a hidden tomb",
+      "date": "2026-08-08",
+      "type": "video",
+      "number": 2,
+      "title": "Archaeologists uncover a hidden tomb—could this mysterious “magician” rewri...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Futura, le média qui explore le monde",
+      "links": [
+        {
+          "label": "Futura, le média qui explore le monde",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM1dYN0Z1ZmxUczhKYkJ3R1lzeG95TmszWkI5UmFuemlsaFluRUp5ZWp6dGJaRWxCZk1OUXNSY3hpYnFDQWZiMTJiSk1MeEZLbG9nUHg2am5FdjRyVHdTTWJYNElCcm1xUkpNZUM0WEQyWGJwc0FQYk1MUlZxblpxVER1enBZZ3RYUXk5cXpSZDlELXJIQ3RyODl0MDlaUEpmcWdIZElsal9aX3N2V2hsbkJVTXNYTUFKcjVjZUgxTUp5ZHR3ekdmRHZnT3k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-video-3-egypt s 5 000 year old sabu disk loo",
+      "date": "2026-08-08",
+      "type": "video",
+      "number": 3,
+      "title": "Egypt’s 5,000-Year-Old Sabu Disk Looks Like a Machine Part—But What Was It ...",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "arkeonews.net",
+      "links": [
+        {
+          "label": "arkeonews.net",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSldQcWRHUU93OW9fRUVOaFhmclNiVjVkd2FLUWZrdmhjZjlkUWdUcGdRazVKUzdOZzhEMWdYT0lWejB0V01falRsV0pfZEZ1a2FraFZ1UEtnbEVXVUJ2Y1d3VUc5MUVsX3pFVTE3NFh6aHpXSm5GQTRHMjlnVGthZVdjaEhhVkJCREZKdFBRcTNFTVAzM1RPMHhjb1BBc09SclV6S052N19HUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-video-4-first prehistoric settlement discove",
+      "date": "2026-08-08",
+      "type": "video",
+      "number": 4,
+      "title": "First Prehistoric Settlement Discovered in Southwest Bochum: Archaeologists...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "arkeonews.net",
+      "links": [
+        {
+          "label": "arkeonews.net",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ2xnblpUMVNFSE0wdVIyRVlfTlRrSlNJd1cyS1hxcTd4SHlqUDFxR1JLaEZpVTBaNlNELVFXS19jMWtSX05kcEp4cU9hR09mQnJwYklZYzlhR2c3ZDRyaWtTVTBCNzFDU2ZsSWJQNElXNXhNQmFDV1pYMHlaODdTOXBzakxUb3hQcUdON090V09waWNmZ1dYRVQ5QXRvaXU1R1JIVUh2VHVfdTdoWXZzbmRrMjJBMFJiVC0zekpsZGhkenQyRmlHZTgwclR1ZVc0UFl6Q2l4dWtDVWRFNld0cw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-video-5-buried giants of brittany ground pen",
+      "date": "2026-08-08",
+      "type": "video",
+      "number": 5,
+      "title": "Buried Giants of Brittany: Ground-Penetrating Scans Reveal Hidden Stone \"Bo...",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "arkeonews.net",
+      "links": [
+        {
+          "label": "arkeonews.net",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWk9ZWXFuSWxrSDlSVXppSTN5VWVWZ2VRREIzSkxSMHFjcUdIWkI1QkxEaWhjUl8wbUJ1aHpjYTlEYXdsZ1NDanJ2dks5dVNjbUxIQWRmaDBhblNUR28zYUxiUEZqUmFBazZzUFVpTHlTai02M3hRMFJDb2xvUU5xUDAySFBUOEV4a3FuZDNFanVhNFZOUEg0YUJEZGlvYTBERFNBcmE0N2lJeGM1Vk96ZUhGcFNxQXhuUVVyTHlPZl9VdU5pMkpwMHhrZ0s3MXl5X3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-video-6-split level giants tomb uncovered in",
+      "date": "2026-08-08",
+      "type": "video",
+      "number": 6,
+      "title": "Split-Level Giants’ Tomb Uncovered in Sardinia’s Rugged Highlands",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Ancient Origins",
+      "links": [
+        {
+          "label": "Ancient Origins",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbnF2LXNhV1V0WlBRSHFvVnEzVVVVT1pCaU16a21PdU5FX0txeUpmcml1NFhqRjJ4SGI5NVhuLUxlTGoxTXdSRmt6bkwwSERZbWUwNnJLZVk0YzdwNjUyd3p1eHdWVGR1ZUJfUjZDNWJRY0k5Mk9sRVEwQjU2dVk4ZEE2V1NwRGs2UklOM1Blbw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-video-7-mystery of egypt s pyramids shattere",
+      "date": "2026-08-08",
+      "type": "video",
+      "number": 7,
+      "title": "Mystery of Egypt’s pyramids shattered by stunning 'advanced' discovery",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Daily Express US",
+      "links": [
+        {
+          "label": "Daily Express US",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX2o2MHJoX1BZY01RYlZMb1ZJeW1BbjFHejlxc1pZb3FMVlFSNG9TVnltdUZ2ZjJhUkFodzgxUF93QVMzdy04UGxXNzFlNnhSWDF4cTVvZzZydzhINHlFSDVDMHNGTDMwRk9PU1ZSOWJCTDNLVjh1SEtUcUtwWXZ2WmFXcGZ4dlhaanZUQ9IBkgFBVV95cUxQU21BRkI2X0FjZ0dlWTBEcmU3WVV5SHViZ2t3Q3pLYmNOU0pxaGFrdi1BYzZ4WDM5cThvUE5DcVFZaTRvT0hUeE5JMjRwZGlNdEdsVG1LMmZ1cWxXTnpVMUZSaHR0UjlEeVJnWTRTVXR4MkRwNXdBQVpIYVMzU2RHZDJqZFgyNS00RU5RNUwzZlBaQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-video-8-egyptian pyramids mystery finally ex",
+      "date": "2026-08-08",
+      "type": "video",
+      "number": 8,
+      "title": "Egyptian pyramids mystery finally explained as archaeologists uncover how a...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "gbnews.com",
+      "links": [
+        {
+          "label": "gbnews.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON0NlcFFIOEVMM0YyYUl6Xy1zT3ozMDV6VzhKTU1CS0JDTFhiSkJKUkgtLW5wSHRQdm03LTNoQkxTUDYxYUcwOGdOSmNlMFpfZ2RnZnlSazJQQ3pPVVNfWEhlOEJzdUdfRTVyUTc0aEl5LWVSSmcySWluTUJSaUxWWVpWajF3ellIaHNFWGNqcjVjVklXcFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-08-video-9-el dorado city of gold mystery deepe",
+      "date": "2026-08-08",
+      "type": "video",
+      "number": 9,
+      "title": "El Dorado City of Gold mystery deepens as 3 million-strong civilisation fou...",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Daily Express",
+      "links": [
+        {
+          "label": "Daily Express",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTXhZNXk3aTlSSWJiYkE0T1ZUSERLQno0NDdwYkVnbW5nazFZWFVfNUJidTRNSEpSSDFPTk9XSmtPRTdVOXpXS2NmazkzYmFHMlBOd1pRZ29NSW1ydHVWbVFPeERIM3dUNF9SNkdoVVdlUUxZRm0zUi1kbS1tYjlWRDF5ckrSAYQBQVVfeXFMT014WTV5N2k5UkliYmJBNE9WVEhES0J6NDQ3cGJFZ21uZ2sxWVhVXzVCYnU0TUhKUkgxT05PV0prT0U3VTl6V0tjZms5M2JhRzJQTndaUWdvTUltcnR1Vm1RT3hESDN3VDRfUjZHaFVXZVFMWUZtM1ItZG0tbWI5VkQxeXJK?oc=5"
         }
       ]
     },
@@ -47,38 +351,6 @@
         {
           "label": "Tech Xplore",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTVVA5ejlOVFNTc1d2Sk1raDB2RWNhZmNfby1Yc2RSTHNNU2laMmMtYThKWWJ3WmpsbzlFWFdmWm1acEhNSy1BeE5MTDlBSmQxYS1tbkw5Qm9tdDc0ejNodkR5d2dQR0JuNXFNZElNYzg5YVlocDNnUk5BdFg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-07-ai-4-this openai product manager always a",
-      "date": "2026-08-07",
-      "type": "ai",
-      "number": 4,
-      "title": "This OpenAI product manager always asks ChatGPT to 'impress' him. Here’s hi...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "Business Insider",
-      "links": [
-        {
-          "label": "Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcUtnMjJqVEN5RDNCNXFrSHAxU0RKSXlYSWtCNjF0ZHpaemNkbGxJZTZNcUNmZGliUy1fQ1ZfS01ReVMwOVZkX2RhalZzbVgzV1FMamVmdHVIemV6Qi16WXFjX0ZNV0txWVpsdnZfdGNUSzREb2Z6NUNkQ3ltbmNHdDFyNFk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-07-ai-5-who s suing ai and who s signing per",
-      "date": "2026-08-07",
-      "type": "ai",
-      "number": 5,
-      "title": "Who's suing AI and who's signing: Perplexity's motion to dismiss vs Reddit ...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "Press Gazette",
-      "links": [
-        {
-          "label": "Press Gazette",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA?oc=5"
         }
       ]
     },
@@ -131,22 +403,6 @@
       ]
     },
     {
-      "id": "2026-08-07-ai-9-microsoft ai exec tells developers t",
-      "date": "2026-08-07",
-      "type": "ai",
-      "number": 9,
-      "title": "Microsoft AI exec tells developers to default to OpenAI's top model as part...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "CNBC",
-      "links": [
-        {
-          "label": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFRaTDJiVUZySHRRRngtZzBySk5NYmgzNGVSdVk5cDl4QmVwOUdzZ0dBVVJDQmdFajNWYUt2OXppb19vaDh3Vnh1d0xoYkZKM002TlV0bXBxZmhONWlHZzZfb2N0NjF5VXhZV0ZZMnBEMTBhT1RLVmVqTGh5X19qUVlwUE9JbTk2eXZISEwwWWpMRGhFcWcxUlRYVFlNTE9MWWphdVNnNXNMVUl1OFFOYtIBtgFBVV95cUxPWEd6YnZNSnE3Z0ZLdk0wN2FGSFdIYXF5QlpJVjRBX0FzRmVqdTA2Qk4wMUE0aWZRdzhIQmVHbFVGc1k5NVYtakh6b3owcjQ2QTdWd1FmaUJ0aFRDNExnTS1mY0dsMkdXekhoZTRTV19KOUUtLUFqRm9yeWRzYzlmeEQwRlJmMVNtU2ZpanJXWG1YWjR5NjctV1dDYktSZzBhVklUcmZtVXotNUN4a0pjMy1HM1VXUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-08-07-ai-10-latest ai powered martech news and r",
       "date": "2026-08-07",
       "type": "ai",
@@ -159,22 +415,6 @@
         {
           "label": "MarTech",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBra2tjM1Z6R0tQZmxSUHdPTFNsNlczNWdlUjRLVFFMUEtBMHlTSnJxTnJ5dUNPMFNFeXFzdkxDV25pX0l1eWp3bXJSOTZyRzlORm9CaU05S25iMVUzdVMxTHZzeGc5eFNOTDVHRHpxZVkwY09hWEtn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-07-ai-11-meta seeks to take on openai and ant",
-      "date": "2026-08-07",
-      "type": "ai",
-      "number": 11,
-      "title": "Meta Seeks To Take on OpenAI and Anthropic With a New AI Agent For Software...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "International Business Times",
-      "links": [
-        {
-          "label": "International Business Times",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWc2cFd0M0hRREdzeHZCMDVqQ2tYUkF6QTNpNTNrSVJFeUxnRTFVUk1CMHYtdEhhb3VpU3NQMlRfRTI3SEw1WmI4aXNIVWNuOVhuQlhJQzBjQ29YZTBfRk5FRFc4UnhIU2NPSXJxczJDdHhrV0g4LUNESkpyT194c21sT0h2blluOXRCMU1uTkZDYUViUURPbGhaXzFfQQ?oc=5"
         }
       ]
     },
@@ -239,38 +479,6 @@
         {
           "label": "La Brújula Verde",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTWw5ZFFMb1JIYjhER0JHR0thNVB4dFVKcUxCTGdVZFZoUXUzbFhVc2FZa2pFMklLbzQ4V0pFX1BjTV9QLXFfZURENnlOVS1kZmVoQ05KS1BoQ0I4TUdpNm5mRGNCUWdwZ2ZLTEVwa2ppUGxmU21zNG1MVjl3VC0wdzkyMnRpYjdXU1RGc091RmpBMWR5OVhmeURzaFVwU3pfNTlTc1M5QmlIRWZsblJybUdicm94UkdNcHdWb0FaYnNEaGM1dEsyUHVoczF4SFNHYmJCYzZzd3I?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-07-video-4-archaeologists uncover a hidden tomb",
-      "date": "2026-08-07",
-      "type": "video",
-      "number": 4,
-      "title": "Archaeologists uncover a hidden tomb—could this mysterious “magician” rewri...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Futura, le média qui explore le monde",
-      "links": [
-        {
-          "label": "Futura, le média qui explore le monde",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM1dYN0Z1ZmxUczhKYkJ3R1lzeG95TmszWkI5UmFuemlsaFluRUp5ZWp6dGJaRWxCZk1OUXNSY3hpYnFDQWZiMTJiSk1MeEZLbG9nUHg2am5FdjRyVHdTTWJYNElCcm1xUkpNZUM0WEQyWGJwc0FQYk1MUlZxblpxVER1enBZZ3RYUXk5cXpSZDlELXJIQ3RyODl0MDlaUEpmcWdIZElsal9aX3N2V2hsbkJVTXNYTUFKcjVjZUgxTUp5ZHR3ekdmRHZnT3k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-07-video-5-egypt s 5 000 year old sabu disk loo",
-      "date": "2026-08-07",
-      "type": "video",
-      "number": 5,
-      "title": "Egypt’s 5,000-Year-Old Sabu Disk Looks Like a Machine Part—But What Was It ...",
-      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Arkeonews",
-      "links": [
-        {
-          "label": "Arkeonews",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSldQcWRHUU93OW9fRUVOaFhmclNiVjVkd2FLUWZrdmhjZjlkUWdUcGdRazVKUzdOZzhEMWdYT0lWejB0V01falRsV0pfZEZ1a2FraFZ1UEtnbEVXVUJ2Y1d3VUc5MUVsX3pFVTE3NFh6aHpXSm5GQTRHMjlnVGthZVdjaEhhVkJCREZKdFBRcTNFTVAzM1RPMHhjb1BBc09SclV6S052N19HUQ?oc=5"
         }
       ]
     },
@@ -451,22 +659,6 @@
       ]
     },
     {
-      "id": "2026-08-06-video-1-archaeologists found a skeleton wear",
-      "date": "2026-08-06",
-      "type": "video",
-      "number": 1,
-      "title": "Archaeologists Found a Skeleton Wearing an Amulet That May Change the Histo...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Popular Mechanics",
-      "links": [
-        {
-          "label": "Popular Mechanics",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVUV4bGhCQlppZXVmblY1aWZvNG5yaVdVQV9hQ3RzQmpOTkhpbUtxSlJHRFVqNFlBQ0N6ZEpIeEZWSGdMQ3lBekw1cEd3ZlkzTWU0ekRSR0FHOXdLcW4waEI2cXJScE1BbVVjUnF3dWl1NTlkLWx1T1Z5M2JvaEptalNhdUhtYWM0R0hCZVhKeG5Mc3VNSFBHSlNZZ2EwdkNVLUZBdXJua21pUHhRY3JNbExLS3lvUW84VVE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-08-06-video-4-5 lost cities of ancient egypt uncov",
       "date": "2026-08-06",
       "type": "video",
@@ -479,22 +671,6 @@
         {
           "label": "thecollector.com",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDMnpsdkc1b1NwV2tGbDN1eERoVHJDNWtYREhfbmwwY0llc3Nld0JoTXZDWHVDdUJUV2pnMW5LNXNXOExsbjlCTl9wYnIzRHZyc2IzSUlacko5TFRUZFZTdTJPNmVOdXBwYjFUc01QR1lJWUJ5eExJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-06-video-8-first prehistoric settlement discove",
-      "date": "2026-08-06",
-      "type": "video",
-      "number": 8,
-      "title": "First Prehistoric Settlement Discovered in Southwest Bochum: Archaeologists...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Arkeonews",
-      "links": [
-        {
-          "label": "Arkeonews",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ2xnblpUMVNFSE0wdVIyRVlfTlRrSlNJd1cyS1hxcTd4SHlqUDFxR1JLaEZpVTBaNlNELVFXS19jMWtSX05kcEp4cU9hR09mQnJwYklZYzlhR2c3ZDRyaWtTVTBCNzFDU2ZsSWJQNElXNXhNQmFDV1pYMHlaODdTOXBzakxUb3hQcUdON090V09waWNmZ1dYRVQ5QXRvaXU1R1JIVUh2VHVfdTdoWXZzbmRrMjJBMFJiVC0zekpsZGhkenQyRmlHZTgwclR1ZVc0UFl6Q2l4dWtDVWRFNld0cw?oc=5"
         }
       ]
     },
