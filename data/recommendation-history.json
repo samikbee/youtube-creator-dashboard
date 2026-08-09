@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-08T21:25:11.177Z",
+  "updatedAt": "2026-08-09T21:26:55.674Z",
   "maxItems": 1000,
   "items": [
     {
-      "id": "2026-08-09-ai-1-latest ai news we announced in july ",
-      "date": "2026-08-09",
+      "id": "2026-08-10-ai-1-latest ai news we announced in july ",
+      "date": "2026-08-10",
       "type": "ai",
       "number": 1,
       "title": "latest AI news we announced in July 2026",
@@ -19,24 +19,24 @@
       ]
     },
     {
-      "id": "2026-08-09-ai-2-openai will bring chatgpt ads to bra",
-      "date": "2026-08-09",
+      "id": "2026-08-10-ai-2-openai will bring chatgpt ads to bra",
+      "date": "2026-08-10",
       "type": "ai",
       "number": 2,
       "title": "OpenAI will bring ChatGPT ads to Brazil and Mexico, and is adding a raft of...",
       "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
       "signal": "Public news/RSS pickup",
-      "source": "businessinsider.com",
+      "source": "Business Insider",
       "links": [
         {
-          "label": "businessinsider.com",
+          "label": "Business Insider",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSTA5aFQxRFZBUTR5ZDRaZm81bzRnaGZiN1FjN3BGNVFWZGJRRk1JS3p2ZEF5VUl5X09ZRTBXVXV0ZEMzRE5NRDQ2MEdxZlkxblRBZmUtaDdtX3ptenNVSm0wRnFrZmRaN0ZzMndfSmJaREFuM21IZFlnTlg5cTFFeHlEVUU1VkJzRkpTUWxNbkc?oc=5"
         }
       ]
     },
     {
-      "id": "2026-08-09-ai-3-who s suing ai and who s signing per",
-      "date": "2026-08-09",
+      "id": "2026-08-10-ai-3-who s suing ai and who s signing per",
+      "date": "2026-08-10",
       "type": "ai",
       "number": 3,
       "title": "Who's suing AI and who's signing: Perplexity's motion to dismiss vs Reddit ...",
@@ -47,6 +47,294 @@
         {
           "label": "Press Gazette",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-ai-4-details leak on openai s doughnut sh",
+      "date": "2026-08-10",
+      "type": "ai",
+      "number": 4,
+      "title": "Details Leak on OpenAI’s Doughnut-Shaped Speaker",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "CNET",
+      "links": [
+        {
+          "label": "CNET",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGVWU2NKOEtGeTFqM25qdy1LS2p5a2tLZVdOanZuVjNRR2kzTmNZSTk3NUphUlI1bERLenFSNEhrdFUtSTRlSUsyc1RaV1FBLWhNQ29YaDJaSlQ0ZXJJWjNzb1dLc0dMS2NaUXZlczhiWFZhZHZ6dms3TTVzMjlCSDEwRjNfcUNZZzdyZE9CaktOLUIxMkhn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-ai-5-gm hits 1 billion hands free miles w",
+      "date": "2026-08-10",
+      "type": "ai",
+      "number": 5,
+      "title": "GM Hits 1 Billion Hands-Free Miles, Will Drop Google Gemini Into 4 Million ...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "InsideEVs",
+      "links": [
+        {
+          "label": "InsideEVs",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU3V6MEVJXzRIeTVJVGtReHktUU82T1ljVFV0dFFPWlVqZno0MTRjd2RlYi0xRFlTZ0ItWDhuSUFIaEdlV2xqeVlXUjBxNUh2WTNMX2tSd25IZ1ZTa29JUi04cEFtUTlaU0pfRVBoWFgtVGZpYThrVUF5VV9SSmN0UlhtR1BNdzE2UDFGTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-ai-6-meta seeks to take on openai and ant",
+      "date": "2026-08-10",
+      "type": "ai",
+      "number": 6,
+      "title": "Meta Seeks To Take on OpenAI and Anthropic With a New AI Agent For Software...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "International Business Times",
+      "links": [
+        {
+          "label": "International Business Times",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWc2cFd0M0hRREdzeHZCMDVqQ2tYUkF6QTNpNTNrSVJFeUxnRTFVUk1CMHYtdEhhb3VpU3NQMlRfRTI3SEw1WmI4aXNIVWNuOVhuQlhJQzBjQ29YZTBfRk5FRFc4UnhIU2NPSXJxczJDdHhrV0g4LUNESkpyT194c21sT0h2blluOXRCMU1uTkZDYUViUURPbGhaXzFfQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-ai-7-microsoft ai exec tells developers t",
+      "date": "2026-08-10",
+      "type": "ai",
+      "number": 7,
+      "title": "Microsoft AI exec tells developers to default to OpenAI's top model as part...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "CNBC",
+      "links": [
+        {
+          "label": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFRaTDJiVUZySHRRRngtZzBySk5NYmgzNGVSdVk5cDl4QmVwOUdzZ0dBVVJDQmdFajNWYUt2OXppb19vaDh3Vnh1d0xoYkZKM002TlV0bXBxZmhONWlHZzZfb2N0NjF5VXhZV0ZZMnBEMTBhT1RLVmVqTGh5X19qUVlwUE9JbTk2eXZISEwwWWpMRGhFcWcxUlRYVFlNTE9MWWphdVNnNXNMVUl1OFFOYtIBtgFBVV95cUxPWEd6YnZNSnE3Z0ZLdk0wN2FGSFdIYXF5QlpJVjRBX0FzRmVqdTA2Qk4wMUE0aWZRdzhIQmVHbFVGc1k5NVYtakh6b3owcjQ2QTdWd1FmaUJ0aFRDNExnTS1mY0dsMkdXekhoZTRTV19KOUUtLUFqRm9yeWRzYzlmeEQwRlJmMVNtU2ZpanJXWG1YWjR5NjctV1dDYktSZzBhVklUcmZtVXotNUN4a0pjMy1HM1VXUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-ai-8-vietnam s fpt says it joined openai ",
+      "date": "2026-08-10",
+      "type": "ai",
+      "number": 8,
+      "title": "Vietnam’s FPT Says It Joined OpenAI Partner Network to Expand Enterprise AI...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "techrepublic.com",
+      "links": [
+        {
+          "label": "techrepublic.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xWERtVW5OT2xuOEo3X1hQU2xPNWlmYnRUVUVOdW4xRmhuelNEc0hhUjhnVjZtS095cXF5eFE0WG56TTk2TWRfOE1pUk9SYnNTUUpOWDlVNkZ0bVd5WF9jaVBKa1lfbjlnVWhpdzN6ZmZMbTBmNFF4VQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-ai-9-meta launches muse code ai agent to ",
+      "date": "2026-08-10",
+      "type": "ai",
+      "number": 9,
+      "title": "Meta launches Muse Code AI agent to challenge OpenAI, Anthropic",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Memeburn",
+      "links": [
+        {
+          "label": "Memeburn",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZXd6QXZ5VTNhcmdxa2VvOGRnMEdFM05Xc19HZVl1MmFhdjA2SllDa28yTzZJZGZUelp6T3hNeUw4TG1FMXR3Q1c5UTlVTUNPQ3c4V0pNUmlnZDM3M2pRdTMzTXE0bXY4ZnZBM3FDNTctUHBhcnktaXZ0UmJNV2IxNjJYdjUxVWVKTGpDaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-ai-10-why openai s first ai hardware is a ",
+      "date": "2026-08-10",
+      "type": "ai",
+      "number": 10,
+      "title": "Why OpenAI’s First AI Hardware Is a Screenless \"Donut\": Key Design & Innova...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "36Kr",
+      "links": [
+        {
+          "label": "36Kr",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MazNtaUliUGF4SW9EQUx4M1RhRlcyMGxVMENtWTlENmdVMkI5ZUNINlM3b0NjRjlhNjFUSmt4U3NLNkVVdE1pNGFwcFVFb2V4c3Mw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-ai-11-openai finance pro uses chatgpt to c",
+      "date": "2026-08-10",
+      "type": "ai",
+      "number": 11,
+      "title": "OpenAI Finance Pro Uses ChatGPT to Create Interacti…",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "StartupHub.ai",
+      "links": [
+        {
+          "label": "StartupHub.ai",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNmlYdmE2OXFuR3FiTTNNclFEeG9rWEdnbUtONFdrZ3lKbUlJaXE0RFdIR2RBQUJHSFVsMi03c2dXX1FZYm12MkhzWVA1ZWVfaDd1c0hiZmc2Nzg5dmticTNuVzJUUURTczNHb3hBN1Q1Wjl6MzVtb2hmREZ1YVVSTWdnRlpQOTBKOTNWT1pXckZHN0ExOTRmUlVJalVwdExUQ0xmN1UzSXE2MHZvWEF1QXQ0cUNXbWpjYkRldUEyS0xfV09j?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-ai-12-android updates used to feel revolut",
+      "date": "2026-08-10",
+      "type": "ai",
+      "number": 12,
+      "title": "Android updates used to feel revolutionary; now that they feel small, it le...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Android Police",
+      "links": [
+        {
+          "label": "Android Police",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeS1SN2xvTl9XMnlQWUNuSVVtV2pQN3lJN2RfWGd6bndyYWNRcWN4Ym9oZE16cDA3bXpaOEtma2VKaFFta3cza1BJWlRVLWM5aWx1anpyeUZPemhuZUhrZlY5NU1CdTZjUzk3clJSRjhTMzBxZGFlVnhUdGsyZkY2VE11RnJoYWdzb3kzbGNUV1VweVdIc3V6S1VLOFRHb1BXSmJRb1BlOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-video-1-archaeologists discovered a 5 000 ye",
+      "date": "2026-08-10",
+      "type": "video",
+      "number": 1,
+      "title": "Archaeologists Discovered a 5,000-Year-Old Tomb Filled to the Brim With Anc...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "popularmechanics.com",
+      "links": [
+        {
+          "label": "popularmechanics.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMmk0OHZLZURUUFVRZUxxZ1A3cmtQT1ZNeTRObzU1OWtScEw3d3ZicWJMRkFaM3BqTzBIRUFtSVhQRWx1V0psQUZmNGo3QUtocFI3aWNXZG1VRVgzUFFPVWF5VkpDcXdYQ3l0TURlZHFqWElhVG0wTDVOaTF6eGhGTWRJUE03dzBnWU5CS0FIeFEwc3NMQlFYWENrXzVPQkkwZlRjeTZVLUdoanIwcGZIeA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-video-2-first prehistoric settlement discove",
+      "date": "2026-08-10",
+      "type": "video",
+      "number": 2,
+      "title": "First Prehistoric Settlement Discovered in Southwest Bochum: Archaeologists...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Arkeonews",
+      "links": [
+        {
+          "label": "Arkeonews",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ2xnblpUMVNFSE0wdVIyRVlfTlRrSlNJd1cyS1hxcTd4SHlqUDFxR1JLaEZpVTBaNlNELVFXS19jMWtSX05kcEp4cU9hR09mQnJwYklZYzlhR2c3ZDRyaWtTVTBCNzFDU2ZsSWJQNElXNXhNQmFDV1pYMHlaODdTOXBzakxUb3hQcUdON090V09waWNmZ1dYRVQ5QXRvaXU1R1JIVUh2VHVfdTdoWXZzbmRrMjJBMFJiVC0zekpsZGhkenQyRmlHZTgwclR1ZVc0UFl6Q2l4dWtDVWRFNld0cw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-video-3-a girl found a bone while playing it",
+      "date": "2026-08-10",
+      "type": "video",
+      "number": 3,
+      "title": "A Girl Found a Bone While Playing. It Led Archaeologists to 9 Mass Graves i...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "popularmechanics.com",
+      "links": [
+        {
+          "label": "popularmechanics.com",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd2xvRG5FbjF0d2drQjdPUEoydDVLSXZRMDVuR0UzUXI0MnBsMjVtZVNqV0xncmFXX2pBNzlYc2lVN3JBRXhlXzRfNzN0V0o1V05aOFZ3YTRQWmZpcXFwMVMwQXIwZmFmTTd0TXlUOVhGS0FrOFZnTElLOXdUZW95RkdVUWlGUkpsQTUxU0ZrUE8xb1RER2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-video-4-greatest archaeology discoveries of ",
+      "date": "2026-08-10",
+      "type": "video",
+      "number": 4,
+      "title": "GREATEST Archaeology Discoveries Of 2025 Pluie (OaxI4j43Xi)",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Mshale",
+      "links": [
+        {
+          "label": "Mshale",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LenNiZ1VWdGN5RmVZeEhEZXJWMnNpdEtpV0IxOVRTV1YyTHJINVFOVFFKRXlQTFBWZU1DeE1wX1l2cUJ3cURIWFllbkp1V3dIMVR4X0JBQktGalk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-video-5-these curious ancient greek artifact",
+      "date": "2026-08-10",
+      "type": "video",
+      "number": 5,
+      "title": "These Curious Ancient Greek Artifacts Have Extraterrestrial Origins—Why The...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "The Debrief",
+      "links": [
+        {
+          "label": "The Debrief",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcjY0MXFKd0JmaWJXaGVGNTd0Y2ZvQzhWSzZkcFItY0dHc0JMOFNqWDgwZ0NtcDVvRC1DaTB2S3lESFdDYUl3LXlTRmJEanM0Sm5uT3lPTS03RFFhT0w3RmZpaXJmYVhPUk5sN2w0ZjZaTWM1ZTFvc1gteEdZSVpZZ2pQdzJzYkVNOUthZUo5QWNCWU85aWJnVWdqcUJZcGpnSHZsUjhrbnN2Uk9PNklKV0N5RDR3QkFZazdnOUZFc3Q0NHpCVlZiaG85VDN3U0puODFzUEcwYXdvZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-video-6-egyptian pyramids mystery finally ex",
+      "date": "2026-08-10",
+      "type": "video",
+      "number": 6,
+      "title": "Egyptian pyramids mystery finally explained as archaeologists uncover how a...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "GB News",
+      "links": [
+        {
+          "label": "GB News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON0NlcFFIOEVMM0YyYUl6Xy1zT3ozMDV6VzhKTU1CS0JDTFhiSkJKUkgtLW5wSHRQdm03LTNoQkxTUDYxYUcwOGdOSmNlMFpfZ2RnZnlSazJQQ3pPVVNfWEhlOEJzdUdfRTVyUTc0aEl5LWVSSmcySWluTUJSaUxWWVpWajF3ellIaHNFWGNqcjVjVklXcFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-video-7-archaeologists left baffled after di",
+      "date": "2026-08-10",
+      "type": "video",
+      "number": 7,
+      "title": "Archaeologists left baffled after discovering 37 people buried in ‘death jar’",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Daily Express",
+      "links": [
+        {
+          "label": "Daily Express",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZGEyWVBhdHpoOFU1VGpJcWs1UFBIS1RhVnJHeDhYeTY1aWdqci1yQms0bGdGeFBXRlRqTVZWYUs2eUFiVDJiWl9Gd3pVNkpsLUhTUjVpWk9XVk5oQXZ6TTVrUnI5Zjg5djVuY083ZDRwU0l0RTlDRno4VFp4alpkaUJRV24zcF9oamRKa3hEb2ZaeWtsUFAxeGt5OUhGSTJuZmwyYWxSWGhBbWdPV3Rj0gGvAUFVX3lxTE5kYTJZUGF0emg4VTVUaklxazVQUEhLVGFWckd4OFh5NjVpZ2pyLXJCazRsZ0Z4UFdGVGpNVlZhSzZ5QWJUMmJaX0Z3elU2SmwtSFNSNWlaT1dWTmhBdnpNNWtScjlmODl2NW5jTzdkNHBTSXRFOUNGejhUWnhqWmRpQlFXbjNwX2hqZEpreERvZlp5a2xQUDF4a3k5SEZJMm5mbDJhbFJYaEFtZ09XdGM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-video-8-longyou caves mystery china s 2 000 ",
+      "date": "2026-08-10",
+      "type": "video",
+      "number": 8,
+      "title": "Longyou Caves Mystery: China’s 2,000-Year-Old Underground World Hidden Bene...",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Vocal",
+      "links": [
+        {
+          "label": "Vocal",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcks5Tk1jOUxtdHFpU0pldWZGVnpFYXFPLVpzQ2RiUEtxejJSYWMyNEdaTjBvV2VOV0RXOWUxLTRtMXVpdjBZV2dhUlFSdTlLcHM1Q3FiTUVVem9BZWY5RVVlWmFBWGRXSzQ5N0VIellobktaQmRscnlkcVN2NVNmRkdlNkFTRU9PUEJyLXVSaGxTVm9CaDVqajIwOWJXWU1RblQyLXJzczdiTzdnNVZoTkpNVldQX3ItSm5qQmln?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-10-video-9-america is finally taking extraterre",
+      "date": "2026-08-10",
+      "type": "video",
+      "number": 9,
+      "title": "America Is Finally Taking Extraterrestrials Seriously",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Time Magazine",
+      "links": [
+        {
+          "label": "Time Magazine",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQU1WUWNhUmVXZ3VYbEhrb1hveHN1SHB2UjFIYXJVQ2o4eHZOYnp4OWJuOEtPS1pqSDBZUE1KSmxpTlEzYXZTaGt3RE1yTUFNT2JhSjVYMzlIdkpKLVpfSm9aUFhfS3lQaFdCSHRWX1F1LTFva0hMNHZuNUJVLThyQTJ3N3JHZw?oc=5"
         }
       ]
     },
@@ -63,54 +351,6 @@
         {
           "label": "TechRepublic",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORUlVVnZXU3FXNWpacElSTE5Lb0pnMmZaZVpMUEFVUmNsalBYWjFtQ2hxdGZZNC1lOWowYm1mYmpjTzItaFVURGw4eDlZNkpZQmdmdjJDU3VtbW1YTUhjVFZ0YnJkdjVpczZLUDNlZm1qcUpYbHYwUC11NFVad2VkN2V3bzJkNVVUcHJtelhicw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-09-ai-5-meta seeks to take on openai and ant",
-      "date": "2026-08-09",
-      "type": "ai",
-      "number": 5,
-      "title": "Meta Seeks To Take on OpenAI and Anthropic With a New AI Agent For Software...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "International Business Times",
-      "links": [
-        {
-          "label": "International Business Times",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWc2cFd0M0hRREdzeHZCMDVqQ2tYUkF6QTNpNTNrSVJFeUxnRTFVUk1CMHYtdEhhb3VpU3NQMlRfRTI3SEw1WmI4aXNIVWNuOVhuQlhJQzBjQ29YZTBfRk5FRFc4UnhIU2NPSXJxczJDdHhrV0g4LUNESkpyT194c21sT0h2blluOXRCMU1uTkZDYUViUURPbGhaXzFfQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-09-ai-6-microsoft ai exec tells developers t",
-      "date": "2026-08-09",
-      "type": "ai",
-      "number": 6,
-      "title": "Microsoft AI exec tells developers to default to OpenAI's top model as part...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "CNBC",
-      "links": [
-        {
-          "label": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRFRaTDJiVUZySHRRRngtZzBySk5NYmgzNGVSdVk5cDl4QmVwOUdzZ0dBVVJDQmdFajNWYUt2OXppb19vaDh3Vnh1d0xoYkZKM002TlV0bXBxZmhONWlHZzZfb2N0NjF5VXhZV0ZZMnBEMTBhT1RLVmVqTGh5X19qUVlwUE9JbTk2eXZISEwwWWpMRGhFcWcxUlRYVFlNTE9MWWphdVNnNXNMVUl1OFFOYtIBtgFBVV95cUxPWEd6YnZNSnE3Z0ZLdk0wN2FGSFdIYXF5QlpJVjRBX0FzRmVqdTA2Qk4wMUE0aWZRdzhIQmVHbFVGc1k5NVYtakh6b3owcjQ2QTdWd1FmaUJ0aFRDNExnTS1mY0dsMkdXekhoZTRTV19KOUUtLUFqRm9yeWRzYzlmeEQwRlJmMVNtU2ZpanJXWG1YWjR5NjctV1dDYktSZzBhVklUcmZtVXotNUN4a0pjMy1HM1VXUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-09-ai-7-vietnam s fpt says it joined openai ",
-      "date": "2026-08-09",
-      "type": "ai",
-      "number": 7,
-      "title": "Vietnam’s FPT Says It Joined OpenAI Partner Network to Expand Enterprise AI...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "TechRepublic",
-      "links": [
-        {
-          "label": "TechRepublic",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4xWERtVW5OT2xuOEo3X1hQU2xPNWlmYnRUVUVOdW4xRmhuelNEc0hhUjhnVjZtS095cXF5eFE0WG56TTk2TWRfOE1pUk9SYnNTUUpOWDlVNkZ0bVd5WF9jaVBKa1lfbjlnVWhpdzN6ZmZMbTBmNFF4VQ?oc=5"
         }
       ]
     },
@@ -147,22 +387,6 @@
       ]
     },
     {
-      "id": "2026-08-09-ai-10-why openai s first ai hardware is a ",
-      "date": "2026-08-09",
-      "type": "ai",
-      "number": 10,
-      "title": "Why OpenAI’s First AI Hardware Is a Screenless \"Donut\": Key Design & Innova...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "36Kr",
-      "links": [
-        {
-          "label": "36Kr",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MazNtaUliUGF4SW9EQUx4M1RhRlcyMGxVMENtWTlENmdVMkI5ZUNINlM3b0NjRjlhNjFUSmt4U3NLNkVVdE1pNGFwcFVFb2V4c3Mw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-08-09-ai-11-openai finance pro uses chatgpt to c",
       "date": "2026-08-09",
       "type": "ai",
@@ -175,38 +399,6 @@
         {
           "label": "StartupHub.ai",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNmlYdmE2OXFuR3FiTTNNclFEeG9rWEdnbUtONFdrZ3lKbUlJaXE0RFdIR2RBQUJHSFVsMi03c2dXX1FZYm12MkhzWVA1ZWVfaDd1c0hiZmc2Nzg5dmticTNuVzJUUURTczNHb3hBN1Q1Wjl6MzVtb2hmREZ1YVVSTWdnRlpQOTBKOTNWT1pXckZHN0ExOTRmUlVJalVwdExUQ0xmN1UzSXE2MHZvWEF1QXQ0cUNXbWpjYkRldUEyS0xfV09j?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-09-ai-12-android updates used to feel revolut",
-      "date": "2026-08-09",
-      "type": "ai",
-      "number": 12,
-      "title": "Android updates used to feel revolutionary; now that they feel small, it le...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "androidpolice.com",
-      "links": [
-        {
-          "label": "androidpolice.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeS1SN2xvTl9XMnlQWUNuSVVtV2pQN3lJN2RfWGd6bndyYWNRcWN4Ym9oZE16cDA3bXpaOEtma2VKaFFta3cza1BJWlRVLWM5aWx1anpyeUZPemhuZUhrZlY5NU1CdTZjUzk3clJSRjhTMzBxZGFlVnhUdGsyZkY2VE11RnJoYWdzb3kzbGNUV1VweVdIc3V6S1VLOFRHb1BXSmJRb1BlOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-09-video-1-a girl found a bone while playing it",
-      "date": "2026-08-09",
-      "type": "video",
-      "number": 1,
-      "title": "A Girl Found a Bone While Playing. It Led Archaeologists to 9 Mass Graves i...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Popular Mechanics",
-      "links": [
-        {
-          "label": "Popular Mechanics",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd2xvRG5FbjF0d2drQjdPUEoydDVLSXZRMDVuR0UzUXI0MnBsMjVtZVNqV0xncmFXX2pBNzlYc2lVN3JBRXhlXzRfNzN0V0o1V05aOFZ3YTRQWmZpcXFwMVMwQXIwZmFmTTd0TXlUOVhGS0FrOFZnTElLOXdUZW95RkdVUWlGUkpsQTUxU0ZrUE8xb1RER2c?oc=5"
         }
       ]
     },
@@ -227,22 +419,6 @@
       ]
     },
     {
-      "id": "2026-08-09-video-3-first prehistoric settlement discove",
-      "date": "2026-08-09",
-      "type": "video",
-      "number": 3,
-      "title": "First Prehistoric Settlement Discovered in Southwest Bochum: Archaeologists...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Arkeonews",
-      "links": [
-        {
-          "label": "Arkeonews",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ2xnblpUMVNFSE0wdVIyRVlfTlRrSlNJd1cyS1hxcTd4SHlqUDFxR1JLaEZpVTBaNlNELVFXS19jMWtSX05kcEp4cU9hR09mQnJwYklZYzlhR2c3ZDRyaWtTVTBCNzFDU2ZsSWJQNElXNXhNQmFDV1pYMHlaODdTOXBzakxUb3hQcUdON090V09waWNmZ1dYRVQ5QXRvaXU1R1JIVUh2VHVfdTdoWXZzbmRrMjJBMFJiVC0zekpsZGhkenQyRmlHZTgwclR1ZVc0UFl6Q2l4dWtDVWRFNld0cw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-08-09-video-4-buried giants of brittany ground pen",
       "date": "2026-08-09",
       "type": "video",
@@ -255,38 +431,6 @@
         {
           "label": "Arkeonews",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWk9ZWXFuSWxrSDlSVXppSTN5VWVWZ2VRREIzSkxSMHFjcUdIWkI1QkxEaWhjUl8wbUJ1aHpjYTlEYXdsZ1NDanJ2dks5dVNjbUxIQWRmaDBhblNUR28zYUxiUEZqUmFBazZzUFVpTHlTai02M3hRMFJDb2xvUU5xUDAySFBUOEV4a3FuZDNFanVhNFZOUEg0YUJEZGlvYTBERFNBcmE0N2lJeGM1Vk96ZUhGcFNxQXhuUVVyTHlPZl9VdU5pMkpwMHhrZ0s3MXl5X3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-09-video-5-egyptian pyramids mystery finally ex",
-      "date": "2026-08-09",
-      "type": "video",
-      "number": 5,
-      "title": "Egyptian pyramids mystery finally explained as archaeologists uncover how a...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "GB News",
-      "links": [
-        {
-          "label": "GB News",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON0NlcFFIOEVMM0YyYUl6Xy1zT3ozMDV6VzhKTU1CS0JDTFhiSkJKUkgtLW5wSHRQdm03LTNoQkxTUDYxYUcwOGdOSmNlMFpfZ2RnZnlSazJQQ3pPVVNfWEhlOEJzdUdfRTVyUTc0aEl5LWVSSmcySWluTUJSaUxWWVpWajF3ellIaHNFWGNqcjVjVklXcFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-09-video-6-longyou caves mystery china s 2 000 ",
-      "date": "2026-08-09",
-      "type": "video",
-      "number": 6,
-      "title": "Longyou Caves Mystery: China’s 2,000-Year-Old Underground World Hidden Bene...",
-      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Vocal",
-      "links": [
-        {
-          "label": "Vocal",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcks5Tk1jOUxtdHFpU0pldWZGVnpFYXFPLVpzQ2RiUEtxejJSYWMyNEdaTjBvV2VOV0RXOWUxLTRtMXVpdjBZV2dhUlFSdTlLcHM1Q3FiTUVVem9BZWY5RVVlWmFBWGRXSzQ5N0VIellobktaQmRscnlkcVN2NVNmRkdlNkFTRU9PUEJyLXVSaGxTVm9CaDVqajIwOWJXWU1RblQyLXJzczdiTzdnNVZoTkpNVldQX3ItSm5qQmln?oc=5"
         }
       ]
     },
@@ -2799,22 +2943,6 @@
         {
           "label": "Mashable",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10N3hab19QaXI3S3BWZDR5by1EMEx2RDNuX3JTMjBPRkhtTEdUeWpjYTJ2M0xWTk1xOUllanFTZVJrUk11RklUZF9Qbm5LRnROaldpNUM3NHlxX2ZfM255blZoUXpZOVRrVF84?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-27-ai-12-gm hits 1 billion hands free miles w",
-      "date": "2026-07-27",
-      "type": "ai",
-      "number": 12,
-      "title": "GM Hits 1 Billion Hands-Free Miles, Will Drop Google Gemini Into 4 Million ...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "InsideEVs",
-      "links": [
-        {
-          "label": "InsideEVs",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU3V6MEVJXzRIeTVJVGtReHktUU82T1ljVFV0dFFPWlVqZno0MTRjd2RlYi0xRFlTZ0ItWDhuSUFIaEdlV2xqeVlXUjBxNUh2WTNMX2tSd25IZ1ZTa29JUi04cEFtUTlaU0pfRVBoWFgtVGZpYThrVUF5VV9SSmN0UlhtR1BNdzE2UDFGTQ?oc=5"
         }
       ]
     },
