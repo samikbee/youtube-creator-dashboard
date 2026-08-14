@@ -1,7 +1,343 @@
 {
-  "updatedAt": "2026-08-13T21:39:53.385Z",
+  "updatedAt": "2026-08-14T21:20:28.934Z",
   "maxItems": 1000,
   "items": [
+    {
+      "id": "2026-08-15-ai-1-gemini becomes google s fastest grow",
+      "date": "2026-08-15",
+      "type": "ai",
+      "number": 1,
+      "title": "Gemini Becomes Google’s Fastest-Growing Product Ever After Hitting 1 Billio...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Forbes",
+      "links": [
+        {
+          "label": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYlhMNERFUElhTWkybDhLdFFwSGRTcWpnT1dfemt0eDg5RVRpUUE4QW9ZWVJkaEdIdDczRUhKSUswX25QTlN2MFNZQU1oMUtNVTBneGJPUTZQLU1ha3ZrYTFuamJJaGdLZTJENXktT0dxVmdoeVNNQTJhVGZCdDVqR3hkazFVQlREUDJPSllsUmZXZkVrMksxazVFanU5M0VvTU9RakF3Zkp0VDlxeWUxN3o2S1hSQUlnRzBMNUJRVXJXXzR2YllGTjBqTzdmTHlSZ0laTzJHVFZnY1dtMjlDLQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-ai-2-google s gemini ai app passes 1 bill",
+      "date": "2026-08-15",
+      "type": "ai",
+      "number": 2,
+      "title": "Google’s Gemini AI app passes 1 billion monthly active users",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "SiliconANGLE",
+      "links": [
+        {
+          "label": "SiliconANGLE",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDlPbUxhN1pUcFBPbHFNX3BVZG9DLUlzRVhwSFZIcTMwSkJVN1hZWGVobUVvYktvR25iWVFCbEVoN1MtdDJsWWhNei03ZXpQVmVlMHpQYmVZbUQ3NEhxenF3WVBGbm5XV2dZa3ktd0FOYXJJSktwOXYwdGItR085c0NpcWI2WmpEdTF0Wk84NkozUW4wd1FyMXdnbjU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-ai-3-google gemini passes 1 billion month",
+      "date": "2026-08-15",
+      "type": "ai",
+      "number": 3,
+      "title": "Google Gemini passes 1 billion monthly users as ChatGPT reaches 1 billion w...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "National Desk",
+      "links": [
+        {
+          "label": "National Desk",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbFAySUJSeEFvMmhWWVItR0RLbXFRMzBNZUlyS3F6bTNYb181bk9YVWlGTnBJdFY0QzhSZDhkaTFkdmZqS2NzLW9jN1NUSjVsTndNSTA0Yzd2Vm1YRWdyZnR6Y3kwUWZMOE5UTW1ET0VObFdNVlVaUDRmYjlHMGZoXzc4aVRnazE1UWtZY1l6MFBrdEY3NmlmMEpZck5lOEJaSjhJLVJqMFdMbXNXeE4tRldxVXFIOTg3eWs1bzVpVFowbHd3R29adk5MNmxsdVNRUnFB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-ai-4-openai s ai smart speaker will repor",
+      "date": "2026-08-15",
+      "type": "ai",
+      "number": 4,
+      "title": "OpenAI's AI smart speaker will reportedly be shaped 'like a doughnut'",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Mashable",
+      "links": [
+        {
+          "label": "Mashable",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JVDRxQk9ZdGgzNWhMYzFDY1FWMWtqekVCUVBobzBGcmlNNVdWVTJrelJwamhMdE1IMDU5SG41dktadFFJZTdrRWVrdDl4VTd1c19ESzV0NzFuMldpMmVOcFFBcmdzQ19vWWtXOXRXQTRfcUdWRFJEOVl6b0syZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-ai-5-pixel 11 series your most personal p",
+      "date": "2026-08-15",
+      "type": "ai",
+      "number": 5,
+      "title": "Pixel 11 series: Your most personal Pixel yet",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "blog.google",
+      "links": [
+        {
+          "label": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb2JGbUFVRnJ6a3IxeHlBYS1ybTNzQkVyS3JiUXNxY29hdGVUZ3d2VV9RUWRMaVMwMHMxUWJSWmtzWWNNR0xQMDBsMmszeGhabU1iV1ZxZEpNN3U4cUo2YzVGZ0pCRVBoeTdRQmY2RUlkNlJmcFgwQTRYc21VQ19kT0h2WHVTVjA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-ai-6-bring your spreadsheet data to life ",
+      "date": "2026-08-15",
+      "type": "ai",
+      "number": 6,
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "blog.google",
+      "links": [
+        {
+          "label": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVkxwYzJ5NnUtdVJaeDJLNWEzclZXSDhOQmVzNjhlcjR4bUFmMmhaTUhibTI5WFJrdzR4TWx4TmlXNjBjeWZiSXJfVndXUUJiQjVsVTNlcXE0d2YtZTdGaHRvSk9ZWUxrMGJvY2lrcnhRZ0swZnBZSlBnSWR0OU5UajI0U2FhdnNCWW1MU0JCaERjQ2MxWDg5YWxuVGxDY0JUWFZoNHRKZ2Z5aTA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-ai-7-openai says it slowed astra model de",
+      "date": "2026-08-15",
+      "type": "ai",
+      "number": 7,
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "TechCrunch",
+      "links": [
+        {
+          "label": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd3B2a2NoaGtOdmJ5WEhERFMwbTZOX3p1MHplbG1ocnRsa25kaDFIRXU5SjVwVmFzRW1ZTWJWZ1dnYmljZ0pMVUZ1SE5RZXpaVy0ydnpjd2lVaHpuTUZEckZDSUI0MGF5N1dYZkItcmNiQkdiVlBPZFZwRENjNzIwYkVQdml5b0Z0c1Rzd3BTMXFWQ2t5N01qQ2w0T1N2bmN4US1Ra2pR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-ai-8-bernie sanders urges openai anthropi",
+      "date": "2026-08-15",
+      "type": "ai",
+      "number": 8,
+      "title": "Bernie Sanders Urges OpenAI, Anthropic and Meta to Pause Advanced AI Develo...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "techrepublic.com",
+      "links": [
+        {
+          "label": "techrepublic.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeWtWcXVGMjkwX19kTTRZbVp3UUVwaW9ybkdHZHUxR3J2QUJGZ25sbUpmT2Z5YmFRVXJZNnZoVzRQV09nQmd2ZThUS3UyRDRfd0xmbG1XZG0teUJWTmVLZEhDVlY5YktxUTV2aGdyU3N3dzBpaVhfbi11dHZhYldFUlZidHM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-ai-9-google s sergey brin has reportedly ",
+      "date": "2026-08-15",
+      "type": "ai",
+      "number": 9,
+      "title": "Google's Sergey Brin Has Reportedly Urged AI Talent To Go All In On Gemini ...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "TradingView",
+      "links": [
+        {
+          "label": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOLXpaYnBfc014aXpFVF9uaG14STRXYktnRjhiMnVSWkJMd3V6SVV2RTU0dDVVcDVGZ05YaldZd1k1U0JScWlFTHJUZGdUbENPRDNoOVotN0FzblRRc1lBX0ZhbEdQU1ZpblFILVlhYmZkZzNqdk1KVVdiemZKOEU3aG5Zbm0xWEQzZG5nRG5mVEZLYVJxNldBLUFFUDRxbVF1TllzakxFalQxRUwtTlBsbmFDSzlPZUhjZFVXaHluT2xZMWp5SklBaUJLSE9aa1JPakczMllBckRfVHJkOWVIb2d5dUk0VFVsYW5obzlPWHU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-ai-10-anthropic to mark claude text files ",
+      "date": "2026-08-15",
+      "type": "ai",
+      "number": 10,
+      "title": "Anthropic To Mark Claude Text & Files Under EU AI Act Code",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Search Engine Journal",
+      "links": [
+        {
+          "label": "Search Engine Journal",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObmxiUUdaaEg5UVhXc0ZrYlZjdlFEbWpnZThDWTRxVUxLWl9xRTEzWVVPZkpacS1yYjJOY1YxdWVlNDNueDRXNlBsY3RtYkMzZjFzclRGNnBobDdqeTQwaWNRRV83aXdlbU1iUGxFbS1qM2ZBNnVRTUtDZ0tjS0UxbnRWa0xqYU5ZZXBRYUo4NA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-ai-11-meta openai google and other ai comp",
+      "date": "2026-08-15",
+      "type": "ai",
+      "number": 11,
+      "title": "Meta, OpenAI, Google and other AI companies are learning from your chats. H...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "The Times of India",
+      "links": [
+        {
+          "label": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNOWN5aTIxY2NxdHdMZl8ydk1DanpoVk9xclRHUlRDMG9ZZEJUZ3VPcFdWejhsQVF4cFItckoyZThNeG9FWmtyNWR6dlFPRGhmZlp5YkNYSUZxQ045ZDZQUi1SX0p1dG5WUVVVS1NfQmp1UGtzMXR2dWFlSkxQTGh1Mk5TeFRXbkZhQks4dDluTEFaaDlQWGVHMHVWZzdnZ2xYOGlJZ0hnV3YzX25KYnFuSndtanhhNy1LemF5TFRHYnU4Mk9MNlFZTS1jbEdfay1SbkYtSWM1d1FEQlZPN2o3WFdvZXpWRDVtSVBKZkNZNnRDOTlUczJrcV85RUV1U0FHcEdSUA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-ai-12-former openai chief product officer ",
+      "date": "2026-08-15",
+      "type": "ai",
+      "number": 12,
+      "title": "Former OpenAI chief product officer seeks a valuation of at least $750 for ...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "The American Bazaar",
+      "links": [
+        {
+          "label": "The American Bazaar",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYWlwUk80R3QyQWwyZFViT1RLNzZxQmJZa05OdjBqY0R3MnFPVXo2NTh6a1hhMGlCQ3BOLXpGeFdNYzJNaTZJQVhvT2JUa2I0a193WEFkVXNkWGphaDdNXzQwMWczODZKSHZiZFdsNDA1M0F3ZEZMTkRrVkpsSFRGelFtaHFUT2hsNE91dFA4Q0JCSFBrQjRoQ3FwQ1FpMHRyUERwd0ttTkI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-video-1-archaeologists discovered a 5 000 ye",
+      "date": "2026-08-15",
+      "type": "video",
+      "number": 1,
+      "title": "Archaeologists Discovered a 5,000-Year-Old Tomb Filled to the Brim With Anc...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Popular Mechanics",
+      "links": [
+        {
+          "label": "Popular Mechanics",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMmk0OHZLZURUUFVRZUxxZ1A3cmtQT1ZNeTRObzU1OWtScEw3d3ZicWJMRkFaM3BqTzBIRUFtSVhQRWx1V0psQUZmNGo3QUtocFI3aWNXZG1VRVgzUFFPVWF5VkpDcXdYQ3l0TURlZHFqWElhVG0wTDVOaTF6eGhGTWRJUE03dzBnWU5CS0FIeFEwc3NMQlFYWENrXzVPQkkwZlRjeTZVLUdoanIwcGZIeA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-video-2-illegal mummy trafficking may curse ",
+      "date": "2026-08-15",
+      "type": "video",
+      "number": 2,
+      "title": "Illegal mummy trafficking may curse buyers with mold, not magic",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Popular Science",
+      "links": [
+        {
+          "label": "Popular Science",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NVUNfNlFOb2pCRGVSdUhDalh2YW1FNXZjT3JsTmM2T0FGdDZjV2huZURLTmhIWi1jNzM2WVFTenFFSnJFdXJzTjdadTNzb1JkR3F1QlpXeTNqUlZFMnU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-video-3-egypt unveils a spectacular 3 200 ye",
+      "date": "2026-08-15",
+      "type": "video",
+      "number": 3,
+      "title": "Egypt unveils a spectacular 3,200-year-old tomb, hidden in the ground at Th...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Futura, le média qui explore le monde",
+      "links": [
+        {
+          "label": "Futura, le média qui explore le monde",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYk50MVRnell4M0sxSnJ0M3ZUYVBCdFk1TGp4X3JoN0Y1QXgyUjBFWFdiU1FJQjE0Snk0dHg2VHp2LUMzRmFiVWpFZEdMdVpnSVlYbW5UU0ZPMHBTSldvSTNfMGhBQVgtY3VGYXJtTGxfTFZ3blNEMjlpUnZzMERPak5kM2tEcU5BN3hDenk0cVB2T2UyZG9Pa08zZWRRWHd4WldDaHBDNXVfOFoxNUJiMWs5T3lQNGVaUkRn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-video-4-newly discovered standing stones in ",
+      "date": "2026-08-15",
+      "type": "video",
+      "number": 4,
+      "title": "Newly discovered standing stones in France shed light on the ancient megali...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "The Art Newspaper",
+      "links": [
+        {
+          "label": "The Art Newspaper",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM2NYc0dURGFpUG82UENHMWt1bjdZR1dJYjFKTExkZF9LY1dNMExVTnlmUkVnMkxjcjFtN3JIRHZxSnhvbDExSWZsSHVxMWRaOTFjcmVwMHZrSG9ZT0lWMTBSZFJKQTJhdS1CZ0VpX3JvT3RxM2xidGhQYTI2WjZtb3c0Q3ppQjlHMm8xemcwaHV5UExocnU2UXYwaEJVbGRBUlkxZGRaMWNnbmQxb0Iwa3c2emtVVVZDRWJxRXdhR1FVbjdTQk1hMQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-video-5-ancient secrets 260 tombs discovered",
+      "date": "2026-08-15",
+      "type": "video",
+      "number": 5,
+      "title": "Ancient Secrets: 260 Tombs Discovered in the Sahara Desert",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Yahoo",
+      "links": [
+        {
+          "label": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdGhRakxpZjQzbkItTGNCdDZKNENYTy01UVBRV2VLNW1rei03em1wQjZVZTk4bHhJb0NndFY1WWNsanFBZFA1b294Y3lUWGJrM19WSFBMTm1BMnNyTW91Uy1IZEZ3eVRsZmVKTVZYQ2hSYVI0cjNOMjlSTUpHQUpJWENyUDVpV2YtSUxhUTRNWWtieEpX?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-video-6-these curious ancient greek artifact",
+      "date": "2026-08-15",
+      "type": "video",
+      "number": 6,
+      "title": "These Curious Ancient Greek Artifacts Have Extraterrestrial Origins—Why The...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "The Debrief",
+      "links": [
+        {
+          "label": "The Debrief",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcjY0MXFKd0JmaWJXaGVGNTd0Y2ZvQzhWSzZkcFItY0dHc0JMOFNqWDgwZ0NtcDVvRC1DaTB2S3lESFdDYUl3LXlTRmJEanM0Sm5uT3lPTS03RFFhT0w3RmZpaXJmYVhPUk5sN2w0ZjZaTWM1ZTFvc1gteEdZSVpZZ2pQdzJzYkVNOUthZUo5QWNCWU85aWJnVWdqcUJZcGpnSHZsUjhrbnN2Uk9PNklKV0N5RDR3QkFZazdnOUZFc3Q0NHpCVlZiaG85VDN3U0puODFzUEcwYXdvZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-video-7-greatest archaeology discoveries of ",
+      "date": "2026-08-15",
+      "type": "video",
+      "number": 7,
+      "title": "GREATEST Archaeology Discoveries Of 2025 Pluie (OaxI4j43Xi)",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "mshale.com",
+      "links": [
+        {
+          "label": "mshale.com",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LenNiZ1VWdGN5RmVZeEhEZXJWMnNpdEtpV0IxOVRTV1YyTHJINVFOVFFKRXlQTFBWZU1DeE1wX1l2cUJ3cURIWFllbkp1V3dIMVR4X0JBQktGalk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-video-8-archaeologists broke open the great ",
+      "date": "2026-08-15",
+      "type": "video",
+      "number": 8,
+      "title": "Archaeologists Broke Open the Great Wall of China—and Found a Treasure Trov...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Popular Mechanics",
+      "links": [
+        {
+          "label": "Popular Mechanics",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON3pRM2VvcFFHTkR4a0wwYTBVYkxpNEZyTGtlTGdzVFlpTTdEbWJPOThQd3ppaHlVRDRUTEhGVU9FYy1pMzhYWk8yX1BNeGV3WlR1TXVvRF9hMUdCR0lNa1NaOHRSaGwtV19BU0tDQXVXRGdvMFBxMFBjZEl2dk5STnVLbEFJcTEwNWd1bDJqblBGU2JwclJZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-15-video-9-egyptian archaeologists discover 3 t",
+      "date": "2026-08-15",
+      "type": "video",
+      "number": 9,
+      "title": "Egyptian archaeologists discover 3 tombs in Bahariya Oasis with 5 mummies, ...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "The Times of India",
+      "links": [
+        {
+          "label": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOV0FLdEc0SmcxVUZvdE5NeW9MTHV3bTZpZ0hWMVhYbUdhTXhGcDhPN0VoUlloZEpUWU1LdTRuNUxMVkM4US01RENVY0NGd3BIUjV1SUlnUUNWU2Vza2RYeXZGZVRISHp1ckQ2RG1pZnNuWENHNTlVQzZITzlRaEZJWWdXWU5XTnhqZ1ZZMThPLXI5dDF6WEFudzN4VlBCeEh4YkVYR1Nub0pTV2lmeWdtbmJtWXRDSUdJRlc2a3RfeEZ1ZUlhakZOVzZJR3ZJRGNSZVNTRXAtRTF5bkM2eHZzTVR5M1B1ODFYREFvWmsydENvQUtFOEVZZG1ZR3d5S3h2bWJkUG1sX1dfRGVEOWfSAY4CQVVfeXFMTldBS3RHNEpnMVVGb3ROTXlvTEx1d202aWdIVjFYWG1HYU14RnA4TzdFaFJZaGRKVFlNS3U0bjVMTFZDOFEtNURDVWNDRndwSFI1dUlJZ1FDVlNlc2tkWHl2RmVUSEh6dXJENkRtaWZzblhDRzU5VUM2SE85UWhGSVlnV1lOV054amdWWTE4Ty1yOXQxelhBbnczeFZQQnhIeGJFWEdTbm9KU1dpZnlnbW5ibVl0Q0lHSUZXNmt0X3hGdWVJYWpGTlc2SUd2SURjUmVTU0VwLUUxeW5DNnh2c01UeTNQdTgxWERBb1prMnRDb0FLRThFWWRtWUd3eUt4dm1iZFBtbF9XX0RlRDln?oc=5"
+        }
+      ]
+    },
     {
       "id": "2026-08-14-ai-1-how ringcentral builds ai native wor",
       "date": "2026-08-14",
@@ -31,38 +367,6 @@
         {
           "label": "blog.google",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZnVHS2RsOVpIeE9xTGhZMUZHbWRtVi1IVHpZcFQ3RExDV1N2c3l2c1o2OW9iazVBQXRTaEpfRFU1UEdlZ3VYNGl6TFZYQTBoNENJRFd4dUNFTE9vYU5mYk05ZFJBWDhIRXE0T0xUQ1hrUzFuSzNPM0tTaGNTWTZyM1V5SzcxcGRLek5tUUZOYnhFSUFZanRnUDFMdGVKUkd2NDNR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-14-ai-3-gemini becomes google s fastest grow",
-      "date": "2026-08-14",
-      "type": "ai",
-      "number": 3,
-      "title": "Gemini Becomes Google’s Fastest-Growing Product Ever After Hitting 1 Billio...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "Forbes",
-      "links": [
-        {
-          "label": "Forbes",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYlhMNERFUElhTWkybDhLdFFwSGRTcWpnT1dfemt0eDg5RVRpUUE4QW9ZWVJkaEdIdDczRUhKSUswX25QTlN2MFNZQU1oMUtNVTBneGJPUTZQLU1ha3ZrYTFuamJJaGdLZTJENXktT0dxVmdoeVNNQTJhVGZCdDVqR3hkazFVQlREUDJPSllsUmZXZkVrMksxazVFanU5M0VvTU9RakF3Zkp0VDlxeWUxN3o2S1hSQUlnRzBMNUJRVXJXXzR2YllGTjBqTzdmTHlSZ0laTzJHVFZnY1dtMjlDLQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-14-ai-4-google gemini passes 1 billion month",
-      "date": "2026-08-14",
-      "type": "ai",
-      "number": 4,
-      "title": "Google Gemini passes 1 billion monthly users as ChatGPT reaches 1 billion w...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "National Desk",
-      "links": [
-        {
-          "label": "National Desk",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbFAySUJSeEFvMmhWWVItR0RLbXFRMzBNZUlyS3F6bTNYb181bk9YVWlGTnBJdFY0QzhSZDhkaTFkdmZqS2NzLW9jN1NUSjVsTndNSTA0Yzd2Vm1YRWdyZnR6Y3kwUWZMOE5UTW1ET0VObFdNVlVaUDRmYjlHMGZoXzc4aVRnazE1UWtZY1l6MFBrdEY3NmlmMEpZck5lOEJaSjhJLVJqMFdMbXNXeE4tRldxVXFIOTg3eWs1bzVpVFowbHd3R29adk5MNmxsdVNRUnFB?oc=5"
         }
       ]
     },
@@ -147,22 +451,6 @@
       ]
     },
     {
-      "id": "2026-08-14-ai-10-pixel 11 series your most personal p",
-      "date": "2026-08-14",
-      "type": "ai",
-      "number": 10,
-      "title": "Pixel 11 series: Your most personal Pixel yet",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "blog.google",
-      "links": [
-        {
-          "label": "blog.google",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb2JGbUFVRnJ6a3IxeHlBYS1ybTNzQkVyS3JiUXNxY29hdGVUZ3d2VV9RUWRMaVMwMHMxUWJSWmtzWWNNR0xQMDBsMmszeGhabU1iV1ZxZEpNN3U4cUo2YzVGZ0pCRVBoeTdRQmY2RUlkNlJmcFgwQTRYc21VQ19kT0h2WHVTVjA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-08-14-ai-11-pixel watch 5 proactive assistance a",
       "date": "2026-08-14",
       "type": "ai",
@@ -175,38 +463,6 @@
         {
           "label": "blog.google",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDdkFKYkhYSndpMmJnRXliSkR3dk5mbEwzY2tueWtUZzJSN1gtdmh6ZUZPbEpvaEZhQTZUTENfUXVzWlI2V1o2Q1FPRXg1cmRqaXN2eTRPbkRuRkJGdndMMm9CeGNBeU51RHY3emlGY19RVGViUW4tcjNrNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-14-ai-12-meta openai google and other ai comp",
-      "date": "2026-08-14",
-      "type": "ai",
-      "number": 12,
-      "title": "Meta, OpenAI, Google and other AI companies are learning from your chats. H...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "timesofindia.indiatimes.com",
-      "links": [
-        {
-          "label": "timesofindia.indiatimes.com",
-          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNOWN5aTIxY2NxdHdMZl8ydk1DanpoVk9xclRHUlRDMG9ZZEJUZ3VPcFdWejhsQVF4cFItckoyZThNeG9FWmtyNWR6dlFPRGhmZlp5YkNYSUZxQ045ZDZQUi1SX0p1dG5WUVVVS1NfQmp1UGtzMXR2dWFlSkxQTGh1Mk5TeFRXbkZhQks4dDluTEFaaDlQWGVHMHVWZzdnZ2xYOGlJZ0hnV3YzX25KYnFuSndtanhhNy1LemF5TFRHYnU4Mk9MNlFZTS1jbEdfay1SbkYtSWM1d1FEQlZPN2o3WFdvZXpWRDVtSVBKZkNZNnRDOTlUczJrcV85RUV1U0FHcEdSUA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-14-video-1-archaeologists discovered a 5 000 ye",
-      "date": "2026-08-14",
-      "type": "video",
-      "number": 1,
-      "title": "Archaeologists Discovered a 5,000-Year-Old Tomb Filled to the Brim With Anc...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Popular Mechanics",
-      "links": [
-        {
-          "label": "Popular Mechanics",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMmk0OHZLZURUUFVRZUxxZ1A3cmtQT1ZNeTRObzU1OWtScEw3d3ZicWJMRkFaM3BqTzBIRUFtSVhQRWx1V0psQUZmNGo3QUtocFI3aWNXZG1VRVgzUFFPVWF5VkpDcXdYQ3l0TURlZHFqWElhVG0wTDVOaTF6eGhGTWRJUE03dzBnWU5CS0FIeFEwc3NMQlFYWENrXzVPQkkwZlRjeTZVLUdoanIwcGZIeA?oc=5"
         }
       ]
     },
@@ -239,54 +495,6 @@
         {
           "label": "Archaeology Magazine",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGg3S1lQLWJvel9xUWU0VUl4bWF5YndicFdIdHZGVDh1OXQxdHZubm93SW5BVXlyYlNoRjVNT0ZCNUhINkVsYjRUeGxoMkptQ0dLQ1VwWWFiVjlTb2NPeDk4Qm5NeUpuLU5pTG1XTktreHhGM3NGS004aUliZEhmRTdrWTBVLTZER3ZSWmw1WFpudw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-14-video-4-newly discovered standing stones in ",
-      "date": "2026-08-14",
-      "type": "video",
-      "number": 4,
-      "title": "Newly discovered standing stones in France shed light on the ancient megali...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "The Art Newspaper",
-      "links": [
-        {
-          "label": "The Art Newspaper",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM2NYc0dURGFpUG82UENHMWt1bjdZR1dJYjFKTExkZF9LY1dNMExVTnlmUkVnMkxjcjFtN3JIRHZxSnhvbDExSWZsSHVxMWRaOTFjcmVwMHZrSG9ZT0lWMTBSZFJKQTJhdS1CZ0VpX3JvT3RxM2xidGhQYTI2WjZtb3c0Q3ppQjlHMm8xemcwaHV5UExocnU2UXYwaEJVbGRBUlkxZGRaMWNnbmQxb0Iwa3c2emtVVVZDRWJxRXdhR1FVbjdTQk1hMQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-14-video-5-these curious ancient greek artifact",
-      "date": "2026-08-14",
-      "type": "video",
-      "number": 5,
-      "title": "These Curious Ancient Greek Artifacts Have Extraterrestrial Origins—Why The...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "The Debrief",
-      "links": [
-        {
-          "label": "The Debrief",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcjY0MXFKd0JmaWJXaGVGNTd0Y2ZvQzhWSzZkcFItY0dHc0JMOFNqWDgwZ0NtcDVvRC1DaTB2S3lESFdDYUl3LXlTRmJEanM0Sm5uT3lPTS03RFFhT0w3RmZpaXJmYVhPUk5sN2w0ZjZaTWM1ZTFvc1gteEdZSVpZZ2pQdzJzYkVNOUthZUo5QWNCWU85aWJnVWdqcUJZcGpnSHZsUjhrbnN2Uk9PNklKV0N5RDR3QkFZazdnOUZFc3Q0NHpCVlZiaG85VDN3U0puODFzUEcwYXdvZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-14-video-6-greatest archaeology discoveries of ",
-      "date": "2026-08-14",
-      "type": "video",
-      "number": 6,
-      "title": "GREATEST Archaeology Discoveries Of 2025 Pluie (OaxI4j43Xi)",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Mshale",
-      "links": [
-        {
-          "label": "Mshale",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LenNiZ1VWdGN5RmVZeEhEZXJWMnNpdEtpV0IxOVRTV1YyTHJINVFOVFFKRXlQTFBWZU1DeE1wX1l2cUJ3cURIWFllbkp1V3dIMVR4X0JBQktGalk?oc=5"
         }
       ]
     },
@@ -527,22 +735,6 @@
         {
           "label": "Arkeonews",
           "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSlUzc2VmX09tbWpzNWpTYndoQmlVQXZBeFVxbmN2MTBjR0RMTDJCWWFHTkw0VlZtTDZwdzZjd2dXZ0VCRzk3WmJoTERBa1VXX3hhM0RlcFUwXzBTMkdoV0RDZkhhWE5yd3ZHcURtWHcxVFVWdnczYVUyVWE4U1N1bHJWc1VQSmJnYkRrOUNkRWU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-13-video-6-archaeologists broke open the great ",
-      "date": "2026-08-13",
-      "type": "video",
-      "number": 6,
-      "title": "Archaeologists Broke Open the Great Wall of China—and Found a Treasure Trov...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Popular Mechanics",
-      "links": [
-        {
-          "label": "Popular Mechanics",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON3pRM2VvcFFHTkR4a0wwYTBVYkxpNEZyTGtlTGdzVFlpTTdEbWJPOThQd3ppaHlVRDRUTEhGVU9FYy1pMzhYWk8yX1BNeGV3WlR1TXVvRF9hMUdCR0lNa1NaOHRSaGwtV19BU0tDQXVXRGdvMFBxMFBjZEl2dk5STnVLbEFJcTEwNWd1bDJqblBGU2JwclJZ?oc=5"
         }
       ]
     },
