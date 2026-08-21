@@ -1,7 +1,343 @@
 {
-  "updatedAt": "2026-08-20T21:23:14.049Z",
+  "updatedAt": "2026-08-21T21:19:05.722Z",
   "maxItems": 1000,
   "items": [
+    {
+      "id": "2026-08-22-ai-1-what epic did and didn t say about a",
+      "date": "2026-08-22",
+      "type": "ai",
+      "number": 1,
+      "title": "What Epic did — and didn’t — say about AI at its annual meeting",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "STAT",
+      "links": [
+        {
+          "label": "STAT",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTUktcldkOE1sMkV6ZXFMc1l4V3pPeFd3a0pmcUN3c2pDVi1RT1VHa21qRWVDODlvRGtKbWlyZGNLckZvcnRSVTl1NXpvRWhIZDBuNGQya0FnYW9maGd2a3JFbVdXaVNNQmNLME03bXlmRUE0NTdwcHBuYXFvZ09UaU9WTVE3akNWREpNQXdYdFVyZWcyOU9aMDFwUjRiQ3ktVW5RN2ZNZjMxYnht?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-ai-2-anthropic affiliated ai services com",
+      "date": "2026-08-22",
+      "type": "ai",
+      "number": 2,
+      "title": "Anthropic-Affiliated AI Services Company Ode Acquires Casper Studios",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "crn.com",
+      "links": [
+        {
+          "label": "crn.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUkpBX3djUXJfbzNHNFdFeHplcTUwVWZNN1NfSDNVOV94R0h1QXBDVURIUU5xNU5IRWdGWHRXdkpYUUpVLTlMSm8wWUpYVXVqV3h2ZTZEaUo5eHI2Yk9OekZWNkVyd2V4bGdNZTlYZ25HYjAzS093eDFER01neGNsbzV2UGp4M21CYk1CSUNsMzkwUVMzbTk1dTVoakZVa3NBblRv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-ai-3-tcai guide to chatgpt for teens the ",
+      "date": "2026-08-22",
+      "type": "ai",
+      "number": 3,
+      "title": "TCAI Guide to ‘ChatGPT For Teens’: The good, the bad, and the law",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Transparency Coalition",
+      "links": [
+        {
+          "label": "Transparency Coalition",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGEzLXNvQ3p1QldvQ0p1VUpjUmJPTWtFbUhwQmpCRVdlMWtsVklpSFk2Z2x3cUdTVlhMb2NUMDZFdTFuM2tWUXBwUUdIbkYzZnE0N1U1Z1B1cGgzSm5UMmIwbVdvVkZpVE0yMUIxTUduSTlpZGRSelZNOHo1QnJzLU1EMDZVSFdQeUdLdUQzSFNVODdpYkpIeWtnYW4yZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-ai-4-judge temporarily blocks pentagon s ",
+      "date": "2026-08-22",
+      "type": "ai",
+      "number": 4,
+      "title": "Judge temporarily blocks Pentagon's 'supply chain risk' designation for Ant...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "links": [
+        {
+          "label": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdHFDcEJMTXZKcnN4MktaaEtWSGpMeTQtMERUcTJWSng2TktKMVRZcTZvQUVkMnJwcXA0bE44UEh3Z0pieFpoNnp3NjY2RVF5dWFqQ3M2R3A0cU9Va25kMVNsWkRzdERuZ1VVZkRfVkNNSVU5d2xNZjlqUG05eTFvaURSc2JSV0YtRjkyNEZGRkppVlVPWkdTcjNYdHlTOXZKNnZLTDZrQjlEVDBmWG1ZUE82b0_SAboBQVVfeXFMTVdrWDZKUVRCdEJvNFJHQ0Y2TXVOX0l5SDY5eW1RbUlsOEdRS1ducm9FZnc3MTlPb2lXeWY2dWNXWlRxTURRYm1abkEzcWVsTVNlYUhCZ09XSHI5S0lqczdsNnRwRWU3RE54STBzcG5kaFZhSmRlajBBVHNDZ3B3aWoxR05CbXFOY2kzc3hYMGN2OHFPRHp3SGw2b1JBbHlnbkJqS3plSHpQTGk0ZDhnTGtvY3BlSHJiLUF3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-ai-5-back to school 2026",
+      "date": "2026-08-22",
+      "type": "ai",
+      "number": 5,
+      "title": "Back to School 2026",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "blog.google",
+      "links": [
+        {
+          "label": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPLUVDMkVXREx4ZWxlQjhWanBOZ2kyT19OT3o0ZzlDR0t6VHQ3TUVjeHZXTlBUMHh6TERncmxwa1pWQnRzajB6T3JXdGxqYUdrSVQxaVhGR2pSX25va1IteEEzVEZ6MnFPZ0cwRXRNRnhpZ1l2Q3JjVXRhTk1XRXhjY1djc1hWeGtsNEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-ai-6-waymo is bringing gemini into its cu",
+      "date": "2026-08-22",
+      "type": "ai",
+      "number": 6,
+      "title": "Waymo is bringing Gemini into its custom Ojai vehicles.",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "blog.google",
+      "links": [
+        {
+          "label": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE10MEZsLVFPcEY4Q0ZsVmZ1QVRucDF4UGUzbjEtVnQyUWJMd01PWF8tSGZBR3dPSnpGMVFiNENQdlZaOUVMVi1lYXdUUnY3UE9kSXdrSW9DY3FfWW93LXBCMnRsWDZEN0R3TjE4VzFZTVd0Z2lwSHpIdTRRVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-ai-7-asana cleared 5 years of engineering",
+      "date": "2026-08-22",
+      "type": "ai",
+      "number": 7,
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "OpenAI",
+      "links": [
+        {
+          "label": "OpenAI",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1VRkpodGV2X0h5U0hRTWxfUUh1em1LdURWdWtHZHpHTko5TzdmM1o5R1VZeDFhREtTaU02M2RVYlVTSEs1RWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-ai-8-5 new ways to level up your learning",
+      "date": "2026-08-22",
+      "type": "ai",
+      "number": 8,
+      "title": "5 new ways to level up your learning with Search",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "blog.google",
+      "links": [
+        {
+          "label": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVW9MV0RoRFVyVDRWRVpPbk9tWHduN3BoX2E3SkZ2ekt0OVdmZUh3MUx4MkVSVXVFeXNfYk12dkpIdHItN3ZuU2ZsSUtsWXgzendSc1BScGhBcTVzSzc3N0o1OUZ5a2hmLThFVkg0YUg2WEFDZThSb1kyLW95SktBbFd2THhrdmNOd1U3VU9LYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-ai-9-search news buzz video recap google ",
+      "date": "2026-08-22",
+      "type": "ai",
+      "number": 9,
+      "title": "Search News Buzz Video Recap: Google Unleashed The August 2026 Spam Update,...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Search Engine Roundtable",
+      "links": [
+        {
+          "label": "Search Engine Roundtable",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZQ0k5QmFSTmFtOEY0TDlJbkdzdlhYblp6N2o2T2NPYzJxZl9CbF9KZHVzNk51Q2dUNUk0Yk5Gbk1fV0hyTVVmUWtYaFVpWG16X0RsWDZyRFktNWxJNTNpNmZJNHRGTVk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-ai-10-anthropic s claude will add watermar",
+      "date": "2026-08-22",
+      "type": "ai",
+      "number": 10,
+      "title": "Anthropic’s Claude Will Add Watermarks to AI-Generated Text and Files",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "CNET",
+      "links": [
+        {
+          "label": "CNET",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeTVhQkpPVGFnb3lvVXZ1UHRHOXFVNTB5eVIxUXc4b2xiNFpOVFY1QVBpN18tMm1sVDdwSTlGcEljQ2tIazZkMFlWZjM1bURnT2xmT0s4UWJlWTdVUHVTQ2ZtcVI5UW5FVkluZGpVREFoT29SMGNMaVlYRUVPZDFnX2hVdVlCQ2FBWVVnRTk4MGgyOXZFdmFXa2E0U1p1YmdLSDQ2bEFWTzJ2MDdoQnhvVUd2bVp3dFdu?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-ai-11-3 ai governance software stocks wort",
+      "date": "2026-08-22",
+      "type": "ai",
+      "number": 11,
+      "title": "3 AI Governance Software Stocks Worth Watching After The OpenAI Safety Shock",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "simplywall.st",
+      "links": [
+        {
+          "label": "simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTTNhUmN0Y1lLTXRzYzBXb1ZTOThxZHZWRFZFdVlRckRiRURJdnRIaFo4bi1UOWpnXy1nTkp3WVBLZllCcEtQbmgxT2s1ZzBrSEx0TFZ4QTJhZXA1ZHFsYVdvU1dMSURfN0plMkR2Ml9uaFdXQWV1Q296MG1pWUxVS2pGdWwtNE1teFhiNVRYdjlzblhlZUkwSXhiOUtWNGljU2FqcWxXRkZoVk40MU1Kd1hEdWFvTjdHNDJIWFB2X2VEN1FMdnFneFlicGNVYzZVcHfSAdcBQVVfeXFMT0hBeXMzb0pkelhBaDVyeHIteVJMR2ZSTm9XYUU4QzB1ZjB1WXZRVm9nYjh4SEstRzV6blYyRzl0dHQ3UnBWdlZuckFuVEVHaTRSVVZLWTM2WnhwQi1LeXl1RmEyN2FCZUN6cTY4cHlBeW9aMHU4VF9YMXhXa1F6ZWctaEFxWVF5SndYTmxKTzh4Z05hc0ZaaHJwYmJEQjhwN1FFOXU5eDNDMjEyTE9lb01VOU54ajJCNTNRWm9rMUxjWktWaUItT09fd2s0WU9SNTdQQTBwcGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-ai-12-anthropic building the future of saf",
+      "date": "2026-08-22",
+      "type": "ai",
+      "number": 12,
+      "title": "Anthropic: Building the Future of Safe AI for the Ideal \"Rebels\"",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "36 Kr",
+      "links": [
+        {
+          "label": "36 Kr",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qX0NZWUFiOEFyRE5TSEV6Z2NGTVFIVHVXaEwyS3l6VXRHNGZmbmNLUHpmd0ZxZjZWSnV5aDlvSm13dUhhYmtjRDQ4ZUp3dGVKWG80?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-video-1-a student saw one lonely rock he sus",
+      "date": "2026-08-22",
+      "type": "video",
+      "number": 1,
+      "title": "A Student Saw One Lonely Rock. He Suspected a Mystery—and Uncovered a 3,700...",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Popular Mechanics",
+      "links": [
+        {
+          "label": "Popular Mechanics",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQUNsVFFTeGFJaFdxMXhHeHlLWmxKbVhjNHM1RWFRTjhTYWhXanp4em9sSFpUVDM5UDZvUWswbTc3UWpTcm9jc3E0ZVFMaHlWdTFsVURfOUt0WkVrbDhGQkZUQTUtcGhTSGlvQi1XVzdTelJ3WFFDVE0yVWl6LUpRbXZLMU83V09fMUUtNEh6SDNnUVBCWU5NZkhrSzg5RHRw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-video-2-archaeologists unsealed an ancient e",
+      "date": "2026-08-22",
+      "type": "video",
+      "number": 2,
+      "title": "Archaeologists Unsealed an Ancient Egyptian Tomb and Discovered Something C...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "The Debrief",
+      "links": [
+        {
+          "label": "The Debrief",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOUNlSHktaUVQeFVWMWJGYUlDdjVwbkRUU2JDNzhjWWhYMHhmUzRlYnVlbG9PVHkzbjVIamN4R203ZVc0TGVtbVJmTDRiRmZ0dy1rQWhhUUNsOG1xTnB0MHF3dkdSWnh1SGJMSTdEQThGallGbjM1b1lfamUxUmgxdnVjd1Y5QTYxN01DYUotNk9qY0FhWmNBd3l0eUZzdGZuaUpVX1NaVnJCVTU4RVJLei05Y0JKU2hLbHVyLWxDUjN5b28?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-video-3-archaeologists uncover mysterious fa",
+      "date": "2026-08-22",
+      "type": "video",
+      "number": 3,
+      "title": "Archaeologists uncover mysterious face hidden for centuries in Book of Reve...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Fox News",
+      "links": [
+        {
+          "label": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFNhS1FqTGhnMDg0dFJ4VFJtWmQ3OG5GRi1idGplemZQcTBUd2NoNkgxYXJhMERJUkQwODQyTTA2bmJDWjg1Rkkyakp3YTlicDFBU2NqeklmTm1TTjg0LUhyR0VuQXN0Z3JTT2x4ZXRXZWNWZ3plWGFMOXBxVkFSd05oQUVSNlFaX21OVE1rcGJvX3ZQcUg5YUJ0X3U3b0F0YTlSWWRKZUZjVHfSAbABQVVfeXFMUGQ3ZWZ3VS1palBLc3NLbFVzQ1Q1MjUzekRyUmdMZGk4cVJEMnFzVzBobE1sNEFJcHFISWxJNll5Z2pPWS1MRXI2WEhoUFRkY0NRdjhRYzVnRjNaSENkeVFiQm9YNG5Gdk13U2ttT1lWelFJbjFiNWxWR0NvYWpNLS1yaHNLTEMtYnI0cmRtWTlMR0FDMWxTbDRLaTZLbTBuOGFlc2tXU2stc1QyQTB0cmI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-video-4-a 2 400 year old tomb in turkey fill",
+      "date": "2026-08-22",
+      "type": "video",
+      "number": 4,
+      "title": "A 2,400-Year-Old Tomb in Turkey Filled With Wrestling Coins May Reveal the ...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "ZME Science",
+      "links": [
+        {
+          "label": "ZME Science",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVnVBSUZQRUJVcWFwRXBUM1ZCQ1VkUXhEOGV4ZVZrTTE0dEg1RmtJNHFEcmczMFhMcWN5TkJJVjA3NVRfc1N5X2I1dTExNkNwa2xJd2hBU2VqalF3WFlqY3V4ZldseVJQMjVlZmdjNEo5TE5RNGx0NFFBTG1oanU0SmU2SnJ0eGVWQTZ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-video-5-archaeologists discover a forgotten ",
+      "date": "2026-08-22",
+      "type": "video",
+      "number": 5,
+      "title": "Archaeologists Discover a Forgotten 3,000-Year-Old Egyptian Tomb – Now They...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "SciTechDaily",
+      "links": [
+        {
+          "label": "SciTechDaily",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPejF5U3Z6V1NxVjhPNzZTeXljekt2b3hDWnI4bE9zMVdPdk9MR3FXdF9aa2tZcDlpVk9DanZwanozTFpLSzBUTXZiU1pULW1tc2pydlEzU3k4SnJYSWY5VXByUFpibUg0MFpkZ1lLOURLcmhYRWJjdzAzV3pZbkZYdzZ1cUVnRExDaE02M1NqN1N0U0dpcE1VbDZ0Y3NscXZPNE1Vc2p3LWhLS3FxeWdfakkxa3EwRGg2Tmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-video-6-archaeologists discover etruscan wel",
+      "date": "2026-08-22",
+      "type": "video",
+      "number": 6,
+      "title": "Archaeologists discover Etruscan well that was ritually opened with offerin...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Live Science",
+      "links": [
+        {
+          "label": "Live Science",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcDg5emx4WFF5cnNfY1pfbDFpRUM5OU9Uai1PVXRFVlB6Vk5hdWlCRXBabDNGRzBrSjBydHpEUXJXNnJtV0NVNS1lTmJKZjNyeDBTU3pjNUYxUGdiNDZTOWZEOU40cHYyNWV4NGg3OFltTTdBalQ1a05OYW1DdTVjVWd0T1VucUUxUlFoRVZFVXdXZkJmVTJ3S2xZNllKc3FfSGxDV2FKWUtwM3NSZjVBWVJPUk9iaS05Q29MMkp3RVMwVGw5QldCSzVaNnBDdHB1Zkx5NXVkLW43NUkyNFpCRTZiUUt6QXFwRTViNy1yMEwwQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-video-7-we couldn t believe our eyes the rea",
+      "date": "2026-08-22",
+      "type": "video",
+      "number": 7,
+      "title": "'We couldn't believe our eyes': The 'real Indiana Jones' who found an ancie...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "BBC",
+      "links": [
+        {
+          "label": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbGFpUFdKUFNFOUkwbjA0TE1uSWQ0aThYTk1WQzJBMmluX3lnNENQSy10M2t4SmJ3alJXVmdfV2x5MDRjTDhJMnNkYWhodGYzTFZDZDU2VkQxa2paWENjbEpLYThDYlFadzAtVkpZdTFVdnhvajJlLUZvOF9peWQ3ZzRQTmlwRUhVUjFSa0x0MnhyamJEVUVzbzVVT01zY2FSTFd0d2FJQjRCN1V6dUZzUTFYeEZlNTFsRmxhRHpuTHNQb0U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-video-8-this ancient egyptian fashion enchan",
+      "date": "2026-08-22",
+      "type": "video",
+      "number": 8,
+      "title": "This Ancient Egyptian Fashion Enchanted a Pharaoh",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "National Geographic",
+      "links": [
+        {
+          "label": "National Geographic",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX2J4cUM5d1hDa2hPRDNhRUhWRC03RWRKX3dwc0VVYWM0cFB6cEFmdnV0cjNqX0p3WTRVQ0JTRDZiVlc4Ml9UM0hfWHRtOW53d3ZNa25HWkVETjRpQWlZNDlfQmw3WENManZyMGt2bjZZaVJGa3hJVlExNzJoMnZLamZ0WE4xaF9lTDBPNg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-08-22-video-9-archaeologists find mummified dog in",
+      "date": "2026-08-22",
+      "type": "video",
+      "number": 9,
+      "title": "Archaeologists find mummified dog inside ancient Egyptian tomb",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "geekspin",
+      "links": [
+        {
+          "label": "geekspin",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZWttUDE0WHV0MVFwalFwUjU0cWh3UWZtcE9ISXp1aFlkaTB2UnVRZDBrRGRESlZYZXpGNU8yU2FDQWpxNVlFekprUU1CUDZPamlhdHNHOHdnY0lVN0RGcHRzVVVLQURwdWhraE5PaU5HSlZzaEJWbDZXT0d1TmZlZzdwSjF6X1VnSm9r?oc=5"
+        }
+      ]
+    },
     {
       "id": "2026-08-21-ai-1-start the semester with one year of ",
       "date": "2026-08-21",
@@ -191,118 +527,6 @@
         {
           "label": "TechRepublic",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcEFITFM2WnU0NEhxTUZESHZKUkFPVlB5YUtLOU1HNnFmVE9iUXhrSkxjQ3lVdm9xa2xXbmktWHViZ3NyVkNZRzdUZUNpVmtNUDlCZXVibzZidEZfVWZuV2VPVnFIU3F3WVZnaklWRFNKRFFHR2J4TUxzUHN2Q0Z3UDhsMGFMUzgyZnJZVGEzUGhYOER4em1vMXhB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-21-video-1-a student saw one lonely rock he sus",
-      "date": "2026-08-21",
-      "type": "video",
-      "number": 1,
-      "title": "A Student Saw One Lonely Rock. He Suspected a Mystery—and Uncovered a 3,700...",
-      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Popular Mechanics",
-      "links": [
-        {
-          "label": "Popular Mechanics",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQUNsVFFTeGFJaFdxMXhHeHlLWmxKbVhjNHM1RWFRTjhTYWhXanp4em9sSFpUVDM5UDZvUWswbTc3UWpTcm9jc3E0ZVFMaHlWdTFsVURfOUt0WkVrbDhGQkZUQTUtcGhTSGlvQi1XVzdTelJ3WFFDVE0yVWl6LUpRbXZLMU83V09fMUUtNEh6SDNnUVBCWU5NZkhrSzg5RHRw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-21-video-2-archaeologists unsealed an ancient e",
-      "date": "2026-08-21",
-      "type": "video",
-      "number": 2,
-      "title": "Archaeologists Unsealed an Ancient Egyptian Tomb and Discovered Something C...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "The Debrief",
-      "links": [
-        {
-          "label": "The Debrief",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOUNlSHktaUVQeFVWMWJGYUlDdjVwbkRUU2JDNzhjWWhYMHhmUzRlYnVlbG9PVHkzbjVIamN4R203ZVc0TGVtbVJmTDRiRmZ0dy1rQWhhUUNsOG1xTnB0MHF3dkdSWnh1SGJMSTdEQThGallGbjM1b1lfamUxUmgxdnVjd1Y5QTYxN01DYUotNk9qY0FhWmNBd3l0eUZzdGZuaUpVX1NaVnJCVTU4RVJLei05Y0JKU2hLbHVyLWxDUjN5b28?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-21-video-3-archaeologists uncover mysterious fa",
-      "date": "2026-08-21",
-      "type": "video",
-      "number": 3,
-      "title": "Archaeologists uncover mysterious face hidden for centuries in Book of Reve...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Fox News",
-      "links": [
-        {
-          "label": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFNhS1FqTGhnMDg0dFJ4VFJtWmQ3OG5GRi1idGplemZQcTBUd2NoNkgxYXJhMERJUkQwODQyTTA2bmJDWjg1Rkkyakp3YTlicDFBU2NqeklmTm1TTjg0LUhyR0VuQXN0Z3JTT2x4ZXRXZWNWZ3plWGFMOXBxVkFSd05oQUVSNlFaX21OVE1rcGJvX3ZQcUg5YUJ0X3U3b0F0YTlSWWRKZUZjVHfSAbABQVVfeXFMUGQ3ZWZ3VS1palBLc3NLbFVzQ1Q1MjUzekRyUmdMZGk4cVJEMnFzVzBobE1sNEFJcHFISWxJNll5Z2pPWS1MRXI2WEhoUFRkY0NRdjhRYzVnRjNaSENkeVFiQm9YNG5Gdk13U2ttT1lWelFJbjFiNWxWR0NvYWpNLS1yaHNLTEMtYnI0cmRtWTlMR0FDMWxTbDRLaTZLbTBuOGFlc2tXU2stc1QyQTB0cmI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-21-video-4-archaeologists discover a forgotten ",
-      "date": "2026-08-21",
-      "type": "video",
-      "number": 4,
-      "title": "Archaeologists Discover a Forgotten 3,000-Year-Old Egyptian Tomb – Now They...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "SciTechDaily",
-      "links": [
-        {
-          "label": "SciTechDaily",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPejF5U3Z6V1NxVjhPNzZTeXljekt2b3hDWnI4bE9zMVdPdk9MR3FXdF9aa2tZcDlpVk9DanZwanozTFpLSzBUTXZiU1pULW1tc2pydlEzU3k4SnJYSWY5VXByUFpibUg0MFpkZ1lLOURLcmhYRWJjdzAzV3pZbkZYdzZ1cUVnRExDaE02M1NqN1N0U0dpcE1VbDZ0Y3NscXZPNE1Vc2p3LWhLS3FxeWdfakkxa3EwRGg2Tmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-21-video-5-archaeologists discover etruscan wel",
-      "date": "2026-08-21",
-      "type": "video",
-      "number": 5,
-      "title": "Archaeologists discover Etruscan well that was ritually opened with offerin...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Live Science",
-      "links": [
-        {
-          "label": "Live Science",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcDg5emx4WFF5cnNfY1pfbDFpRUM5OU9Uai1PVXRFVlB6Vk5hdWlCRXBabDNGRzBrSjBydHpEUXJXNnJtV0NVNS1lTmJKZjNyeDBTU3pjNUYxUGdiNDZTOWZEOU40cHYyNWV4NGg3OFltTTdBalQ1a05OYW1DdTVjVWd0T1VucUUxUlFoRVZFVXdXZkJmVTJ3S2xZNllKc3FfSGxDV2FKWUtwM3NSZjVBWVJPUk9iaS05Q29MMkp3RVMwVGw5QldCSzVaNnBDdHB1Zkx5NXVkLW43NUkyNFpCRTZiUUt6QXFwRTViNy1yMEwwQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-21-video-6-a 2 400 year old tomb in turkey fill",
-      "date": "2026-08-21",
-      "type": "video",
-      "number": 6,
-      "title": "A 2,400-Year-Old Tomb in Turkey Filled With Wrestling Coins May Reveal the ...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "ZME Science",
-      "links": [
-        {
-          "label": "ZME Science",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVnVBSUZQRUJVcWFwRXBUM1ZCQ1VkUXhEOGV4ZVZrTTE0dEg1RmtJNHFEcmczMFhMcWN5TkJJVjA3NVRfc1N5X2I1dTExNkNwa2xJd2hBU2VqalF3WFlqY3V4ZldseVJQMjVlZmdjNEo5TE5RNGx0NFFBTG1oanU0SmU2SnJ0eGVWQTZ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-21-video-7-we couldn t believe our eyes the rea",
-      "date": "2026-08-21",
-      "type": "video",
-      "number": 7,
-      "title": "'We couldn't believe our eyes': The 'real Indiana Jones' who found an ancie...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "BBC",
-      "links": [
-        {
-          "label": "BBC",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbGFpUFdKUFNFOUkwbjA0TE1uSWQ0aThYTk1WQzJBMmluX3lnNENQSy10M2t4SmJ3alJXVmdfV2x5MDRjTDhJMnNkYWhodGYzTFZDZDU2VkQxa2paWENjbEpLYThDYlFadzAtVkpZdTFVdnhvajJlLUZvOF9peWQ3ZzRQTmlwRUhVUjFSa0x0MnhyamJEVUVzbzVVT01zY2FSTFd0d2FJQjRCN1V6dUZzUTFYeEZlNTFsRmxhRHpuTHNQb0U?oc=5"
         }
       ]
     },
