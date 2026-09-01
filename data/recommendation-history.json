@@ -1,12 +1,28 @@
 {
-  "updatedAt": "2026-08-29T22:57:55.166Z",
+  "updatedAt": "2026-09-01T00:20:16.638Z",
   "maxItems": 1000,
   "items": [
     {
-      "id": "2026-08-30-ai-1-anthropic updates claude s memory to",
-      "date": "2026-08-30",
+      "id": "2026-09-01-ai-1-meta took aim at anthropic it is als",
+      "date": "2026-09-01",
       "type": "ai",
       "number": 1,
+      "title": "Meta Took Aim at Anthropic. It Is Also One of Its Largest Customers.",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "The New York Times",
+      "links": [
+        {
+          "label": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbFBaLWFrTEl2bjlmNGZYNW40ck1LN1lMOWJpUUpZR1YzVGhEaE1QTkdNNGNZRWs4M2tLSnkyRUhkUDREZEx0VlNvMUNEcUFJMDFKcjhkYmd6MTVIVU5IZEFyMmhMU21ldkc1TDkxOHktMEdyUEkxNGlqcnQ4Nk5qMw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-ai-2-anthropic updates claude s memory to",
+      "date": "2026-09-01",
+      "type": "ai",
+      "number": 2,
       "title": "Anthropic updates Claude’s memory to enhance customization and protect sens...",
       "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
       "signal": "Public news/RSS pickup",
@@ -19,10 +35,26 @@
       ]
     },
     {
-      "id": "2026-08-30-ai-2-who s suing ai and who s signing lat",
-      "date": "2026-08-30",
+      "id": "2026-09-01-ai-3-salesforce and anthropic announce cl",
+      "date": "2026-09-01",
       "type": "ai",
-      "number": 2,
+      "number": 3,
+      "title": "Salesforce and Anthropic Announce Claudeforce: The #1 AI Meets the #1 AI CRM",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Salesforce",
+      "links": [
+        {
+          "label": "Salesforce",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcklqU2RlQWZLY3c5dG9uaF83Z0xHSHNuQzNHSGZOTWw3c2wzSmtGTE45VzlWaF80R2tON1JfcFhFVC1walRFUmRyVDA1UkdoQ3pydUdKc1hPTm9SQTV0akl4aWV6NlVqR3ZtSEhCYjJlRTJTOTJYWHU2aDJIWjl0c21ReTJDRVlKb0pwRVE3MTJLdUdVeE9tSGJuQ2hoN3RBbFMtTGJrdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-ai-4-who s suing ai and who s signing lat",
+      "date": "2026-09-01",
+      "type": "ai",
+      "number": 4,
       "title": "Who’s suing AI and who’s signing latest: Editorial Perfil sues OpenAI, News...",
       "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
       "signal": "Public news/RSS pickup",
@@ -35,10 +67,10 @@
       ]
     },
     {
-      "id": "2026-08-30-ai-3-anthropic makes first move into phys",
-      "date": "2026-08-30",
+      "id": "2026-09-01-ai-5-anthropic makes first move into phys",
+      "date": "2026-09-01",
       "type": "ai",
-      "number": 3,
+      "number": 5,
       "title": "Anthropic makes first move into physical AI with new way for scientists, ma...",
       "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
       "signal": "Public news/RSS pickup",
@@ -51,10 +83,10 @@
       ]
     },
     {
-      "id": "2026-08-30-ai-4-openai s first hardware product is a",
-      "date": "2026-08-30",
+      "id": "2026-09-01-ai-6-openai s first hardware product is a",
+      "date": "2026-09-01",
       "type": "ai",
-      "number": 4,
+      "number": 6,
       "title": "OpenAI's First Hardware Product Is An AI Speaker? Report Reveals Details Am...",
       "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
       "signal": "Public news/RSS pickup",
@@ -67,10 +99,90 @@
       ]
     },
     {
-      "id": "2026-08-30-ai-5-salesforce anthropic expand partners",
-      "date": "2026-08-30",
+      "id": "2026-09-01-ai-7-a milestone in expanding access to a",
+      "date": "2026-09-01",
       "type": "ai",
-      "number": 5,
+      "number": 7,
+      "title": "A milestone in expanding access to AI",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "OpenAI",
+      "links": [
+        {
+          "label": "OpenAI",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1IQXl3UDE5ODU3V19fY3huVmVDMHZDZkFsR3UzZTRwdkJFcmpUZXNFRmZxM1JndE1iVWZIbmloeEZXLTZkcERlU0JrOVNWZTdpbFVhUy1wVTdibkV0eDhLaDBMRFdTczV1UkVYTDRRRjFObzA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-ai-8-bringing chatgpt for teachers to mor",
+      "date": "2026-09-01",
+      "type": "ai",
+      "number": 8,
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "OpenAI",
+      "links": [
+        {
+          "label": "OpenAI",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMTJMdTYyV1ZHdllkS0pjRjB3UG91b3ZZZ05EdnpHbGNEZGU4RXJxb19GSnByVmZCdmVEdGNiNUVNbzVvYV9HQk5fd0k2cTZFVWwyMERnQWlsMWo5dVZBTmdVV3NtTlVNSEFpSVZrOEQxbTVwX1BRNHhOZTVwMWVVT1BUSl9tU1dLUks4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-ai-9-7 ways to kick start back to school ",
+      "date": "2026-09-01",
+      "type": "ai",
+      "number": 9,
+      "title": "7 ways to kick-start back to school using Gemini in Workspace",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "blog.google",
+      "links": [
+        {
+          "label": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZDdWaGhha3MtV1Q3MlhwcFAwRUowR2xMdFZfdDNRSWZiQUdpS3ExeTE2ZjlrbzB0dHJjX2FzNkt5VDlncldPYllSZ0RvVnVFZmJnRGNETkNIMGJvU3JhYXoySkJORjRCWEx4NkptYVdlbFlBZ0VQTFh6UGFXLWR3b0JDLUlHS0JyTU1oUXFJbXV6dE1GUGlvbGJYdkM0TDlwVnU4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-ai-10-deutsche bank accelerates ai adoptio",
+      "date": "2026-09-01",
+      "type": "ai",
+      "number": 10,
+      "title": "Deutsche Bank Accelerates AI Adoption With New Google Service",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "bloomberg.com",
+      "links": [
+        {
+          "label": "bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWHdkM20tUnRMb3BqQWZ0S2JwbHhfN211Y21aVXdjR3VqdHZrVGRXOW9lUV8yZXJjWW90OExKQ0hwYndoRWx3Q1JXdFZIWGd1Z0lWU3hreE10TDZlSmRtczJWYVVQZ0NzLU0yXzM4MHY0UVZjSm5sWW9yTzJDeHp3QlBxWk53eWVMeDItRmo5N0NOaDBURTBLLWpRM1V6c29jYS1QdU1oOG1ISFg0a1REa2V3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-ai-11-salesforce s claudeforce plug in mak",
+      "date": "2026-09-01",
+      "type": "ai",
+      "number": 11,
+      "title": "Salesforce’s Claudeforce plug-in makes AI agent rollouts look like a CRM up...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "MarketScale",
+      "links": [
+        {
+          "label": "MarketScale",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZW04R3kwREhrUGpGdElOOTYxZzNKdGl0OVB2OThSaUhGU2RWd0xZZ3UySDcta01PVl9wYkxBT0ZER1lFMnRfUHZ2bE5ZZDFUMFk3U2pGdXNQUTBkOWdTR2pIUTBadzJwZXVla1otRDZuUDJ0c1B3UGVNR1h6eVU4bXZiTFhUUVhBTVl6eGdWQ1JneWJpZkRjcm5hZWV5OGI0bXZlU2pRYmE2cHpsb0VCMWpPbjN2ajJVbWZCQlotX0MxU1RuN0hxeG44a29LUGM5REdsbWh5dEtrUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-ai-12-salesforce anthropic expand partners",
+      "date": "2026-09-01",
+      "type": "ai",
+      "number": 12,
       "title": "Salesforce, Anthropic expand partnership as Benioff responds to ‘SaaSpocaly...",
       "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
       "signal": "Public news/RSS pickup",
@@ -83,18 +195,146 @@
       ]
     },
     {
-      "id": "2026-08-30-ai-6-salesforce s claudeforce plug in mak",
-      "date": "2026-08-30",
-      "type": "ai",
-      "number": 6,
-      "title": "Salesforce’s Claudeforce plug-in makes AI agent rollouts look like a CRM up...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "MarketScale",
+      "id": "2026-09-01-video-1-from nefertiti to cleopatra ancient ",
+      "date": "2026-09-01",
+      "type": "video",
+      "number": 1,
+      "title": "From Nefertiti to Cleopatra, Ancient Egypt's Biggest Mysteries Have Yet to ...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Discover Magazine",
       "links": [
         {
-          "label": "MarketScale",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZW04R3kwREhrUGpGdElOOTYxZzNKdGl0OVB2OThSaUhGU2RWd0xZZ3UySDcta01PVl9wYkxBT0ZER1lFMnRfUHZ2bE5ZZDFUMFk3U2pGdXNQUTBkOWdTR2pIUTBadzJwZXVla1otRDZuUDJ0c1B3UGVNR1h6eVU4bXZiTFhUUVhBTVl6eGdWQ1JneWJpZkRjcm5hZWV5OGI0bXZlU2pRYmE2cHpsb0VCMWpPbjN2ajJVbWZCQlotX0MxU1RuN0hxeG44a29LUGM5REdsbWh5dEtrUQ?oc=5"
+          "label": "Discover Magazine",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGRRNmtpNzhVZk5ReGVYOTY3WER6OUg4NUNIV09xYjc4NmR4dUdnUTRPSXg5Uk5OQkpNNFg2THQ3emxkNXdLZFNueHZoX01YNnc2YWN1Uk9xTUNPWHlFNnkxdHZfYlN3eEZiMVJJXzgySFpBVGJBTzg1S3JRMWg3ZUtQZHVfQmV5aTFkSFVMNm9IRlRzZ1AwdnQ2czh5ZzFCT1BqbkdYOU50SXVqZ1RtYjItclFPNWJFUXFMUXFxaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-video-2-construction crews were building an ",
+      "date": "2026-09-01",
+      "type": "video",
+      "number": 2,
+      "title": "Construction Crews Were Building an Apartment Complex—And Found a 500-Year-...",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Popular Mechanics",
+      "links": [
+        {
+          "label": "Popular Mechanics",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlY2YnJmbkxMZVlQaVdlWnRVTW9NbEhRY2pWOG92akVuYjZ4X3FGM1JYY25pVE84d1UwZVFWeWsyckx5SE1EZlBkblRYcUlldHVoa1JNcVd5VnVlZ0dadDM4RXlYS1F1ZVVfV1Vwc2djeHY4bUJGREZrVEJNVXVsRlYtY2J2QkVvb19ZLUUteFJqOG9OWDRxbzlSZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-video-3-jesus tomb mystery takes a stunning ",
+      "date": "2026-09-01",
+      "type": "video",
+      "number": 3,
+      "title": "Jesus’ Tomb Mystery Takes a Stunning Turn After Archaeologists Unearth New ...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Charisma Magazine Online",
+      "links": [
+        {
+          "label": "Charisma Magazine Online",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeVNvbzZiNGZWQUJkd0VHcHR5WUZUaTZyOUNLNVc2ZEJkTTRKM0VwNkFyS0V0dFhEUjBMUVZvMUFQUXJEZ0E2cnJ2WHVvQzJ1YTctSWdEZUNPTzNuYWJJejVwc3ctTVB4UEVPTDZhLUhLdGxDbVlEeHAzcld1MlVDbTBnRUh5QkcxSkM5NEtRNUgybGFENE1mOVJxMW9BMGp3OVVrSVBkcHNzaE1rQkliZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-video-4-true tomb of jesus christ found afte",
+      "date": "2026-09-01",
+      "type": "video",
+      "number": 4,
+      "title": "‘True tomb’ of Jesus Christ found after 2,000 years — and it matches the Bi...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "New York Post",
+      "links": [
+        {
+          "label": "New York Post",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONFo2M1ZlY3ViamZUZU1fVFE3T1NTS3pRdUNKUWc3VUU1Yk4xb3RIWXozekJVNG1DNWdVZG9HSmxQQVJOaVBMejlveUVCNXZqTFVNcW9zWjgyRG03WjU5OTlNNUpxeHlrbi1PRnZYQlhTVVU1WENRVjhjSG9vSEd6cGRaQjVZYXoz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-video-5-scientists found a real mummy s curs",
+      "date": "2026-09-01",
+      "type": "video",
+      "number": 5,
+      "title": "Scientists Found a Real Mummy’s Curse Hiding in the Online Trade in Human R...",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "ZME Science",
+      "links": [
+        {
+          "label": "ZME Science",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbVZKMmFpaEFINzltYkRQY2xXOWdJUUVmaEFPOXNWQ3BTd0g4RGczbE4tczVpWTNaR1B4UlRmVFV1RDNjOGh4dFVwOWdLd09uRHNFajZZeVhsRVpha1FDbTdmMGNGM1plRWxFT09Cak5WZFJHa2FxUHRqcTBuZkwzUWtHSi0tNlp5MHEtRVlHNFM5d29tUDBhdW11bWU0LXJlN1QxZGx0TnlDT2ZneEQ4NGtBaTR6SmRnTnEtTGhCbFNUR0xzbXhUNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-video-6-ancient egypt s lost secrets tutankh",
+      "date": "2026-09-01",
+      "type": "video",
+      "number": 6,
+      "title": "Ancient Egypt’s Lost Secrets: Tutankhamun, Pyramids & Ramses | MEGA Episode...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Mshale",
+      "links": [
+        {
+          "label": "Mshale",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nbG9PUFBHdl9nTVJSS3RpbzJDbzJzMlg1MzlqZ19rVDNkNUVnRmZYMVVGOWFQRTNJbTMzT3FhaHJ4NGVJak1MaEVuaFpFSmZwWkVXN00tQkx6cHBTVFR0Tw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-video-7-a 2 000 year old mystery in jerusale",
+      "date": "2026-09-01",
+      "type": "video",
+      "number": 7,
+      "title": "A 2,000-year-old mystery in Jerusalem: Findings that match the Bible \"point...",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "orthodoxtimes.com",
+      "links": [
+        {
+          "label": "orthodoxtimes.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNenJFdlZOaVpDQTN0eWdiN0YzY09VcHdzbkU1RXEzVk1ONktRVDJwNXAzV3BQRjBBRWRhQ1MyMTZONjExaFZjczB6am5aQkZyb1hPVE9GSDZ4OWxKZlktN3lTY0xqeWdhTmhTY0x3TldNREg2SS1jNHdsZTJKdUxGSHZKUXo0SWxUWXdkSmhpLTBFcXBvdUtrTGxRUGQ4TkpfZW5HSWVxaTZTNEpRdEstdzh1TGJVT29pNGU4enotSERMOVNJSXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-video-8-archaeologists find ancient tomb and",
+      "date": "2026-09-01",
+      "type": "video",
+      "number": 8,
+      "title": "Archaeologists Find Ancient Tomb and Garden That Match Biblical Account of ...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Yahoo",
+      "links": [
+        {
+          "label": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZXdCVVhGbzhfNmZmenN1NENIVXVOU2l0Tm5WOG1PSzctVVRIZGJCOTJNMW50TGpTRGEwMHZBWjFpVGhFREhfbmdZVnktVUVQcmVEM3ZhUXh6NDhqeks4ZTFUbWJUcjV2VmF3UFlOWjRWbWJfS3JlekM2WkVIUEEyaFFqZzV2bVVNUThrekxrckRfSXBSZGJGYWV2cW1sckVM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-01-video-9-archaeology beneath the holy sepulch",
+      "date": "2026-09-01",
+      "type": "video",
+      "number": 9,
+      "title": "Archaeology Beneath the Holy Sepulchre Reveals a Landscape That Matches the...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Arkeonews",
+      "links": [
+        {
+          "label": "Arkeonews",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUU5hMlFDT1lmd0lPOWx2Y1pBeDJuUWdOU3ZtOVBIalhNaUNxa1Q5Y1A5N3pvRE5qOTUtMExDZ0tiWWdXNzN2WjlmZklNUTRXQ0FwbGRJXzRvaHhzSGFvcXpjMXNUYWhsNENXLUFxUVZhUkFLYVByQWVLZllIa1B4eDcydzJrRzR5S3pKWWdpR1diSThnZkZtQnp1OE5OaHRId1B0ZTJiRW9zZHVJOHJGYXJ0UUd2TzI2Q1l3T09ab3lrblBNaWhiNA?oc=5"
         }
       ]
     },
@@ -195,22 +435,6 @@
       ]
     },
     {
-      "id": "2026-08-30-video-1-from nefertiti to cleopatra ancient ",
-      "date": "2026-08-30",
-      "type": "video",
-      "number": 1,
-      "title": "From Nefertiti to Cleopatra, Ancient Egypt's Biggest Mysteries Have Yet to ...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Discover Magazine",
-      "links": [
-        {
-          "label": "Discover Magazine",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVGRRNmtpNzhVZk5ReGVYOTY3WER6OUg4NUNIV09xYjc4NmR4dUdnUTRPSXg5Uk5OQkpNNFg2THQ3emxkNXdLZFNueHZoX01YNnc2YWN1Uk9xTUNPWHlFNnkxdHZfYlN3eEZiMVJJXzgySFpBVGJBTzg1S3JRMWg3ZUtQZHVfQmV5aTFkSFVMNm9IRlRzZ1AwdnQ2czh5ZzFCT1BqbkdYOU50SXVqZ1RtYjItclFPNWJFUXFMUXFxaw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-08-30-video-2-ancient egyptian official s tomb and",
       "date": "2026-08-30",
       "type": "video",
@@ -227,54 +451,6 @@
       ]
     },
     {
-      "id": "2026-08-30-video-3-true tomb of jesus christ found afte",
-      "date": "2026-08-30",
-      "type": "video",
-      "number": 3,
-      "title": "‘True tomb’ of Jesus Christ found after 2,000 years — and it matches the Bi...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "New York Post",
-      "links": [
-        {
-          "label": "New York Post",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONFo2M1ZlY3ViamZUZU1fVFE3T1NTS3pRdUNKUWc3VUU1Yk4xb3RIWXozekJVNG1DNWdVZG9HSmxQQVJOaVBMejlveUVCNXZqTFVNcW9zWjgyRG03WjU5OTlNNUpxeHlrbi1PRnZYQlhTVVU1WENRVjhjSG9vSEd6cGRaQjVZYXoz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-30-video-4-construction crews were building an ",
-      "date": "2026-08-30",
-      "type": "video",
-      "number": 4,
-      "title": "Construction Crews Were Building an Apartment Complex—And Found a 500-Year-...",
-      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Popular Mechanics",
-      "links": [
-        {
-          "label": "Popular Mechanics",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlY2YnJmbkxMZVlQaVdlWnRVTW9NbEhRY2pWOG92akVuYjZ4X3FGM1JYY25pVE84d1UwZVFWeWsyckx5SE1EZlBkblRYcUlldHVoa1JNcVd5VnVlZ0dadDM4RXlYS1F1ZVVfV1Vwc2djeHY4bUJGREZrVEJNVXVsRlYtY2J2QkVvb19ZLUUteFJqOG9OWDRxbzlSZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-30-video-5-jesus tomb mystery takes a stunning ",
-      "date": "2026-08-30",
-      "type": "video",
-      "number": 5,
-      "title": "Jesus’ Tomb Mystery Takes a Stunning Turn After Archaeologists Unearth New ...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Charisma Magazine Online",
-      "links": [
-        {
-          "label": "Charisma Magazine Online",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeVNvbzZiNGZWQUJkd0VHcHR5WUZUaTZyOUNLNVc2ZEJkTTRKM0VwNkFyS0V0dFhEUjBMUVZvMUFQUXJEZ0E2cnJ2WHVvQzJ1YTctSWdEZUNPTzNuYWJJejVwc3ctTVB4UEVPTDZhLUhLdGxDbVlEeHAzcld1MlVDbTBnRUh5QkcxSkM5NEtRNUgybGFENE1mOVJxMW9BMGp3OVVrSVBkcHNzaE1rQkliZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-08-30-video-6-lost ancient egyptian city found arc",
       "date": "2026-08-30",
       "type": "video",
@@ -287,38 +463,6 @@
         {
           "label": "The Debrief",
           "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORFE0YmJzMWYxcEdHZWRIVHBEdFZaRm0zcXBLMTZMWDF1Y2tYWEFNcHdoQkt2NlU2RVJiWFlMWC1IVjJGTm54VF9CR3JxalJxV0ZNM2lQM2Jyb05KVHNDOFhxY2lQcFJ1d2tWQkdPY3d2YXFXZWhaaWFMd2JQai1ySFVrNG5GU1l1VWtzb0dKQXFOWFJ0dC1SZjByNFJwSUNvc0NNTWJMcTBrallMZTc3MTRFR2pUZWZiNTRtMU5BUjRNS2xXSm95a2VHMm1PTzZCeTRGSGcxYjdIaTdBVExsazNCc21XQ014ZlFMcnk1VzNpckRUdFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-30-video-7-ancient egypt s lost secrets tutankh",
-      "date": "2026-08-30",
-      "type": "video",
-      "number": 7,
-      "title": "Ancient Egypt’s Lost Secrets: Tutankhamun, Pyramids & Ramses | MEGA Episode...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Mshale",
-      "links": [
-        {
-          "label": "Mshale",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nbG9PUFBHdl9nTVJSS3RpbzJDbzJzMlg1MzlqZ19rVDNkNUVnRmZYMVVGOWFQRTNJbTMzT3FhaHJ4NGVJak1MaEVuaFpFSmZwWkVXN00tQkx6cHBTVFR0Tw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-30-video-8-a 2 000 year old mystery in jerusale",
-      "date": "2026-08-30",
-      "type": "video",
-      "number": 8,
-      "title": "A 2,000-year-old mystery in Jerusalem: Findings that match the Bible \"point...",
-      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Orthodox Times",
-      "links": [
-        {
-          "label": "Orthodox Times",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNenJFdlZOaVpDQTN0eWdiN0YzY09VcHdzbkU1RXEzVk1ONktRVDJwNXAzV3BQRjBBRWRhQ1MyMTZONjExaFZjczB6am5aQkZyb1hPVE9GSDZ4OWxKZlktN3lTY0xqeWdhTmhTY0x3TldNREg2SS1jNHdsZTJKdUxGSHZKUXo0SWxUWXdkSmhpLTBFcXBvdUtrTGxRUGQ4TkpfZW5HSWVxaTZTNEpRdEstdzh1TGJVT29pNGU4enotSERMOVNJSXc?oc=5"
         }
       ]
     },
