@@ -1,7 +1,343 @@
 {
-  "updatedAt": "2026-09-01T22:57:40.104Z",
+  "updatedAt": "2026-09-02T22:57:27.636Z",
   "maxItems": 1000,
   "items": [
+    {
+      "id": "2026-09-03-ai-1-path to astra critical capabilities ",
+      "date": "2026-09-03",
+      "type": "ai",
+      "number": 1,
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "OpenAI",
+      "links": [
+        {
+          "label": "OpenAI",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XVkhISmZOMUx2VV9iblFmYlJERjA5c3RQNzNhUjFvZFl4V1J2S1RDdkdpTG5UNEN3WkNJYV9rWDJjaVpmbzBTbEFST1FjeVVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-ai-2-improving our alignment and security",
+      "date": "2026-09-03",
+      "type": "ai",
+      "number": 2,
+      "title": "Improving our alignment and security practices",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Anthropic",
+      "links": [
+        {
+          "label": "Anthropic",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00LWY0NEplRlIyRFlGZENXb0VQc0ZNb3BuSjlZeTB3OWdqWEh5eEFxbzJMa0hFTkhrYy03NjZ5MGdsMnNKbHJsXzVpVENSb014eXdXaEkzOXFHWUVRa1U3TXhpVWZCb0FJaHFqWTJhLW9JbGtYWGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-ai-3-can someone finally architect person",
+      "date": "2026-09-03",
+      "type": "ai",
+      "number": 3,
+      "title": "Can Someone Finally Architect Personal Assistant AI?",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "spyglass.org",
+      "links": [
+        {
+          "label": "spyglass.org",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQN3laWnVxTGxDcEdEdWpOZVNNMzJCTkt6NTJySHRqS0xLNzBOTjdtcFlwRGVhZUl6UXFLN3hVMVR0TkF6LS1TMzB2TXBUUWJwZm5Z?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-ai-4-openai s first hardware product is a",
+      "date": "2026-09-03",
+      "type": "ai",
+      "number": 4,
+      "title": "OpenAI's First Hardware Product Is An AI Speaker? Report Reveals Details Am...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Stocktwits",
+      "links": [
+        {
+          "label": "Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdmYzTEtZQk5pWFZmaHlVYmhxVGtVSno1dlYxR21PT0xBODJ1dHpucHlyRVlBcDJJMzdldmlHS1JmRTVxX0gtQm9nUy1iX1VYQzdPTTRBakZuYldTUXFLczRtc2dIOHBXdlhpN3dhdEVTQkxkWGxGZ2RnSkJ2QkU2ZTBaRFNSQ043RWszZ2FlMThCZl9MR3NxNE9mdWI2Y3JqRHJXYUYtdWVZTFh1TlVBdXFxcnoyb203MFByNEsxTjBkQ2JHT2JHXzlxLUJzTkxfNGF2ZUZHUmVIcDRLdWVHb0xpRU1yOEladmpr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-ai-5-anthropic launches ai agent blueprin",
+      "date": "2026-09-03",
+      "type": "ai",
+      "number": 5,
+      "title": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopp...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Reuters",
+      "links": [
+        {
+          "label": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZnpYSkJQNF9FY2pHYXBETVkzdkdMRGhfLVU4ZVZ6MmhRSkRxSGlhYUktc0RpOFhxMEZ4NG4yaW9TdGZJMU80OG9UVG9xc0JKRzVCb21UZTJJZjZoMi1ONWdVT2dCUXNRRi1QZ3RFVnp2QnZRa3hNUFB0QnNGNV9fUGxmckttdXFjX2JSUEljSjFMRnNoSmFoT2Z4U3ctUHoweWVnQnlCYUhaZ1FCd1c5TXBHZUVEUTdGRXlQcFVhZ1lwZTRMYjk2QXRpbE5wU1pWeC1YS2NB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-ai-6-google cloud extends industry ai pus",
+      "date": "2026-09-03",
+      "type": "ai",
+      "number": 6,
+      "title": "Google Cloud Extends Industry AI Push With Gemini Enterprise for Legal",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Cloud Wars",
+      "links": [
+        {
+          "label": "Cloud Wars",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZmlxbzM1WV8yOTFORHhRVUxWbzMzNkNLZ09EWXBvUFpEcWw1YmpUOTJIUzRLMS1CYzVEc2s1M0dLSE45LVhRX2dPSkcwWkE5YVMzVTI4YVdTZ3NfZWVPTnBIdExnTnNjR1paQ2UyTlZTeGFxSHFVZlV6djBKUnhxX3ZHbGVPZnVDWHNNTmNOTjliVWFyb3g0b2tXMDM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-ai-7-a friend i can trust how americans d",
+      "date": "2026-09-03",
+      "type": "ai",
+      "number": 7,
+      "title": "‘A friend I can trust’: How Americans described their relationship with AI",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "The Washington Post",
+      "links": [
+        {
+          "label": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZGhvOEU4VHBHZHZPQUR3OE5Bc1VVRlRWMWd4ZklLVl94WFhwZWFQTXhDVzRocm5CV21pT0lOTXZhanNxOXhRQTVoaVB3YlRCZU15d3NwWGpjNFdHbElibWdBQk1tUy1iZm5QS21WYlZLTm5Pcm9rLXd6NkFCWVpRQlBxVkRCaWxFNGRidVVjWHhwMF9RWVpJal9KZmRUN1VMYXlmVzN5TGlkcnhmdUY0THRVQzRKNFhoY0l5Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-ai-8-with gemini 3 8 flash google reminds",
+      "date": "2026-09-03",
+      "type": "ai",
+      "number": 8,
+      "title": "With Gemini 3.8 Flash, Google reminds everyone it's still in the race",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "The Register",
+      "links": [
+        {
+          "label": "The Register",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOVZaZUx6a0VBTzBKVG9DTENKUW5nTm5mcDVpYUppN3ktSElJWmRQVkQ3M2hadlF2dHcwWEVPZjJYQ0R3a09WTHhGc0hONVk2bVRZYkdyMnkxS3NJdEp2RVA5R0Qwai1mTjFTRllKeGZtNS1DenlidXNLSjlaNk92RUxHUDlUYktibHctUUZpVS1mcFVkOWktdUlvUnBDMnFGT1N3MC1tQWtINUxma04zOThJcXJ4ZThhVFdhbTBRaF8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-ai-9-google takes aim at ai market share ",
+      "date": "2026-09-03",
+      "type": "ai",
+      "number": 9,
+      "title": "Google Takes Aim at AI Market Share with Huge Updates: Gemini Interactive W...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Intelligent Living",
+      "links": [
+        {
+          "label": "Intelligent Living",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORzJmbURlMXByVU10eFNKUnJxZGlsVmppWTlvWk5Sa2hLUnRhcDkwWm9CNXZBZHFoM2N6cEdYS2lNVUtFTFV1UzJjTWdNaWNQVTlCdm1HbGFRLW1pOFgwd0lDU1JaM1pQb2tMRjdEd3A4X0VXNE1mNno4LXpZWXRLczBR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-ai-10-a researcher joked that working at o",
+      "date": "2026-09-03",
+      "type": "ai",
+      "number": 10,
+      "title": "A researcher joked that working at OpenAI ages you. Now colleagues are post...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "businessinsider.com",
+      "links": [
+        {
+          "label": "businessinsider.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUXpnckJ4bDZuWmtvTzlXTmVWMkhwekRHVUo3REg2b3NKSXdYUkprUmc2dGktMlZWS1JDX1RXZXpFY3BGTi1FMjFXWXdlRmpGLXFmMHhlWGdzYUk5a2o3UlhYR0t3QUsyY1N0NWROVm8zNVQ4Y2xhWUdwUEdpdXVWbTJFNHNmbGVIQ0xYbkkwaGVhcU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-ai-11-openai throws weight behind thai ai ",
+      "date": "2026-09-03",
+      "type": "ai",
+      "number": 11,
+      "title": "OpenAI throws weight behind Thai AI start-ups",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Mobile World Live",
+      "links": [
+        {
+          "label": "Mobile World Live",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY005MjBxTEtQSmRIbzE2QzNUQU14ZDloR0IzVVVKUGZuTDhuRXVsVUhlYTNtRXNrcmkybTdCUXd0SUNWcnl3NlVLSWxHdk04VDhOdkUydzZ3VGptQThrb3V3eVNDcFRCbWFJYjQ1U2Y4MlNnZVRYS1gtckFQVlB2RkhGQWtyQXlaUndJZEJ3NV9OQXFieXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-ai-12-healthcare organizations can now con",
+      "date": "2026-09-03",
+      "type": "ai",
+      "number": 12,
+      "title": "Healthcare organizations can now connect EHR and additional industry data t...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "OpenAI",
+      "links": [
+        {
+          "label": "OpenAI",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUFZLUDY4VnlYRGpwSVJOUk9LNVI5T29GeE1hdzBNLUxXZTBVbmNXYjRPWWlNWERvSDFwMC1pc2dNaXhXcGtFZ3IyVFlYNy1CLXpWQ3d1cXBDczI2Zm5iajQ5X0JLOUFlbVNqdFRHajN6MUFzYnF2S1lnUEhtbndaVXpuU2d0UVU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-video-1-ancient monument with mysterious con",
+      "date": "2026-09-03",
+      "type": "video",
+      "number": 1,
+      "title": "Ancient monument with mysterious connection to sun and moon found after 6,5...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "FOX Weather",
+      "links": [
+        {
+          "label": "FOX Weather",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU09vbWVEWHBISGVPeVk1X2dXOFYtRnlfZHMzWFdWdjV1ZkxlZjJnYkFuTjk1VFR0Y2NxWFc4aHkyeDVVb3BlZDJjRzhsZFJzOElJalNXRmNJakhMejAxM2Vyak1MSWF1Zm5fN2lhWHFjUTNzcW9qSXZEUjBzd3ZKWk9xZU1Ed01nT08xaF9Fd9IBlAFBVV95cUxQSGtacTdTb09TMGZHU1FQOXJHbmp6T3JGYVZSUlFIbnJJdWF6dWE1ZGF5SUw0UFpfMUN1OVdoMkY3NEhfQ2l5a1o3Qm5sSWxLMFowZWI5T3loQmo4WTJ3N21VWmZRRWVYVFQ5OWFKakw5aDRXZGlhUVRQNXVVMGdLUVd1ZGxPTEhVdmF2cTgyb2lySFJM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-video-2-construction crews were building an ",
+      "date": "2026-09-03",
+      "type": "video",
+      "number": 2,
+      "title": "Construction Crews Were Building an Apartment Complex—And Found a 500-Year-...",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Popular Mechanics",
+      "links": [
+        {
+          "label": "Popular Mechanics",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlY2YnJmbkxMZVlQaVdlWnRVTW9NbEhRY2pWOG92akVuYjZ4X3FGM1JYY25pVE84d1UwZVFWeWsyckx5SE1EZlBkblRYcUlldHVoa1JNcVd5VnVlZ0dadDM4RXlYS1F1ZVVfV1Vwc2djeHY4bUJGREZrVEJNVXVsRlYtY2J2QkVvb19ZLUUteFJqOG9OWDRxbzlSZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-video-3-jesus tomb mystery takes a stunning ",
+      "date": "2026-09-03",
+      "type": "video",
+      "number": 3,
+      "title": "Jesus’ Tomb Mystery Takes a Stunning Turn After Archaeologists Unearth New ...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Charisma Magazine Online",
+      "links": [
+        {
+          "label": "Charisma Magazine Online",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeVNvbzZiNGZWQUJkd0VHcHR5WUZUaTZyOUNLNVc2ZEJkTTRKM0VwNkFyS0V0dFhEUjBMUVZvMUFQUXJEZ0E2cnJ2WHVvQzJ1YTctSWdEZUNPTzNuYWJJejVwc3ctTVB4UEVPTDZhLUhLdGxDbVlEeHAzcld1MlVDbTBnRUh5QkcxSkM5NEtRNUgybGFENE1mOVJxMW9BMGp3OVVrSVBkcHNzaE1rQkliZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-video-4-ancient egypt s lost secrets tutankh",
+      "date": "2026-09-03",
+      "type": "video",
+      "number": 4,
+      "title": "Ancient Egypt’s Lost Secrets: Tutankhamun, Pyramids & Ramses | MEGA Episode...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Mshale",
+      "links": [
+        {
+          "label": "Mshale",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nbG9PUFBHdl9nTVJSS3RpbzJDbzJzMlg1MzlqZ19rVDNkNUVnRmZYMVVGOWFQRTNJbTMzT3FhaHJ4NGVJak1MaEVuaFpFSmZwWkVXN00tQkx6cHBTVFR0Tw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-video-5-police operation takes unexpected tu",
+      "date": "2026-09-03",
+      "type": "video",
+      "number": 5,
+      "title": "Police operation takes unexpected turn when officers stumble upon ancient b...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Fox News",
+      "links": [
+        {
+          "label": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMGtLMGdnRUdGQUwybVJoamhVUURiTTZXZ0pMZjZQbmp5RFd2bU94ZmNmaGUzZUh1QXdtdk1MMUlGRUUwa1hJYnM3OUhaemFWaEU4M2R4VWM4Q05FT2FZTFRuODVTbDNDYk5aMzZSaUZKX1JueVRVV0ptRHhmWWFFc0RSVXVXV0k0T041enVzSlhKdWVjN0UwM1JuWjFyMzlkc3BzVEh3N25NQdIBrwFBVV95cUxQWWw2ZGhaU1JkMHd5OUwtRzFnR2tReWw4c2hzOWVOWWlRTGFCQXM1N3lvN2xVaGJyRlZ0WE5rVWM2UlRJVjdabWo1SHpDVW43dVRVRVYzMF9pc253MEJpX044dTkxaGxlQ0FqaEJibDAxRjhDd0hSSmJwSV9BUFc1WmtjR0hWMVJBMTRhTTI3SVBqVTZRM1JxWU41bkN1RThSYmEzNFRwcldaOC1vdGM4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-video-6-egypt discovers sekhentiu ptah tomb ",
+      "date": "2026-09-03",
+      "type": "video",
+      "number": 6,
+      "title": "Egypt Discovers “Sekhentiu-Ptah” Tomb, Network of Burial Shafts and Numerou...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Egypt Today",
+      "links": [
+        {
+          "label": "Egypt Today",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaUduZFpkOUZLZTdOQU9XRWtTVGxJeUZRYlBPbVg4Y2RQTWVGMVVqX2syWDBmVHJHS1BOMHhEOFo3aHFUNDdrTkVIU2s0TDd4NmRPUEdPMlFrQnZtWG1wcmREdldUcUFZZXJUcV9FUk1rX2xsRlU5WThJTVFLZGloeEVBRlZwb3JrN1NfWHItdlZjU0szem02aVRyVEs3RTVCUGE2TVdxbzc3YlQyQmRKRDV0SGtHTTYtcWhOR0dtcXNRYTdj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-video-7-egypt an important tomb discovered i",
+      "date": "2026-09-03",
+      "type": "video",
+      "number": 7,
+      "title": "Egypt: An Important Tomb Discovered in Saqqara, Bearing the Names of the De...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Finestre sull'Arte",
+      "links": [
+        {
+          "label": "Finestre sull'Arte",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWU1kVU5EYWZyMU9GTDl1NF9nTHNjVTk4eUtDbVd5WkltdkNPQmM2bFZVY18tVGlaR29BdWFHdTd3SlR3cmlydE1FeFB2dDVkUnFVbEw2dm42em0yZDg0bzRMQ2lTMkotWGI5MnlObXR5RWY5Q2N0akljXzBHWnFEUU9UZW9vNkMwSGY3d3lMWm1PXzlXa09xcDhWOHJIb0Q5bWdpZHBEQmRWdkRzQTBYaVZKYVpJbWp4VEhNZE1VX2VrOVFHNGJJUUJUTmsyZmpmWmRCS2xpTkIwb3VxemVlVTNGcllUQkNTYjVtaHNSWjdKd09UYmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-video-8-ten hellenistic tombs unearthed at a",
+      "date": "2026-09-03",
+      "type": "video",
+      "number": 8,
+      "title": "Ten Hellenistic Tombs Unearthed at Ancient Cilician Port Linked to the Mace...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Arkeonews",
+      "links": [
+        {
+          "label": "Arkeonews",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPalNaYVplR2VBTGsweGM0dUd2MzFoTHItZUwtRXk0ZDFkb0JadXF6M2RCY1JSUjMzTHZ4M0d1b190YXlsTWMtNElRcFFKTzVQaHY0V2x5THZGb0lkbVJNSC11NS1pSHdJSU0xa045ektaVTVVeUM2VHZGdXNVR1NlbGl6bkpXRXlheHF4MG1aamJDZlVYV2g0azQxRW12NkVBMjk4RVVocGVEcE9NdHE4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-03-video-9-archaeologists exploring a cave foun",
+      "date": "2026-09-03",
+      "type": "video",
+      "number": 9,
+      "title": "Archaeologists Exploring a Cave Found 120 Mysterious Messages to a Goddess ...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Popular Mechanics",
+      "links": [
+        {
+          "label": "Popular Mechanics",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOay16NENFYUtxa21yWWJ1aFA3T0twOFRIa0xneTlRcF9GYXNmQlRvbk9KMk45NVNOTUc1RWVDbXAxMWZ0OC1oa3VHLWxNTThxZ1hTVFdOV0ZDNXZIYUU4ajNFcjBKVll1UHhSZW04U1lrYTNIWm51VUxIQklsb2pna2dOYzg2dVVmX283MVdQcXNrNUFYaUNN?oc=5"
+        }
+      ]
+    },
     {
       "id": "2026-09-02-ai-1-inside openai s experiment with ai c",
       "date": "2026-09-02",
@@ -51,22 +387,6 @@
       ]
     },
     {
-      "id": "2026-09-02-ai-4-openai s first hardware product is a",
-      "date": "2026-09-02",
-      "type": "ai",
-      "number": 4,
-      "title": "OpenAI's First Hardware Product Is An AI Speaker? Report Reveals Details Am...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "Stocktwits",
-      "links": [
-        {
-          "label": "Stocktwits",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdmYzTEtZQk5pWFZmaHlVYmhxVGtVSno1dlYxR21PT0xBODJ1dHpucHlyRVlBcDJJMzdldmlHS1JmRTVxX0gtQm9nUy1iX1VYQzdPTTRBakZuYldTUXFLczRtc2dIOHBXdlhpN3dhdEVTQkxkWGxGZ2RnSkJ2QkU2ZTBaRFNSQ043RWszZ2FlMThCZl9MR3NxNE9mdWI2Y3JqRHJXYUYtdWVZTFh1TlVBdXFxcnoyb203MFByNEsxTjBkQ2JHT2JHXzlxLUJzTkxfNGF2ZUZHUmVIcDRLdWVHb0xpRU1yOEladmpr?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-09-02-ai-5-mark chen sam altman and greg brockm",
       "date": "2026-09-02",
       "type": "ai",
@@ -79,22 +399,6 @@
         {
           "label": "Time Magazine",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdTJMWkJ5Um9odWl5eGw5RXY4dHZWSjVnSXBJMGk3YmowM3hQNWRqUnd3VkxlSHlZMk5mWmN3M0ltMmpTMEg5b1YxNFNtZTJXZGRTcWkwTElSZ2pycjFzV0pfOGZ5ZXJ3emRrT1c2TkN0ODYwd1o4TGxmVDAwSE9helg5bEgtZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-02-ai-6-healthcare organizations can now con",
-      "date": "2026-09-02",
-      "type": "ai",
-      "number": 6,
-      "title": "Healthcare organizations can now connect EHR and additional industry data t...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "openai.com",
-      "links": [
-        {
-          "label": "openai.com",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUFZLUDY4VnlYRGpwSVJOUk9LNVI5T29GeE1hdzBNLUxXZTBVbmNXYjRPWWlNWERvSDFwMC1pc2dNaXhXcGtFZ3IyVFlYNy1CLXpWQ3d1cXBDczI2Zm5iajQ5X0JLOUFlbVNqdFRHajN6MUFzYnF2S1lnUEhtbndaVXpuU2d0UVU?oc=5"
         }
       ]
     },
@@ -211,22 +515,6 @@
       ]
     },
     {
-      "id": "2026-09-02-video-2-jesus tomb mystery takes a stunning ",
-      "date": "2026-09-02",
-      "type": "video",
-      "number": 2,
-      "title": "Jesus’ Tomb Mystery Takes a Stunning Turn After Archaeologists Unearth New ...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "mycharisma.com",
-      "links": [
-        {
-          "label": "mycharisma.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeVNvbzZiNGZWQUJkd0VHcHR5WUZUaTZyOUNLNVc2ZEJkTTRKM0VwNkFyS0V0dFhEUjBMUVZvMUFQUXJEZ0E2cnJ2WHVvQzJ1YTctSWdEZUNPTzNuYWJJejVwc3ctTVB4UEVPTDZhLUhLdGxDbVlEeHAzcld1MlVDbTBnRUh5QkcxSkM5NEtRNUgybGFENE1mOVJxMW9BMGp3OVVrSVBkcHNzaE1rQkliZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-09-02-video-3-true tomb of jesus christ found afte",
       "date": "2026-09-02",
       "type": "video",
@@ -239,22 +527,6 @@
         {
           "label": "New York Post",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONFo2M1ZlY3ViamZUZU1fVFE3T1NTS3pRdUNKUWc3VUU1Yk4xb3RIWXozekJVNG1DNWdVZG9HSmxQQVJOaVBMejlveUVCNXZqTFVNcW9zWjgyRG03WjU5OTlNNUpxeHlrbi1PRnZYQlhTVVU1WENRVjhjSG9vSEd6cGRaQjVZYXoz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-02-video-4-construction crews were building an ",
-      "date": "2026-09-02",
-      "type": "video",
-      "number": 4,
-      "title": "Construction Crews Were Building an Apartment Complex—And Found a 500-Year-...",
-      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Popular Mechanics",
-      "links": [
-        {
-          "label": "Popular Mechanics",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlY2YnJmbkxMZVlQaVdlWnRVTW9NbEhRY2pWOG92akVuYjZ4X3FGM1JYY25pVE84d1UwZVFWeWsyckx5SE1EZlBkblRYcUlldHVoa1JNcVd5VnVlZ0dadDM4RXlYS1F1ZVVfV1Vwc2djeHY4bUJGREZrVEJNVXVsRlYtY2J2QkVvb19ZLUUteFJqOG9OWDRxbzlSZw?oc=5"
         }
       ]
     },
@@ -287,22 +559,6 @@
         {
           "label": "Orthodox Times",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNenJFdlZOaVpDQTN0eWdiN0YzY09VcHdzbkU1RXEzVk1ONktRVDJwNXAzV3BQRjBBRWRhQ1MyMTZONjExaFZjczB6am5aQkZyb1hPVE9GSDZ4OWxKZlktN3lTY0xqeWdhTmhTY0x3TldNREg2SS1jNHdsZTJKdUxGSHZKUXo0SWxUWXdkSmhpLTBFcXBvdUtrTGxRUGQ4TkpfZW5HSWVxaTZTNEpRdEstdzh1TGJVT29pNGU4enotSERMOVNJSXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-02-video-7-ancient egypt s lost secrets tutankh",
-      "date": "2026-09-02",
-      "type": "video",
-      "number": 7,
-      "title": "Ancient Egypt’s Lost Secrets: Tutankhamun, Pyramids & Ramses | MEGA Episode...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Mshale",
-      "links": [
-        {
-          "label": "Mshale",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nbG9PUFBHdl9nTVJSS3RpbzJDbzJzMlg1MzlqZ19rVDNkNUVnRmZYMVVGOWFQRTNJbTMzT3FhaHJ4NGVJak1MaEVuaFpFSmZwWkVXN00tQkx6cHBTVFR0Tw?oc=5"
         }
       ]
     },
@@ -687,22 +943,6 @@
         {
           "label": "tech-insider.org",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMVd0OVNDbXhFcWJJNHlQTjNJamJ4eUNMLXhmWERsZ21FVXM5dFhJY2pjMDktVUNQMVlYRXN3S1RLVnB2bk1MM0NZcjBUVzFtV2d6N29YckQ0RlAwTFVzN2NFVGNaZ09jNkMySlJPendjOHV2Y0dZSzlkZDF2SktraVJXdl8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-08-29-video-8-ten hellenistic tombs unearthed at a",
-      "date": "2026-08-29",
-      "type": "video",
-      "number": 8,
-      "title": "Ten Hellenistic Tombs Unearthed at Ancient Cilician Port Linked to the Mace...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Arkeonews",
-      "links": [
-        {
-          "label": "Arkeonews",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPalNaYVplR2VBTGsweGM0dUd2MzFoTHItZUwtRXk0ZDFkb0JadXF6M2RCY1JSUjMzTHZ4M0d1b190YXlsTWMtNElRcFFKTzVQaHY0V2x5THZGb0lkbVJNSC11NS1pSHdJSU0xa045ektaVTVVeUM2VHZGdXNVR1NlbGl6bkpXRXlheHF4MG1aamJDZlVYV2g0azQxRW12NkVBMjk4RVVocGVEcE9NdHE4?oc=5"
         }
       ]
     },
