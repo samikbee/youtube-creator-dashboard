@@ -1,7 +1,343 @@
 {
-  "updatedAt": "2026-09-07T23:15:22.889Z",
+  "updatedAt": "2026-09-08T23:08:20.841Z",
   "maxItems": 1000,
   "items": [
+    {
+      "id": "2026-09-09-ai-1-model fatigue sets in as ai labs rac",
+      "date": "2026-09-09",
+      "type": "ai",
+      "number": 1,
+      "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at freneti...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "CNBC",
+      "links": [
+        {
+          "label": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGE4Q2Q0VHRjb2tCbGpsemp2Ql9uSW1zdXdRVDVOUFgxdXhXcTBOTlFHamp5bkQzN1Foam44WWFlNXZTWGVpdXdWMEhqMTBVbklsR2YtdE83Wkd5SG12WjF5akVSeUF2RE9SRjZPQ01mTEtnRzNEc1hjRHJIQ1V0aUw1MHNzSDVsTFHSAY8BQVVfeXFMTVdCNVVRWEpVQ1RLcDVsQ3VhVmtWQlZMek91OVJWSExlQWxLOEpoUm8xenRUb1d2YTJxbUhRRUNjUFBkbFpHVUlXUnNsalUtVk1sUlBmSTFLOEZhbTM0cHM4azJmdUVYLXJwRlUxaV9Wd1BBa3h0Z3p1MzAwdEp1ajljZG1xdTZVeTVZR3RDRkk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-ai-2-judge rules dod unlawfully retaliate",
+      "date": "2026-09-09",
+      "type": "ai",
+      "number": 2,
+      "title": "Judge Rules DOD Unlawfully Retaliated Against Anthropic",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Electronic Frontier Foundation",
+      "links": [
+        {
+          "label": "Electronic Frontier Foundation",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNkpDRHJJdWFuLXhKV0NhUlpYdnM1TkNYU1RjRk1uSlgzMThiSjRtZnpiWW9GRWE4ZG4xVUF0VzAzU3lpZnpEeFZjN0R3V3E5Q3FxMVdueWJ0SGM0OFRwWlRndmZSYUtXYVRNY0tmQnZsY3dpZW5DS3gtWEVCZHprcmtfbndrczFCaklLUGpFTnBrVGJuZDZMRw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-ai-3-gpt 6 stole the show but anthropic m",
+      "date": "2026-09-09",
+      "type": "ai",
+      "number": 3,
+      "title": "GPT-6 Stole the Show, but Anthropic, Meta and Google Also Had New AI Models...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "CNET",
+      "links": [
+        {
+          "label": "CNET",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWHRXVzkwUHFULVpUV1VqNFhsNWg5NzRNU1hndzZXN3RoUzJ6NUdqTUpzMnFkdUUzOHBBeERudk5IR1FZYWozWkoyeFpwbDJGR25tNDhFZ1N0anhpNjJaWVg3LVZKUldZYVQwcjBoejhKWmhjb2pFMmVNNDdUX0tjQVdtbUlyYXFXS2lWQ0FURVpZdFJSUTI4bUVRWm9kX25HanIyWjlLaUk3c0pqcUFFQ0lXTWFKU3BBV3BLemxwOUR5STUxenpXWU9nZG0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-ai-4-work now within reach",
+      "date": "2026-09-09",
+      "type": "ai",
+      "number": 4,
+      "title": "Work Now Within Reach",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "OpenAI",
+      "links": [
+        {
+          "label": "OpenAI",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2TWthVXRxQ1FlaXFIMV9lWldBRXR2SWlBUXYxRGJ4RVloVUxxazVfdUtzRE5GRkhOSHFCZTZ2YzZ3ZGgxZkEyMHBnbjZVOUhFdk4ycVBGOUlaMG84TUpIQg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-ai-5-chatgpt claude and gemini are all do",
+      "date": "2026-09-09",
+      "type": "ai",
+      "number": 5,
+      "title": "ChatGPT, Claude and Gemini are all down as thousands of users experience ou...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "New York Post",
+      "links": [
+        {
+          "label": "New York Post",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOTA4UmE1MUpzMVFlWDNrZG9rSUJsSFl0a3dHanNJWlo5dWJxREc5cFo3UnQxRS1reHRCX01FbWJQeDd6Ulp1WlZPQmhIek81QUhlV0lleWE1M2ZieGhpM2trbkhaTmtPbVR0ZlFpN2lhWEhpWTNNQk9rTUlKblBtTzMxUU5HV2ptSGFxaTUxYmZYM0tiQ1ZSb1ZOTU11VWUzYlpnU1ZIYk9SaUlIc1dxR3lWd0hqQ2dHX3Jv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-ai-6-who s suing ai and who s signing lat",
+      "date": "2026-09-09",
+      "type": "ai",
+      "number": 6,
+      "title": "Who's suing AI and who's signing latest: Seattle Times, Newsday, Editorial ...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Press Gazette",
+      "links": [
+        {
+          "label": "Press Gazette",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-ai-7-accessing openai models on amazon be",
+      "date": "2026-09-09",
+      "type": "ai",
+      "number": 7,
+      "title": "Accessing OpenAI models on Amazon Bedrock from Australia with global cross-...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Amazon Web Services (AWS)",
+      "links": [
+        {
+          "label": "Amazon Web Services (AWS)",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVTJjWG9UblhrQzZ4TWtrZS1fWmhhM2t4YXhObHk5T2tZZVhaMzA1Nno4Y016S3BNYlV1Q3FvdldLY19uZUNmalFFalpzRHlSS0VSank3dVNZZllwSEJsTWM5UEpvaDJhc05BNXdFT3pHZENfcHpveUZ0VnhtRmFzdHZsRHZMbTc0Q0VnNFJRUlphSnY2elhwTjZZSnU5NUw0MklhbFFlZGNHZERXU2o1Y1ltNkcyQnlLeHFpcjEzMlBJNHpzbTNUWnNpTnMxOFhua2RxRS1jSnJIQy1Lc0xn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-ai-8-trump orders us government to cut ti",
+      "date": "2026-09-09",
+      "type": "ai",
+      "number": 8,
+      "title": "Trump orders US government to cut ties with Anthropic; Hegseth declares sup...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "links": [
+        {
+          "label": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPazMyTEtZY2RWSjJJaC05T0Y2NDE4bG9NeF9od29uVmtubVYxQnVNOGFuY0hrNjM1bW0xRFVGUkJHbEJNSjJWVGc0YzA0TFZKcl9fRlM0YnVjcU55aXhDcTk1Nl9PYkhXWWZYUnVpMUx5XzNIVTBwR0VPUkxfMnltUEExbGE0alRYZXQtUzhJWDZrTTFqbm1EMW5LbTd1UGx0Z1JCejgxVU1BOWs3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-ai-9-google starts september with ai mome",
+      "date": "2026-09-09",
+      "type": "ai",
+      "number": 9,
+      "title": "Google starts September with AI momentum after longest monthly losing strea...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "CNBC",
+      "links": [
+        {
+          "label": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNekV4X2IzT2hRdElVbXlXa0pVY3B0cE9va0tNYlNMMDJmb1I0NUxSellhbUs1TUw5aFBlZmtrdlB2bVV4ZW54VkNrOEs2Wkh5VGF5dUNadjlCQ3hqaUhVd1RSaDdyYXp2Qmx6YWN3WTF4blhhT3piSGJuMzF3UE83Z0lWOWVlVDVCRWtEZFJLVzRPdTdIRUw0OHdqbGFNbUxHVTNGRdIBqgFBVV95cUxOWnZTc0wtbjlNdi1FYUtpc19zWVpfVUxVZnJtSlpid0hTTUhnM1FZMmNyeVlXV0VCeEhHTi1WVE1QNzg4N0d6aDZ3b09xd2stRjljSU1ONXVsb1RTWWF2VWg4ZXMtQUVmR2lCb2dLM1dFT3l0R0VGNUo3S1FmZi01MzRHSU52NmNoaEpQSWdFWkp2Vk51Rk10Y0kyTmY4WW1nbWRGY0lETmpLUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-ai-10-funding grants for new research into",
+      "date": "2026-09-09",
+      "type": "ai",
+      "number": 10,
+      "title": "Funding grants for new research into AI and teen development",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "OpenAI",
+      "links": [
+        {
+          "label": "OpenAI",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qb0ZUX3hIM2JQZGx0T0xoTVdER2JqcHBRSGktMF9IUkJfQklIdzU5NmxsMVpKYmk5cG40NHZES1RwLUNybmRsaXBETVNrbzNBbk5zbDRrVGVaVjVLM1dENm5QcGJodTNkOFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-ai-11-openai begins rolling out astra mode",
+      "date": "2026-09-09",
+      "type": "ai",
+      "number": 11,
+      "title": "OpenAI begins rolling out Astra model after warning of its advanced cyber c...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "CNBC",
+      "links": [
+        {
+          "label": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iUlVPODl5bTBweko3Y1pHY1Y3RzZua3FHak9hVm5aa3hZWmNQcmVrVW1VMHdXME04cDJITVM4TmlBdUZWZ3JIQlgtdUZPMjlEd3pUdmNkV3BsT3FRMTEwNm1GcnRJU2NXeElBYVZhc9IBdEFVX3lxTE9NYUtIZlJ6NHoxSGladzc0bkc5Tm8xWjJkcHdJeHJHeUVfUlZ4b2ZoTC1ueE9HaEI4ZFZoUXAxUldGZHYweTd2ZEhtUkJiaFFid0FZdkdRS2Z1OV9NY2tzb3BKQW5wZGh0SER5aTlOdm9sbWVD?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-ai-12-anthropic launches ai agent blueprin",
+      "date": "2026-09-09",
+      "type": "ai",
+      "number": 12,
+      "title": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopp...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "reuters.com",
+      "links": [
+        {
+          "label": "reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZnpYSkJQNF9FY2pHYXBETVkzdkdMRGhfLVU4ZVZ6MmhRSkRxSGlhYUktc0RpOFhxMEZ4NG4yaW9TdGZJMU80OG9UVG9xc0JKRzVCb21UZTJJZjZoMi1ONWdVT2dCUXNRRi1QZ3RFVnp2QnZRa3hNUFB0QnNGNV9fUGxmckttdXFjX2JSUEljSjFMRnNoSmFoT2Z4U3ctUHoweWVnQnlCYUhaZ1FCd1c5TXBHZUVEUTdGRXlQcFVhZ1lwZTRMYjk2QXRpbE5wU1pWeC1YS2NB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-video-1-ancient egyptian tomb holding the ki",
+      "date": "2026-09-09",
+      "type": "video",
+      "number": 1,
+      "title": "Ancient Egyptian tomb holding the king's 'keeper of secrets' unearthed at S...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "livescience.com",
+      "links": [
+        {
+          "label": "livescience.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdnJaRkRyTVhZT3FZa3BpYl9QVTQwRFREUU9mdmYyNnBQc1RpNEpzUXhJc3R3ZXo2aDE0b0FnOC1VbmgxdkxVWFhabWhGWjN3cWxpT05ta1cwV0phMGJELXlMZ0lwcFlVbjRoTHc0WjZlNTFaNzNna1l0ZlV4MEJZY25YZHBiR2FpNWtkR1hkdnVJang5YzhCY0k1MDdtcHdyaEVtR25fZGlXbnFFZ19Sd2x3Z2VTS09nVmdQLXM2eTdSOGF2MjVKRnRzTUttZW1QV1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-video-2-4 000 year old tomb of ancient egypt",
+      "date": "2026-09-09",
+      "type": "video",
+      "number": 2,
+      "title": "4,000-Year-Old Tomb of Ancient Egyptian ‘Keeper of the Secrets’ Discovered ...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "The Debrief",
+      "links": [
+        {
+          "label": "The Debrief",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMjhiVjlzd1VMT0hmRmRrSHJNa18xdEVpR1ZzVXlESHhjLS1FRlFxTmJhTFc4dDFkMWlZenFSbUtrcU1aSkhtdmFaRklGelRBMnFhWUlidlRJM3VqWHlCLUNoYTQ1eno0NG1KVHFmMjlWT2JtVldrZG5UeGhOMld4YUVQZ1paancwcFA3cDVOWjJWbG5sdlVVS0w4ejN3YlRhOGVYS3F3eUJqdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-video-3-archaeologists discover a 4 000 year",
+      "date": "2026-09-09",
+      "type": "video",
+      "number": 3,
+      "title": "Archaeologists Discover a 4,000-Year-Old Tomb With a False Door at Egypt's ...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "smithsonianmag.com",
+      "links": [
+        {
+          "label": "smithsonianmag.com",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTURKTkVtWEc0SDNfNTduNWhpY3U1NjNYaDU4Z3ZSb1Y2VlZlRDZlWDRjaEhyTGlsTXBzNFNtdkl4RTZnbkhnYVlxQjNpOUJZaDlWcFU1SjU3M2h5SmVacE9lZVJaa2FmaUhPSDdzOExZbVFfODJOdEMyOTYzUGJBcWsyM0RnT3hTV2pFQjNTczJSekw5TVRySU14cnlEU1hlM0Y0N29fZFZ3eV9CM1hpSkowRXY0Z1BmNHAwd2cwYmVXT29ER1BLMG1XNkU0VUlLa3J3bzRNSTNwR3BKSmo1dkppVnJ2MDA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-video-4-spanish egyptian mission reveals fif",
+      "date": "2026-09-09",
+      "type": "video",
+      "number": 4,
+      "title": "Spanish-Egyptian mission reveals fifth dynasty tomb at Saqqara",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "HeritageDaily",
+      "links": [
+        {
+          "label": "HeritageDaily",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM1paRC01VEgwYkhFUXFzcVdrOExZZS1zZEtIME9LUll0eldQcGFVTEdUaGlHRjhjQkxaSktuZ0JydVRndU9qWllZNXh2eHk4UVVieXJhTkNESGViVHZrb1lnelBkYUtJRndQYkJQSUhUMWFwS3FFNHhsZXJ1YmR1VGJKT0U3TXhHb09qME9kVEk1RldTMG1tZ0V3a01GTXR0NkhjUGo4SHY0UzQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-video-5-site where jesus was crucified and b",
+      "date": "2026-09-09",
+      "type": "video",
+      "number": 5,
+      "title": "Site where Jesus was crucified and buried reveals new evidence that backs b...",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Fox News",
+      "links": [
+        {
+          "label": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3dYYlpHTkpWalNZVGJEUDJFX0FIemNpb0xOdzl5dkdUUklhM1RxV2MtRGNoMlVKS2FYNHA5TWZEY1Z3aGRMb2ROS3dFVVg1a2paS2tMbXlmSFlNQndJQmNtVWwwQUtYU2cwLW0yQkc1X1FDYkI2OFRRRlVkbjI2YlVIYWRKSjRXSEg5dzNwOU9OY2pEbzBvUm1XSFEwQzQtTjQxZmtfdFpwQjd20gGyAUFVX3lxTE1MWU85XzdMN2dNS0lfa2RENm01TzZ0elZmcmJodEhWX1VsbS0xekd5SUY0TzN1cmQxSUwwQ1dlWXRNOGZBQ2RsLTNvejVpS3pVNWYwYVJnSGx1bUhmaDJrNjZSNVhnR3hBNmNZWFRPbFdabkNvMHNBeG12Ym1tVGU4c3N3SVBxeTh4Qk82N3Y2ajJuczIwQ3FQUEpqNjhtVlNFVmZjamVBTGtxTlBYRUhFRlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-video-6-tomb dating to pharaoh djedkare ises",
+      "date": "2026-09-09",
+      "type": "video",
+      "number": 6,
+      "title": "Tomb dating to Pharaoh Djedkare Isesi’s reign discovered in Saqqara",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "TodayPress.tv",
+      "links": [
+        {
+          "label": "TodayPress.tv",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb1lOSnV6a3REX0RnVm1DWDFQdkkwbk12OEk3b3VUS3dVS01RZXcydDVucFVUN3hjTDNsel9EUHVuN2lFaDItTU9TUUlVSFZmdFNLM1RXOEFsS1B4YW9JUzJ5aFgyRm04QXJJQXhYSG9TZW93X0F0MHdBZ3V3bW4yemkxRnBvaEctellzM1FiMFVMZmZzU1ZpcGxlYVg2Mi1tUHZCVnl3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-video-7-10 bizarre ancient archeological dis",
+      "date": "2026-09-09",
+      "type": "video",
+      "number": 7,
+      "title": "10 Bizarre Ancient Archeological Discoveries Beyond Human Understanding Tre...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Mshale",
+      "links": [
+        {
+          "label": "Mshale",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13S0FybTZvV3ZSVU44UDNrMUl4SFhzN0JLUWhXRzU0WXBzUFBVaTkyY2R0RjFlZ0NzbkRmM213aDRfb2RfS1k0Umd5OFMzTVFnR0I3ZlN2a3FWOUJmdy1Ydw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-video-8-4 000 year old tomb with colorful re",
+      "date": "2026-09-09",
+      "type": "video",
+      "number": 8,
+      "title": "4,000-Year-Old Tomb With Colorful Reliefs Unearthed at Egypt’s Saqqara",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "GreekReporter.com",
+      "links": [
+        {
+          "label": "GreekReporter.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiQVpuSEJ5SkI4dFlLXzliOWNqZ1dESjg3NUtwR3Y4c0FhcUxNWHpLZFpGTjRRb1NMb2NpUW81ck5CbnN4TWJrYS1YOGludU5YcVl3N1E5ZDFHT2JKdmg4TXlaRXZ1bnJZZ0dFTXZFYldyTTZiZTY2TTJ6OHpWZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-09-video-9-spanish archaeologists discover 4 40",
+      "date": "2026-09-09",
+      "type": "video",
+      "number": 9,
+      "title": "Spanish archaeologists discover 4,400-year-old tomb in Egypt with original ...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "inkl",
+      "links": [
+        {
+          "label": "inkl",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa1p6UHVYaUZFT3FSOG0yN09obTI5X0s3S1VvMk93ZkFMVEh6dUhscnh5dUdoZTNWWVVXTlpXaVMtY0ZXa1h5Z3dRRFoybnlJaTZ3Q3FXSjNsbTFmaTJLOFlia2VqQTRkbGVYb2FveXRLZjZmYm1oU1lxWXBqemgtQ2pxQU02Z1BlcUxBc3FacDBfNG9GUTR0NzhUTV96TW52Y2NSbzhGYkE5RWxqQ3d3azYtZDV4Zw?oc=5"
+        }
+      ]
+    },
     {
       "id": "2026-09-08-ai-1-latest ai news we announced in augus",
       "date": "2026-09-08",
@@ -19,38 +355,6 @@
       ]
     },
     {
-      "id": "2026-09-08-ai-2-model fatigue sets in as ai labs rac",
-      "date": "2026-09-08",
-      "type": "ai",
-      "number": 2,
-      "title": "‘Model fatigue’ sets in as AI labs race to roll out new versions at freneti...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "CNBC",
-      "links": [
-        {
-          "label": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGE4Q2Q0VHRjb2tCbGpsemp2Ql9uSW1zdXdRVDVOUFgxdXhXcTBOTlFHamp5bkQzN1Foam44WWFlNXZTWGVpdXdWMEhqMTBVbklsR2YtdE83Wkd5SG12WjF5akVSeUF2RE9SRjZPQ01mTEtnRzNEc1hjRHJIQ1V0aUw1MHNzSDVsTFHSAY8BQVVfeXFMTVdCNVVRWEpVQ1RLcDVsQ3VhVmtWQlZMek91OVJWSExlQWxLOEpoUm8xenRUb1d2YTJxbUhRRUNjUFBkbFpHVUlXUnNsalUtVk1sUlBmSTFLOEZhbTM0cHM4azJmdUVYLXJwRlUxaV9Wd1BBa3h0Z3p1MzAwdEp1ajljZG1xdTZVeTVZR3RDRkk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-08-ai-3-gpt 6 stole the show but anthropic m",
-      "date": "2026-09-08",
-      "type": "ai",
-      "number": 3,
-      "title": "GPT-6 Stole the Show, but Anthropic, Meta and Google Also Had New AI Models...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "CNET",
-      "links": [
-        {
-          "label": "CNET",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWHRXVzkwUHFULVpUV1VqNFhsNWg5NzRNU1hndzZXN3RoUzJ6NUdqTUpzMnFkdUUzOHBBeERudk5IR1FZYWozWkoyeFpwbDJGR25tNDhFZ1N0anhpNjJaWVg3LVZKUldZYVQwcjBoejhKWmhjb2pFMmVNNDdUX0tjQVdtbUlyYXFXS2lWQ0FURVpZdFJSUTI4bUVRWm9kX25HanIyWjlLaUk3c0pqcUFFQ0lXTWFKU3BBV3BLemxwOUR5STUxenpXWU9nZG0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-09-08-ai-4-openai chief scientist warns no one ",
       "date": "2026-09-08",
       "type": "ai",
@@ -63,38 +367,6 @@
         {
           "label": "BBC",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxV2FoYnFlb1JwdkkxYVh4RFdleTROcmI1MnQwV2Vlb3l3Uk1MQUtQd1c2Ri1US2FFdW9iX3VGdmJVakRkdzY2YTRiQWp6RDlNV05MZnpod3NkQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-08-ai-5-chatgpt claude and gemini are all do",
-      "date": "2026-09-08",
-      "type": "ai",
-      "number": 5,
-      "title": "ChatGPT, Claude and Gemini are all down as thousands of users experience ou...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "New York Post",
-      "links": [
-        {
-          "label": "New York Post",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOTA4UmE1MUpzMVFlWDNrZG9rSUJsSFl0a3dHanNJWlo5dWJxREc5cFo3UnQxRS1reHRCX01FbWJQeDd6Ulp1WlZPQmhIek81QUhlV0lleWE1M2ZieGhpM2trbkhaTmtPbVR0ZlFpN2lhWEhpWTNNQk9rTUlKblBtTzMxUU5HV2ptSGFxaTUxYmZYM0tiQ1ZSb1ZOTU11VWUzYlpnU1ZIYk9SaUlIc1dxR3lWd0hqQ2dHX3Jv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-08-ai-6-anthropic launches ai agent blueprin",
-      "date": "2026-09-08",
-      "type": "ai",
-      "number": 6,
-      "title": "Anthropic launches AI agent blueprints for retailers ahead of holiday shopp...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "Reuters",
-      "links": [
-        {
-          "label": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZnpYSkJQNF9FY2pHYXBETVkzdkdMRGhfLVU4ZVZ6MmhRSkRxSGlhYUktc0RpOFhxMEZ4NG4yaW9TdGZJMU80OG9UVG9xc0JKRzVCb21UZTJJZjZoMi1ONWdVT2dCUXNRRi1QZ3RFVnp2QnZRa3hNUFB0QnNGNV9fUGxmckttdXFjX2JSUEljSjFMRnNoSmFoT2Z4U3ctUHoweWVnQnlCYUhaZ1FCd1c5TXBHZUVEUTdGRXlQcFVhZ1lwZTRMYjk2QXRpbE5wU1pWeC1YS2NB?oc=5"
         }
       ]
     },
@@ -147,38 +419,6 @@
       ]
     },
     {
-      "id": "2026-09-08-ai-10-google starts september with ai mome",
-      "date": "2026-09-08",
-      "type": "ai",
-      "number": 10,
-      "title": "Google starts September with AI momentum after longest monthly losing strea...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "CNBC",
-      "links": [
-        {
-          "label": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNekV4X2IzT2hRdElVbXlXa0pVY3B0cE9va0tNYlNMMDJmb1I0NUxSellhbUs1TUw5aFBlZmtrdlB2bVV4ZW54VkNrOEs2Wkh5VGF5dUNadjlCQ3hqaUhVd1RSaDdyYXp2Qmx6YWN3WTF4blhhT3piSGJuMzF3UE83Z0lWOWVlVDVCRWtEZFJLVzRPdTdIRUw0OHdqbGFNbUxHVTNGRdIBqgFBVV95cUxOWnZTc0wtbjlNdi1FYUtpc19zWVpfVUxVZnJtSlpid0hTTUhnM1FZMmNyeVlXV0VCeEhHTi1WVE1QNzg4N0d6aDZ3b09xd2stRjljSU1ONXVsb1RTWWF2VWg4ZXMtQUVmR2lCb2dLM1dFT3l0R0VGNUo3S1FmZi01MzRHSU52NmNoaEpQSWdFWkp2Vk51Rk10Y0kyTmY4WW1nbWRGY0lETmpLUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-08-ai-11-openai begins rolling out astra mode",
-      "date": "2026-09-08",
-      "type": "ai",
-      "number": 11,
-      "title": "OpenAI begins rolling out Astra model after warning of its advanced cyber c...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "CNBC",
-      "links": [
-        {
-          "label": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iUlVPODl5bTBweko3Y1pHY1Y3RzZua3FHak9hVm5aa3hZWmNQcmVrVW1VMHdXME04cDJITVM4TmlBdUZWZ3JIQlgtdUZPMjlEd3pUdmNkV3BsT3FRMTEwNm1GcnRJU2NXeElBYVZhc9IBdEFVX3lxTE9NYUtIZlJ6NHoxSGladzc0bkc5Tm8xWjJkcHdJeHJHeUVfUlZ4b2ZoTC1ueE9HaEI4ZFZoUXAxUldGZHYweTd2ZEhtUkJiaFFid0FZdkdRS2Z1OV9NY2tzb3BKQW5wZGh0SER5aTlOdm9sbWVD?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-09-08-ai-12-how a tiny anthropic team became a s",
       "date": "2026-09-08",
       "type": "ai",
@@ -195,70 +435,6 @@
       ]
     },
     {
-      "id": "2026-09-08-video-1-ancient egyptian tomb holding the ki",
-      "date": "2026-09-08",
-      "type": "video",
-      "number": 1,
-      "title": "Ancient Egyptian tomb holding the king's 'keeper of secrets' unearthed at S...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Live Science",
-      "links": [
-        {
-          "label": "Live Science",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdnJaRkRyTVhZT3FZa3BpYl9QVTQwRFREUU9mdmYyNnBQc1RpNEpzUXhJc3R3ZXo2aDE0b0FnOC1VbmgxdkxVWFhabWhGWjN3cWxpT05ta1cwV0phMGJELXlMZ0lwcFlVbjRoTHc0WjZlNTFaNzNna1l0ZlV4MEJZY25YZHBiR2FpNWtkR1hkdnVJang5YzhCY0k1MDdtcHdyaEVtR25fZGlXbnFFZ19Sd2x3Z2VTS09nVmdQLXM2eTdSOGF2MjVKRnRzTUttZW1QV1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-08-video-2-4 000 year old tomb of ancient egypt",
-      "date": "2026-09-08",
-      "type": "video",
-      "number": 2,
-      "title": "4,000-Year-Old Tomb of Ancient Egyptian ‘Keeper of the Secrets’ Discovered ...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "The Debrief",
-      "links": [
-        {
-          "label": "The Debrief",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMjhiVjlzd1VMT0hmRmRrSHJNa18xdEVpR1ZzVXlESHhjLS1FRlFxTmJhTFc4dDFkMWlZenFSbUtrcU1aSkhtdmFaRklGelRBMnFhWUlidlRJM3VqWHlCLUNoYTQ1eno0NG1KVHFmMjlWT2JtVldrZG5UeGhOMld4YUVQZ1paancwcFA3cDVOWjJWbG5sdlVVS0w4ejN3YlRhOGVYS3F3eUJqdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-08-video-3-archaeologists discover a 4 000 year",
-      "date": "2026-09-08",
-      "type": "video",
-      "number": 3,
-      "title": "Archaeologists Discover a 4,000-Year-Old Tomb With a False Door at Egypt's ...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Smithsonian Magazine",
-      "links": [
-        {
-          "label": "Smithsonian Magazine",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTURKTkVtWEc0SDNfNTduNWhpY3U1NjNYaDU4Z3ZSb1Y2VlZlRDZlWDRjaEhyTGlsTXBzNFNtdkl4RTZnbkhnYVlxQjNpOUJZaDlWcFU1SjU3M2h5SmVacE9lZVJaa2FmaUhPSDdzOExZbVFfODJOdEMyOTYzUGJBcWsyM0RnT3hTV2pFQjNTczJSekw5TVRySU14cnlEU1hlM0Y0N29fZFZ3eV9CM1hpSkowRXY0Z1BmNHAwd2cwYmVXT29ER1BLMG1XNkU0VUlLa3J3bzRNSTNwR3BKSmo1dkppVnJ2MDA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-08-video-4-site where jesus was crucified and b",
-      "date": "2026-09-08",
-      "type": "video",
-      "number": 4,
-      "title": "Site where Jesus was crucified and buried reveals new evidence that backs b...",
-      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Fox News",
-      "links": [
-        {
-          "label": "Fox News",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3dYYlpHTkpWalNZVGJEUDJFX0FIemNpb0xOdzl5dkdUUklhM1RxV2MtRGNoMlVKS2FYNHA5TWZEY1Z3aGRMb2ROS3dFVVg1a2paS2tMbXlmSFlNQndJQmNtVWwwQUtYU2cwLW0yQkc1X1FDYkI2OFRRRlVkbjI2YlVIYWRKSjRXSEg5dzNwOU9OY2pEbzBvUm1XSFEwQzQtTjQxZmtfdFpwQjd20gGyAUFVX3lxTE1MWU85XzdMN2dNS0lfa2RENm01TzZ0elZmcmJodEhWX1VsbS0xekd5SUY0TzN1cmQxSUwwQ1dlWXRNOGZBQ2RsLTNvejVpS3pVNWYwYVJnSGx1bUhmaDJrNjZSNVhnR3hBNmNZWFRPbFdabkNvMHNBeG12Ym1tVGU4c3N3SVBxeTh4Qk82N3Y2ajJuczIwQ3FQUEpqNjhtVlNFVmZjamVBTGtxTlBYRUhFRlE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-09-08-video-5-frontier archaeology traces the thre",
       "date": "2026-09-08",
       "type": "video",
@@ -271,22 +447,6 @@
         {
           "label": "China Daily Global Edition",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaER2eGhnSjNXWlZBRXFBM0ZFQ2hDQnQtYzZvWk41LXhUcnZfV21iOXRJRnlDWW1XUVN1LTJyT002OFBKdGNWeUhmRHJ0cmpuRlVmT0kwdFZaQjJ1MDY4Zm9maVVSTXVCYnFZWXBHcm90RUpsZGR3LVhfSm04OHNHYzBn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-08-video-6-10 bizarre ancient archeological dis",
-      "date": "2026-09-08",
-      "type": "video",
-      "number": 6,
-      "title": "10 Bizarre Ancient Archeological Discoveries Beyond Human Understanding Tre...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Mshale",
-      "links": [
-        {
-          "label": "Mshale",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13S0FybTZvV3ZSVU44UDNrMUl4SFhzN0JLUWhXRzU0WXBzUFBVaTkyY2R0RjFlZ0NzbkRmM213aDRfb2RfS1k0Umd5OFMzTVFnR0I3ZlN2a3FWOUJmdy1Ydw?oc=5"
         }
       ]
     },
