@@ -1,28 +1,108 @@
 {
-  "updatedAt": "2026-09-21T23:47:11.018Z",
+  "updatedAt": "2026-09-22T23:26:35.821Z",
   "maxItems": 1000,
   "items": [
     {
-      "id": "2026-09-22-ai-1-anthropic merges its chat and agenti",
-      "date": "2026-09-22",
+      "id": "2026-09-23-ai-1-measurements for understanding the p",
+      "date": "2026-09-23",
       "type": "ai",
       "number": 1,
+      "title": "Measurements for understanding the pace of AI development inside frontier labs",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Anthropic",
+      "links": [
+        {
+          "label": "Anthropic",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-ai-2-anthropic merges its chat and agenti",
+      "date": "2026-09-23",
+      "type": "ai",
+      "number": 2,
       "title": "Anthropic merges its chat and agentic products into one AI assistant in pus...",
       "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
       "signal": "Public news/RSS pickup",
-      "source": "Fortune",
+      "source": "fortune.com",
       "links": [
         {
-          "label": "Fortune",
+          "label": "fortune.com",
           "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRXhiM3FncG40bjVXMDFLMTV5RnBpMzFMWTY2Qml0dUNJeWVFSTZLZ1V0bU9PUk11aC03VDZQUFdpN01sZXUtdEUwblVFUjBSN183bWNEd09pR1FTQmowdzd5ZEk1Y0RTRUhwb0hxWEtqVUQyS3ZBaVFVZzk2NXA3TEhGZmJJb1poSWFvWE1yQWNmazBsM29rbjlmQVR4ZGtPTU5GcFg1aVBJd1lWdE43NHBrMzRVb1E2UENac3Brd3JPQVJNM1E1aHN1VWV3YzlvaFFLWF9mM0F6c05kLTRHTWl5Z09vLVB1b1Z3aV9KeGFoamc?oc=5"
         }
       ]
     },
     {
-      "id": "2026-09-22-ai-2-shoppers can now buy coach and kate ",
-      "date": "2026-09-22",
+      "id": "2026-09-23-ai-3-tech firms mark down ai products to ",
+      "date": "2026-09-23",
       "type": "ai",
-      "number": 2,
+      "number": 3,
+      "title": "Tech Firms Mark Down AI Products to Compete With OpenAI and Anthropic",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "PYMNTS.com",
+      "links": [
+        {
+          "label": "PYMNTS.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSWgyWm9HLXVxc1VfeUdmdC0xRXJXS2xEeVNFb3Atbm5STzdDaGk3ZXA0Q081X0lMZFNvTk1wRFRrZFg3UDhhcDYxXy1wQVpnbm5QWTZTbmhrbENJUXVtSUkwMjljOXlURmJweEhGdzRnN0NycTJqay1lUjNWZU9UalJJMTJVSnBLU2RXTUZvdldmNllsVEJyYVZXX2R4bHpHakNhNmxaOHdmNkJSMXUyS1VNZDRnRmhYMlRoVnNEdHZxYTdZdEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-ai-4-introducing gpt 6 sol and luna",
+      "date": "2026-09-23",
+      "type": "ai",
+      "number": 4,
+      "title": "Introducing GPT-6 Sol and Luna",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "OpenAI",
+      "links": [
+        {
+          "label": "OpenAI",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-ai-5-awesome and alarming a i visions of ",
+      "date": "2026-09-23",
+      "type": "ai",
+      "number": 5,
+      "title": "Awesome and Alarming A.I. Visions of Anthropic’s C.E.O.",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "The New York Times",
+      "links": [
+        {
+          "label": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjdsMmVOalo4al9nOGNOMzl6ZTNwLUFHVzZlN3Ayd1ZUMkhReU4wZ0Y0X05hbnpoWldIQ0ZReUdoNVA5MTRBQUs2ZzZISU56X1dQbTIzRVQ2ZWpHeW5NVDZsdFRyMG9RWDBoYjNmNGU1ckxlNUtsRFo1dy02dlowVlZZWVRBamhHOWtF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-ai-6-google confirms gemini ai breached t",
+      "date": "2026-09-23",
+      "type": "ai",
+      "number": 6,
+      "title": "Google Confirms Gemini AI Breached Three Firms",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "SecurityWeek",
+      "links": [
+        {
+          "label": "SecurityWeek",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObFRHaVRJanFkaWFmN2hwQ01mY0dyWmluaW5xaUx0c2pLUE1yZnEyd0NJZkRTV0x4NnNYNkVteV9BRlRORE1ubUtNamVuRUhrdlAtTnF2cm85dmFEVGswRGhaanNvclVFRXBnR29wbnFkeEpseUZBWWdnZUdXYXBiNTdn0gGHAUFVX3lxTE9JcTBCbHpwbWQ2TzJMTmZMVklHRUtReVIwdHdSMWlkV2lNQXBQUGVYMFpUMmFybVBtYndqVWdtYkh5d1U5YjBJcnFGMmNpRWlkMTdGRWRhRXVVT0hUTGRCazBidlRyX0hadWVLWXJkcHkzRHBSYmc0NXM0UTdKTlI4al9jU0I1RQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-ai-7-shoppers can now buy coach and kate ",
+      "date": "2026-09-23",
+      "type": "ai",
+      "number": 7,
       "title": "Shoppers Can Now Buy Coach and Kate Spade Products in the Gemini App and Go...",
       "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
       "signal": "Public news/RSS pickup",
@@ -35,18 +115,226 @@
       ]
     },
     {
-      "id": "2026-09-22-ai-3-awesome and alarming a i visions of ",
-      "date": "2026-09-22",
+      "id": "2026-09-23-ai-8-openai microsoft executives quotes o",
+      "date": "2026-09-23",
       "type": "ai",
-      "number": 3,
-      "title": "Awesome and Alarming A.I. Visions of Anthropic’s C.E.O.",
+      "number": 8,
+      "title": "OpenAI, Microsoft executives' quotes on AI training threaten copyright defe...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Reuters",
+      "links": [
+        {
+          "label": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONHczYjIxX2dqTUpmMjBubHYzSTZCTVhBdmhHZDdOY1Zia05tQzhzY3hFc0pWR0czakY2c2ROUnlOZm1TbGNyTFk4UGc5REVTYzJmekFoRnFNS2lPeEhKVDctVkJXaHhldkZJanpqenFwZWtVT3JnQ0JYTmVja2ZKcS1EMTMwS0NpNzdVczhhRUVWLXF5aF9qRXBPVFJXSFljQWdwT0FWUjVBbDQ4YkVOdUNBS1ZtR0YzaXM2YnlYQ3VpQmt2YnVqNEEzejM3bjM0cDZj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-ai-9-a i industry s new worry liability e",
+      "date": "2026-09-23",
+      "type": "ai",
+      "number": 9,
+      "title": "A.I. Industry’s New Worry: ‘Liability Exposure’",
       "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
       "signal": "Public news/RSS pickup",
       "source": "The New York Times",
       "links": [
         {
           "label": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjdsMmVOalo4al9nOGNOMzl6ZTNwLUFHVzZlN3Ayd1ZUMkhReU4wZ0Y0X05hbnpoWldIQ0ZReUdoNVA5MTRBQUs2ZzZISU56X1dQbTIzRVQ2ZWpHeW5NVDZsdFRyMG9RWDBoYjNmNGU1ckxlNUtsRFo1dy02dlowVlZZWVRBamhHOWtF?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdGt5enpFT2RsRkhORHdHai1BNDZvTFp6WmVydS1CbVVqRDEwY0VsZnZJNzdWblhuVkNtSnJKNmE2Nkpia0F5QjNpOFFMZ1lfcHN1bUxQNU41MmVZbkZhSmMza0NVNnEwTkhBbE52V1FJOGlaMU13aHJLMnFra0dtWVBn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-ai-10-google nvidia and anthropic want eme",
+      "date": "2026-09-23",
+      "type": "ai",
+      "number": 10,
+      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "TechCrunch",
+      "links": [
+        {
+          "label": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUllEZExxMWV3QS01ejVlZ3NKMVJ0c0hVLWNzWHJVLUFoOGdQal9aNUtQRnZSN1BocVlYSUZRWkhzNjZEejZEb01rSFllZF9zcElMdTdhYkgtaUVFVF9lS0Vjc2RGYlYybHhacEpyMEpxNElSS243Uzh3UWZiY0RLcllENENXNXpaRTNEcUVvMVhSV01mbVc5VVJ4NG1xZHBnanZid05FTHhvSm54cE9VQy1xSzBmVGpBLTZ1R2l3NnpKUzNU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-ai-11-software firms discount ai to keep c",
+      "date": "2026-09-23",
+      "type": "ai",
+      "number": 11,
+      "title": "Software Firms Discount AI to Keep Customers From Anthropic, OpenAI",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "The Information",
+      "links": [
+        {
+          "label": "The Information",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWFE0dDlzUktaU2FTcDY5YXFLU0xkZjBhWjJqcmtwQ1lSWjZjVExfanFaaHJlSXktNmkxTnduaU9FYk9FTElGaVV3eTQ4ZUJZQUsyWGRkNm8yb0NoekpZaHBfQUVQazRnZkd6ejVVYXdUUXg2a1NoUHdhMDlBZV9oRWFwSGpXWUhrNGNzWnFnNktaaElfbHg3V2Q0dC1tY1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-ai-12-palo alto networks equips openai ant",
+      "date": "2026-09-23",
+      "type": "ai",
+      "number": 12,
+      "title": "Palo Alto Networks equips OpenAI, Anthropic frontier models into AI defense...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Seeking Alpha",
+      "links": [
+        {
+          "label": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMzRYOElzSDdQVDFzU1JuUkpZWjNLaUdVWGFDVWlySG8tYTlvdWdSNHVMY3pOYXZqUmRsUXdOck1VdDhUZ2MzdHJWR1pxN19LSEtyeENEWW5tWndLWTBaMHl6WjlaajR5QjJ2T2F2c01qSjc1bWpPT0Q1ZUdpV0FYdWhpS1c2UTJBRDNlQ0J5ZFZTVG5qNnR6LVNxemh6YWhtUzBkT3JSZnh3aThvLTFFdGlvc0xaaV8tNHBOMnJB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-video-1-striking new evidence of hidden cham",
+      "date": "2026-09-23",
+      "type": "video",
+      "number": 1,
+      "title": "Striking New Evidence of Hidden Chambers Near Tutankhamun’s Tomb Could Help...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "The Debrief",
+      "links": [
+        {
+          "label": "The Debrief",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTHZUMFJjRTZOWnpubU1rVjFSVjIxY2FNM3Z3cGdaMm1vRDFJVU5iT0xNX0dsZnpjVGREck5wY1FrbDFYaGdQS2ZjNXkzWmVrd0V2aTA1RHBDSXdzVVgwcDdMdjlGamJBZWplRC1zTXRMbllHRjFoeG5JdHJXSDg5NmhXWVZ6bUxRWHNaZE13UF96Q0NTZmswdW0waXJSdzRibzJuajNxYW1LMUFYWl83SFNkcFJCVHZYZWNCYmtCWnYzT3BTc2l1b1ViaGlFdnA2d1FDZ29iOUNMUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-video-2-king tut s burial site could contain",
+      "date": "2026-09-23",
+      "type": "video",
+      "number": 2,
+      "title": "King Tut’s burial site could contain the way to Queen Nefertiti’s tomb — an...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "New York Post",
+      "links": [
+        {
+          "label": "New York Post",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYUxnUUpPRVVwQkV5ZllwcjcwYWE5NDFjUTNadlJCeS1GU0M2S3dkNjZ4OUpJTFcxczBlZ0l3SjN5QmFXRk9NOWZDYVRoaUtKcm1UNTJkRGJEOEN5MlFuUWkweVNhcEJzUXRtM2dpYkJnZllKUFBMUE9LaExmdm9NcXlVa0owb1RRbTF2WURuSHhtb3VCVWNGalVFZmFDSUVyWDlWQzJzSFZrNUQzX2lnZ29rM25kNV9xNFhsV0N5Wno1ckFv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-video-3-king tut s tomb may hide secret cham",
+      "date": "2026-09-23",
+      "type": "video",
+      "number": 3,
+      "title": "King Tut’s Tomb May Hide Secret Chambers, Reviving a Search for Queen Nefer...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "discovermagazine.com",
+      "links": [
+        {
+          "label": "discovermagazine.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdnY5WFpfNV9uQU9WRTFVV21UZnFxSmEwYlh0bmhUNVMzZVBtMG5nOHh3MXNJMEItcXpyZE1sOUh6aEdhSW5yZFJWWUVFQy03eEdKMFJFdlJoVjBuUnlRVTlhR1RpYzU4NGN0WkFlWVlNeG5MQjhHOUNSbVhaYXVQdHNpWXdINThiRldFYXhYNWVJVG5RbXo1ekpkWGpwc3VRazlqb1VSMnE3Umh6UC1KV0hRT3oyUmFl?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-video-4-a legendary chinese empress may lie ",
+      "date": "2026-09-23",
+      "type": "video",
+      "number": 4,
+      "title": "A Legendary Chinese Empress May Lie in a Royal Tomb Surrounded by 45 Myster...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Arkeonews",
+      "links": [
+        {
+          "label": "Arkeonews",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU1p6LU02Qm1VZEp6ZFJRYXQ1WkRmazBHcVM2ME16dmo3WFZDS0tCdjB2ekRTV1ZISmNzcS1ySWctRGxFZW4zNXd5WkQwdjZuZkVQUEIzOFVrb3hPX2xVa2lmc1BpWnByamxRYndjc3g5ZTA0eVVHTlNFcm1GWW1Id1pnWTF6LURRbHFYc2o1aUp3ZzRzcHlTX1BOdVJZYlJ6TG5naHZfZmk0dnNZR3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-video-5-hidden chamber beneath tutankhamun n",
+      "date": "2026-09-23",
+      "type": "video",
+      "number": 5,
+      "title": "Hidden chamber beneath Tutankhamun? New radar discovery sparks ancient Egyp...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "WION",
+      "links": [
+        {
+          "label": "WION",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX1Z4dE1TLUczWmZDRW5YTDlWWUdYRTBZTWtrU1NscXhuSE5XY2dXdHg1MFNhQWE0dHVuMTZnMk4ya1BYbmV6SS0yZm5WOHo5a2pmM2E5WVRxWTdzZHU1YzVlR1VXQWlialMwa0xNRjAtbk83YXlWMVVPZFFFM240dFREVnBGWHBnS1hHYVhCdkZSMC1jdlJSd05fQVZkeXpNVjB4bXJ3TjlTV0JRLXdGVXJOU0pDUG1kaER0MVpvQ2QwY3NIeUhwWG9rZlnSAcwBQVVfeXFMT19WeHRNUy1HM1pmQ0VuWEw5VllHWEUwWU1ra1NTbHF4bkhOV2NnV3R4NTBTYUFhNHR1bjE2ZzJOMmtQWG5lekktMmZuVjh6OWtqZjNhOVlUcVk3c2R1NWM1ZUdVV0FpYmpTMGtMTUYwLW5PN2F5VjFVT2RRRTNuNHRURFZwRlhwZ0tYR2FYQnZGUjAtY3ZSUndOX0FWZHl6TVYweG1yd045U1dCUS13RlVyTlNKQ1BtZGhEdDFab0NkMGNzSHlIcFhva2ZZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-video-6-officials just unveiled massive anci",
+      "date": "2026-09-23",
+      "type": "video",
+      "number": 6,
+      "title": "Officials Just Unveiled Massive Ancient Artworks Depicting a Mysterious Unk...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Popular Mechanics",
+      "links": [
+        {
+          "label": "Popular Mechanics",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON1p2Qm56Vndzck04MXhsV2R1aWpaQV9qSm5tNU5tT0V4dFhoT0dZYThqUUhsVl8zOE54NkU4REh3enhZWkk4QklYRG1ZN2NyYWZjRWMwZjNaSFRpeXpSS1JHcTRzYXk5Q2pNc0NBVXFCMUFrcEpuSUxNbWJ2dzBPd3RoWHVFS2p0UnJBeUwxam5YWHFRUEhZeTNIRmN2SV9IemFyX1NB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-video-7-ancient egyptian mystery solved as s",
+      "date": "2026-09-23",
+      "type": "video",
+      "number": 7,
+      "title": "Ancient Egyptian mystery 'solved' as secret chamber found in Tutankhamun's ...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Daily Star",
+      "links": [
+        {
+          "label": "Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaWc1NjF6cU9lS1JsT0RTZ0t0Z043UnRMS2o1NUE5S2Y2aUpzTDZuem5rUW1JZk1vWDJiYndRMWo3cHhVbzhtTU93bDJIbzkzTDRqZjZsMjQ2Z0lvUnJ1aEFmam9vQ2liUlJNZFRTdmhQUWZZNDNFYk54cXpndmFFUGJ3aVhZYnBvQllFcm0tQ3lRQnJsdVVN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-video-8-tutankhamun breakthrough as secret c",
+      "date": "2026-09-23",
+      "type": "video",
+      "number": 8,
+      "title": "Tutankhamun breakthrough as secret chamber found in ancient Egyptian pharao...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "express.co.uk",
+      "links": [
+        {
+          "label": "express.co.uk",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLWVQX2djb1lsb05HMVNyUGZ3andvOVIyejBOZXdyY0o4Tno4MmVEUmxVSkpfTmYzQ05HNVZ6aGtSNEM5Y004OHgtTHhWWk4zQmcxZ19xVzhFQkt1d1Rob2tnVGVZTVd1b1RpRlUxbDNCVVh5NDhpczlqWVdkdlNkODVJV25DNkdpb3lTVS1VMW1TNlZjTlRRTWhSNNIBoAFBVV95cUxNZHdLc2RiVWRtTmt6aGtjZko0dkI2ckZWR0QwbG5uTXpSUml1ajFKN0VjanpYOGFEODh3dXMwLVBUQWR3VUhkTHRobGxObGZ6TUtEOTdpUUJZallBamlaaUxSX2ljb19KamFjYlhZSDdHQmotV0dRMGNJeUllRXNhc3FGME1NS2V6T1ZYSkNza2c1MlpHMEdRZEhocTZxU3Yz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-23-video-9-has nefertiti finally been found new",
+      "date": "2026-09-23",
+      "type": "video",
+      "number": 9,
+      "title": "Has Nefertiti Finally Been Found? New Scans Reveal Traces of a Secret Chamb...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Gazeta Express",
+      "links": [
+        {
+          "label": "Gazeta Express",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcF9QVW84d1I5T1A3ZWVFNlctMDk1WXpNODRhM3B5dnNUejMzRy1HYnh1Q2MwRlBhZTFtNmtsaklSemtGN05rNy1aZldZRUdxUmljZlB2aHF2U0tUNXJEZlFVZVItVXZEUjFwUHlaYmo3MTBjU2NuWF9xQWQ4VlNTdS1kTGROTWZXdU9PdlpMa01UcWo4OGV1Q0Nza2RpSkRMakxQTVdHWDkySUlPQ0E4M3JUQnJSaWVGSllRMUJYWk9GUU9jR0RHY2pzLWJBb2sxdHc?oc=5"
         }
       ]
     },
@@ -195,70 +483,6 @@
       ]
     },
     {
-      "id": "2026-09-22-video-1-striking new evidence of hidden cham",
-      "date": "2026-09-22",
-      "type": "video",
-      "number": 1,
-      "title": "Striking New Evidence of Hidden Chambers Near Tutankhamun’s Tomb Could Help...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "The Debrief",
-      "links": [
-        {
-          "label": "The Debrief",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTHZUMFJjRTZOWnpubU1rVjFSVjIxY2FNM3Z3cGdaMm1vRDFJVU5iT0xNX0dsZnpjVGREck5wY1FrbDFYaGdQS2ZjNXkzWmVrd0V2aTA1RHBDSXdzVVgwcDdMdjlGamJBZWplRC1zTXRMbllHRjFoeG5JdHJXSDg5NmhXWVZ6bUxRWHNaZE13UF96Q0NTZmswdW0waXJSdzRibzJuajNxYW1LMUFYWl83SFNkcFJCVHZYZWNCYmtCWnYzT3BTc2l1b1ViaGlFdnA2d1FDZ29iOUNMUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-22-video-2-king tut s burial site could contain",
-      "date": "2026-09-22",
-      "type": "video",
-      "number": 2,
-      "title": "King Tut’s burial site could contain the way to Queen Nefertiti’s tomb — an...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "New York Post",
-      "links": [
-        {
-          "label": "New York Post",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYUxnUUpPRVVwQkV5ZllwcjcwYWE5NDFjUTNadlJCeS1GU0M2S3dkNjZ4OUpJTFcxczBlZ0l3SjN5QmFXRk9NOWZDYVRoaUtKcm1UNTJkRGJEOEN5MlFuUWkweVNhcEJzUXRtM2dpYkJnZllKUFBMUE9LaExmdm9NcXlVa0owb1RRbTF2WURuSHhtb3VCVWNGalVFZmFDSUVyWDlWQzJzSFZrNUQzX2lnZ29rM25kNV9xNFhsV0N5Wno1ckFv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-22-video-3-king tut s tomb may hide secret cham",
-      "date": "2026-09-22",
-      "type": "video",
-      "number": 3,
-      "title": "King Tut’s Tomb May Hide Secret Chambers, Reviving a Search for Queen Nefer...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "discovermagazine.com",
-      "links": [
-        {
-          "label": "discovermagazine.com",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdnY5WFpfNV9uQU9WRTFVV21UZnFxSmEwYlh0bmhUNVMzZVBtMG5nOHh3MXNJMEItcXpyZE1sOUh6aEdhSW5yZFJWWUVFQy03eEdKMFJFdlJoVjBuUnlRVTlhR1RpYzU4NGN0WkFlWVlNeG5MQjhHOUNSbVhaYXVQdHNpWXdINThiRldFYXhYNWVJVG5RbXo1ekpkWGpwc3VRazlqb1VSMnE3Umh6UC1KV0hRT3oyUmFl?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-22-video-4-a legendary chinese empress may lie ",
-      "date": "2026-09-22",
-      "type": "video",
-      "number": 4,
-      "title": "A Legendary Chinese Empress May Lie in a Royal Tomb Surrounded by 45 Myster...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Arkeonews",
-      "links": [
-        {
-          "label": "Arkeonews",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU1p6LU02Qm1VZEp6ZFJRYXQ1WkRmazBHcVM2ME16dmo3WFZDS0tCdjB2ekRTV1ZISmNzcS1ySWctRGxFZW4zNXd5WkQwdjZuZkVQUEIzOFVrb3hPX2xVa2lmc1BpWnByamxRYndjc3g5ZTA0eVVHTlNFcm1GWW1Id1pnWTF6LURRbHFYc2o1aUp3ZzRzcHlTX1BOdVJZYlJ6TG5naHZfZmk0dnNZR3c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-09-22-video-5-a rare etruscan cube shaped tomb fro",
       "date": "2026-09-22",
       "type": "video",
@@ -271,22 +495,6 @@
         {
           "label": "La Brújula Verde",
           "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNMDVjYVZXYVVlQTUzbW9Nb1MxOE0wb3hWZ0RRWGEzOHB4enpmYkQtMGF6SmtUMk5YckVKRld4bVN3cFcxMTlUa2I5TU5IMzgteXVtNnhmSFRZWnFib3Y5TWJEcmRpUHViTnFjSTU5YlpFVGdJX2JmeDZPa255MWc4VEJpRWRBZkdINklOMWcxN3g0SjJKSFUxcDc2Nl9vZElCV0hqbUdIanA5bnRqMGtVTXY5MXczcDlaNl9WSnFIWl9Wc3QwdWVJYVQ0T0FCaVFIM3ZDMGppVnAwaHhJbndVWHRtMzFLSWdOcFNRQVpEdWlGd1FJZnFXQnRXZjduYkFoM0d4b19PT1hsYVNxWGZkT1V3bw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-22-video-6-ancient egyptian mystery solved as s",
-      "date": "2026-09-22",
-      "type": "video",
-      "number": 6,
-      "title": "Ancient Egyptian mystery 'solved' as secret chamber found in Tutankhamun's ...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Daily Star",
-      "links": [
-        {
-          "label": "Daily Star",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaWc1NjF6cU9lS1JsT0RTZ0t0Z043UnRMS2o1NUE5S2Y2aUpzTDZuem5rUW1JZk1vWDJiYndRMWo3cHhVbzhtTU93bDJIbzkzTDRqZjZsMjQ2Z0lvUnJ1aEFmam9vQ2liUlJNZFRTdmhQUWZZNDNFYk54cXpndmFFUGJ3aVhZYnBvQllFcm0tQ3lRQnJsdVVN?oc=5"
         }
       ]
     },
@@ -15841,218 +16049,6 @@
         }
       ],
       "id": "2026-06-22-video-the untouched etruscan tomb"
-    },
-    {
-      "date": "2026-06-22",
-      "type": "video",
-      "number": 8,
-      "title": "The Stonehenge 'prototype' question",
-      "summary": "Researchers may have found a wooden solar monument built centuries before Stonehenge, and its alignments look too precise to ignore.",
-      "signal": "Strong mainstream archaeology pickup.",
-      "sourceFile": "daily-report-2026-06-22.md",
-      "links": [
-        {
-          "label": "Live Science",
-          "url": "https://www.livescience.com/archaeology/this-was-a-pioneering-achievement-stone-age-people-put-up-posts-to-observe-the-solstices-near-stonehenge-long-before-the-stones-of-sacred-site-were-placed"
-        },
-        {
-          "label": "The Guardian",
-          "url": "https://www.theguardian.com/uk-news/2026/jun/18/solstice-aligned-monument-archaeology-wiltshire-stonehenge-prototype"
-        }
-      ],
-      "id": "2026-06-22-video-the stonehenge prototype question"
-    },
-    {
-      "date": "2026-06-21",
-      "type": "ai",
-      "number": 1,
-      "title": "OpenAI adds enterprise analytics and spend controls",
-      "summary": "OpenAI launched admin analytics and spend controls for ChatGPT Enterprise, including shared views across ChatGPT and Codex usage.",
-      "signal": "No public social metric on the page.",
-      "sourceFile": "daily-report-2026-06-21.md",
-      "links": [
-        {
-          "label": "OpenAI",
-          "url": "https://openai.com/index/chatgpt-enterprise-spend-controls/"
-        }
-      ],
-      "id": "2026-06-21-ai-openai adds enterprise analytics and spe"
-    },
-    {
-      "date": "2026-06-21",
-      "type": "ai",
-      "number": 2,
-      "title": "OpenAI pushes GPT-5.5 Instant further into health use cases",
-      "summary": "OpenAI says GPT-5.5 Instant improves urgent-care recognition, context gathering, uncertainty communication, and general health usefulness for free-tier ChatGPT users.",
-      "signal": "No public social metric on the page.",
-      "sourceFile": "daily-report-2026-06-21.md",
-      "links": [
-        {
-          "label": "OpenAI",
-          "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt/"
-        }
-      ],
-      "id": "2026-06-21-ai-openai pushes gpt 5 5 instant further in"
-    },
-    {
-      "date": "2026-06-21",
-      "type": "ai",
-      "number": 3,
-      "title": "OpenAI published a near-autonomous chemistry workflow",
-      "summary": "OpenAI published research showing an AI chemistry system improving a difficult medicinal-chemistry reaction workflow.",
-      "signal": "No public social metric on the page.",
-      "sourceFile": "daily-report-2026-06-21.md",
-      "links": [
-        {
-          "label": "OpenAI",
-          "url": "https://openai.com/index/ai-chemist-improves-reaction/"
-        }
-      ],
-      "id": "2026-06-21-ai-openai published a near autonomous chemi"
-    },
-    {
-      "date": "2026-06-21",
-      "type": "ai",
-      "number": 4,
-      "title": "OpenAI launched a benchmark focused on life science work",
-      "summary": "OpenAI introduced a benchmark for evaluating model performance on life-science tasks.",
-      "signal": "No public social metric on the page.",
-      "sourceFile": "daily-report-2026-06-21.md",
-      "links": [
-        {
-          "label": "OpenAI",
-          "url": "https://openai.com/index/introducing-life-sci-bench/"
-        }
-      ],
-      "id": "2026-06-21-ai-openai launched a benchmark focused on l"
-    },
-    {
-      "date": "2026-06-21",
-      "type": "ai",
-      "number": 5,
-      "title": "Anthropic expands deeper into Korea",
-      "summary": "Anthropic announced a Seoul office and new local partnerships.",
-      "signal": "No public social metric on the page.",
-      "sourceFile": "daily-report-2026-06-21.md",
-      "links": [
-        {
-          "label": "Anthropic",
-          "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem"
-        }
-      ],
-      "id": "2026-06-21-ai-anthropic expands deeper into korea"
-    },
-    {
-      "date": "2026-06-21",
-      "type": "ai",
-      "number": 6,
-      "title": "Anthropic published its first Public Record results",
-      "summary": "Anthropic released the first results from its Public Record initiative.",
-      "signal": "No public social metric on the page.",
-      "sourceFile": "daily-report-2026-06-21.md",
-      "links": [
-        {
-          "label": "Anthropic",
-          "url": "https://www.anthropic.com/news/anthropic-public-record"
-        }
-      ],
-      "id": "2026-06-21-ai-anthropic published its first public rec"
-    },
-    {
-      "date": "2026-06-21",
-      "type": "ai",
-      "number": 7,
-      "title": "Anthropic signs a regulated-industries push with TCS",
-      "summary": "Anthropic and TCS announced a partnership aimed at deploying Claude in regulated sectors.",
-      "signal": "No public social metric on the page.",
-      "sourceFile": "daily-report-2026-06-21.md",
-      "links": [
-        {
-          "label": "Anthropic",
-          "url": "https://www.anthropic.com/news/tcs-anthropic-partnership"
-        }
-      ],
-      "id": "2026-06-21-ai-anthropic signs a regulated industries p"
-    },
-    {
-      "date": "2026-06-21",
-      "type": "ai",
-      "number": 8,
-      "title": "Anthropic adds another enterprise integration lane",
-      "summary": "DXC said it will integrate Claude into core systems used by heavily regulated industries.",
-      "signal": "No public social metric on the page.",
-      "sourceFile": "daily-report-2026-06-21.md",
-      "links": [
-        {
-          "label": "Anthropic",
-          "url": "https://www.anthropic.com/news/dxc-anthropic-alliance"
-        }
-      ],
-      "id": "2026-06-21-ai-anthropic adds another enterprise integr"
-    },
-    {
-      "date": "2026-06-21",
-      "type": "ai",
-      "number": 9,
-      "title": "Meta rolls out AI-native Facebook features",
-      "summary": "Meta introduced new AI-powered Facebook features to help users search, create, and act inside the app.",
-      "signal": "No public social metric on the page.",
-      "sourceFile": "daily-report-2026-06-21.md",
-      "links": [
-        {
-          "label": "Meta Newsroom",
-          "url": "https://about.fb.com/news/2026/06/new-ai-tools-to-help-you-make-things-happen-on-facebook/"
-        }
-      ],
-      "id": "2026-06-21-ai-meta rolls out ai native facebook featur"
-    },
-    {
-      "date": "2026-06-21",
-      "type": "ai",
-      "number": 10,
-      "title": "Meta's AI search layer is now pulling from public posts",
-      "summary": "Meta's new Facebook AI Mode uses public posts from Facebook, Instagram, and Threads to answer user questions.",
-      "signal": "No public count in the article.",
-      "sourceFile": "daily-report-2026-06-21.md",
-      "links": [
-        {
-          "label": "The Verge",
-          "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook"
-        }
-      ],
-      "id": "2026-06-21-ai-meta s ai search layer is now pulling fr"
-    },
-    {
-      "date": "2026-06-21",
-      "type": "ai",
-      "number": 11,
-      "title": "Apple's Siri rebuild is the big mainstream AI product story of the week",
-      "summary": "Apple executives said the new Siri AI required a full rebuild rather than an incremental upgrade.",
-      "signal": "No direct public count in the article.",
-      "sourceFile": "daily-report-2026-06-21.md",
-      "links": [
-        {
-          "label": "TechRadar",
-          "url": "https://www.techradar.com/phones/iphone/we-tore-it-to-the-ground-apple-says-it-built-siri-ai-from-the-ground-up-but-admits-this-wasnt-the-original-plan-a-first-version-of-its-new-voice-assistant-was-ready-last-year"
-        }
-      ],
-      "id": "2026-06-21-ai-apple s siri rebuild is the big mainstre"
-    },
-    {
-      "date": "2026-06-21",
-      "type": "ai",
-      "number": 12,
-      "title": "AI-native creator channels keep proving there is audience demand",
-      "summary": "Business Insider profiled the creator behind \"Chloe vs. History,\" an AI-generated personality drawing million-view traction across Instagram and YouTube.",
-      "signal": "Article says the AI influencer has captivated millions on Instagram and YouTube.",
-      "sourceFile": "daily-report-2026-06-21.md",
-      "links": [
-        {
-          "label": "Business Insider",
-          "url": "https://www.businessinsider.com/chloe-vs-history-ai-not-real-how-she-was-created-2026-6"
-        }
-      ],
-      "id": "2026-06-21-ai-ai native creator channels keep proving "
     }
   ]
 }
