@@ -1,7 +1,343 @@
 {
-  "updatedAt": "2026-09-25T23:45:39.392Z",
+  "updatedAt": "2026-09-26T23:21:18.040Z",
   "maxItems": 1000,
   "items": [
+    {
+      "id": "2026-09-27-ai-1-microsoft packages business ai in si",
+      "date": "2026-09-27",
+      "type": "ai",
+      "number": 1,
+      "title": "Microsoft packages business AI in single app as it tries to compete with An...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "CNBC",
+      "links": [
+        {
+          "label": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LaE56cEZlT0tlaGw5Mno4QUZnTUFKT3Jod2ZQZEZsSmtxVWg0Vy10M2hwMU1acjNqamZ4LXZ6cS1nNkI2aURrRklYaEFmVVVvZEhWUURVOWhfcEwtZUVDck04WGhuX2ZZd0Rsa0dfMnlhNHExQlVsdDVmOF95V2_SAYQBQVVfeXFMTnpIaHZQWVV2WFd5Y0xNamVvZ0NxaDAzdzdPd3phSF9MZUlTaHdJdFpvUEFNdDBMczIyNkVMQ0R0Nk9Tb1dISlVQd28tV2FvUHFScFljWDRBRExmYmFHX2hhMTJ6Nm5aZncyQnJFTnpfSUItWFBqSllHTGpXZXBIVnBqMW45?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-ai-2-openai to unveil gpt 6 cyber model p",
+      "date": "2026-09-27",
+      "type": "ai",
+      "number": 2,
+      "title": "OpenAI to unveil GPT-6 Cyber model, plus a first-of-its-kind product to hel...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Fortune",
+      "links": [
+        {
+          "label": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTFRVbmt1M1R5emRFYmcxdUdXcHY1cWQtUU9vcE9BczRONHhLZXl6MnZ0MXUyNk5IZXF4eGh5V1phUzJ5VHpxUnRET0Z3MXZoZkZjYXNwb0d5a0U1SlJYY3VIdGNhanRrWFp4Sm0wQVdwZklweWlQUnZZVnFrbnVjeWF2V0pWMkpzTDkyT3NFb2k2RFhZSXhraVhB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-ai-3-judge appears skeptical of pentagon ",
+      "date": "2026-09-27",
+      "type": "ai",
+      "number": 3,
+      "title": "Judge appears skeptical of Pentagon arguments in legal fight over Anthropic...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "links": [
+        {
+          "label": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeFFmS0tuRHY2cGZRaFRneEUwZUJzY2lmU0RiUm9YWjdGcjBqbHczcl82ZGdYS3hrNmxPLVM4WUZkeEViUThqZnBmXzFmb0std1ktckZyT3pXckZOVXJqTGZkMlZTS2s2UUlsRHVZQTNpdHlhQ0hBdHo0dWNGTGJHQ2xscGZrY3VUOVB3QU5POGtVRUVEc01EV0NsSFZVako5OVlia19PSGNMTmhsNndaaGl3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-ai-4-new data show anthropic openai and o",
+      "date": "2026-09-27",
+      "type": "ai",
+      "number": 4,
+      "title": "New Data Show Anthropic, OpenAI and Other Upstarts Are Eating into Software...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "The Information",
+      "links": [
+        {
+          "label": "The Information",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPenQ5eWJwZmw0aEtNdXNZUlZDQXNtRHRMemYyWjdrWGM1cUVFZU82bTlwRE91ZUtGLVRkMHVOMlp1QktDR2NMek9GWFFrcEo3R3pjUVFVYXBTTFhhb3JjREV0X3VDX0tGZFJCVUJvNGhoRjlfUU9xcnVYUWhPWXVsakNtVWZ1Z0NneWczUkVMUU5xTEVsb29US2JPQTd0aFhvbFVrSDJ5M1l6X2tWbVdlRGNMQzFOZUEy?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-ai-5-gemini 4 expected to launch early ca",
+      "date": "2026-09-27",
+      "type": "ai",
+      "number": 5,
+      "title": "Gemini 4 Expected to Launch Early: Can Google Catch Up With OpenAI and Anth...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "TradingKey",
+      "links": [
+        {
+          "label": "TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN3BpaDdmeTVPS00yWkh6STRBYWNvU3JuRDdkQVZLQlp0Q1BKSEpuQUQxY3A0eXpJVUp5SzZMWnp5U3FXUWtrVDAySExLUDg4VE1wVTR4c3dTckpwTmRkSDQ4WmJoanpXVmtQNXoybDVMNWVVLTV1RE9tNmpiOUhtOUVHUG9FMzk3V3BxX3VxdHJXNU5MemozaWh0Ylg5dHhRcHloM3BobDNDUHN0MVFTSnhTeE9VdTc1YUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-ai-6-openai s mental health ai test revea",
+      "date": "2026-09-27",
+      "type": "ai",
+      "number": 6,
+      "title": "OpenAI’s Mental Health AI Test Reveals Gaps in Context and Urgency",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "TechRepublic",
+      "links": [
+        {
+          "label": "TechRepublic",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTkJESnB2NWkzWGJMaWF4aXFnZ3pOWGxaOEJWV0FGaS1UUmd0RzVRRDg2X2EtSGdkck5lV2txdUUwMnNJVEpoa0kwYTdtV3RnaVFQQ1JJeHFWeVhsbElxWEtSNC0xS3V1ajRPbGxaUmJmT2x6Y3hkWjF4ZFpsNTN6T3p5NTRUMXZKZmxsOG5HRU1NUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-ai-7-palo alto networks equips openai ant",
+      "date": "2026-09-27",
+      "type": "ai",
+      "number": 7,
+      "title": "Palo Alto Networks equips OpenAI, Anthropic frontier models into AI defense...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Seeking Alpha",
+      "links": [
+        {
+          "label": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMzRYOElzSDdQVDFzU1JuUkpZWjNLaUdVWGFDVWlySG8tYTlvdWdSNHVMY3pOYXZqUmRsUXdOck1VdDhUZ2MzdHJWR1pxN19LSEtyeENEWW5tWndLWTBaMHl6WjlaajR5QjJ2T2F2c01qSjc1bWpPT0Q1ZUdpV0FYdWhpS1c2UTJBRDNlQ0J5ZFZTVG5qNnR6LVNxemh6YWhtUzBkT3JSZnh3aThvLTFFdGlvc0xaaV8tNHBOMnJB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-ai-8-amazon gives sellers an even smarter",
+      "date": "2026-09-27",
+      "type": "ai",
+      "number": 8,
+      "title": "Amazon gives sellers an even smarter Seller Assistant and a new plugin for ...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "About Amazon",
+      "links": [
+        {
+          "label": "About Amazon",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUJEMEhNVjVhWlBoRXNvX0FlWEtZMUxyRGZXekdwR2NVcjhTSWZYd0phakF5N3N3Q3FuN2F3UV91SW9McFY3c1REZmhpTmE0NVR0RkFVT1FJSFNBWFNEX0FJV2czQ0VvOWkxY2J3U0RVUjBSV3NzQzA5eUxXTTJ3SjdBQWNwQ2dJbklNWlkwV2N6SUJfSzhwTWdaU2p3Zw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-ai-9-10 generative ai stocks to watch as ",
+      "date": "2026-09-27",
+      "type": "ai",
+      "number": 9,
+      "title": "10 Generative AI Stocks to Watch as ChatGPT Soars",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Investing News Network",
+      "links": [
+        {
+          "label": "Investing News Network",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DYWVtOEhROVRSSFdHdzRJRkVHLXU3Um1WZ1BrYVdUOVE4M1B4SHdlNTNicUIzdjlkSmxKYVJmQUN5endSVWk1OTEzYWpmbzdKTEZ5N1NLTFgzLXVZNUpDZg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-ai-10-hp openai partnership shows what ent",
+      "date": "2026-09-27",
+      "type": "ai",
+      "number": 10,
+      "title": "HP & OpenAI Partnership Shows What Enterprise Agentic AI Requires Beyond th...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "TechRepublic",
+      "links": [
+        {
+          "label": "TechRepublic",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY3RVNnhtR2pBYlJzSlNZZnU2UVhYMU80dFZUcmNxMnN2N096TzR1UmxaM1Frd212bUF5VUZHRVpjeER5czhKNUFQSmxGTzhyMW1HcktjZWhmUDI4c05xWW5MWV9EMGxGMG5VaklBeWFfaUVudm1CbjF1RzNpVHRrTnY1YmVHdU1w?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-ai-11-anthropic launches claude opus 5 5 w",
+      "date": "2026-09-27",
+      "type": "ai",
+      "number": 11,
+      "title": "Anthropic Launches Claude Opus 5.5 With Lower Prices and Faster Output",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "TechRepublic",
+      "links": [
+        {
+          "label": "TechRepublic",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV1JLV3pVQmtwWEkzUGhJWl9MbTZ3WE9OU1NJZUpfeGxqREJVZHVnTHZzeDlrN2NDbWxUMFhEOG05NmtVcnVRN09oaVpzblBIdzBJWmlCd2RCUlBqYVgzdTlsdncxbVBhOS1vM1RmMDVEdXJqR3pWeEZoVlJUSld4NnotN0dSSy03TGJfMkk0M0VFdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-ai-12-google vids adds free ai video what ",
+      "date": "2026-09-27",
+      "type": "ai",
+      "number": 12,
+      "title": "Google Vids Adds Free AI Video: What You Get and What’s Limited",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "TechRepublic",
+      "links": [
+        {
+          "label": "TechRepublic",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQejdpd1FxcHNmTWZaV0N4NWNNV0xrclotZFBtaVNPdk5xc0FBcl9NTGhzaXROWWZLSzJ1cldFaHpTcXR3NTBlM245RFJzaVlmQ0VXQmlZbVJYTG03UzBuMWQyVE5kSjQzN2dub2RjX2FLMWJKdk50YWN0eWxTLWR4b3BYdDlSd1hLeTF1WGJxcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-video-1-archaeologists discover tomb of the ",
+      "date": "2026-09-27",
+      "type": "video",
+      "number": 1,
+      "title": "Archaeologists discover 'tomb of the very highest rank' in 2,700-year-old E...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Live Science",
+      "links": [
+        {
+          "label": "Live Science",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVmNKR1o1REpZQ3k4Z08yUjE0cE50QktVZnhsUmhMMzNpWFBDNUFDdGdCTmN0bDMxcWNJVlFib1pDRHNQcU1aM3pIWjQxcEtTSmc5cktQYjdSQ2hjS2hlTkJnb2wyUFRZazUwaXZVdjNXNDdVRzNaVTlsRzJRaEd4UVBVNElMYU90N0l2VjdrSW1kTkxPaWstMnJXbllKSWotR3h1bi1TVWE1VEZ2b29HOHM1aFYwSm5WQ0lVUElEdHplTFZoY1BFMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-video-2-mysterious anomalies have been detec",
+      "date": "2026-09-27",
+      "type": "video",
+      "number": 2,
+      "title": "Mysterious 'Anomalies' Have Been Detected Beyond King Tut's Tomb. Could The...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "smithsonianmag.com",
+      "links": [
+        {
+          "label": "smithsonianmag.com",
+          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQWDZ5SVRmMXRxckttZC01Y3BldTVaX1JLTGxEZWpzSWlUREVic2E1ekdLdEtDYl9xVEx6dWRibWRkMUlhQzZRUW54UXpsR3U2NFNYUl9SQ0VYU2FxRm9pVGQ4MDN5NXh3ODlfZ3lVU1RSM2dLWnVvMVRrM1EzRFMxRTJQaW9paWE5T2g1VDRZbFhoQnRSNThGemdEU0U5UTJMVGZ0RXA4TnhNSnp1LS03Wl9KSzFuQ2VzM2oyaUpKZWhEMGRvc1pwQjVHWUszXzVUc19XSXlwWnhaT3EtMHlLdWh0Vm0xWWdlUjFwdXFWc1ZiUmRReTBIdFc0UnZWMW5RTG5qcWtVN2RuV0trTUttdWpFXzU2cF9Bckp5S3ZKUzJkR280d0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-video-3-king tut s burial site could contain",
+      "date": "2026-09-27",
+      "type": "video",
+      "number": 3,
+      "title": "King Tut’s burial site could contain the way to Queen Nefertiti’s tomb — an...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "New York Post",
+      "links": [
+        {
+          "label": "New York Post",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYUxnUUpPRVVwQkV5ZllwcjcwYWE5NDFjUTNadlJCeS1GU0M2S3dkNjZ4OUpJTFcxczBlZ0l3SjN5QmFXRk9NOWZDYVRoaUtKcm1UNTJkRGJEOEN5MlFuUWkweVNhcEJzUXRtM2dpYkJnZllKUFBMUE9LaExmdm9NcXlVa0owb1RRbTF2WURuSHhtb3VCVWNGalVFZmFDSUVyWDlWQzJzSFZrNUQzX2lnZ29rM25kNV9xNFhsV0N5Wno1ckFv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-video-4-striking new evidence of hidden cham",
+      "date": "2026-09-27",
+      "type": "video",
+      "number": 4,
+      "title": "Striking New Evidence of Hidden Chambers Near Tutankhamun’s Tomb Could Help...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "The Debrief",
+      "links": [
+        {
+          "label": "The Debrief",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTHZUMFJjRTZOWnpubU1rVjFSVjIxY2FNM3Z3cGdaMm1vRDFJVU5iT0xNX0dsZnpjVGREck5wY1FrbDFYaGdQS2ZjNXkzWmVrd0V2aTA1RHBDSXdzVVgwcDdMdjlGamJBZWplRC1zTXRMbllHRjFoeG5JdHJXSDg5NmhXWVZ6bUxRWHNaZE13UF96Q0NTZmswdW0waXJSdzRibzJuajNxYW1LMUFYWl83SFNkcFJCVHZYZWNCYmtCWnYzT3BTc2l1b1ViaGlFdnA2d1FDZ29iOUNMUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-video-5-a legendary chinese empress may lie ",
+      "date": "2026-09-27",
+      "type": "video",
+      "number": 5,
+      "title": "A Legendary Chinese Empress May Lie in a Royal Tomb Surrounded by 45 Myster...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Arkeonews",
+      "links": [
+        {
+          "label": "Arkeonews",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU1p6LU02Qm1VZEp6ZFJRYXQ1WkRmazBHcVM2ME16dmo3WFZDS0tCdjB2ekRTV1ZISmNzcS1ySWctRGxFZW4zNXd5WkQwdjZuZkVQUEIzOFVrb3hPX2xVa2lmc1BpWnByamxRYndjc3g5ZTA0eVVHTlNFcm1GWW1Id1pnWTF6LURRbHFYc2o1aUp3ZzRzcHlTX1BOdVJZYlJ6TG5naHZfZmk0dnNZR3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-video-6-archaeologist s hunt for cleopatra s",
+      "date": "2026-09-27",
+      "type": "video",
+      "number": 6,
+      "title": "Archaeologist’s Hunt for Cleopatra’s Tomb Challenges History",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "popularmechanics.com",
+      "links": [
+        {
+          "label": "popularmechanics.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRzZGS0U4YThKWm9BR2ZBSDZ2U2swUmFGSGZhLVJvSFFWMWFDOUhoVWY2dk9CNkxJYndWZXRNX3JPekIyY0FLZndGdlFsTkVMTDVvUTVkTFB5ay1udTdybjdSSVJUNTk5eHBFR29CbFRIb3VncWJkWjhNY08ybTNzcmtIdUVWbEpGeDE3OGh3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-video-7-new scans point to possible hidden c",
+      "date": "2026-09-27",
+      "type": "video",
+      "number": 7,
+      "title": "New scans point to possible hidden chambers beyond Tutankhamun’s tomb, supp...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Archaeology News Online Magazine",
+      "links": [
+        {
+          "label": "Archaeology News Online Magazine",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWpSbVM4LTBNZ0VBVHZoazBYWGlfTUdXSVdfZU9OVXhmSzFaY1FyVTg0VlNkWHFMZnZZTnJxSUdhd0VHOGh6aURWckd0ZUNieXdEWWQyR3RNZ0taSTBNUmhQWDkwUjBVSkcxZ3NCdWMwcjFabGxFUkpObS01YXVBQlNhbVRMVjNZNUZ2RS1EcDBJbFdfbkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-video-8-17 strange ancient artefacts that ha",
+      "date": "2026-09-27",
+      "type": "video",
+      "number": 8,
+      "title": "17 strange ancient artefacts that have left experts totally baffled | lovee...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "loveexploring.com",
+      "links": [
+        {
+          "label": "loveexploring.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWlOUGFSSGMzSWRoc0Z3U05tZUZXaHlDTUZ2aUlnVVJPTmdiQW9hYWNrTVc0aUFjWWh1LWQzWGY4REhpV3hGaGhEZTlET0JuM2d0dGZpZ2EwSWRhVkpxV0lrcjJWWDZBSTFjT3RHekFuaFFpVXlxQjZZclZ3WmktbUhmSzU3TGxHeUNuRDNtY0FNOGJDZU9QdVB2RDZaQ19jWVRMYXVjbWd0ZzRCNVhpWjRkTFMtSTDSAboBQVVfeXFMT1RoNzR5R0ZEZUxYRXlUZ3R0UzVkWjZPeFgyeGVVcHY4TDdFWDNhaHhRVDBhQXhHakF5UTRXYnN1c0pwelhDS3NkVU9SelJnTjM5UndVcDNQU0FNYTg4UlgxWEtmSTVpamFmdkc3WUhHQ3BhVHJTUUVSelFpdnQ4OFFUV3E3QzJTYUt6SHlzUWFReUdpdEwxcE1HczJDRFVVU2xPY3hZTHYwaFdqUS1OaU5oWGlSM2xMTm13?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-09-27-video-9-archaeologists mistake a rare 4 000 ",
+      "date": "2026-09-27",
+      "type": "video",
+      "number": 9,
+      "title": "Archaeologists Mistake a Rare 4,000-Year-Old Stone Tomb in Norway for a Fir...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Arkeonews",
+      "links": [
+        {
+          "label": "Arkeonews",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTnNOSUMwSlNFbTlRZElmVmE3bGtDU0RENTRVUFYtUWFoenlUT0prMThneUlrRTJLSWpYRmZOZS1jNjE4S3paWXJWYU1ndndKbHBCSk13eExGTHVTLXdERjRyZ3NWZ0ZWeHB3dnlmTzlmWEtBckt2WDl2eVo5VldYZkJ4eXZsRWJTVG9kU3A3eGJ6dXNCdE1nbWdTb29MaFpWRE1EZw?oc=5"
+        }
+      ]
+    },
     {
       "id": "2026-09-26-ai-1-introducing gemini 3 8 live with liv",
       "date": "2026-09-26",
@@ -15,22 +351,6 @@
         {
           "label": "blog.google",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMVR6bVg0OGpENG9SaWNDa3FnQWVxV2xwSjAxOXRXN09GcWxvbURoaTZVNkl0THIzX01rNnpEWkFuMGtpV2JPZXlJTmpLekZLeUF5Um5qWnlpaVYwNUZfOWdMcFlVd1dkeU1XVTItOEZ5eXRQRDJhWnlZMlVYbjFIV09kdTFEQUtTMU1HMFMxTVdENU5CajZqeTZwblBqd1JJc3Z2bi15amE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-26-ai-2-microsoft packages business ai in si",
-      "date": "2026-09-26",
-      "type": "ai",
-      "number": 2,
-      "title": "Microsoft packages business AI in single app as it tries to compete with An...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "CNBC",
-      "links": [
-        {
-          "label": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LaE56cEZlT0tlaGw5Mno4QUZnTUFKT3Jod2ZQZEZsSmtxVWg0Vy10M2hwMU1acjNqamZ4LXZ6cS1nNkI2aURrRklYaEFmVVVvZEhWUURVOWhfcEwtZUVDck04WGhuX2ZZd0Rsa0dfMnlhNHExQlVsdDVmOF95V2_SAYQBQVVfeXFMTnpIaHZQWVV2WFd5Y0xNamVvZ0NxaDAzdzdPd3phSF9MZUlTaHdJdFpvUEFNdDBMczIyNkVMQ0R0Nk9Tb1dISlVQd28tV2FvUHFScFljWDRBRExmYmFHX2hhMTJ6Nm5aZncyQnJFTnpfSUItWFBqSllHTGpXZXBIVnBqMW45?oc=5"
         }
       ]
     },
@@ -83,38 +403,6 @@
       ]
     },
     {
-      "id": "2026-09-26-ai-6-gemini 4 expected to launch early ca",
-      "date": "2026-09-26",
-      "type": "ai",
-      "number": 6,
-      "title": "Gemini 4 Expected to Launch Early: Can Google Catch Up With OpenAI and Anth...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "TradingKey",
-      "links": [
-        {
-          "label": "TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN3BpaDdmeTVPS00yWkh6STRBYWNvU3JuRDdkQVZLQlp0Q1BKSEpuQUQxY3A0eXpJVUp5SzZMWnp5U3FXUWtrVDAySExLUDg4VE1wVTR4c3dTckpwTmRkSDQ4WmJoanpXVmtQNXoybDVMNWVVLTV1RE9tNmpiOUhtOUVHUG9FMzk3V3BxX3VxdHJXNU5MemozaWh0Ylg5dHhRcHloM3BobDNDUHN0MVFTSnhTeE9VdTc1YUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-26-ai-7-new data show anthropic openai and o",
-      "date": "2026-09-26",
-      "type": "ai",
-      "number": 7,
-      "title": "New Data Show Anthropic, OpenAI and Other Upstarts Are Eating into Software...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "The Information",
-      "links": [
-        {
-          "label": "The Information",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPenQ5eWJwZmw0aEtNdXNZUlZDQXNtRHRMemYyWjdrWGM1cUVFZU82bTlwRE91ZUtGLVRkMHVOMlp1QktDR2NMek9GWFFrcEo3R3pjUVFVYXBTTFhhb3JjREV0X3VDX0tGZFJCVUJvNGhoRjlfUU9xcnVYUWhPWXVsakNtVWZ1Z0NneWczUkVMUU5xTEVsb29US2JPQTd0aFhvbFVrSDJ5M1l6X2tWbVdlRGNMQzFOZUEy?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-09-26-ai-8-google tests letting gemini call bus",
       "date": "2026-09-26",
       "type": "ai",
@@ -163,86 +451,6 @@
       ]
     },
     {
-      "id": "2026-09-26-ai-11-amazon gives sellers an even smarter",
-      "date": "2026-09-26",
-      "type": "ai",
-      "number": 11,
-      "title": "Amazon gives sellers an even smarter Seller Assistant and a new plugin for ...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "aboutamazon.com",
-      "links": [
-        {
-          "label": "aboutamazon.com",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaUJEMEhNVjVhWlBoRXNvX0FlWEtZMUxyRGZXekdwR2NVcjhTSWZYd0phakF5N3N3Q3FuN2F3UV91SW9McFY3c1REZmhpTmE0NVR0RkFVT1FJSFNBWFNEX0FJV2czQ0VvOWkxY2J3U0RVUjBSV3NzQzA5eUxXTTJ3SjdBQWNwQ2dJbklNWlkwV2N6SUJfSzhwTWdaU2p3Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-26-ai-12-hp openai partnership shows what ent",
-      "date": "2026-09-26",
-      "type": "ai",
-      "number": 12,
-      "title": "HP & OpenAI Partnership Shows What Enterprise Agentic AI Requires Beyond th...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "TechRepublic",
-      "links": [
-        {
-          "label": "TechRepublic",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY3RVNnhtR2pBYlJzSlNZZnU2UVhYMU80dFZUcmNxMnN2N096TzR1UmxaM1Frd212bUF5VUZHRVpjeER5czhKNUFQSmxGTzhyMW1HcktjZWhmUDI4c05xWW5MWV9EMGxGMG5VaklBeWFfaUVudm1CbjF1RzNpVHRrTnY1YmVHdU1w?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-26-video-1-archaeologists discover tomb of the ",
-      "date": "2026-09-26",
-      "type": "video",
-      "number": 1,
-      "title": "Archaeologists discover 'tomb of the very highest rank' in 2,700-year-old E...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Live Science",
-      "links": [
-        {
-          "label": "Live Science",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVmNKR1o1REpZQ3k4Z08yUjE0cE50QktVZnhsUmhMMzNpWFBDNUFDdGdCTmN0bDMxcWNJVlFib1pDRHNQcU1aM3pIWjQxcEtTSmc5cktQYjdSQ2hjS2hlTkJnb2wyUFRZazUwaXZVdjNXNDdVRzNaVTlsRzJRaEd4UVBVNElMYU90N0l2VjdrSW1kTkxPaWstMnJXbllKSWotR3h1bi1TVWE1VEZ2b29HOHM1aFYwSm5WQ0lVUElEdHplTFZoY1BFMA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-26-video-2-king tut s burial site could contain",
-      "date": "2026-09-26",
-      "type": "video",
-      "number": 2,
-      "title": "King Tut’s burial site could contain the way to Queen Nefertiti’s tomb — an...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "New York Post",
-      "links": [
-        {
-          "label": "New York Post",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYUxnUUpPRVVwQkV5ZllwcjcwYWE5NDFjUTNadlJCeS1GU0M2S3dkNjZ4OUpJTFcxczBlZ0l3SjN5QmFXRk9NOWZDYVRoaUtKcm1UNTJkRGJEOEN5MlFuUWkweVNhcEJzUXRtM2dpYkJnZllKUFBMUE9LaExmdm9NcXlVa0owb1RRbTF2WURuSHhtb3VCVWNGalVFZmFDSUVyWDlWQzJzSFZrNUQzX2lnZ29rM25kNV9xNFhsV0N5Wno1ckFv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-26-video-3-striking new evidence of hidden cham",
-      "date": "2026-09-26",
-      "type": "video",
-      "number": 3,
-      "title": "Striking New Evidence of Hidden Chambers Near Tutankhamun’s Tomb Could Help...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "The Debrief",
-      "links": [
-        {
-          "label": "The Debrief",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTHZUMFJjRTZOWnpubU1rVjFSVjIxY2FNM3Z3cGdaMm1vRDFJVU5iT0xNX0dsZnpjVGREck5wY1FrbDFYaGdQS2ZjNXkzWmVrd0V2aTA1RHBDSXdzVVgwcDdMdjlGamJBZWplRC1zTXRMbllHRjFoeG5JdHJXSDg5NmhXWVZ6bUxRWHNaZE13UF96Q0NTZmswdW0waXJSdzRibzJuajNxYW1LMUFYWl83SFNkcFJCVHZYZWNCYmtCWnYzT3BTc2l1b1ViaGlFdnA2d1FDZ29iOUNMUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-09-26-video-4-ancient rock cut tombs found beneath",
       "date": "2026-09-26",
       "type": "video",
@@ -259,38 +467,6 @@
       ]
     },
     {
-      "id": "2026-09-26-video-5-mysterious anomalies have been detec",
-      "date": "2026-09-26",
-      "type": "video",
-      "number": 5,
-      "title": "Mysterious 'Anomalies' Have Been Detected Beyond King Tut's Tomb. Could The...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Smithsonian Magazine",
-      "links": [
-        {
-          "label": "Smithsonian Magazine",
-          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQWDZ5SVRmMXRxckttZC01Y3BldTVaX1JLTGxEZWpzSWlUREVic2E1ekdLdEtDYl9xVEx6dWRibWRkMUlhQzZRUW54UXpsR3U2NFNYUl9SQ0VYU2FxRm9pVGQ4MDN5NXh3ODlfZ3lVU1RSM2dLWnVvMVRrM1EzRFMxRTJQaW9paWE5T2g1VDRZbFhoQnRSNThGemdEU0U5UTJMVGZ0RXA4TnhNSnp1LS03Wl9KSzFuQ2VzM2oyaUpKZWhEMGRvc1pwQjVHWUszXzVUc19XSXlwWnhaT3EtMHlLdWh0Vm0xWWdlUjFwdXFWc1ZiUmRReTBIdFc0UnZWMW5RTG5qcWtVN2RuV0trTUttdWpFXzU2cF9Bckp5S3ZKUzJkR280d0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-26-video-6-a legendary chinese empress may lie ",
-      "date": "2026-09-26",
-      "type": "video",
-      "number": 6,
-      "title": "A Legendary Chinese Empress May Lie in a Royal Tomb Surrounded by 45 Myster...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Arkeonews",
-      "links": [
-        {
-          "label": "Arkeonews",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU1p6LU02Qm1VZEp6ZFJRYXQ1WkRmazBHcVM2ME16dmo3WFZDS0tCdjB2ekRTV1ZISmNzcS1ySWctRGxFZW4zNXd5WkQwdjZuZkVQUEIzOFVrb3hPX2xVa2lmc1BpWnByamxRYndjc3g5ZTA0eVVHTlNFcm1GWW1Id1pnWTF6LURRbHFYc2o1aUp3ZzRzcHlTX1BOdVJZYlJ6TG5naHZfZmk0dnNZR3c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-09-26-video-7-archaeologists found 1 000 feet of t",
       "date": "2026-09-26",
       "type": "video",
@@ -303,22 +479,6 @@
         {
           "label": "Popular Mechanics",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVEZoNmNuOC13YUVkQTR2VjJ6cHFDdkk4T0xIMEpVVld3QlczTnM1ZXcwakkwSjNsZ3RJNy1iNkpLT0ZmaDUxRml3RzhRRFNRdmtOVHlWTXBsWGw4NmQtay1mcVZYS1NJTXNZUVJCS2t1V2lUaFNPMG9yd1pOV3g5UFZoaVBudU9Eamw2cFQzQnh4LWs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-26-video-8-new scans point to possible hidden c",
-      "date": "2026-09-26",
-      "type": "video",
-      "number": 8,
-      "title": "New scans point to possible hidden chambers beyond Tutankhamun’s tomb, supp...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Archaeology News Online Magazine",
-      "links": [
-        {
-          "label": "Archaeology News Online Magazine",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNWpSbVM4LTBNZ0VBVHZoazBYWGlfTUdXSVdfZU9OVXhmSzFaY1FyVTg0VlNkWHFMZnZZTnJxSUdhd0VHOGh6aURWckd0ZUNieXdEWWQyR3RNZ0taSTBNUmhQWDkwUjBVSkcxZ3NCdWMwcjFabGxFUkpObS01YXVBQlNhbVRMVjNZNUZ2RS1EcDBJbFdfbkE?oc=5"
         }
       ]
     },
@@ -531,22 +691,6 @@
       ]
     },
     {
-      "id": "2026-09-25-video-5-archaeologists mistake a rare 4 000 ",
-      "date": "2026-09-25",
-      "type": "video",
-      "number": 5,
-      "title": "Archaeologists Mistake a Rare 4,000-Year-Old Stone Tomb in Norway for a Fir...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "arkeonews.net",
-      "links": [
-        {
-          "label": "arkeonews.net",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTnNOSUMwSlNFbTlRZElmVmE3bGtDU0RENTRVUFYtUWFoenlUT0prMThneUlrRTJLSWpYRmZOZS1jNjE4S3paWXJWYU1ndndKbHBCSk13eExGTHVTLXdERjRyZ3NWZ0ZWeHB3dnlmTzlmWEtBckt2WDl2eVo5VldYZkJ4eXZsRWJTVG9kU3A3eGJ6dXNCdE1nbWdTb29MaFpWRE1EZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-09-25-video-6-this pillar might hold the world s f",
       "date": "2026-09-25",
       "type": "video",
@@ -735,22 +879,6 @@
         {
           "label": "TechCrunch",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUllEZExxMWV3QS01ejVlZ3NKMVJ0c0hVLWNzWHJVLUFoOGdQal9aNUtQRnZSN1BocVlYSUZRWkhzNjZEejZEb01rSFllZF9zcElMdTdhYkgtaUVFVF9lS0Vjc2RGYlYybHhacEpyMEpxNElSS243Uzh3UWZiY0RLcllENENXNXpaRTNEcUVvMVhSV01mbVc5VVJ4NG1xZHBnanZid05FTHhvSm54cE9VQy1xSzBmVGpBLTZ1R2l3NnpKUzNU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-24-ai-12-palo alto networks equips openai ant",
-      "date": "2026-09-24",
-      "type": "ai",
-      "number": 12,
-      "title": "Palo Alto Networks equips OpenAI, Anthropic frontier models into AI defense...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "Seeking Alpha",
-      "links": [
-        {
-          "label": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMzRYOElzSDdQVDFzU1JuUkpZWjNLaUdVWGFDVWlySG8tYTlvdWdSNHVMY3pOYXZqUmRsUXdOck1VdDhUZ2MzdHJWR1pxN19LSEtyeENEWW5tWndLWTBaMHl6WjlaajR5QjJ2T2F2c01qSjc1bWpPT0Q1ZUdpV0FYdWhpS1c2UTJBRDNlQ0J5ZFZTVG5qNnR6LVNxemh6YWhtUzBkT3JSZnh3aThvLTFFdGlvc0xaaV8tNHBOMnJB?oc=5"
         }
       ]
     },
@@ -15871,134 +15999,6 @@
         {
           "label": "36Kr",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wLWtCV2tWS2lSVUNoRDVYZFl5cUpJU2w3Yktpcm01MzB0Q2duQTNSaE5vcDZ3VnNpRmI0RUltT2Y2dXZsbVlsdFJYelF1azB6eGF3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-25-ai-12-openai expands daybreak to help defe",
-      "date": "2026-06-25",
-      "type": "ai",
-      "number": 12,
-      "title": "OpenAI Expands Daybreak to Help Defenders Patch Flaws",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "Infosecurity Magazine",
-      "links": [
-        {
-          "label": "Infosecurity Magazine",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzSlJHb0NXSTJ4a3czdmFMUWdjMVJ3WEpxZ09VMFNJb2Q3SzdJZEo1WE9ISkdiN2g0d1YzNjlIME1nSWVCSFRjQUdmMjNkTWpFZVk0WXlMSUlUa0xMSU96UzVVMXlsSXY1TDZ1dXRrN0JfYVlwUnNVUWxOQUROZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-25-video-3-5 000 year old tombs found in minya ",
-      "date": "2026-06-25",
-      "type": "video",
-      "number": 3,
-      "title": "5,000-year-old tombs found in Minya rewrite the origins of Egyptian pyramid...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Archaeology News Online Magazine",
-      "links": [
-        {
-          "label": "Archaeology News Online Magazine",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTDV0UTVvTjJHeml3QjFud0J2dWE1eXlaT241TEhydUdLcTh5aWVDazl3cE5ENW5nM1UybDM5aVZfUURyM211Rnlvc0sxZGdIV2VvUWEwTmJpLWV1V2JvUUVDekJrZ1Y3ampSOFdpV0JxZURlblZpZXZtYncwT2xDQTZKTGxmb3VzdlVHYQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-25-video-4-5 000 year old prototype stonehenge ",
-      "date": "2026-06-25",
-      "type": "video",
-      "number": 4,
-      "title": "5,000-year-old 'prototype' Stonehenge aligning with solstices discovered ne...",
-      "summary": "A famous ancient site may have a missing chapter, and the timeline just changed.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Live Science",
-      "links": [
-        {
-          "label": "Live Science",
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQLUJJRU5RaC1SYUJMdzFKazJzbmhKcWxvdTBWUF91QWU4bjlreE01Sk9XWldWWlZyQmNVb1N3M215enRTdHdvV3U5WlVtY180TjVtU2gzb0lKVnZ3S205SWZpZVVUb2xlNVZLdklrWGVfM2pPQ1oydGxkdGp4Z1ZHLUlES21LaVJVZDR1clEwaHpKVXNyOVBfMDFONXJLcG9tOXR1dHlmd0pJd2FtUzBvdVdCVXJsbm9GdlQwNE8xT0ptNTZBSjk2U2tPYjVOU0toSDJhWk9heDZ3cnRYUmpzbnIxLWYtVVRFaEV6VkVPYXRsSDJ6SHhpRWhHeFd1NmI5NUd4Zm9ueTYzS2t0bUIyNGs3M2dqRHQ2ZkQtMG00WQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-25-video-9-an untouched tomb with treasures dat",
-      "date": "2026-06-25",
-      "type": "video",
-      "number": 9,
-      "title": "An Untouched Tomb with Treasures Dating Back 2,600 Years Found in Italy",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Inbox.eu",
-      "links": [
-        {
-          "label": "Inbox.eu",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUGVqY1M3SGNBc3RldEJjU3RyTDEwOXdrUDlIQk5DVnNfUkRjWnhaOW5fNnRNUWhuMzBBczY0SFVabDFzS2h0NHpLT2JzYUdiWXUxQ3RqZmZWSVVOam1PUkJJVnRoZ2toR0YwcFhRV1ZJcDZ2VkxGTnNxUms2ZWVqUTZaZzhMR3kxN2UtbGRfbEVfUFpodTN6NkZfSkY5M2lQY0pZZGktVnVYZk9mbldObUVvSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-24-ai-1-patch the planet a daybreak initiati",
-      "date": "2026-06-24",
-      "type": "ai",
-      "number": 1,
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "OpenAI",
-      "links": [
-        {
-          "label": "OpenAI",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xMWh0bGFScjlsT3JCLTNRWWFBaXQwWUNKNUtodXhJQ3A1SFBYTkozNUh4UVdCWWRvSzMzNFpzZlh5dDQzYjFKOTRlckpPc0JsWFVfVg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-24-ai-2-introducing claude tag",
-      "date": "2026-06-24",
-      "type": "ai",
-      "number": 2,
-      "title": "Introducing Claude Tag",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "Anthropic",
-      "links": [
-        {
-          "label": "Anthropic",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iZjJCVWRWdnpWLWtMTGVEcy1RbmFuWGY3UHhfVmFlQkRZalpoOFZMMzhLeEZhYVBTcjhKR0FZaEF5QlpNVzB2bXVIczF0X0RWbmN4NDM4VmUtZGxyU2dHbGRSWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-24-ai-3-hacker sent by anthropic to calm the",
-      "date": "2026-06-24",
-      "type": "ai",
-      "number": 3,
-      "title": "Hacker Sent by Anthropic to Calm the Government’s Nerves About AI Safety",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "WSJ",
-      "links": [
-        {
-          "label": "WSJ",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ2RZem8yQUpabFJMQXpmRHdabW85RlUwOFZ4TThJSjJkS0dlTW1LUGZLcFRJQWFDZjlKdHZkVjdRaWhmeWMtWXNTSWN3TFJPNU85RzNKLVdaZXUxWWRXTkpaMlN4d2xfRjZqelh0R1NOY1p3azAtaXpDejd5SlNKSllOOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-06-24-ai-6-interactions api our primary interfa",
-      "date": "2026-06-24",
-      "type": "ai",
-      "number": 6,
-      "title": "Interactions API: our primary interface for Gemini models and agents",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "blog.google",
-      "links": [
-        {
-          "label": "blog.google",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObk5aTGR6dzNhLXZBWEpOY3Q2bHBDNk92amdBSXVmS1B6aVB3akFfd1VadWxUQk50bHl6Y2ZwNkdTaFNjclc1cmhDcjk2UG14VUZhM1MtaG42TUJEakZqZWkxelpGdS1YUEJGMkhBWUpPWjlLRnhHMHpXRUZRQnZDU19SdU51QnZmYURMejFtZ2lKWERCUks3OHNnLW93b1kyaEF3UHg4OA?oc=5"
         }
       ]
     }
