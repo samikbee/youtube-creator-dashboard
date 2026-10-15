@@ -1,7 +1,343 @@
 {
-  "updatedAt": "2026-10-14T23:37:11.426Z",
+  "updatedAt": "2026-10-15T23:31:05.354Z",
   "maxItems": 1000,
   "items": [
+    {
+      "id": "2026-10-16-ai-1-bank of america hired 1 000 contract",
+      "date": "2026-10-16",
+      "type": "ai",
+      "number": 1,
+      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by ...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "CNBC",
+      "links": [
+        {
+          "label": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY1M4VExNMjhEYS1uQmpkLVNTV2wxaFppMXFXZ3FDYXZEZFM4MkpoOGx4OE0tUnZCMmE2d1hqbnhaVkxNVmFlZ0hYQlJjX1BQclBJS2VPN09oVm8xZU94R1d2ejdKLXY5a2FKRTg2aVA0WGx6YnZrNlFFV2dVWW45c19JT3laRVZv0gGOAUFVX3lxTFB6UmVsXzhCWFpMbHotRVBDY3p5WmltQjMwZ2hYc2dRaFR1SHBqTmM2WFhzSHVwVGgxT1U5X1Z0bnprVXFfYkZQWXBOMmI5VTJGbGZoUjBmblFiSW4ySl9OT0tjUUJIRXJyZnBNWF81cXpkNjJwbVZHdkJCeFM5Tlp4WWdNVDYtMlZDRkx2T2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-ai-2-anthropic says small ai models could",
+      "date": "2026-10-16",
+      "type": "ai",
+      "number": 2,
+      "title": "Anthropic says small AI models could soon be able to copy themselves onto e...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Fortune",
+      "links": [
+        {
+          "label": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdkZhZFhGT0xoaHUyRy03THJjVlJ4cFl0WUpKTWdqbzZVejdmTmdhbWx2RDB5VDVoX2czeVVPYzBfdEhhWnJROHl1SGpUZDVxSDBwRW5Bc3VVVkVnZDNrYW5DWHVLTjRUdnlUOWlBS1pQbjVjMGc1X1ZmYURwTHZITW41aWRWRHk1RVk4T25R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-ai-3-openai accuses former employee of le",
+      "date": "2026-10-16",
+      "type": "ai",
+      "number": 3,
+      "title": "OpenAI accuses former employee of leaking intel on AI device to Apple",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "CNN",
+      "links": [
+        {
+          "label": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZnB5TXNvLU5qT2pwUnVzWVNxVzN2RnRNenpoRUQ2dktjeUhNYzJHa1JSWUlxNzlnNUlEQmJHa2tZOVhXUjA3ckVCN2s5U3pIQk1PZ2E2VnRqeXFfaFhKQU41ZUN4aFYwNjRrRmpORUY0LU1xU2p4RTROTmwxaDc4WUhWZ1ViTEU1aGlKQ0FsSm9jSWNhNGRDS0M1cWhsUE1saVhEM0dXUnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-ai-4-judge appears skeptical of pentagon ",
+      "date": "2026-10-16",
+      "type": "ai",
+      "number": 4,
+      "title": "Judge appears skeptical of Pentagon arguments in legal fight over Anthropic...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "links": [
+        {
+          "label": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeFFmS0tuRHY2cGZRaFRneEUwZUJzY2lmU0RiUm9YWjdGcjBqbHczcl82ZGdYS3hrNmxPLVM4WUZkeEViUThqZnBmXzFmb0std1ktckZyT3pXckZOVXJqTGZkMlZTS2s2UUlsRHVZQTNpdHlhQ0hBdHo0dWNGTGJHQ2xscGZrY3VUOVB3QU5POGtVRUVEc01EV0NsSFZVako5OVlia19PSGNMTmhsNndaaGl30gG3AUFVX3lxTE1rdlpUT192RDFETTA4cThDWVljVHl0QUpfNEN2OFpOSk9nTXVfWkQ0N2JtT2RialZOU3B2ZWxNUkt1NVl4SWY0VHRMeHRPaWI1SU9Zc1RtWkphSXVfT0ZNa28zSTE4clFRVEI1ZlJadGJwcW1ZOTVNa1hXSG91REpZaElCbW5fdTkzbTdOSFFDa2k4X1dDUVEybTN3dWhYMXJZTHV4d2ZmaV8xUWlJVHN0TGxUMmJncw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-ai-5-biggest changes anthropic just made ",
+      "date": "2026-10-16",
+      "type": "ai",
+      "number": 5,
+      "title": "Biggest Changes Anthropic Just Made to Claude's Rules",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Business Insider",
+      "links": [
+        {
+          "label": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlB6bDhZbk9GVVVsazVNbWFOMU9haDFhTnRnZmdYV21wVDR6c0ppVGF4Q2xMcWk0NllqUmFHUVJpa0czT2h2dW9xV00yWUNkc1VfU1ctXzhEUUJsM0U5UWhYZVNabm51QUU4S1RCMTJBVEt6ZnNoQzBpNTRnaW1iQlpjd2p1aFBrbGZV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-ai-6-who s suing ai and who s signing lat",
+      "date": "2026-10-16",
+      "type": "ai",
+      "number": 6,
+      "title": "Who's suing AI and who's signing latest: Reach latest Google AI news partne...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Press Gazette",
+      "links": [
+        {
+          "label": "Press Gazette",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-ai-7-ai tracker suki lands 90m",
+      "date": "2026-10-16",
+      "type": "ai",
+      "number": 7,
+      "title": "AI Tracker: Suki lands $90M",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Modern Healthcare",
+      "links": [
+        {
+          "label": "Modern Healthcare",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0Zsbm5XcmxTU0JuTzczTC1fUF9FVzB3LTJ3X2hLYVRJUFl3ZXB6TEZoMldEOXlkTXBTOVp2amNpLXFVeWlBUUd4X2dZNzlvUnB2LUoybW9LRThOY2pjN18tbnB3S2NieGMwSm9fVVBuZHprWUFrTU50Wk91ZVREV3NDZ1hvQ3RxcW9zeEMxMGs?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-ai-8-openai sued by 8 states over chatgpt",
+      "date": "2026-10-16",
+      "type": "ai",
+      "number": 8,
+      "title": "OpenAI sued by 8 states over ChatGPT safety concerns",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "CNBC",
+      "links": [
+        {
+          "label": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFJIMFZPVi1xNjBnTXdHUjBMSW56OFVoQWxYRjBSUHh2V1cwQ2QzSWhpVm5fSzhWMW9RVUdXV1gxVjdqVUhBb2ZaNFJ0SVlYRXlxeGR4OXRnWGVaUjJVanRzUy10NUxnWTJpc3E0X2VKMTVGazZzME9SUUMwWlB1Tm1fZ2dVYkUwSFhaQ3dxRmxJSGlv0gGaAUFVX3lxTE9lTzhXS0pJaG1NS2dwNU5Ya2JTY0FFZUFBWmlHdFV6akFWME9mejN1MWJoZGFsQXo3YW42eDZua1dPcDNDUDA2SWtNZGduMENsNkh3LWZ5c09WalcwNk1LSkd0Y0xSc2pOOF9GVGtCNnRSN28tZ3JBekJXbURGcmN0X0gxeHk5VWhCNmhoOGtWNUM4eDJ3anpWUkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-ai-9-developing gemini 4 argon responsibl",
+      "date": "2026-10-16",
+      "type": "ai",
+      "number": 9,
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "blog.google",
+      "links": [
+        {
+          "label": "blog.google",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2ExMndUd3p2T0tCT080TWJ2QWFjYWt4Tk14dDllRVpHOTk1SWswdDlucUh0SVBaRUN1VGJVZUdGVk5taUxkcldvTm96MWVHd1Bxek5VR0Y0OER1Yi01RjhSdkNCbEdmRTJYcF9sUUlRdnpfWUQyNDRFR21sN190dnRJS3VNOURqclNNQlFYUVJnZjlsUnhzLVp3UHU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-ai-10-openai says it s very concerned that",
+      "date": "2026-10-16",
+      "type": "ai",
+      "number": 10,
+      "title": "OpenAI says it's 'very concerned' that its trade secrets could help Apple's...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Business Insider",
+      "links": [
+        {
+          "label": "Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeWlzaU81eGdoOXB4U0FHS3BCdkRvV3Y4QXlVWFNzOVlzVUJCUUtyck82Y3NpU2xpYWpQLUViX29ZY1k3aF9pNm9IZTBaTlplUkdTdFpCY3hDUGRJY3FPRlZ1c0tHcmMzNEtURktYUWlvbFVKUVdGWmpuVHFScVRZNDlPMzN2aVlXOTJxQlY0OA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-ai-11-judge temporarily blocks pentagon s ",
+      "date": "2026-10-16",
+      "type": "ai",
+      "number": 11,
+      "title": "Judge temporarily blocks Pentagon's 'supply chain risk' designation for Ant...",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "links": [
+        {
+          "label": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdHFDcEJMTXZKcnN4MktaaEtWSGpMeTQtMERUcTJWSng2TktKMVRZcTZvQUVkMnJwcXA0bE44UEh3Z0pieFpoNnp3NjY2RVF5dWFqQ3M2R3A0cU9Va25kMVNsWkRzdERuZ1VVZkRfVkNNSVU5d2xNZjlqUG05eTFvaURSc2JSV0YtRjkyNEZGRkppVlVPWkdTcjNYdHlTOXZKNnZLTDZrQjlEVDBmWG1ZUE82b0_SAboBQVVfeXFMTVdrWDZKUVRCdEJvNFJHQ0Y2TXVOX0l5SDY5eW1RbUlsOEdRS1ducm9FZnc3MTlPb2lXeWY2dWNXWlRxTURRYm1abkEzcWVsTVNlYUhCZ09XSHI5S0lqczdsNnRwRWU3RE54STBzcG5kaFZhSmRlajBBVHNDZ3B3aWoxR05CbXFOY2kzc3hYMGN2OHFPRHp3SGw2b1JBbHlnbkJqS3plSHpQTGk0ZDhnTGtvY3BlSHJiLUF3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-ai-12-openai vows not to use trade secrets",
+      "date": "2026-10-16",
+      "type": "ai",
+      "number": 12,
+      "title": "OpenAI Vows Not to Use Trade Secrets Allegedly Taken From Apple",
+      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
+      "signal": "Public news/RSS pickup",
+      "source": "Bloomberg Law News",
+      "links": [
+        {
+          "label": "Bloomberg Law News",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaFlKNXZiSEEyd2U2N3gwZnBMNmxNcGZCSEV3UzhKQUNnYUFqYUFrS3VFUlB1UWlvLW5JTHhPMFBTeVZsMXp6VTFzNmdUSTJUai1jaXp3RE1pTjBoUTBTTHU1ajVoN3Y2Z2xmMmJ5Zkt1SXB0bkVuZU1MWEpaS2U5VUFfRDhES2I5clFvVWczRHJ0X1puanRCZEJhTk94c0hDYm01YWJITmxCRVY4V0QwSnIycjkzVURx?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-video-1-meet cleopatra the 30 year old arche",
+      "date": "2026-10-16",
+      "type": "video",
+      "number": 1,
+      "title": "Meet Cleopatra, the 30-Year-Old Archeologist with a Historic Name Who Unrav...",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "People.com",
+      "links": [
+        {
+          "label": "People.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2QxV1k4dzZtamh2cU4yRzVJOVpyYjI3NGlaaTFLUUQweDVLdWhVT0d1Z0dfWVp6bk13a1NtaVRMTkRVclUtMjFzaXFOOV9PejNOZXlxbjVBT1RHOUZNQnRvYnpUVEc4cTFnbUE3SFFGNzZzWGRaZVJoYlkwX1FtNnY1NzBpREhKMmhnU2ZlQnEtMFFYclVabHhjR21KQTBzUk5FTUY2aTdEUEFZczEtNDJwTHFOMDA1?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-video-2-middle east s biggest archaeological",
+      "date": "2026-10-16",
+      "type": "video",
+      "number": 2,
+      "title": "Middle East's biggest archaeological discoveries in 2026",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "The National",
+      "links": [
+        {
+          "label": "The National",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSk9WNXZNenJDaFRaa3BVTWJRR1pqamRJYjltLUhtTTJWN29GRzZsUEo0MEZQNFcwX1dXZ0FvZzlHMjNFU2o5bXItZFdMSUlidmNfMFVkMG9GMm9kV2pJUHFHLXZIT3Z2WHZPUEhHQ3FFWkVPdzJjV0N5X0xlbEd6NE5XVmhXM2U5aVI5T25Sd2l1VjZCSUc4LVo2amZiVDIwOU5wWnZrY0o?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-video-3-mysterious ring discovered beneath t",
+      "date": "2026-10-16",
+      "type": "video",
+      "number": 3,
+      "title": "Mysterious Ring Discovered Beneath the Sea May Reveal Who Controlled One of...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "The Debrief",
+      "links": [
+        {
+          "label": "The Debrief",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR3YyRnB0cTRVZXNmak5GV2tNSkZHVE9kMXFhRUJReldya1NwVHdxM0YwYW9KYnJneThmemhoWjNqWUZUaW1FREdvQTBJcnk2NVFOTnZyd0ZwQk5LU3dqb1hjVXR5aTlQOU9YSFN6YURKaF9FX1drQjdDQk1kZF9mWTJUTG1wRWF3enpKcV9mdEVwWkpuVE5COXhQVWNrY3ZwYm1FanRrVUlwWUpjVUJ4TG1Xa1VoSGlPWVB1akhUdmJ2Z3VXc0lWeXJVT25UUkRvQjFVMw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-video-4-bronze ring with lighthouse of alexa",
+      "date": "2026-10-16",
+      "type": "video",
+      "number": 4,
+      "title": "Bronze ring with Lighthouse of Alexandria engraving discovered at palace on...",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Live Science",
+      "links": [
+        {
+          "label": "Live Science",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN3hBZVNiY2Y1VThydmFNemNNcnNNTTIxR3pRV3ZxdEgxaWRQN2RqR3hkOEc3MS1sazUtNWJoV2NGWHlMSWN6VGh5T3h5a0hRS3gwbjZrYmNKQ2pGQ2E0OGMwTk5ZYk5EQ0FtcU1WcGkyeWdiVmNaYVh6VmlpMUhGX2V6VjNQOWlYWGZiRl9zOWp2akF2REU0MXFFWFVKaVNrbUtvZ3ppTlk1NmtnZU94Mkl4eFA5ZGlqWTljaE5RVlY5ZmdSeGFtUEpUTkt6NXFYLVQzUlZkeS1DM0hVZzZBc0d4LVM4TXZLaHdRWnFvNEI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-video-5-in 1739 archaeologists uncovered a m",
+      "date": "2026-10-16",
+      "type": "video",
+      "number": 5,
+      "title": "In 1739, archaeologists uncovered a mysterious 12-sided Roman object; 287 y...",
+      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "The Economic Times",
+      "links": [
+        {
+          "label": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxObkRIR1pyOE5UQXcxamdtRWVocGtqZC01cDBtMmNrTXpIOXFRUWg4OUZld2FQWjNPRXpaMWY3MXM0SUhzYjJLOUJvOGRqYUtELWxRSlZOazVXTGlRSmlXX1IzSVplckN5OEZpcko5MUZvMk5uNmpqUWJNSTJOV05ScWVQdmdEM1FvWEJhOHlselc0RVgxLThUN3pjYVhIQzdhbkttSm00aG5iZ0dORHFtZnlYSEtmQTZ3eVU2ZmNBdEJzcW9US2d5Mm5iQzZMSklUX1ZlXzJnQWdmZ2xiVWIwTXZJTkV5MjM1cFBVcDJHT3VmN1lGWkp6MGhTenBzRENfZlRadGFsMDBYd9IBjwJBVV95cUxNa1hVMEpXMGFvUzVRTC1zWE9CQTF5MEVNdlNxOU1Ydkg5R3ZOYWY2MFBodXNLNm1jVzRwWW1rekR1Z3pCQ0pCTzByd0hraUM0dnNKd3BQYmxpMnNxbVJvNjFMdmZmTDRzMWx0Wm9HNlgyUGZDcE9Qa1RRdWFrY3R4WEFxcnVKZjJ6Y1BEWGJ1UGxmTUlOWVdaNzc2Z2VkNHZQSXQ2VUhPbDdkNEhmb2RWaDYtcGVEZmdxblNYVTFlcjJNQlgyTm9kcTZTbzJsMXZ3UmZvUVlWNVRqYjMzcUhUZnJSUzRSdng4NnREaVcyZDJHZk56RWNlY19jMUdYNllzTFJ3LUpsZW90ZkxhNW9F?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-video-6-mysterious 1 000 year old building d",
+      "date": "2026-10-16",
+      "type": "video",
+      "number": 6,
+      "title": "Mysterious 1,000-Year-Old Building Discovered at Emperor Otto the Great’s L...",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Arkeonews",
+      "links": [
+        {
+          "label": "Arkeonews",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQTE5azNJQWctVVRFTUlTeTNJdU5Jd0tSYU1MZEhUc285MktlVUtFc3JHVjVVRnRGYmZKNUtMRGdWSDRjbFNGRVU0SnFxUWVSbEx3Q09uQmR2TFdOZzNJN1RfMTE2NVpWd0g5UUd0aVRqVjJlZ1czR2NRUlQwSm1nYXdoSENjVlFSUXV4SDc1UmxOVzhXc1dUenNaVzBOWWFZODhkS09EYXZSSnozUlpYeEJTa1YwM2JX?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-video-7-did jesus have a brother the answer ",
+      "date": "2026-10-16",
+      "type": "video",
+      "number": 7,
+      "title": "Did Jesus Have a Brother? The Answer May Be Hiding Inside a 2,000-Year-Old ...",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "Popular Mechanics",
+      "links": [
+        {
+          "label": "Popular Mechanics",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeUQ0STFybnozeGdwZVNuTjU4Y2p5QWdQMXJucDllVWpid1VjMWRrSkN2VjFmR1dfeFdxSFZkZTB6ZUNDblc3c3RXVlFuWjhJamJtTG4xejV0TTNFUGlKM1pETmpLQkl5NERydVVCZWV1RGFIZUNpMlF3c200M3pRd3FJZWlqcHBZYndTS3N1MG80dw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-video-8-it would have been very gruesome res",
+      "date": "2026-10-16",
+      "type": "video",
+      "number": 8,
+      "title": "‘It Would Have Been Very Gruesome’: Researchers Just Proved That Egyptian R...",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "All That's Interesting",
+      "links": [
+        {
+          "label": "All That's Interesting",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ3lLZFNtTG1zc2UxOTBaWWpMemFLc1RrdW5sN3QzSk1zQldQMWhOTHFnSmFoZ2VxMjBMVlFERkUyUEVpMmMyb2stWkxUYUU2OFdUU2t6RDRaQU9XNDBkdHVaM19PcHBMWTVPMC1VSFpsT3JsYk9DXy1zYjZ1MTVKVw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2026-10-16-video-9-mysterious stone outside man s home ",
+      "date": "2026-10-16",
+      "type": "video",
+      "number": 9,
+      "title": "Mysterious Stone Outside Man’s Home Revealed to Be Remains of 28-Foot Statu...",
+      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
+      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
+      "source": "People.com",
+      "links": [
+        {
+          "label": "People.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSXBLWG1lcnBQTGVKU2pkMURyN0hLTjNGTFRoMm1la29fNHBXTUVXa0x6LV9WVkhiNWRiVkZENzB0NWU0T0c3a21PUmZxd2dWVjNSNEozdjJRZU04WU9ucWs3S2RSOXF2eVhCTVdDcEMzWjdGVVVOYWFfN0pscmhad3BveXBvMVctcnJQNnNPUTFTb0NfalhrbTJES1FfUQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "2026-10-15-ai-1-openai employee who left for apple t",
       "date": "2026-10-15",
@@ -15,22 +351,6 @@
         {
           "label": "Reuters",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcjgxdHhRZV9nbnF4cVNBbkg0ZGJGWXFTZ2hDa2dTMXVCT3R4OWF6aDNZSjVnaDJEYm5pbUJqSzdtaDhPei1VbXU1SGlsZHFIOFhBNEVsaUZ1WlFsYjJ6ZGNPc1NVNk9fVVVQTVlYMEtPbjdKZ2hNcG9xM0VBLUpTVFlHSi0yTVZtNGpTODA2SGpOb3JLUXQ1S1E3WHZ6RzRldnZkeF8tamJodUZjMUc1OXN2dWI2QmhfUUk3bkZzR0ZaXzZnd2lNMndLMUZGamRhMHo3LUVfdm8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15-ai-2-bank of america hired 1 000 contract",
-      "date": "2026-10-15",
-      "type": "ai",
-      "number": 2,
-      "title": "Bank of America hired 1,000 contractors to patch software flaws exposed by ...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "CNBC",
-      "links": [
-        {
-          "label": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY1M4VExNMjhEYS1uQmpkLVNTV2wxaFppMXFXZ3FDYXZEZFM4MkpoOGx4OE0tUnZCMmE2d1hqbnhaVkxNVmFlZ0hYQlJjX1BQclBJS2VPN09oVm8xZU94R1d2ejdKLXY5a2FKRTg2aVA0WGx6YnZrNlFFV2dVWW45c19JT3laRVZv0gGOAUFVX3lxTFB6UmVsXzhCWFpMbHotRVBDY3p5WmltQjMwZ2hYc2dRaFR1SHBqTmM2WFhzSHVwVGgxT1U5X1Z0bnprVXFfYkZQWXBOMmI5VTJGbGZoUjBmblFiSW4ySl9OT0tjUUJIRXJyZnBNWF81cXpkNjJwbVZHdkJCeFM5Tlp4WWdNVDYtMlZDRkx2T2c?oc=5"
         }
       ]
     },
@@ -79,54 +399,6 @@
         {
           "label": "Mashable",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRlVwVUoxaEpsS3JtdXJYM2ZIaUo4ZW9qRVhlWmhRQVFWNzc0UlhIMXNlQ3J1RXMwZ0tMRVQ4blQyR2h6bUhHSzBlYXRfZTNYR2NNQlo0ckFLcEtXbzE4d2dJRUs0eUVnaUFqWk9sR095UHlYYXFKUjNwM0k4ZzZabHBpN0xjNVg1bUZmUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15-ai-6-judge appears skeptical of pentagon ",
-      "date": "2026-10-15",
-      "type": "ai",
-      "number": 6,
-      "title": "Judge appears skeptical of Pentagon arguments in legal fight over Anthropic...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "links": [
-        {
-          "label": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeFFmS0tuRHY2cGZRaFRneEUwZUJzY2lmU0RiUm9YWjdGcjBqbHczcl82ZGdYS3hrNmxPLVM4WUZkeEViUThqZnBmXzFmb0std1ktckZyT3pXckZOVXJqTGZkMlZTS2s2UUlsRHVZQTNpdHlhQ0hBdHo0dWNGTGJHQ2xscGZrY3VUOVB3QU5POGtVRUVEc01EV0NsSFZVako5OVlia19PSGNMTmhsNndaaGl30gG3AUFVX3lxTE1rdlpUT192RDFETTA4cThDWVljVHl0QUpfNEN2OFpOSk9nTXVfWkQ0N2JtT2RialZOU3B2ZWxNUkt1NVl4SWY0VHRMeHRPaWI1SU9Zc1RtWkphSXVfT0ZNa28zSTE4clFRVEI1ZlJadGJwcW1ZOTVNa1hXSG91REpZaElCbW5fdTkzbTdOSFFDa2k4X1dDUVEybTN3dWhYMXJZTHV4d2ZmaV8xUWlJVHN0TGxUMmJncw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15-ai-7-who s suing ai and who s signing lat",
-      "date": "2026-10-15",
-      "type": "ai",
-      "number": 7,
-      "title": "Who's suing AI and who's signing latest: Reach latest Google AI news partne...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "Press Gazette",
-      "links": [
-        {
-          "label": "Press Gazette",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15-ai-8-openai says it s very concerned that",
-      "date": "2026-10-15",
-      "type": "ai",
-      "number": 8,
-      "title": "OpenAI says it's 'very concerned' that its trade secrets could help Apple's...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "Business Insider",
-      "links": [
-        {
-          "label": "Business Insider",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeWlzaU81eGdoOXB4U0FHS3BCdkRvV3Y4QXlVWFNzOVlzVUJCUUtyck82Y3NpU2xpYWpQLUViX29ZY1k3aF9pNm9IZTBaTlplUkdTdFpCY3hDUGRJY3FPRlZ1c0tHcmMzNEtURktYUWlvbFVKUVdGWmpuVHFScVRZNDlPMzN2aVlXOTJxQlY0OA?oc=5"
         }
       ]
     },
@@ -211,70 +483,6 @@
       ]
     },
     {
-      "id": "2026-10-15-video-2-meet cleopatra the 30 year old arche",
-      "date": "2026-10-15",
-      "type": "video",
-      "number": 2,
-      "title": "Meet Cleopatra, the 30-Year-Old Archeologist with a Historic Name Who Unrav...",
-      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "People.com",
-      "links": [
-        {
-          "label": "People.com",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2QxV1k4dzZtamh2cU4yRzVJOVpyYjI3NGlaaTFLUUQweDVLdWhVT0d1Z0dfWVp6bk13a1NtaVRMTkRVclUtMjFzaXFOOV9PejNOZXlxbjVBT1RHOUZNQnRvYnpUVEc4cTFnbUE3SFFGNzZzWGRaZVJoYlkwX1FtNnY1NzBpREhKMmhnU2ZlQnEtMFFYclVabHhjR21KQTBzUk5FTUY2aTdEUEFZczEtNDJwTHFOMDA1?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15-video-3-middle east s biggest archaeological",
-      "date": "2026-10-15",
-      "type": "video",
-      "number": 3,
-      "title": "Middle East's biggest archaeological discoveries in 2026",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "The National",
-      "links": [
-        {
-          "label": "The National",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSk9WNXZNenJDaFRaa3BVTWJRR1pqamRJYjltLUhtTTJWN29GRzZsUEo0MEZQNFcwX1dXZ0FvZzlHMjNFU2o5bXItZFdMSUlidmNfMFVkMG9GMm9kV2pJUHFHLXZIT3Z2WHZPUEhHQ3FFWkVPdzJjV0N5X0xlbEd6NE5XVmhXM2U5aVI5T25Sd2l1VjZCSUc4LVo2amZiVDIwOU5wWnZrY0o?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15-video-4-mysterious ring discovered beneath t",
-      "date": "2026-10-15",
-      "type": "video",
-      "number": 4,
-      "title": "Mysterious Ring Discovered Beneath the Sea May Reveal Who Controlled One of...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "The Debrief",
-      "links": [
-        {
-          "label": "The Debrief",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR3YyRnB0cTRVZXNmak5GV2tNSkZHVE9kMXFhRUJReldya1NwVHdxM0YwYW9KYnJneThmemhoWjNqWUZUaW1FREdvQTBJcnk2NVFOTnZyd0ZwQk5LU3dqb1hjVXR5aTlQOU9YSFN6YURKaF9FX1drQjdDQk1kZF9mWTJUTG1wRWF3enpKcV9mdEVwWkpuVE5COXhQVWNrY3ZwYm1FanRrVUlwWUpjVUJ4TG1Xa1VoSGlPWVB1akhUdmJ2Z3VXc0lWeXJVT25UUkRvQjFVMw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15-video-5-bronze ring with lighthouse of alexa",
-      "date": "2026-10-15",
-      "type": "video",
-      "number": 5,
-      "title": "Bronze ring with Lighthouse of Alexandria engraving discovered at palace on...",
-      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Live Science",
-      "links": [
-        {
-          "label": "Live Science",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQN3hBZVNiY2Y1VThydmFNemNNcnNNTTIxR3pRV3ZxdEgxaWRQN2RqR3hkOEc3MS1sazUtNWJoV2NGWHlMSWN6VGh5T3h5a0hRS3gwbjZrYmNKQ2pGQ2E0OGMwTk5ZYk5EQ0FtcU1WcGkyeWdiVmNaYVh6VmlpMUhGX2V6VjNQOWlYWGZiRl9zOWp2akF2REU0MXFFWFVKaVNrbUtvZ3ppTlk1NmtnZU94Mkl4eFA5ZGlqWTljaE5RVlY5ZmdSeGFtUEpUTkt6NXFYLVQzUlZkeS1DM0hVZzZBc0d4LVM4TXZLaHdRWnFvNEI?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2026-10-15-video-6-chris pratt s surprising new co star",
       "date": "2026-10-15",
       "type": "video",
@@ -287,22 +495,6 @@
         {
           "label": "Aleteia EN",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYkhMRWlwRUpjTW5oRlZnZDZSdWUtLXQ1S1p6MVh6M0pBX19haEVpV19vLUJ1d0Z6YnVTZTdDejdWSm4yQkxQUHVlZlY5d0F2U096SUlkbXFQa2ZJTEk2ZVo2dEdFY0lfempiendDVnVNUnBkN1ZDNEU5bXBESk5DaVJuMjRkNms?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-15-video-7-in 1739 archaeologists uncovered a m",
-      "date": "2026-10-15",
-      "type": "video",
-      "number": 7,
-      "title": "In 1739, archaeologists uncovered a mysterious 12-sided Roman object; 287 y...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "The Economic Times",
-      "links": [
-        {
-          "label": "The Economic Times",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxObkRIR1pyOE5UQXcxamdtRWVocGtqZC01cDBtMmNrTXpIOXFRUWg4OUZld2FQWjNPRXpaMWY3MXM0SUhzYjJLOUJvOGRqYUtELWxRSlZOazVXTGlRSmlXX1IzSVplckN5OEZpcko5MUZvMk5uNmpqUWJNSTJOV05ScWVQdmdEM1FvWEJhOHlselc0RVgxLThUN3pjYVhIQzdhbkttSm00aG5iZ0dORHFtZnlYSEtmQTZ3eVU2ZmNBdEJzcW9US2d5Mm5iQzZMSklUX1ZlXzJnQWdmZ2xiVWIwTXZJTkV5MjM1cFBVcDJHT3VmN1lGWkp6MGhTenBzRENfZlRadGFsMDBYd9IBjwJBVV95cUxNa1hVMEpXMGFvUzVRTC1zWE9CQTF5MEVNdlNxOU1Ydkg5R3ZOYWY2MFBodXNLNm1jVzRwWW1rekR1Z3pCQ0pCTzByd0hraUM0dnNKd3BQYmxpMnNxbVJvNjFMdmZmTDRzMWx0Wm9HNlgyUGZDcE9Qa1RRdWFrY3R4WEFxcnVKZjJ6Y1BEWGJ1UGxmTUlOWVdaNzc2Z2VkNHZQSXQ2VUhPbDdkNEhmb2RWaDYtcGVEZmdxblNYVTFlcjJNQlgyTm9kcTZTbzJsMXZ3UmZvUVlWNVRqYjMzcUhUZnJSUzRSdng4NnREaVcyZDJHZk56RWNlY19jMUdYNllzTFJ3LUpsZW90ZkxhNW9F?oc=5"
         }
       ]
     },
@@ -607,22 +799,6 @@
         {
           "label": "ԱՐՑԱԽ ԼՐԱՏՎԱԿԱՆ",
           "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ON091UmJzalpta2pUZGxwX1J2WEhyTTRBRlZRdlhnTnlOel9XZTRYY3RUdTYybC01M3c4VUZTMXh1MWxxa0xhWW5Lbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-10-13-video-9-it would have been very gruesome res",
-      "date": "2026-10-13",
-      "type": "video",
-      "number": 9,
-      "title": "‘It Would Have Been Very Gruesome’: Researchers Just Proved That Egyptian R...",
-      "summary": "This looks like a normal discovery until you ask the one question nobody can fully answer.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "All That's Interesting",
-      "links": [
-        {
-          "label": "All That's Interesting",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ3lLZFNtTG1zc2UxOTBaWWpMemFLc1RrdW5sN3QzSk1zQldQMWhOTHFnSmFoZ2VxMjBMVlFERkUyUEVpMmMyb2stWkxUYUU2OFdUU2t6RDRaQU9XNDBkdHVaM19PcHBMWTVPMC1VSFpsT3JsYk9DXy1zYjZ1MTVKVw?oc=5"
         }
       ]
     },
@@ -3935,22 +4111,6 @@
         {
           "label": "insideevs.com",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU3V6MEVJXzRIeTVJVGtReHktUU82T1ljVFV0dFFPWlVqZno0MTRjd2RlYi0xRFlTZ0ItWDhuSUFIaEdlV2xqeVlXUjBxNUh2WTNMX2tSd25IZ1ZTa29JUi04cEFtUTlaU0pfRVBoWFgtVGZpYThrVUF5VV9SSmN0UlhtR1BNdzE2UDFGTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-09-21-ai-7-judge temporarily blocks pentagon s ",
-      "date": "2026-09-21",
-      "type": "ai",
-      "number": 7,
-      "title": "Judge temporarily blocks Pentagon's 'supply chain risk' designation for Ant...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "links": [
-        {
-          "label": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdHFDcEJMTXZKcnN4MktaaEtWSGpMeTQtMERUcTJWSng2TktKMVRZcTZvQUVkMnJwcXA0bE44UEh3Z0pieFpoNnp3NjY2RVF5dWFqQ3M2R3A0cU9Va25kMVNsWkRzdERuZ1VVZkRfVkNNSVU5d2xNZjlqUG05eTFvaURSc2JSV0YtRjkyNEZGRkppVlVPWkdTcjNYdHlTOXZKNnZLTDZrQjlEVDBmWG1ZUE82b0_SAboBQVVfeXFMTVdrWDZKUVRCdEJvNFJHQ0Y2TXVOX0l5SDY5eW1RbUlsOEdRS1ducm9FZnc3MTlPb2lXeWY2dWNXWlRxTURRYm1abkEzcWVsTVNlYUhCZ09XSHI5S0lqczdsNnRwRWU3RE54STBzcG5kaFZhSmRlajBBVHNDZ3B3aWoxR05CbXFOY2kzc3hYMGN2OHFPRHp3SGw2b1JBbHlnbkJqS3plSHpQTGk0ZDhnTGtvY3BlSHJiLUF3?oc=5"
         }
       ]
     },
@@ -15839,166 +15999,6 @@
         {
           "label": "OpenAI",
           "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9Vc3R6N3E1WnNKc0ZoZDROb3VkMndtWUZUaWpoQ3FCR245VW1YTzljTXNfSWkzUWVVaHhmeFg3M0tkZ2Fu?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-12-ai-11-google launches gemini 3 5 flash mod",
-      "date": "2026-07-12",
-      "type": "ai",
-      "number": 11,
-      "title": "Google launches Gemini 3.5 Flash model. How to try it for free now.",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "Mashable",
-      "links": [
-        {
-          "label": "Mashable",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YTVh3dHBNRkFteDY3SnlTZUU5WHBLeVduRkVlMk40ZndrcFlETldmeTBRYUFoR0ZGMjl6MGk1VXdNR25qY2NsV2llaktxTEJwenQ0NldJMUpUQ0s3S2Nxd1kxbW85SVF6UmlR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-12-video-5-archaeologists were investigating th",
-      "date": "2026-07-12",
-      "type": "video",
-      "number": 5,
-      "title": "Archaeologists Were Investigating the Nile Delta—And Discovered a Mysteriou...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "AOL.com",
-      "links": [
-        {
-          "label": "AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPczZueXo5SG9Xak1zeENILWpQRnF4T1NKb3pVd1lPX2drZWFocnFVREhsUDlHRDVET3k3dHE3MlRBSFVyWTJVV3hBSjRQYjlYTVJuZUtmME1CLU45eUpFSW5HbllwamJBSTloMDFDa3JSVGRvdGhzQzhRZVNEb29tRk9XUmJjZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-12-video-7-three ancient stelae found in spain ",
-      "date": "2026-07-12",
-      "type": "video",
-      "number": 7,
-      "title": "Three ancient stelae found in Spain beside graves and a road may solve a lo...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Yahoo",
-      "links": [
-        {
-          "label": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPemRGbDRrXzZ0UFVvemx1MWtYVFhobG1Sd3pzM01EWVdCSk5jdmQyU0ctcV9BemhUQUlURUlGdmkydVFzVkRsVUxoUGJ5eTRuUkVOOVpZSzBTN0pIN3ZZY3Q1RXJFR2IwUDhRWURuU3kxRThocVAtNUktbU1yT1dyVjlubGxtWEVuUmxKaHNKZGh5NUJfa3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-12-video-8-ancient aramaic discovery reveals ch",
-      "date": "2026-07-12",
-      "type": "video",
-      "number": 8,
-      "title": "Ancient Aramaic Discovery Reveals Christianity’s Victory Over Roman Mystery...",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "Charisma Magazine Online",
-      "links": [
-        {
-          "label": "Charisma Magazine Online",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSjdvOE1EbGd4eDN1OE1GNWlpOV9JR2dWWVpENnU3Zzc4YXlMTllIbDQ4aHI0X01RXzlRRlVlTTZka3d5VmFWSnRRQ1RTaTlmb2NkLXV3S0xKOGNOWEdnWXhfVldUczFuRWxRRURuVU1VUzJmejJKTnBnRGVkdG5UWlJwT1VWX3lQSjhwOE1hM1NZbFJ4ZDlrT1ZnZUxRZ1JZSzN6dHZETnJQUno2?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-12-video-9-monumental bronze age tomb reveals h",
-      "date": "2026-07-12",
-      "type": "video",
-      "number": 9,
-      "title": "Monumental Bronze Age tomb reveals horse sacrifice and elite burial",
-      "summary": "Something buried for centuries is back in the news, and the unanswered detail is the hook.",
-      "signal": "Fresh public news pickup; use YouTube search link to verify current video traction before filming.",
-      "source": "HeritageDaily",
-      "links": [
-        {
-          "label": "HeritageDaily",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZjJ4R2dtdTg2VzdUaDNydGtyNmFfdVBIU092XzBZdVQxRUlRLWt6OHlRWHNENW4xMDdYRTRFMWtsamNUVmpwN04wVlZsVmw1Q3h3YjFSX3ktd19CMTZmRmw4cm9SeTRvOGJBN21tVXozbFNPbktfTnBheTRkb0pDWTh0TFNUd0pUZTdhSXFXN3hsZVhFN3hnOHA4UGRPSWtSX1ZuSjd2NWx0ZGRBRUVvNFFR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-11-ai-1-openai unveils long awaited super ap",
-      "date": "2026-07-11",
-      "type": "ai",
-      "number": 1,
-      "title": "OpenAI unveils long-awaited \"super app\" as rivalry with Anthropic intensifies",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "Reuters",
-      "links": [
-        {
-          "label": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wemJKWTFORXd6YmVORDljMUFEUGZmMlllRmlfX0lSRGpicmFuRmQ2NFNwV0hNWnhrZmZsamZGMXYyM1JGemZ0ODBnaXo0anRwZk81RzA3ZmY2VkZMYnVld2dHQV9FUFNEYjd3Sy1HNmUtdnRIbkx6Mnc0ZDVfQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-11-ai-4-openai s ceo of agi deployment fidji",
-      "date": "2026-07-11",
-      "type": "ai",
-      "number": 4,
-      "title": "OpenAI’s CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "WIRED",
-      "links": [
-        {
-          "label": "WIRED",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yejA4UXRic0V1dmFFZHNtRlI1bVJ5MzlCLXZWRXVSdkhjV3h3aElSRmpORnBDdnYwTE5ORl96ZWx2VEt4X05rREhOa3NGM3V1Nnh3TGVQRmpQWWpuWUtnYkttd2QwRURJS1NQNnkyWHppdWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-11-ai-5-chinese ai models are gaining ground",
-      "date": "2026-07-11",
-      "type": "ai",
-      "number": 5,
-      "title": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthrop...",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "CNBC",
-      "links": [
-        {
-          "label": "CNBC",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQempzVHpGakNndDQtVHVKbUhnbWJZTFVyaTJYRXc4dEFrbVVVVG91aWVPWmlabXJyNWpiQjZWdFdzbkl0a0JrR25SYjIzM2dlNDhZU3NQN3djZ0txSGp4NVBTTmZfNjVzdHNralJwc2VMRTlxd0FFcmNJU1YxTHY2d0Z1TnpGeDTSAYwBQVVfeXFMTWNWajVVa1E4LUFmSkxieEhfOGhPNHFDamRRUmRma0xOYzNVXzBKTThOSnVBS2RkY2JydlNoU1dQcHR4UU9qNmlINmptaXJnOTdhbWh5QXlwbDk4SzBXcUVYZUUtYy1YTG11bjREQ2xMMmNkelFMSDFJQjA0ZlJjajlxWGFpNGZQaGpnbXM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-11-ai-6-gpt 5 6 is now the preferred model i",
-      "date": "2026-07-11",
-      "type": "ai",
-      "number": 6,
-      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "OpenAI",
-      "links": [
-        {
-          "label": "OpenAI",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5kYWhpU0pHLVpwM0RlNzgxX1JGRlVaSmxPelVHcXJXQmFYZGszLUp4Nmw0SlRGbTBiUnR5emtEaURDXzBUUDBIWEI4Y0Q0SWZZdGNoeGxLNTZZS1BxUEdQcGduSFFlNjRTdVRxMDZiSVNtTWJSNHZfRWptNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2026-07-11-ai-9-openai launches chatgpt work to brin",
-      "date": "2026-07-11",
-      "type": "ai",
-      "number": 9,
-      "title": "OpenAI launches ChatGPT Work to bring AI coding power to professionals",
-      "summary": "Fresh AI story from public news/RSS sources collected for today's dashboard.",
-      "signal": "Public news/RSS pickup",
-      "source": "AnewZ",
-      "links": [
-        {
-          "label": "AnewZ",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeElTdWxIVGtNZ1JXdFQ0RE9ZbFF3X2U2c0tyZ2F3TFlweDNJQnpNaVhwdWtGYno3Vm01TDFZNnpXYjllUkNxMFdvaHFUaUdDSVhxYm9aVGhPZHVUd2xxNE9BaThJekR4d3M3ZmEyRjlEbVlqSkhaNmtvSWU3TGlicE5taThmMmNoSkNwanV5UU9DMGcyNUZmM3pNWk1ubzJaOHVaVw?oc=5"
         }
       ]
     }
