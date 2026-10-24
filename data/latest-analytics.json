@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T23:43:35.085Z",
+  "updatedAt": "2026-10-24T22:50:37.759Z",
   "dataSource": "youtube-data-api-cache",
   "privateMetricsAvailable": false,
   "channels": [
@@ -11,9 +11,9 @@
       "url": "https://www.youtube.com/@Zero_Known",
       "topic": "World Mystery",
       "subscribers": 9,
-      "totalViews": 10473,
+      "totalViews": 10475,
       "videoCount": 35,
-      "views28d": 9619,
+      "views28d": 9620,
       "likes28d": 200,
       "watchHours28d": null,
       "videos": [
@@ -294,8 +294,8 @@
           "thumbnail": "https://i.ytimg.com/vi/q2c3EMFFb7Q/mqdefault.jpg",
           "publishedAt": "2026-05-31",
           "duration": "0:29",
-          "views": 724,
-          "viewsDelta1d": 0,
+          "views": 725,
+          "viewsDelta1d": 1,
           "likes": 19,
           "likesDelta1d": 0,
           "status": "Public",
@@ -370,7 +370,7 @@
           "publishedAt": "2026-05-29",
           "duration": "0:25",
           "views": 100,
-          "viewsDelta1d": 1,
+          "viewsDelta1d": 0,
           "likes": 3,
           "likesDelta1d": 0,
           "status": "Public",
@@ -638,11 +638,6 @@
   ],
   "history": [
     {
-      "date": "Sep 10",
-      "views": 10623,
-      "likes": 209
-    },
-    {
       "date": "Sep 11",
       "views": 10625,
       "likes": 209
@@ -851,6 +846,11 @@
       "date": "Oct 24",
       "views": 10632,
       "likes": 209
+    },
+    {
+      "date": "Oct 25",
+      "views": 10634,
+      "likes": 209
     }
   ],
   "weeklyHistory": [
@@ -886,7 +886,7 @@
     },
     {
       "date": "Days 43-43",
-      "views": 10632,
+      "views": 10634,
       "likes": 209
     }
   ]
