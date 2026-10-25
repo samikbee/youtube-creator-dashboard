@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T22:50:37.759Z",
+  "updatedAt": "2026-10-25T22:59:31.246Z",
   "dataSource": "youtube-data-api-cache",
   "privateMetricsAvailable": false,
   "channels": [
@@ -295,7 +295,7 @@
           "publishedAt": "2026-05-31",
           "duration": "0:29",
           "views": 725,
-          "viewsDelta1d": 1,
+          "viewsDelta1d": 0,
           "likes": 19,
           "likesDelta1d": 0,
           "status": "Public",
@@ -638,11 +638,6 @@
   ],
   "history": [
     {
-      "date": "Sep 11",
-      "views": 10625,
-      "likes": 209
-    },
-    {
       "date": "Sep 12",
       "views": 10625,
       "likes": 209
@@ -851,6 +846,11 @@
       "date": "Oct 25",
       "views": 10634,
       "likes": 209
+    },
+    {
+      "date": "Oct 26",
+      "views": 10634,
+      "likes": 209
     }
   ],
   "weeklyHistory": [
@@ -871,7 +871,7 @@
     },
     {
       "date": "Days 22-28",
-      "views": 10631,
+      "views": 10632,
       "likes": 209
     },
     {
@@ -881,7 +881,7 @@
     },
     {
       "date": "Days 36-42",
-      "views": 10632,
+      "views": 10634,
       "likes": 209
     },
     {
