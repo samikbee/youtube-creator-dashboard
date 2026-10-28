@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T00:12:21.452Z",
+  "updatedAt": "2026-10-28T00:13:14.287Z",
   "dataSource": "youtube-data-api-cache",
   "privateMetricsAvailable": false,
   "channels": [
@@ -638,11 +638,6 @@
   ],
   "history": [
     {
-      "date": "Sep 13",
-      "views": 10625,
-      "likes": 209
-    },
-    {
       "date": "Sep 15",
       "views": 10628,
       "likes": 209
@@ -849,6 +844,11 @@
     },
     {
       "date": "Oct 27",
+      "views": 10634,
+      "likes": 209
+    },
+    {
+      "date": "Oct 28",
       "views": 10634,
       "likes": 209
     }
