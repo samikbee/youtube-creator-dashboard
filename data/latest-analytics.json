@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T02:44:44.282Z",
+  "updatedAt": "2026-11-04T01:00:16.942Z",
   "dataSource": "youtube-data-api-cache",
   "privateMetricsAvailable": false,
   "channels": [
@@ -477,7 +477,7 @@
       "url": "https://www.youtube.com/@MittiMic",
       "topic": "AI News",
       "subscribers": 1,
-      "totalViews": 159,
+      "totalViews": 160,
       "videoCount": 10,
       "views28d": 160,
       "likes28d": 9,
@@ -521,7 +521,7 @@
           "publishedAt": "2026-06-16",
           "duration": "0:31",
           "views": 12,
-          "viewsDelta1d": 1,
+          "viewsDelta1d": 0,
           "likes": 1,
           "likesDelta1d": 0,
           "status": "Public",
@@ -637,11 +637,6 @@
     }
   ],
   "history": [
-    {
-      "date": "Sep 21",
-      "views": 10628,
-      "likes": 209
-    },
     {
       "date": "Sep 22",
       "views": 10629,
@@ -851,6 +846,11 @@
       "date": "Nov 3",
       "views": 10634,
       "likes": 209
+    },
+    {
+      "date": "Nov 4",
+      "views": 10635,
+      "likes": 209
     }
   ],
   "weeklyHistory": [
@@ -886,7 +886,7 @@
     },
     {
       "date": "Days 43-43",
-      "views": 10634,
+      "views": 10635,
       "likes": 209
     }
   ]
