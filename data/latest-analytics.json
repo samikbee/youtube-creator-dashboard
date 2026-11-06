@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T01:14:57.423Z",
+  "updatedAt": "2026-11-06T01:20:09.359Z",
   "dataSource": "youtube-data-api-cache",
   "privateMetricsAvailable": false,
   "channels": [
@@ -252,7 +252,7 @@
           "views": 289,
           "viewsDelta1d": 0,
           "likes": 6,
-          "likesDelta1d": -1,
+          "likesDelta1d": 0,
           "status": "Public",
           "topic": "World Mystery",
           "isPublicData": true
@@ -638,11 +638,6 @@
   ],
   "history": [
     {
-      "date": "Sep 23",
-      "views": 10631,
-      "likes": 209
-    },
-    {
       "date": "Sep 24",
       "views": 10631,
       "likes": 209
@@ -851,6 +846,11 @@
       "date": "Nov 5",
       "views": 10635,
       "likes": 208
+    },
+    {
+      "date": "Nov 6",
+      "views": 10635,
+      "likes": 208
     }
   ],
   "weeklyHistory": [
@@ -882,7 +882,7 @@
     {
       "date": "Days 36-42",
       "views": 10635,
-      "likes": 209
+      "likes": 208
     },
     {
       "date": "Days 43-43",
