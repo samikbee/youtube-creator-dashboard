@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T01:38:00.037Z",
+  "updatedAt": "2026-11-14T01:13:35.605Z",
   "dataSource": "youtube-data-api-cache",
   "privateMetricsAvailable": false,
   "channels": [
@@ -13,7 +13,7 @@
       "subscribers": 9,
       "totalViews": 10475,
       "videoCount": 35,
-      "views28d": 9620,
+      "views28d": 9621,
       "likes28d": 199,
       "watchHours28d": null,
       "videos": [
@@ -39,8 +39,8 @@
           "thumbnail": "https://i.ytimg.com/vi/CMlV28glBDM/mqdefault.jpg",
           "publishedAt": "2026-06-15",
           "duration": "0:31",
-          "views": 90,
-          "viewsDelta1d": 0,
+          "views": 91,
+          "viewsDelta1d": 1,
           "likes": 3,
           "likesDelta1d": 0,
           "status": "Public",
@@ -638,11 +638,6 @@
   ],
   "history": [
     {
-      "date": "Oct 1",
-      "views": 10631,
-      "likes": 209
-    },
-    {
       "date": "Oct 2",
       "views": 10631,
       "likes": 209
@@ -849,6 +844,11 @@
     },
     {
       "date": "Nov 13",
+      "views": 10635,
+      "likes": 208
+    },
+    {
+      "date": "Nov 14",
       "views": 10635,
       "likes": 208
     }
