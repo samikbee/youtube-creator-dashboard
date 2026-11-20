@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T02:13:31.388Z",
+  "updatedAt": "2026-11-20T01:59:18.413Z",
   "dataSource": "youtube-data-api-cache",
   "privateMetricsAvailable": false,
   "channels": [
@@ -14,7 +14,7 @@
       "totalViews": 10476,
       "videoCount": 35,
       "views28d": 9621,
-      "likes28d": 199,
+      "likes28d": 198,
       "watchHours28d": null,
       "videos": [
         {
@@ -386,8 +386,8 @@
           "duration": "0:22",
           "views": 162,
           "viewsDelta1d": 0,
-          "likes": 9,
-          "likesDelta1d": 0,
+          "likes": 8,
+          "likesDelta1d": -1,
           "status": "Public",
           "topic": "World Mystery",
           "isPublicData": true
@@ -477,7 +477,7 @@
       "url": "https://www.youtube.com/@MittiMic",
       "topic": "AI News",
       "subscribers": 1,
-      "totalViews": 160,
+      "totalViews": 161,
       "videoCount": 10,
       "views28d": 161,
       "likes28d": 9,
@@ -521,7 +521,7 @@
           "publishedAt": "2026-06-16",
           "duration": "0:31",
           "views": 13,
-          "viewsDelta1d": 1,
+          "viewsDelta1d": 0,
           "likes": 1,
           "likesDelta1d": 0,
           "status": "Public",
@@ -637,11 +637,6 @@
     }
   ],
   "history": [
-    {
-      "date": "Oct 6",
-      "views": 10631,
-      "likes": 209
-    },
     {
       "date": "Oct 7",
       "views": 10631,
@@ -851,6 +846,11 @@
       "date": "Nov 19",
       "views": 10636,
       "likes": 208
+    },
+    {
+      "date": "Nov 20",
+      "views": 10637,
+      "likes": 207
     }
   ],
   "weeklyHistory": [
@@ -871,7 +871,7 @@
     },
     {
       "date": "Days 22-28",
-      "views": 10634,
+      "views": 10635,
       "likes": 209
     },
     {
@@ -886,8 +886,8 @@
     },
     {
       "date": "Days 43-43",
-      "views": 10636,
-      "likes": 208
+      "views": 10637,
+      "likes": 207
     }
   ]
 }
