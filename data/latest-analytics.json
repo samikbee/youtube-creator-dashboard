@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T03:20:32.856Z",
+  "updatedAt": "2026-11-27T03:26:50.769Z",
   "dataSource": "youtube-data-api-cache",
   "privateMetricsAvailable": false,
   "channels": [
@@ -638,11 +638,6 @@
   ],
   "history": [
     {
-      "date": "Oct 14",
-      "views": 10632,
-      "likes": 209
-    },
-    {
       "date": "Oct 15",
       "views": 10632,
       "likes": 209
@@ -851,6 +846,11 @@
       "date": "Nov 26",
       "views": 10637,
       "likes": 207
+    },
+    {
+      "date": "Nov 27",
+      "views": 10637,
+      "likes": 207
     }
   ],
   "weeklyHistory": [
@@ -866,7 +866,7 @@
     },
     {
       "date": "Days 15-21",
-      "views": 10634,
+      "views": 10635,
       "likes": 209
     },
     {
